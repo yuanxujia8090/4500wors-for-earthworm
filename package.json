@@ -1,0 +1,16 @@
+{
+  "name": "@earthworm/level-4-of-4500-words",
+  "version": "1.0.0",
+  "description": "四级4500词文章练习课程包上传工具",
+  "scripts": {
+    "upload": "tsx upload.ts"
+  },
+  "dependencies": {
+    "@earthworm/db": "workspace:^",
+    "@earthworm/schema": "workspace:^",
+    "dotenv": "^16.3.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0"
+  }
+}

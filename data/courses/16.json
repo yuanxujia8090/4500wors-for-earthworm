@@ -1,0 +1,582 @@
+[
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he claims",
+		"chinese": "他声称",
+		"soundmark": "/hˈiː/ /klˈeɪmz/"
+	},
+	{
+		"english": "he claims now",
+		"chinese": "他现在声称",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/"
+	},
+	{
+		"english": "he claims now that",
+		"chinese": "他现在声称",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/"
+	},
+	{
+		"english": "he claims now that he",
+		"chinese": "他现在声称自己",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/"
+	},
+	{
+		"english": "he claims now that he understood",
+		"chinese": "他现在声称自己明白了",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/"
+	},
+	{
+		"english": "he claims now that he understood very",
+		"chinese": "他现在声称自己非常理解",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/"
+	},
+	{
+		"english": "he claims now that he understood very little",
+		"chinese": "他现在声称自己几乎没懂什么",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/"
+	},
+	{
+		"english": "he claims now that he understood very little content",
+		"chinese": "他现在声称自己几乎没理解什么内容",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/"
+	},
+	{
+		"english": "he claims now that he understood very little content in",
+		"chinese": "他现在声称自己几乎没理解什么内容",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/"
+	},
+	{
+		"english": "he claims now that he understood very little content in the",
+		"chinese": "他现在声称自己几乎没理解什么内容",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "he claims now that he understood very little content in the lessons",
+		"chinese": "他现在声称自己对课程内容了解甚少",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/"
+	},
+	{
+		"english": "he claims now that he understood very little content in the lessons of",
+		"chinese": "他现在声称自己对课程内容了解甚少",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/"
+	},
+	{
+		"english": "he claims now that he understood very little content in the lessons of the",
+		"chinese": "他现在声称自己对课程内容了解甚少",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/ /ðiː/"
+	},
+	{
+		"english": "he claims now that he understood very little content in the lessons of the first",
+		"chinese": "他现在声称自己对第一次课程的内容几乎一无所知",
+		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/ /ðiː/ /fˈɜːst/"
+	},
+	{
+		"english": "he understood very little content in the lessons of the first few",
+		"chinese": "他对前几节课的内容了解得很少",
+		"soundmark": "/hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/ /ðiː/ /fˈɜːst/ /fjˈuː/"
+	},
+	{
+		"english": "he understood very little content in the lessons of the first few weeks",
+		"chinese": "在最初的几周里，他对课程的内容了解甚少",
+		"soundmark": "/hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/ /ðiː/ /fˈɜːst/ /fjˈuː/ /wˈiːks/"
+	},
+	{
+		"english": "however",
+		"chinese": "然而",
+		"soundmark": "/hˌaʊˈɛːvɜː/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he successfully",
+		"chinese": "他成功了",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/"
+	},
+	{
+		"english": "he successfully managed",
+		"chinese": "他成功管理了",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/"
+	},
+	{
+		"english": "he successfully managed to",
+		"chinese": "他成功地管理了",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/"
+	},
+	{
+		"english": "he successfully managed to give",
+		"chinese": "他成功地完成了任务",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/"
+	},
+	{
+		"english": "he successfully managed to give the",
+		"chinese": "他成功地完成了给予",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/"
+	},
+	{
+		"english": "he successfully managed to give the appropriate",
+		"chinese": "他成功地提供了适当的东西",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/"
+	},
+	{
+		"english": "he successfully managed to give the appropriate illusion",
+		"chinese": "他成功营造出了适当的假象",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/ /ɪlˈuːʒən/"
+	},
+	{
+		"english": "he successfully managed to give the appropriate illusion of",
+		"chinese": "他成功营造出了适当的假象",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/ /ɪlˈuːʒən/ /əv/"
+	},
+	{
+		"english": "he successfully managed to give the appropriate illusion of understanding",
+		"chinese": "他成功营造出了恰当的理解假象",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/ /ɪlˈuːʒən/ /əv/ /ˌəndɜːstˈændɪŋ/"
+	},
+	{
+		"english": "he successfully managed to give the appropriate illusion of understanding well",
+		"chinese": "他成功营造出了一种恰当的、仿佛理解得很好的假象",
+		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/ /ɪlˈuːʒən/ /əv/ /ˌəndɜːstˈændɪŋ/ /wˈɛːl/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he made",
+		"chinese": "他做了",
+		"soundmark": "/hˈiː/ /mˈeɪd/"
+	},
+	{
+		"english": "he made me",
+		"chinese": "他让我这样做了",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/"
+	},
+	{
+		"english": "he made me laugh",
+		"chinese": "他让我笑了",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/"
+	},
+	{
+		"english": "he made me laugh and",
+		"chinese": "他让我笑了",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/"
+	},
+	{
+		"english": "he made me laugh and his",
+		"chinese": "他让我笑了，而且他……",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/"
+	},
+	{
+		"english": "he made me laugh and his peering",
+		"chinese": "他让我笑了，还有他那专注的眼神",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/"
+	},
+	{
+		"english": "he made me laugh and his peering was",
+		"chinese": "他让我笑了，他的凝视很迷人",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/"
+	},
+	{
+		"english": "he made me laugh and his peering was also",
+		"chinese": "他让我笑了，他的凝视也……",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/"
+	},
+	{
+		"english": "he made me laugh and his peering was also delighted",
+		"chinese": "他让我笑了，他的凝视也令人愉悦",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/"
+	},
+	{
+		"english": "he made me laugh and his peering was also delighted in",
+		"chinese": "他让我笑了，他的凝视也令人愉悦",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/"
+	},
+	{
+		"english": "he made me laugh and his peering was also delighted in his",
+		"chinese": "他让我笑了，他的凝视也显得很开心",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/ /hɪz/"
+	},
+	{
+		"english": "he made me laugh and his peering was also delighted in his sense",
+		"chinese": "他让我笑了，他的凝视也显示出他的愉悦之情",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/ /hɪz/ /sˈɛːns/"
+	},
+	{
+		"english": "he made me laugh and his peering was also delighted in his sense of",
+		"chinese": "他让我笑了，他的凝视也充满了愉悦感。",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/ /hɪz/ /sˈɛːns/ /əv/"
+	},
+	{
+		"english": "he made me laugh and his peering was also delighted in his sense of humor",
+		"chinese": "他让我笑了，他的凝视也因幽默感而令人愉悦",
+		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/ /hɪz/ /sˈɛːns/ /əv/ /hjˈuːmɜː/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he dressed",
+		"chinese": "他穿了衣服",
+		"soundmark": "/hˈiː/ /drˈɛːst/"
+	},
+	{
+		"english": "he dressed with",
+		"chinese": "他穿得很好",
+		"soundmark": "/hˈiː/ /drˈɛːst/ /wɪð/"
+	},
+	{
+		"english": "he dressed with attention",
+		"chinese": "他精心打扮",
+		"soundmark": "/hˈiː/ /drˈɛːst/ /wɪð/ /ətˈɛːnʃən/"
+	},
+	{
+		"english": "he dressed with attention to",
+		"chinese": "他精心打扮",
+		"soundmark": "/hˈiː/ /drˈɛːst/ /wɪð/ /ətˈɛːnʃən/ /tə/"
+	},
+	{
+		"english": "he dressed with attention to detail",
+		"chinese": "他注重细节地穿着打扮",
+		"soundmark": "/hˈiː/ /drˈɛːst/ /wɪð/ /ətˈɛːnʃən/ /tə/ /dˈiːteɪl/"
+	},
+	{
+		"english": "and",
+		"chinese": "和",
+		"soundmark": "/ˈænd/"
+	},
+	{
+		"english": "and his",
+		"chinese": "和他的",
+		"soundmark": "/ˈænd/ /hɪz/"
+	},
+	{
+		"english": "and his neat",
+		"chinese": "和他的整洁",
+		"soundmark": "/ˈænd/ /hɪz/ /nˈiːt/"
+	},
+	{
+		"english": "and his neat appearance",
+		"chinese": "以及他整洁的外表",
+		"soundmark": "/ˈænd/ /hɪz/ /nˈiːt/ /əpˈɪrəns/"
+	},
+	{
+		"english": "whether",
+		"chinese": "是否",
+		"soundmark": "/hwˈɛːðɜː/"
+	},
+	{
+		"english": "whether in",
+		"chinese": "无论是在哪里",
+		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/"
+	},
+	{
+		"english": "whether in jeans",
+		"chinese": "无论穿牛仔裤与否",
+		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/ /dʒˈiːnz/"
+	},
+	{
+		"english": "whether in jeans or",
+		"chinese": "无论是牛仔裤还是其他",
+		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/ /dʒˈiːnz/ /ɜː/"
+	},
+	{
+		"english": "whether in jeans or current",
+		"chinese": "无论是牛仔裤还是现代风格",
+		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/ /dʒˈiːnz/ /ɜː/ /kˈɑːrənt/"
+	},
+	{
+		"english": "whether in jeans or current fashion",
+		"chinese": "无论是牛仔裤还是时尚服饰",
+		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/ /dʒˈiːnz/ /ɜː/ /kˈɑːrənt/ /fˈæʃən/"
+	},
+	{
+		"english": "was",
+		"chinese": "是",
+		"soundmark": "/wˈɔːz/"
+	},
+	{
+		"english": "was distinct",
+		"chinese": "很独特",
+		"soundmark": "/wˈɔːz/ /dɪstˈɪŋkt/"
+	},
+	{
+		"english": "a",
+		"chinese": "一个",
+		"soundmark": "/ˈeɪ/"
+	},
+	{
+		"english": "a cool",
+		"chinese": "很酷",
+		"soundmark": "/ˈeɪ/ /kˈuːl/"
+	},
+	{
+		"english": "a cool guy",
+		"chinese": "一个酷 guy",
+		"soundmark": "/ˈeɪ/ /kˈuːl/ /ɡˈaɪ/"
+	},
+	{
+		"english": "there",
+		"chinese": "那里",
+		"soundmark": "/ðˈɛːr/"
+	},
+	{
+		"english": "there was",
+		"chinese": "有",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/"
+	},
+	{
+		"english": "there was always",
+		"chinese": "总是存在",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/"
+	},
+	{
+		"english": "there was always something",
+		"chinese": "总有一些事情",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/"
+	},
+	{
+		"english": "there was always something enchanting",
+		"chinese": "总有一些令人着迷的事物",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/ /ɛːntʃˈænɪŋ/"
+	},
+	{
+		"english": "there was always something enchanting in",
+		"chinese": "总有一些令人着迷的东西",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/ /ɛːntʃˈænɪŋ/ /ˈɪn/"
+	},
+	{
+		"english": "there was always something enchanting in his",
+		"chinese": "他身上总有一些迷人的东西",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/ /ɛːntʃˈænɪŋ/ /ˈɪn/ /hɪz/"
+	},
+	{
+		"english": "there was always something enchanting in his smile",
+		"chinese": "他的笑容总有些迷人的地方",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/ /ɛːntʃˈænɪŋ/ /ˈɪn/ /hɪz/ /smˈaɪl/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he was",
+		"chinese": "他",
+		"soundmark": "/hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "he was charming",
+		"chinese": "他很迷人",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/"
+	},
+	{
+		"english": "he was charming and",
+		"chinese": "他很迷人",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/"
+	},
+	{
+		"english": "he was charming and handsome",
+		"chinese": "他既迷人又英俊",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/"
+	},
+	{
+		"english": "he was charming and handsome and",
+		"chinese": "他迷人又英俊",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/ /ˈænd/"
+	},
+	{
+		"english": "he was charming and handsome and he",
+		"chinese": "他很迷人且英俊，他",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/ /ˈænd/ /hˈiː/"
+	},
+	{
+		"english": "he was charming and handsome and he knew",
+		"chinese": "他迷人又英俊，而且他很了解",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/ /ˈænd/ /hˈiː/ /njˈuː/"
+	},
+	{
+		"english": "he was charming and handsome and he knew it",
+		"chinese": "他迷人又英俊，而且他自己也知道这一点",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/ /ˈænd/ /hˈiː/ /njˈuː/ /ɪt/"
+	},
+	{
+		"english": "moreover",
+		"chinese": "此外",
+		"soundmark": "/mɔːrˈoʊvɜː/"
+	},
+	{
+		"english": "moreover he",
+		"chinese": "此外他",
+		"soundmark": "/mɔːrˈoʊvɜː/ /hˈiː/"
+	},
+	{
+		"english": "moreover he was",
+		"chinese": "此外他还有...",
+		"soundmark": "/mɔːrˈoʊvɜː/ /hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "moreover he was a",
+		"chinese": "此外他还是一个",
+		"soundmark": "/mɔːrˈoʊvɜː/ /hˈiː/ /wˈɔːz/ /ˈeɪ/"
+	},
+	{
+		"english": "moreover he was a gentleman",
+		"chinese": "此外，他还是一位绅士",
+		"soundmark": "/mɔːrˈoʊvɜː/ /hˈiː/ /wˈɔːz/ /ˈeɪ/ /dʒˈɛːnəlmən/"
+	},
+	{
+		"english": "his",
+		"chinese": "他的",
+		"soundmark": "/hɪz/"
+	},
+	{
+		"english": "his eyes",
+		"chinese": "他的眼睛",
+		"soundmark": "/hɪz/ /ˈaɪz/"
+	},
+	{
+		"english": "his eyes revealed",
+		"chinese": "他的眼睛暴露了",
+		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/"
+	},
+	{
+		"english": "his eyes revealed so",
+		"chinese": "他的眼睛如此显现",
+		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/"
+	},
+	{
+		"english": "his eyes revealed so much",
+		"chinese": "他的眼睛透露出太多东西",
+		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/"
+	},
+	{
+		"english": "his eyes revealed so much when",
+		"chinese": "他的眼睛透露出如此多东西时",
+		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/"
+	},
+	{
+		"english": "his eyes revealed so much when they",
+		"chinese": "他的眼睛在闪烁时透露出太多信息",
+		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/ /ðˈeɪ/"
+	},
+	{
+		"english": "his eyes revealed so much when they crinkled",
+		"chinese": "当他的眼睛眯起来时，透露出了许多东西",
+		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/ /ðˈeɪ/"
+	},
+	{
+		"english": "his eyes revealed so much when they crinkled with",
+		"chinese": "当他的眼睛因笑而皱起时，透露出了许多东西",
+		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/ /ðˈeɪ/ /wɪð/"
+	},
+	{
+		"english": "his eyes revealed so much when they crinkled with laughter",
+		"chinese": "他的眼睛在笑得眯起来时透露出许多信息",
+		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/ /ðˈeɪ/ /wɪð/ /lˈæftɜː/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the mask",
+		"chinese": "面具",
+		"soundmark": "/ðiː/ /mˈæsk/"
+	},
+	{
+		"english": "the mask removed",
+		"chinese": "面具被摘下",
+		"soundmark": "/ðiː/ /mˈæsk/ /riːmˈuːvd/"
+	},
+	{
+		"english": "or",
+		"chinese": "或",
+		"soundmark": "/ɜː/"
+	},
+	{
+		"english": "or conversely",
+		"chinese": "或相反",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/"
+	},
+	{
+		"english": "or conversely remained",
+		"chinese": "或相反保持不变",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/"
+	},
+	{
+		"english": "or conversely remained inscrutable",
+		"chinese": "或相反，始终难以捉摸",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/"
+	},
+	{
+		"english": "or conversely remained inscrutable like",
+		"chinese": "或者相反，则依然难以捉摸",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/"
+	},
+	{
+		"english": "or conversely remained inscrutable like still",
+		"chinese": "或者相反，如静止般难以捉摸",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/"
+	},
+	{
+		"english": "or conversely remained inscrutable like still pools",
+		"chinese": "或者相反，像静止的池塘一样难以捉摸",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/ /pˈuːlz/"
+	},
+	{
+		"english": "or conversely remained inscrutable like still pools of",
+		"chinese": "或者相反，像静止的池塘一样难以捉摸",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/ /pˈuːlz/ /əv/"
+	},
+	{
+		"english": "or conversely remained inscrutable like still pools of liquid",
+		"chinese": "或者相反，像静止的液体池一样难以捉摸",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/ /pˈuːlz/ /əv/ /lˈɪkwɪd/"
+	},
+	{
+		"english": "or conversely remained inscrutable like still pools of liquid chocolate",
+		"chinese": "或者相反，像静止的巧克力液池一样难以捉摸",
+		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/ /pˈuːlz/ /əv/ /lˈɪkwɪd/ /tʃˈɔːklət/"
+	},
+	{
+		"english": "containing",
+		"chinese": "包含",
+		"soundmark": "/kəntˈeɪnɪŋ/"
+	},
+	{
+		"english": "containing only",
+		"chinese": "仅包含",
+		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/"
+	},
+	{
+		"english": "containing only a",
+		"chinese": "仅包含一个",
+		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/ /ˈeɪ/"
+	},
+	{
+		"english": "containing only a hint",
+		"chinese": "仅含一丝暗示",
+		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/ /ˈeɪ/ /hˈɪnt/"
+	},
+	{
+		"english": "containing only a hint of",
+		"chinese": "仅含有一丝",
+		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/ /ˈeɪ/ /hˈɪnt/ /əv/"
+	},
+	{
+		"english": "containing only a hint of belief",
+		"chinese": "仅带有一丝信仰",
+		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/ /ˈeɪ/ /hˈɪnt/ /əv/ /bɪlˈiːf/"
+	}
+]

@@ -1,0 +1,922 @@
+[
+	{
+		"english": "christmas",
+		"chinese": "圣诞节",
+		"soundmark": "/krˈɪsməs/"
+	},
+	{
+		"english": "christmas is",
+		"chinese": "圣诞节是",
+		"soundmark": "/krˈɪsməs/ /ɪz/"
+	},
+	{
+		"english": "christmas is the",
+		"chinese": "圣诞节是",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/"
+	},
+	{
+		"english": "christmas is the most",
+		"chinese": "圣诞节是最特别的",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/"
+	},
+	{
+		"english": "christmas is the most cheerful",
+		"chinese": "圣诞节是最欢乐的",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/"
+	},
+	{
+		"english": "christmas is the most cheerful and",
+		"chinese": "圣诞节是最欢乐的",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/ /ˈænd/"
+	},
+	{
+		"english": "christmas is the most cheerful and holy",
+		"chinese": "圣诞节是最欢乐且最神圣的",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/ /ˈænd/ /hˈoʊliː/"
+	},
+	{
+		"english": "christmas is the most cheerful and holy of",
+		"chinese": "圣诞节是最欢乐且最神圣的",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/ /ˈænd/ /hˈoʊliː/ /əv/"
+	},
+	{
+		"english": "christmas is the most cheerful and holy of holidays",
+		"chinese": "圣诞节是最欢乐且最神圣的节日",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/ /ˈænd/ /hˈoʊliː/ /əv/ /hˈɑːlədˌeɪz/"
+	},
+	{
+		"english": "christmas is the most cheerful and holy of holidays in",
+		"chinese": "圣诞节是最欢乐且最神圣的节日",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/ /ˈænd/ /hˈoʊliː/ /əv/ /hˈɑːlədˌeɪz/ /ˈɪn/"
+	},
+	{
+		"english": "christmas is the most cheerful and holy of holidays in the",
+		"chinese": "圣诞节是最欢乐且最神圣的节日",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/ /ˈænd/ /hˈoʊliː/ /əv/ /hˈɑːlədˌeɪz/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "christmas is the most cheerful and holy of holidays in the christian",
+		"chinese": "圣诞节是基督教中最欢乐且最神圣的节日",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/ /ˈænd/ /hˈoʊliː/ /əv/ /hˈɑːlədˌeɪz/ /ˈɪn/ /ðiː/ /krˈɪstʃɪn/"
+	},
+	{
+		"english": "christmas is the most cheerful and holy of holidays in the christian world",
+		"chinese": "圣诞节是基督教世界中最欢乐、最神圣的节日",
+		"soundmark": "/krˈɪsməs/ /ɪz/ /ðiː/ /mˈoʊs/ /tʃˈɪrfəl/ /ˈænd/ /hˈoʊliː/ /əv/ /hˈɑːlədˌeɪz/ /ˈɪn/ /ðiː/ /krˈɪstʃɪn/ /wˈɜːld/"
+	},
+	{
+		"english": "which",
+		"chinese": "哪个",
+		"soundmark": "/hwˈɪtʃ/"
+	},
+	{
+		"english": "which boasts",
+		"chinese": "拥有",
+		"soundmark": "/hwˈɪtʃ/ /bˈoʊs/"
+	},
+	{
+		"english": "which boasts of",
+		"chinese": "自夸的",
+		"soundmark": "/hwˈɪtʃ/ /bˈoʊs/ /əv/"
+	},
+	{
+		"english": "which boasts of an",
+		"chinese": "自夸拥有……的",
+		"soundmark": "/hwˈɪtʃ/ /bˈoʊs/ /əv/ /ən/"
+	},
+	{
+		"english": "which boasts of an estimated",
+		"chinese": "声称估计为",
+		"soundmark": "/hwˈɪtʃ/ /bˈoʊs/ /əv/ /ən/ /ˈɛːstəmˌeɪtɪd/"
+	},
+	{
+		"english": "which boasts of an estimated billion",
+		"chinese": "声称有十亿之多",
+		"soundmark": "/hwˈɪtʃ/ /bˈoʊs/ /əv/ /ən/ /ˈɛːstəmˌeɪtɪd/ /bˈɪljən/"
+	},
+	{
+		"english": "which boasts of an estimated billion people",
+		"chinese": "估计有十亿人口",
+		"soundmark": "/hwˈɪtʃ/ /bˈoʊs/ /əv/ /ən/ /ˈɛːstəmˌeɪtɪd/ /bˈɪljən/ /pˈiːpəl/"
+	},
+	{
+		"english": "although",
+		"chinese": "尽管",
+		"soundmark": "/ˌɔːlðˈoʊ/"
+	},
+	{
+		"english": "although the",
+		"chinese": "尽管",
+		"soundmark": "/ˌɔːlðˈoʊ/ /ðiː/"
+	},
+	{
+		"english": "although the origin",
+		"chinese": "尽管起源",
+		"soundmark": "/ˌɔːlðˈoʊ/ /ðiː/ /ˈɔːrədʒən/"
+	},
+	{
+		"english": "although the origin of",
+		"chinese": "尽管起源是",
+		"soundmark": "/ˌɔːlðˈoʊ/ /ðiː/ /ˈɔːrədʒən/ /əv/"
+	},
+	{
+		"english": "although the origin of this",
+		"chinese": "尽管这一事物的起源",
+		"soundmark": "/ˌɔːlðˈoʊ/ /ðiː/ /ˈɔːrədʒən/ /əv/ /ðɪs/"
+	},
+	{
+		"english": "although the origin of this holiday",
+		"chinese": "尽管这个节日的起源",
+		"soundmark": "/ˌɔːlðˈoʊ/ /ðiː/ /ˈɔːrədʒən/ /əv/ /ðɪs/ /hˈɑːlɪdˌeɪ/"
+	},
+	{
+		"english": "although the origin of this holiday was",
+		"chinese": "尽管这个节日的起源是",
+		"soundmark": "/ˌɔːlðˈoʊ/ /ðiː/ /ˈɔːrədʒən/ /əv/ /ðɪs/ /hˈɑːlɪdˌeɪ/ /wˈɔːz/"
+	},
+	{
+		"english": "although the origin of this holiday was purely",
+		"chinese": "尽管这个节日的起源纯粹是",
+		"soundmark": "/ˌɔːlðˈoʊ/ /ðiː/ /ˈɔːrədʒən/ /əv/ /ðɪs/ /hˈɑːlɪdˌeɪ/ /wˈɔːz/ /pjˈʊrliː/"
+	},
+	{
+		"english": "although the origin of this holiday was purely religious",
+		"chinese": "尽管这个节日的起源纯粹是宗教性质的",
+		"soundmark": "/ˌɔːlðˈoʊ/ /ðiː/ /ˈɔːrədʒən/ /əv/ /ðɪs/ /hˈɑːlɪdˌeɪ/ /wˈɔːz/ /pjˈʊrliː/ /riːlˈɪdʒəs/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it has",
+		"chinese": "它有",
+		"soundmark": "/ɪt/ /həz/"
+	},
+	{
+		"english": "it has evolved",
+		"chinese": "它已经发展起来了",
+		"soundmark": "/ɪt/ /həz/ /iːvˈɑːlvd/"
+	},
+	{
+		"english": "it has evolved into",
+		"chinese": "它已经发展成了",
+		"soundmark": "/ɪt/ /həz/ /iːvˈɑːlvd/ /ɪntə/"
+	},
+	{
+		"english": "it has evolved into a",
+		"chinese": "它已经发展成了一种",
+		"soundmark": "/ɪt/ /həz/ /iːvˈɑːlvd/ /ɪntə/ /ˈeɪ/"
+	},
+	{
+		"english": "it has evolved into a highly",
+		"chinese": "它已经发展成了高度",
+		"soundmark": "/ɪt/ /həz/ /iːvˈɑːlvd/ /ɪntə/ /ˈeɪ/ /hˈaɪliː/"
+	},
+	{
+		"english": "it has evolved into a highly secular",
+		"chinese": "它已经发展成了高度世俗化的形态",
+		"soundmark": "/ɪt/ /həz/ /iːvˈɑːlvd/ /ɪntə/ /ˈeɪ/ /hˈaɪliː/ /sˈɛːkjəlɜː/"
+	},
+	{
+		"english": "it has evolved into a highly secular celebration",
+		"chinese": "它已经演变成一种高度世俗的庆祝活动",
+		"soundmark": "/ɪt/ /həz/ /iːvˈɑːlvd/ /ɪntə/ /ˈeɪ/ /hˈaɪliː/ /sˈɛːkjəlɜː/ /sˌɛːləbrˈeɪʃən/"
+	},
+	{
+		"english": "it has evolved into a highly secular celebration each",
+		"chinese": "它已经演变成一种高度世俗的庆祝活动",
+		"soundmark": "/ɪt/ /həz/ /iːvˈɑːlvd/ /ɪntə/ /ˈeɪ/ /hˈaɪliː/ /sˈɛːkjəlɜː/ /sˌɛːləbrˈeɪʃən/ /ˈiːtʃ/"
+	},
+	{
+		"english": "it has evolved into a highly secular celebration each year",
+		"chinese": "它每年都演变成一场高度世俗的庆祝活动",
+		"soundmark": "/ɪt/ /həz/ /iːvˈɑːlvd/ /ɪntə/ /ˈeɪ/ /hˈaɪliː/ /sˈɛːkjəlɜː/ /sˌɛːləbrˈeɪʃən/ /ˈiːtʃ/ /jˈɪr/"
+	},
+	{
+		"english": "however",
+		"chinese": "然而",
+		"soundmark": "/hˌaʊˈɛːvɜː/"
+	},
+	{
+		"english": "strong",
+		"chinese": "强有力",
+		"soundmark": "/strˈɔːŋ/"
+	},
+	{
+		"english": "strong religious",
+		"chinese": "强烈的宗教信仰",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/"
+	},
+	{
+		"english": "strong religious components",
+		"chinese": "强烈的宗教元素",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/"
+	},
+	{
+		"english": "strong religious components are",
+		"chinese": "强烈的宗教元素",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/ /ɜː/"
+	},
+	{
+		"english": "strong religious components are still",
+		"chinese": "强烈的宗教元素仍然存在",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/ /ɜː/ /stˈɪl/"
+	},
+	{
+		"english": "strong religious components are still conveyed",
+		"chinese": "强烈的宗教元素仍然被传达出来",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/ /ɜː/ /stˈɪl/ /kənvˈeɪd/"
+	},
+	{
+		"english": "strong religious components are still conveyed in",
+		"chinese": "强烈的宗教元素仍然被传达出来",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/ /ɜː/ /stˈɪl/ /kənvˈeɪd/ /ˈɪn/"
+	},
+	{
+		"english": "strong religious components are still conveyed in various",
+		"chinese": "强烈的宗教元素仍体现在各种之中",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/ /ɜː/ /stˈɪl/ /kənvˈeɪd/ /ˈɪn/ /vˈɛːriːəs/"
+	},
+	{
+		"english": "strong religious components are still conveyed in various ways",
+		"chinese": "强烈的宗教元素仍以各种方式呈现出来",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/ /ɜː/ /stˈɪl/ /kənvˈeɪd/ /ˈɪn/ /vˈɛːriːəs/ /wˈeɪz/"
+	},
+	{
+		"english": "strong religious components are still conveyed in various ways each",
+		"chinese": "强烈的宗教元素仍以各种方式呈现出来",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/ /ɜː/ /stˈɪl/ /kənvˈeɪd/ /ˈɪn/ /vˈɛːriːəs/ /wˈeɪz/ /ˈiːtʃ/"
+	},
+	{
+		"english": "strong religious components are still conveyed in various ways each year",
+		"chinese": "每年仍以各种方式传递强烈的宗教元素",
+		"soundmark": "/strˈɔːŋ/ /riːlˈɪdʒəs/ /kəmpˈoʊnənts/ /ɜː/ /stˈɪl/ /kənvˈeɪd/ /ˈɪn/ /vˈɛːriːəs/ /wˈeɪz/ /ˈiːtʃ/ /jˈɪr/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the two",
+		"chinese": "两者",
+		"soundmark": "/ðiː/ /tˈuː/"
+	},
+	{
+		"english": "the two are",
+		"chinese": "两者",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/"
+	},
+	{
+		"english": "the two are intrinsically",
+		"chinese": "两者本质上是相互关联的",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/"
+	},
+	{
+		"english": "the two are intrinsically mixed",
+		"chinese": "两者本质上是混合的",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/"
+	},
+	{
+		"english": "the two are intrinsically mixed in",
+		"chinese": "两者本质上混合在一起",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/"
+	},
+	{
+		"english": "the two are intrinsically mixed in the",
+		"chinese": "两者本质上混合在一起",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "the two are intrinsically mixed in the midst",
+		"chinese": "两者在中间本质地混合在一起",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/ /ðiː/ /mˈɪst/"
+	},
+	{
+		"english": "the two are intrinsically mixed in the midst of",
+		"chinese": "两者在中间本质地混合在一起",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/ /ðiː/ /mˈɪst/ /əv/"
+	},
+	{
+		"english": "the two are intrinsically mixed in the midst of modern",
+		"chinese": "两者在现代社会中本质上相互融合",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/ /ðiː/ /mˈɪst/ /əv/ /mˈɑːdɜːn/"
+	},
+	{
+		"english": "the two are intrinsically mixed in the midst of modern commercialism",
+		"chinese": "在现代商业主义中，两者本质上相互融合",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/ /ðiː/ /mˈɪst/ /əv/ /mˈɑːdɜːn/ /kəmˈɜːʃəlˌɪzəm/"
+	},
+	{
+		"english": "the two are intrinsically mixed in the midst of modern commercialism and",
+		"chinese": "在现代商业化的背景下，两者本质上相互融合。",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/ /ðiː/ /mˈɪst/ /əv/ /mˈɑːdɜːn/ /kəmˈɜːʃəlˌɪzəm/ /ˈænd/"
+	},
+	{
+		"english": "the two are intrinsically mixed in the midst of modern commercialism and attached",
+		"chinese": "两者在现代商业化的环境中本质上相互融合且紧密相连",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/ /ðiː/ /mˈɪst/ /əv/ /mˈɑːdɜːn/ /kəmˈɜːʃəlˌɪzəm/ /ˈænd/ /ətˈætʃt/"
+	},
+	{
+		"english": "the two are intrinsically mixed in the midst of modern commercialism and attached to",
+		"chinese": "在现代商业化的背景下，两者本质上相互融合，并与之紧密相连",
+		"soundmark": "/ðiː/ /tˈuː/ /ɜː/ /ɪntrˈɪnsɪkliː/ /mˈɪkst/ /ˈɪn/ /ðiː/ /mˈɪst/ /əv/ /mˈɑːdɜːn/ /kəmˈɜːʃəlˌɪzəm/ /ˈænd/ /ətˈætʃt/ /tə/"
+	},
+	{
+		"english": "christmas",
+		"chinese": "圣诞节",
+		"soundmark": "/krˈɪsməs/"
+	},
+	{
+		"english": "christmas day",
+		"chinese": "圣诞节",
+		"soundmark": "/krˈɪsməs/ /dˈeɪ/"
+	},
+	{
+		"english": "christmas day falls",
+		"chinese": "圣诞节到了",
+		"soundmark": "/krˈɪsməs/ /dˈeɪ/ /fˈɔːlz/"
+	},
+	{
+		"english": "christmas day falls on",
+		"chinese": "圣诞节在……日",
+		"soundmark": "/krˈɪsməs/ /dˈeɪ/ /fˈɔːlz/ /ˈɔːn/"
+	},
+	{
+		"english": "christmas day falls on december",
+		"chinese": "圣诞节在12月到来",
+		"soundmark": "/krˈɪsməs/ /dˈeɪ/ /fˈɔːlz/ /ˈɔːn/ /dɪsˈɛːmbɜː/"
+	},
+	{
+		"english": "christmas day falls on december th",
+		"chinese": "圣诞节在12月X日",
+		"soundmark": "/krˈɪsməs/ /dˈeɪ/ /fˈɔːlz/ /ˈɔːn/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/"
+	},
+	{
+		"english": "christmas day falls on december th each",
+		"chinese": "圣诞节在12月第三个星期四",
+		"soundmark": "/krˈɪsməs/ /dˈeɪ/ /fˈɔːlz/ /ˈɔːn/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /ˈiːtʃ/"
+	},
+	{
+		"english": "christmas day falls on december th each year",
+		"chinese": "圣诞节每年都在12月第三个星期日",
+		"soundmark": "/krˈɪsməs/ /dˈeɪ/ /fˈɔːlz/ /ˈɔːn/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /ˈiːtʃ/ /jˈɪr/"
+	},
+	{
+		"english": "celebrating",
+		"chinese": "庆祝",
+		"soundmark": "/sˈɛːləbrˌeɪtɪŋ/"
+	},
+	{
+		"english": "celebrating the",
+		"chinese": "庆祝",
+		"soundmark": "/sˈɛːləbrˌeɪtɪŋ/ /ðiː/"
+	},
+	{
+		"english": "celebrating the birth",
+		"chinese": "庆祝诞生",
+		"soundmark": "/sˈɛːləbrˌeɪtɪŋ/ /ðiː/ /bˈɜːθ/"
+	},
+	{
+		"english": "celebrating the birth of",
+		"chinese": "庆祝诞生",
+		"soundmark": "/sˈɛːləbrˌeɪtɪŋ/ /ðiː/ /bˈɜːθ/ /əv/"
+	},
+	{
+		"english": "celebrating the birth of jesus",
+		"chinese": "庆祝耶稣的诞生",
+		"soundmark": "/sˈɛːləbrˌeɪtɪŋ/ /ðiː/ /bˈɜːθ/ /əv/ /dʒˈiːzəs/"
+	},
+	{
+		"english": "celebrating the birth of jesus christ",
+		"chinese": "庆祝耶稣基督的诞生",
+		"soundmark": "/sˈɛːləbrˌeɪtɪŋ/ /ðiː/ /bˈɜːθ/ /əv/ /dʒˈiːzəs/ /krˈaɪst/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the son",
+		"chinese": "儿子",
+		"soundmark": "/ðiː/ /sˈən/"
+	},
+	{
+		"english": "the son of",
+		"chinese": "儿子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/"
+	},
+	{
+		"english": "the son of a",
+		"chinese": "某人的儿子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/ /ˈeɪ/"
+	},
+	{
+		"english": "the son of a carpenter",
+		"chinese": "木匠之子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/ /ˈeɪ/ /kˈɑːrpəntɜː/"
+	},
+	{
+		"english": "the son of a carpenter living",
+		"chinese": "一个木匠之子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/ /ˈeɪ/ /kˈɑːrpəntɜː/ /lˈɪvɪŋ/"
+	},
+	{
+		"english": "the son of a carpenter living over",
+		"chinese": "一个住在楼上的木匠之子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/ /ˈeɪ/ /kˈɑːrpəntɜː/ /lˈɪvɪŋ/ /ˈoʊvɜː/"
+	},
+	{
+		"english": "the son of a carpenter living over two",
+		"chinese": "一个住在两楼以上的木匠之子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/ /ˈeɪ/ /kˈɑːrpəntɜː/ /lˈɪvɪŋ/ /ˈoʊvɜː/ /tˈuː/"
+	},
+	{
+		"english": "the son of a carpenter living over two thousand",
+		"chinese": "一个在居住超过两千年的木匠之子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/ /ˈeɪ/ /kˈɑːrpəntɜː/ /lˈɪvɪŋ/ /ˈoʊvɜː/ /tˈuː/ /θˈaʊzən/"
+	},
+	{
+		"english": "the son of a carpenter living over two thousand years",
+		"chinese": "一个生活了两千多年的木匠之子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/ /ˈeɪ/ /kˈɑːrpəntɜː/ /lˈɪvɪŋ/ /ˈoʊvɜː/ /tˈuː/ /θˈaʊzən/ /jɜːz/"
+	},
+	{
+		"english": "the son of a carpenter living over two thousand years ago",
+		"chinese": "两千多年前生活的木匠之子",
+		"soundmark": "/ðiː/ /sˈən/ /əv/ /ˈeɪ/ /kˈɑːrpəntɜː/ /lˈɪvɪŋ/ /ˈoʊvɜː/ /tˈuː/ /θˈaʊzən/ /jɜːz/ /əɡˈoʊ/"
+	},
+	{
+		"english": "christianity",
+		"chinese": "基督教",
+		"soundmark": "/krˌɪstʃiːˈænɪtiː/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the movement",
+		"chinese": "运动",
+		"soundmark": "/ðiː/ /mˈuːvmənt/"
+	},
+	{
+		"english": "the movement following",
+		"chinese": "随后的运动",
+		"soundmark": "/ðiː/ /mˈuːvmənt/ /fˈɑːloʊɪŋ/"
+	},
+	{
+		"english": "the movement following the",
+		"chinese": "随后的运动",
+		"soundmark": "/ðiː/ /mˈuːvmənt/ /fˈɑːloʊɪŋ/ /ðiː/"
+	},
+	{
+		"english": "the movement following the teachings",
+		"chinese": "遵循教义的运动",
+		"soundmark": "/ðiː/ /mˈuːvmənt/ /fˈɑːloʊɪŋ/ /ðiː/ /tˈiːtʃɪŋz/"
+	},
+	{
+		"english": "the movement following the teachings of",
+		"chinese": "遵循教义的运动",
+		"soundmark": "/ðiː/ /mˈuːvmənt/ /fˈɑːloʊɪŋ/ /ðiː/ /tˈiːtʃɪŋz/ /əv/"
+	},
+	{
+		"english": "the movement following the teachings of christ",
+		"chinese": "遵循基督教义的运动",
+		"soundmark": "/ðiː/ /mˈuːvmənt/ /fˈɑːloʊɪŋ/ /ðiː/ /tˈiːtʃɪŋz/ /əv/ /krˈaɪst/"
+	},
+	{
+		"english": "roused",
+		"chinese": "唤醒",
+		"soundmark": "/rˈaʊzd/"
+	},
+	{
+		"english": "roused the",
+		"chinese": "唤醒了",
+		"soundmark": "/rˈaʊzd/ /ðiː/"
+	},
+	{
+		"english": "roused the world",
+		"chinese": "唤醒了世界",
+		"soundmark": "/rˈaʊzd/ /ðiː/ /wˈɜːld/"
+	},
+	{
+		"english": "roused the world over",
+		"chinese": "震惊了全世界",
+		"soundmark": "/rˈaʊzd/ /ðiː/ /wˈɜːld/ /ˈoʊvɜː/"
+	},
+	{
+		"english": "roused the world over the",
+		"chinese": "引发了全世界的关注",
+		"soundmark": "/rˈaʊzd/ /ðiː/ /wˈɜːld/ /ˈoʊvɜː/ /ðiː/"
+	},
+	{
+		"english": "roused the world over the next",
+		"chinese": "在全世界引发了反响",
+		"soundmark": "/rˈaʊzd/ /ðiː/ /wˈɜːld/ /ˈoʊvɜː/ /ðiː/ /nˈɛːks/"
+	},
+	{
+		"english": "roused the world over the next many",
+		"chinese": "在接下来的许多年里引发了全世界的震动",
+		"soundmark": "/rˈaʊzd/ /ðiː/ /wˈɜːld/ /ˈoʊvɜː/ /ðiː/ /nˈɛːks/ /mˈɛːniː/"
+	},
+	{
+		"english": "roused the world over the next many centuries",
+		"chinese": "在接下来的几个世纪里引发了全世界的震动",
+		"soundmark": "/rˈaʊzd/ /ðiː/ /wˈɜːld/ /ˈoʊvɜː/ /ðiː/ /nˈɛːks/ /mˈɛːniː/ /sˈɛːntʃɜːiːz/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it is",
+		"chinese": "就是",
+		"soundmark": "/ɪt/ /ɪz/"
+	},
+	{
+		"english": "it is said",
+		"chinese": "据说",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/"
+	},
+	{
+		"english": "it is said that",
+		"chinese": "据说",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/"
+	},
+	{
+		"english": "it is said that the",
+		"chinese": "据说……",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/"
+	},
+	{
+		"english": "it is said that the first",
+		"chinese": "据说第一个",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/ /fˈɜːst/"
+	},
+	{
+		"english": "it is said that the first celebration",
+		"chinese": "据说第一次庆祝活动",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/ /fˈɜːst/ /sˌɛːləbrˈeɪʃən/"
+	},
+	{
+		"english": "it is said that the first celebration of",
+		"chinese": "据说第一次庆祝活动是",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/ /fˈɜːst/ /sˌɛːləbrˈeɪʃən/ /əv/"
+	},
+	{
+		"english": "it is said that the first celebration of christmas",
+		"chinese": "据说第一次庆祝圣诞节是在……",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/ /fˈɜːst/ /sˌɛːləbrˈeɪʃən/ /əv/ /krˈɪsməs/"
+	},
+	{
+		"english": "it is said that the first celebration of christmas took",
+		"chinese": "据说第一次庆祝圣诞节是在",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/ /fˈɜːst/ /sˌɛːləbrˈeɪʃən/ /əv/ /krˈɪsməs/ /tˈʊk/"
+	},
+	{
+		"english": "it is said that the first celebration of christmas took place",
+		"chinese": "据说第一次圣诞节庆祝活动就此开始",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/ /fˈɜːst/ /sˌɛːləbrˈeɪʃən/ /əv/ /krˈɪsməs/ /tˈʊk/ /plˈeɪs/"
+	},
+	{
+		"english": "it is said that the first celebration of christmas took place in",
+		"chinese": "据说第一次圣诞节庆祝活动发生在",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/ /fˈɜːst/ /sˌɛːləbrˈeɪʃən/ /əv/ /krˈɪsməs/ /tˈʊk/ /plˈeɪs/ /ˈɪn/"
+	},
+	{
+		"english": "it is said that the first celebration of christmas took place in a",
+		"chinese": "据说第一次圣诞节庆祝活动是在一个……",
+		"soundmark": "/ɪt/ /ɪz/ /sˈɛːd/ /ðət/ /ðiː/ /fˈɜːst/ /sˌɛːləbrˈeɪʃən/ /əv/ /krˈɪsməs/ /tˈʊk/ /plˈeɪs/ /ˈɪn/ /ˈeɪ/"
+	},
+	{
+		"english": "d",
+		"chinese": "d",
+		"soundmark": "/dˈiː/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in ancient",
+		"chinese": "古代",
+		"soundmark": "/ˈɪn/ /ˈeɪnʃənt/"
+	},
+	{
+		"english": "in ancient rome",
+		"chinese": "在古罗马时期",
+		"soundmark": "/ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/"
+	},
+	{
+		"english": "no",
+		"chinese": "没有",
+		"soundmark": "/nˈoʊ/"
+	},
+	{
+		"english": "no one",
+		"chinese": "没有人",
+		"soundmark": "/nˈoʊ/ /hwˈən/"
+	},
+	{
+		"english": "no one seems",
+		"chinese": "似乎没有人",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/"
+	},
+	{
+		"english": "no one seems to",
+		"chinese": "似乎没有人",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/"
+	},
+	{
+		"english": "no one seems to know",
+		"chinese": "似乎没人知道",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/"
+	},
+	{
+		"english": "no one seems to know for",
+		"chinese": "似乎没人知道。",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/"
+	},
+	{
+		"english": "no one seems to know for sure",
+		"chinese": "似乎没人确定知道",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/"
+	},
+	{
+		"english": "no one seems to know for sure if",
+		"chinese": "似乎没有人能确定是否",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/"
+	},
+	{
+		"english": "no one seems to know for sure if december",
+		"chinese": "似乎没有人能确定是否是在十二月",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/"
+	},
+	{
+		"english": "no one seems to know for sure if december th",
+		"chinese": "似乎没有人能确定12月3日的情况。",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/"
+	},
+	{
+		"english": "no one seems to know for sure if december th was",
+		"chinese": "似乎没人能确定12月3日是否真的发生了",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /wˈɔːz/"
+	},
+	{
+		"english": "no one seems to know for sure if december th was actually",
+		"chinese": "似乎没有人能确定12月3日是否真的",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /wˈɔːz/ /ˈækʃəliː/"
+	},
+	{
+		"english": "no one seems to know for sure if december th was actually the",
+		"chinese": "似乎没有人能确定12月3日是否真的",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /wˈɔːz/ /ˈækʃəliː/ /ðiː/"
+	},
+	{
+		"english": "no one seems to know for sure if december th was actually the date",
+		"chinese": "似乎没有人能确定12月3日是否真的是该日期",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /wˈɔːz/ /ˈækʃəliː/ /ðiː/ /dˈeɪt/"
+	},
+	{
+		"english": "no one seems to know for sure if december th was actually the date of",
+		"chinese": "似乎没有人能确定12月3日是否真的是日期。",
+		"soundmark": "/nˈoʊ/ /hwˈən/ /sˈiːmz/ /tə/ /nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /wˈɔːz/ /ˈækʃəliː/ /ðiː/ /dˈeɪt/ /əv/"
+	},
+	{
+		"english": "know for sure if december th was actually the date of christ",
+		"chinese": "确定12月3日是否真的是基督诞生日期",
+		"soundmark": "/nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /wˈɔːz/ /ˈækʃəliː/ /ðiː/ /dˈeɪt/ /əv/ /krˈaɪst/"
+	},
+	{
+		"english": "know for sure if december th was actually the date of christ s",
+		"chinese": "确定12月3日是否真的是基督的诞生日",
+		"soundmark": "/nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /wˈɔːz/ /ˈækʃəliː/ /ðiː/ /dˈeɪt/ /əv/ /krˈaɪst/ /ˈɛːs/"
+	},
+	{
+		"english": "know for sure if december th was actually the date of christ s birth",
+		"chinese": "确定12月3日是否真的是基督的出生日期",
+		"soundmark": "/nˈoʊ/ /frɜː/ /ʃˈʊr/ /ɪf/ /dɪsˈɛːmbɜː/ /tˈiːˈeɪtʃ/ /wˈɔːz/ /ˈækʃəliː/ /ðiː/ /dˈeɪt/ /əv/ /krˈaɪst/ /ˈɛːs/ /bˈɜːθ/"
+	},
+	{
+		"english": "but",
+		"chinese": "但",
+		"soundmark": "/bˈət/"
+	},
+	{
+		"english": "but it",
+		"chinese": "但它是",
+		"soundmark": "/bˈət/ /ɪt/"
+	},
+	{
+		"english": "but it is",
+		"chinese": "但它是",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/"
+	},
+	{
+		"english": "but it is possible",
+		"chinese": "但这是可能的",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/"
+	},
+	{
+		"english": "but it is possible that",
+		"chinese": "但这是可能的",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/"
+	},
+	{
+		"english": "but it is possible that christian",
+		"chinese": "但可能属于基督教",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/"
+	},
+	{
+		"english": "but it is possible that christian leaders",
+		"chinese": "但基督教领袖们有可能……",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/"
+	},
+	{
+		"english": "but it is possible that christian leaders in",
+		"chinese": "但可能有些基督教领袖在",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/"
+	},
+	{
+		"english": "but it is possible that christian leaders in ancient",
+		"chinese": "但古代的基督教领袖也有可能如此",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/"
+	},
+	{
+		"english": "but it is possible that christian leaders in ancient rome",
+		"chinese": "但古代罗马的基督教领袖们也有可能如此",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/"
+	},
+	{
+		"english": "but it is possible that christian leaders in ancient rome wanted",
+		"chinese": "但可能的情况是，古罗马的基督教领袖们想要",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/"
+	},
+	{
+		"english": "but it is possible that christian leaders in ancient rome wanted to",
+		"chinese": "但可能古代罗马的基督教领袖想要",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/"
+	},
+	{
+		"english": "but it is possible that christian leaders in ancient rome wanted to replace",
+		"chinese": "但有可能古代罗马的基督教领袖想要取代",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/"
+	},
+	{
+		"english": "but it is possible that christian leaders in ancient rome wanted to replace pagan",
+		"chinese": "但有可能古代罗马的基督教领袖想要取代异教",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/"
+	},
+	{
+		"english": "but it is possible that christian leaders in ancient rome wanted to replace pagan religious",
+		"chinese": "但有可能古代罗马的基督教领袖想要取代异教宗教",
+		"soundmark": "/bˈət/ /ɪt/ /ɪz/ /pˈɑːsəbəl/ /ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/ /riːlˈɪdʒəs/"
+	},
+	{
+		"english": "that christian leaders in ancient rome wanted to replace pagan religious holidays",
+		"chinese": "古代罗马的基督教领袖希望取代异教宗教节日",
+		"soundmark": "/ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/ /riːlˈɪdʒəs/ /hˈɑːlədˌeɪz/"
+	},
+	{
+		"english": "that christian leaders in ancient rome wanted to replace pagan religious holidays that",
+		"chinese": "古代罗马的基督教领袖希望取代异教宗教节日",
+		"soundmark": "/ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/ /riːlˈɪdʒəs/ /hˈɑːlədˌeɪz/ /ðət/"
+	},
+	{
+		"english": "that christian leaders in ancient rome wanted to replace pagan religious holidays that occurred",
+		"chinese": "古代罗马的基督教领袖希望取代那些存在的异教宗教节日",
+		"soundmark": "/ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/ /riːlˈɪdʒəs/ /hˈɑːlədˌeɪz/ /ðət/ /əkˈɜːd/"
+	},
+	{
+		"english": "that christian leaders in ancient rome wanted to replace pagan religious holidays that occurred around",
+		"chinese": "古代罗马的基督教领袖希望取代那些发生在……期间的异教宗教节日",
+		"soundmark": "/ðət/ /krˈɪstʃɪn/ /lˈiːdɜːz/ /ˈɪn/ /ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/ /riːlˈɪdʒəs/ /hˈɑːlədˌeɪz/ /ðət/ /əkˈɜːd/ /ɜːˈaʊn/"
+	},
+	{
+		"english": "ancient rome wanted to replace pagan religious holidays that occurred around the",
+		"chinese": "古罗马希望取代那些发生在附近的异教宗教节日",
+		"soundmark": "/ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/ /riːlˈɪdʒəs/ /hˈɑːlədˌeɪz/ /ðət/ /əkˈɜːd/ /ɜːˈaʊn/ /ðiː/"
+	},
+	{
+		"english": "ancient rome wanted to replace pagan religious holidays that occurred around the same",
+		"chinese": "古罗马希望取代那些几乎同时发生的异教宗教节日",
+		"soundmark": "/ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/ /riːlˈɪdʒəs/ /hˈɑːlədˌeɪz/ /ðət/ /əkˈɜːd/ /ɜːˈaʊn/ /ðiː/ /sˈeɪm/"
+	},
+	{
+		"english": "ancient rome wanted to replace pagan religious holidays that occurred around the same time",
+		"chinese": "古罗马希望取代那些大致相同时间的异教宗教节日",
+		"soundmark": "/ˈeɪnʃənt/ /rˈoʊm/ /wˈɔːnɪd/ /tə/ /ɜːplˈeɪs/ /pˈeɪɡən/ /riːlˈɪdʒəs/ /hˈɑːlədˌeɪz/ /ðət/ /əkˈɜːd/ /ɜːˈaʊn/ /ðiː/ /sˈeɪm/ /tˈaɪm/"
+	},
+	{
+		"english": "many",
+		"chinese": "许多",
+		"soundmark": "/mˈɛːniː/"
+	},
+	{
+		"english": "many secular",
+		"chinese": "许多世俗的",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/"
+	},
+	{
+		"english": "many secular symbols",
+		"chinese": "许多世俗符号",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/ /sˈɪmbəlz/"
+	},
+	{
+		"english": "many secular symbols of",
+		"chinese": "许多世俗符号",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/ /sˈɪmbəlz/ /əv/"
+	},
+	{
+		"english": "many secular symbols of christmas",
+		"chinese": "许多世俗的圣诞节象征",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/ /sˈɪmbəlz/ /əv/ /krˈɪsməs/"
+	},
+	{
+		"english": "many secular symbols of christmas have",
+		"chinese": "许多世俗的圣诞象征",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/ /sˈɪmbəlz/ /əv/ /krˈɪsməs/ /hˈæv/"
+	},
+	{
+		"english": "many secular symbols of christmas have emerged",
+		"chinese": "许多世俗的圣诞象征已经出现",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/ /sˈɪmbəlz/ /əv/ /krˈɪsməs/ /hˈæv/ /ˈiːmɜːdʒd/"
+	},
+	{
+		"english": "many secular symbols of christmas have emerged over",
+		"chinese": "许多与圣诞节相关的世俗象征已经出现",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/ /sˈɪmbəlz/ /əv/ /krˈɪsməs/ /hˈæv/ /ˈiːmɜːdʒd/ /ˈoʊvɜː/"
+	},
+	{
+		"english": "many secular symbols of christmas have emerged over several",
+		"chinese": "许多与圣诞节相关的世俗象征已经出现于多个时期",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/ /sˈɪmbəlz/ /əv/ /krˈɪsməs/ /hˈæv/ /ˈiːmɜːdʒd/ /ˈoʊvɜː/ /sˈɛːvɜːəl/"
+	},
+	{
+		"english": "many secular symbols of christmas have emerged over several centuries",
+		"chinese": "几个世纪以来出现了许多世俗的圣诞节象征",
+		"soundmark": "/mˈɛːniː/ /sˈɛːkjəlɜː/ /sˈɪmbəlz/ /əv/ /krˈɪsməs/ /hˈæv/ /ˈiːmɜːdʒd/ /ˈoʊvɜː/ /sˈɛːvɜːəl/ /sˈɛːntʃɜːiːz/"
+	},
+	{
+		"english": "santa",
+		"chinese": "圣诞节",
+		"soundmark": "/sˈænə/"
+	},
+	{
+		"english": "santa claus",
+		"chinese": "圣诞老人",
+		"soundmark": "/sˈænə/ /klˈɔːz/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in his",
+		"chinese": "在他身上",
+		"soundmark": "/ˈɪn/ /hɪz/"
+	},
+	{
+		"english": "in his present",
+		"chinese": "在他现在的状态下",
+		"soundmark": "/ˈɪn/ /hɪz/ /pɜːzˈɛːnt/"
+	},
+	{
+		"english": "in his present form",
+		"chinese": "以目前的状态",
+		"soundmark": "/ˈɪn/ /hɪz/ /pɜːzˈɛːnt/ /fˈɔːrm/"
+	},
+	{
+		"english": "is",
+		"chinese": "是",
+		"soundmark": "/ɪz/"
+	},
+	{
+		"english": "is a",
+		"chinese": "是",
+		"soundmark": "/ɪz/ /ˈeɪ/"
+	},
+	{
+		"english": "is a fairly",
+		"chinese": "相当",
+		"soundmark": "/ɪz/ /ˈeɪ/ /fˈɛːrliː/"
+	},
+	{
+		"english": "is a fairly recent",
+		"chinese": "相当新近",
+		"soundmark": "/ɪz/ /ˈeɪ/ /fˈɛːrliː/ /rˈiːsənt/"
+	},
+	{
+		"english": "is a fairly recent development",
+		"chinese": "是较新的发展成果",
+		"soundmark": "/ɪz/ /ˈeɪ/ /fˈɛːrliː/ /rˈiːsənt/ /dɪvˈɛːləpmənt/"
+	}
+]

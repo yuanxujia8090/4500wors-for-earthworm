@@ -1,0 +1,1102 @@
+[
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the british",
+		"chinese": "英国人",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "the british and",
+		"chinese": "英国人和",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/ /ˈænd/"
+	},
+	{
+		"english": "the british and chinese",
+		"chinese": "英国和中国",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/ /ˈænd/ /tʃaɪnˈiːz/"
+	},
+	{
+		"english": "the british and chinese signed",
+		"chinese": "英国和中国签署了协议",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/ /ˈænd/ /tʃaɪnˈiːz/ /sˈaɪnd/"
+	},
+	{
+		"english": "the british and chinese signed the",
+		"chinese": "英国和中国签署了协议",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/ /ˈænd/ /tʃaɪnˈiːz/ /sˈaɪnd/ /ðiː/"
+	},
+	{
+		"english": "the british and chinese signed the treaty",
+		"chinese": "英中双方签署了条约",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/ /ˈænd/ /tʃaɪnˈiːz/ /sˈaɪnd/ /ðiː/ /trˈiːtiː/"
+	},
+	{
+		"english": "the british and chinese signed the treaty of",
+		"chinese": "英中双方签署了条约",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/ /ˈænd/ /tʃaɪnˈiːz/ /sˈaɪnd/ /ðiː/ /trˈiːtiː/ /əv/"
+	},
+	{
+		"english": "the british and chinese signed the treaty of nanking",
+		"chinese": "英中双方签署了南京条约",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/ /ˈænd/ /tʃaɪnˈiːz/ /sˈaɪnd/ /ðiː/ /trˈiːtiː/ /əv/ /nˈæŋkɪŋ/"
+	},
+	{
+		"english": "the british and chinese signed the treaty of nanking in",
+		"chinese": "英中双方签署了南京条约",
+		"soundmark": "/ðiː/ /brˈɪtɪʃ/ /ˈænd/ /tʃaɪnˈiːz/ /sˈaɪnd/ /ðiː/ /trˈiːtiː/ /əv/ /nˈæŋkɪŋ/ /ˈɪn/"
+	},
+	{
+		"english": "each",
+		"chinese": "每个",
+		"soundmark": "/ˈiːtʃ/"
+	},
+	{
+		"english": "each providing",
+		"chinese": "各自提供",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/"
+	},
+	{
+		"english": "each providing their",
+		"chinese": "各自提供自己的",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/"
+	},
+	{
+		"english": "each providing their respective",
+		"chinese": "各自提供各自的内容",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/"
+	},
+	{
+		"english": "each providing their respective subjects",
+		"chinese": "各自提供各自的主题",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/"
+	},
+	{
+		"english": "each providing their respective subjects with",
+		"chinese": "各自为各自的主题提供内容",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/"
+	},
+	{
+		"english": "each providing their respective subjects with the",
+		"chinese": "各自为各自的主题提供……",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/"
+	},
+	{
+		"english": "each providing their respective subjects with the right",
+		"chinese": "各自为各自的主题提供权利",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/"
+	},
+	{
+		"english": "each providing their respective subjects with the right to",
+		"chinese": "各自为各自的主题提供权利",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/"
+	},
+	{
+		"english": "each providing their respective subjects with the right to benefit",
+		"chinese": "各自为各自的主题提供受益权",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/"
+	},
+	{
+		"english": "each providing their respective subjects with the right to benefit from",
+		"chinese": "各自为各自的主题提供受益的权利",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/"
+	},
+	{
+		"english": "each providing their respective subjects with the right to benefit from full",
+		"chinese": "各自为各自的受试者提供享受全部权益的权利",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/"
+	},
+	{
+		"english": "each providing their respective subjects with the right to benefit from full security",
+		"chinese": "各自为各自的受试者提供享受完全保障的权利",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/"
+	},
+	{
+		"english": "each providing their respective subjects with the right to benefit from full security and",
+		"chinese": "各自为各自的受试者提供享受完全保障的权利",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/"
+	},
+	{
+		"english": "each providing their respective subjects with the right to benefit from full security and protection",
+		"chinese": "各自为各自的当事人提供享有全面保障和保护的权利",
+		"soundmark": "/ˈiːtʃ/ /prəvˈaɪdɪŋ/ /ðˈɛːr/ /riːspˈɛːktɪv/ /səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/"
+	},
+	{
+		"english": "subjects with the right to benefit from full security and protection for",
+		"chinese": "享有完全担保和保护的权利的主体",
+		"soundmark": "/səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/"
+	},
+	{
+		"english": "subjects with the right to benefit from full security and protection for their",
+		"chinese": "有权获得全面保障和保护的课题",
+		"soundmark": "/səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/"
+	},
+	{
+		"english": "subjects with the right to benefit from full security and protection for their persons",
+		"chinese": "享有完全安全与保护权益的对象",
+		"soundmark": "/səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/ /pˈɜːsənz/"
+	},
+	{
+		"english": "subjects with the right to benefit from full security and protection for their persons and",
+		"chinese": "享有完全安全与保护权利的对象",
+		"soundmark": "/səbdʒˈɛːks/ /wɪð/ /ðiː/ /rˈaɪt/ /tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/ /pˈɜːsənz/ /ˈænd/"
+	},
+	{
+		"english": "to benefit from full security and protection for their persons and property",
+		"chinese": "享受充分的人身和财产安全与保护",
+		"soundmark": "/tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/ /pˈɜːsənz/ /ˈænd/ /prˈɑːpɜːtiː/"
+	},
+	{
+		"english": "to benefit from full security and protection for their persons and property within",
+		"chinese": "享受对其人身和财产的充分安全与保护",
+		"soundmark": "/tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/ /pˈɜːsənz/ /ˈænd/ /prˈɑːpɜːtiː/ /wɪθˈɪn/"
+	},
+	{
+		"english": "to benefit from full security and protection for their persons and property within each",
+		"chinese": "在每一处都能享有全面的人身和财产安全与保护",
+		"soundmark": "/tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/ /pˈɜːsənz/ /ˈænd/ /prˈɑːpɜːtiː/ /wɪθˈɪn/ /ˈiːtʃ/"
+	},
+	{
+		"english": "to benefit from full security and protection for their persons and property within each other",
+		"chinese": "在彼此之间享受充分的人身和财产安全与保护",
+		"soundmark": "/tə/ /bˈɛːnəfɪt/ /fɜːm/ /fˈʊl/ /sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/ /pˈɜːsənz/ /ˈænd/ /prˈɑːpɜːtiː/ /wɪθˈɪn/ /ˈiːtʃ/ /ˈəðɜː/"
+	},
+	{
+		"english": "security and protection for their persons and property within each other s",
+		"chinese": "相互之间对其人身和财产的安全保障",
+		"soundmark": "/sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/ /pˈɜːsənz/ /ˈænd/ /prˈɑːpɜːtiː/ /wɪθˈɪn/ /ˈiːtʃ/ /ˈəðɜː/ /ˈɛːs/"
+	},
+	{
+		"english": "security and protection for their persons and property within each other s boundaries",
+		"chinese": "在彼此的边界内对其人身和财产的安全与保护",
+		"soundmark": "/sɪkjˈʊrətiː/ /ˈænd/ /pɜːtˈɛːkʃən/ /frɜː/ /ðˈɛːr/ /pˈɜːsənz/ /ˈænd/ /prˈɑːpɜːtiː/ /wɪθˈɪn/ /ˈiːtʃ/ /ˈəðɜː/ /ˈɛːs/ /bˈaʊndriːz/"
+	},
+	{
+		"english": "even",
+		"chinese": "甚至",
+		"soundmark": "/ˈiːvɪn/"
+	},
+	{
+		"english": "even though",
+		"chinese": "尽管",
+		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/"
+	},
+	{
+		"english": "even though china",
+		"chinese": "尽管中国",
+		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "even though china did",
+		"chinese": "尽管中国确实如此",
+		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /tʃˈaɪnə/ /dɪd/"
+	},
+	{
+		"english": "even though china did not",
+		"chinese": "尽管中国没有",
+		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /tʃˈaɪnə/ /dɪd/ /nˈɑːt/"
+	},
+	{
+		"english": "even though china did not openly",
+		"chinese": "尽管中国没有公开表示",
+		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /tʃˈaɪnə/ /dɪd/ /nˈɑːt/ /ˈoʊpənliː/"
+	},
+	{
+		"english": "even though china did not openly allow",
+		"chinese": "尽管中国并未公开允许",
+		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /tʃˈaɪnə/ /dɪd/ /nˈɑːt/ /ˈoʊpənliː/ /əlˈaʊ/"
+	},
+	{
+		"english": "even though china did not openly allow emigration",
+		"chinese": "尽管中国并未公开允许移民",
+		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /tʃˈaɪnə/ /dɪd/ /nˈɑːt/ /ˈoʊpənliː/ /əlˈaʊ/ /ˌɛːməɡrˈeɪʃən/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in a",
+		"chinese": "在……中",
+		"soundmark": "/ˈɪn/ /ˈeɪ/"
+	},
+	{
+		"english": "in a law",
+		"chinese": "在法律中",
+		"soundmark": "/ˈɪn/ /ˈeɪ/ /lˈɑː/"
+	},
+	{
+		"english": "in a law was",
+		"chinese": "在法律中",
+		"soundmark": "/ˈɪn/ /ˈeɪ/ /lˈɑː/ /wˈɔːz/"
+	},
+	{
+		"english": "in a law was passed",
+		"chinese": "一项法律已获得通过",
+		"soundmark": "/ˈɪn/ /ˈeɪ/ /lˈɑː/ /wˈɔːz/ /pˈæst/"
+	},
+	{
+		"english": "in a law was passed which",
+		"chinese": "通过了一项法律",
+		"soundmark": "/ˈɪn/ /ˈeɪ/ /lˈɑː/ /wˈɔːz/ /pˈæst/ /hwˈɪtʃ/"
+	},
+	{
+		"english": "in a law was passed which stated",
+		"chinese": "通过了一项法律，其中规定……",
+		"soundmark": "/ˈɪn/ /ˈeɪ/ /lˈɑː/ /wˈɔːz/ /pˈæst/ /hwˈɪtʃ/ /stˈeɪtɪd/"
+	},
+	{
+		"english": "in a law was passed which stated that",
+		"chinese": "通过了一项法律，其中规定……",
+		"soundmark": "/ˈɪn/ /ˈeɪ/ /lˈɑː/ /wˈɔːz/ /pˈæst/ /hwˈɪtʃ/ /stˈeɪtɪd/ /ðət/"
+	},
+	{
+		"english": "in a law was passed which stated that chinese",
+		"chinese": "通过了一项法律，规定中国……",
+		"soundmark": "/ˈɪn/ /ˈeɪ/ /lˈɑː/ /wˈɔːz/ /pˈæst/ /hwˈɪtʃ/ /stˈeɪtɪd/ /ðət/ /tʃaɪnˈiːz/"
+	},
+	{
+		"english": "seeking",
+		"chinese": "寻找",
+		"soundmark": "/sˈiːkɪŋ/"
+	},
+	{
+		"english": "seeking to",
+		"chinese": "寻求",
+		"soundmark": "/sˈiːkɪŋ/ /tə/"
+	},
+	{
+		"english": "seeking to work",
+		"chinese": "寻求工作",
+		"soundmark": "/sˈiːkɪŋ/ /tə/ /wˈɜːk/"
+	},
+	{
+		"english": "seeking to work in",
+		"chinese": "寻求工作",
+		"soundmark": "/sˈiːkɪŋ/ /tə/ /wˈɜːk/ /ˈɪn/"
+	},
+	{
+		"english": "seeking to work in the",
+		"chinese": "寻求工作机会",
+		"soundmark": "/sˈiːkɪŋ/ /tə/ /wˈɜːk/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "seeking to work in the british",
+		"chinese": "希望在英国工作",
+		"soundmark": "/sˈiːkɪŋ/ /tə/ /wˈɜːk/ /ˈɪn/ /ðiː/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "seeking to work in the british colonies",
+		"chinese": "寻求在英国殖民地工作",
+		"soundmark": "/sˈiːkɪŋ/ /tə/ /wˈɜːk/ /ˈɪn/ /ðiː/ /brˈɪtɪʃ/ /kˈɑːləniːz/"
+	},
+	{
+		"english": "seeking to work in the british colonies or",
+		"chinese": "寻求在英国殖民地工作",
+		"soundmark": "/sˈiːkɪŋ/ /tə/ /wˈɜːk/ /ˈɪn/ /ðiː/ /brˈɪtɪʃ/ /kˈɑːləniːz/ /ɜː/"
+	},
+	{
+		"english": "seeking to work in the british colonies or other",
+		"chinese": "寻求在英国殖民地或其他地区工作",
+		"soundmark": "/sˈiːkɪŋ/ /tə/ /wˈɜːk/ /ˈɪn/ /ðiː/ /brˈɪtɪʃ/ /kˈɑːləniːz/ /ɜː/ /ˈəðɜː/"
+	},
+	{
+		"english": "seeking to work in the british colonies or other places",
+		"chinese": "寻求在英国殖民地或其他地方工作",
+		"soundmark": "/sˈiːkɪŋ/ /tə/ /wˈɜːk/ /ˈɪn/ /ðiː/ /brˈɪtɪʃ/ /kˈɑːləniːz/ /ɜː/ /ˈəðɜː/ /plˈeɪsɪz/"
+	},
+	{
+		"english": "were",
+		"chinese": "是",
+		"soundmark": "/wˈɜː/"
+	},
+	{
+		"english": "were at",
+		"chinese": "在……处",
+		"soundmark": "/wˈɜː/ /ˈæt/"
+	},
+	{
+		"english": "were at liberty",
+		"chinese": "自由自在",
+		"soundmark": "/wˈɜː/ /ˈæt/ /lˈɪbɜːtiː/"
+	},
+	{
+		"english": "were at liberty to",
+		"chinese": "可以自由地",
+		"soundmark": "/wˈɜː/ /ˈæt/ /lˈɪbɜːtiː/ /tə/"
+	},
+	{
+		"english": "were at liberty to do",
+		"chinese": "可以自由做",
+		"soundmark": "/wˈɜː/ /ˈæt/ /lˈɪbɜːtiː/ /tə/ /dˈuː/"
+	},
+	{
+		"english": "were at liberty to do so",
+		"chinese": "可以这样做",
+		"soundmark": "/wˈɜː/ /ˈæt/ /lˈɪbɜːtiː/ /tə/ /dˈuː/ /sˈoʊ/"
+	},
+	{
+		"english": "they",
+		"chinese": "他们",
+		"soundmark": "/ðˈeɪ/"
+	},
+	{
+		"english": "they had",
+		"chinese": "他们有",
+		"soundmark": "/ðˈeɪ/ /hˈæd/"
+	},
+	{
+		"english": "they had only",
+		"chinese": "他们只有",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/"
+	},
+	{
+		"english": "they had only to",
+		"chinese": "他们只需……",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/"
+	},
+	{
+		"english": "they had only to ship",
+		"chinese": "他们只需发货即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/"
+	},
+	{
+		"english": "they had only to ship themselves",
+		"chinese": "他们只需自行运输即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/"
+	},
+	{
+		"english": "they had only to ship themselves and",
+		"chinese": "他们只需自行运输即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/"
+	},
+	{
+		"english": "they had only to ship themselves and their",
+		"chinese": "他们只需将自己及他们的... 运送过去即可。",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/"
+	},
+	{
+		"english": "they had only to ship themselves and their families",
+		"chinese": "他们只需运送自己及其家人即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/"
+	},
+	{
+		"english": "they had only to ship themselves and their families on",
+		"chinese": "他们只需将自己及其家人一起运送",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/"
+	},
+	{
+		"english": "they had only to ship themselves and their families on board",
+		"chinese": "他们只需将自己及家人运上船即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/"
+	},
+	{
+		"english": "they had only to ship themselves and their families on board any",
+		"chinese": "他们只需将自己及其家人运上船即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/"
+	},
+	{
+		"english": "they had only to ship themselves and their families on board any british",
+		"chinese": "他们只需将自己及其家人运上英国船只即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "they had only to ship themselves and their families on board any british vessel",
+		"chinese": "他们只需将自己和家人送上任何英国船只即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/"
+	},
+	{
+		"english": "they had only to ship themselves and their families on board any british vessel at",
+		"chinese": "他们只需将自己及其家人运上任何英国船只即可",
+		"soundmark": "/ðˈeɪ/ /hˈæd/ /ˈoʊnliː/ /tə/ /ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/ /ˈæt/"
+	},
+	{
+		"english": "ship themselves and their families on board any british vessel at any",
+		"chinese": "将他们本人及其家人登船，前往任何英国船只上",
+		"soundmark": "/ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/ /ˈæt/ /ˈɛːniː/"
+	},
+	{
+		"english": "ship themselves and their families on board any british vessel at any of",
+		"chinese": "随时将他们及其家人搭载到任何英国船只上",
+		"soundmark": "/ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/ /ˈæt/ /ˈɛːniː/ /əv/"
+	},
+	{
+		"english": "ship themselves and their families on board any british vessel at any of the",
+		"chinese": "随时将他们及其家人搭载在任何英国船只上",
+		"soundmark": "/ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/ /ˈæt/ /ˈɛːniː/ /əv/ /ðiː/"
+	},
+	{
+		"english": "ship themselves and their families on board any british vessel at any of the open",
+		"chinese": "将他们本人及其家人登船，前往任何英国船只上，在任何开放海域",
+		"soundmark": "/ʃˈɪp/ /ðəmsˈɛːlvz/ /ˈænd/ /ðˈɛːr/ /fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/ /ˈæt/ /ˈɛːniː/ /əv/ /ðiː/ /ˈoʊpən/"
+	},
+	{
+		"english": "families on board any british vessel at any of the open ports",
+		"chinese": "任何开放港口上任何英国船只上的家庭",
+		"soundmark": "/fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/ /ˈæt/ /ˈɛːniː/ /əv/ /ðiː/ /ˈoʊpən/ /pˈɔːrts/"
+	},
+	{
+		"english": "families on board any british vessel at any of the open ports in",
+		"chinese": "任何英国船只在开放港口的任何一处上的家庭",
+		"soundmark": "/fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/ /ˈæt/ /ˈɛːniː/ /əv/ /ðiː/ /ˈoʊpən/ /pˈɔːrts/ /ˈɪn/"
+	},
+	{
+		"english": "families on board any british vessel at any of the open ports in china",
+		"chinese": "中国任何开放港口上任何英国船只上的家庭",
+		"soundmark": "/fˈæmliːz/ /ˈɔːn/ /bˈɔːrd/ /ˈɛːniː/ /brˈɪtɪʃ/ /vˈɛːsəl/ /ˈæt/ /ˈɛːniː/ /əv/ /ðiː/ /ˈoʊpən/ /pˈɔːrts/ /ˈɪn/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "another",
+		"chinese": "另一个",
+		"soundmark": "/ənˈəðɜː/"
+	},
+	{
+		"english": "another treaty",
+		"chinese": "另一项条约",
+		"soundmark": "/ənˈəðɜː/ /trˈiːtiː/"
+	},
+	{
+		"english": "this",
+		"chinese": "这个",
+		"soundmark": "/ðɪs/"
+	},
+	{
+		"english": "this one",
+		"chinese": "这个",
+		"soundmark": "/ðɪs/ /hwˈən/"
+	},
+	{
+		"english": "this one with",
+		"chinese": "这个带有",
+		"soundmark": "/ðɪs/ /hwˈən/ /wɪð/"
+	},
+	{
+		"english": "this one with the",
+		"chinese": "这个带有……的",
+		"soundmark": "/ðɪs/ /hwˈən/ /wɪð/ /ðiː/"
+	},
+	{
+		"english": "this one with the united",
+		"chinese": "这个与联合队相关的",
+		"soundmark": "/ðɪs/ /hwˈən/ /wɪð/ /ðiː/ /juːnˈaɪtɪd/"
+	},
+	{
+		"english": "this one with the united states",
+		"chinese": "这个与美国有关的",
+		"soundmark": "/ðɪs/ /hwˈən/ /wɪð/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/"
+	},
+	{
+		"english": "gave",
+		"chinese": "给予",
+		"soundmark": "/ɡˈeɪv/"
+	},
+	{
+		"english": "gave the",
+		"chinese": "给予",
+		"soundmark": "/ɡˈeɪv/ /ðiː/"
+	},
+	{
+		"english": "gave the chinese",
+		"chinese": "给了中国",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/"
+	},
+	{
+		"english": "gave the chinese the",
+		"chinese": "让中国人……",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/"
+	},
+	{
+		"english": "gave the chinese the right",
+		"chinese": "赋予中国人权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/"
+	},
+	{
+		"english": "gave the chinese the right to",
+		"chinese": "赋予中国人权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/"
+	},
+	{
+		"english": "gave the chinese the right to change",
+		"chinese": "赋予中国人改变的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/"
+	},
+	{
+		"english": "gave the chinese the right to change their",
+		"chinese": "赋予中国人改变自己的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/"
+	},
+	{
+		"english": "gave the chinese the right to change their home",
+		"chinese": "赋予中国人改变家园的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/"
+	},
+	{
+		"english": "gave the chinese the right to change their home and",
+		"chinese": "赋予中国人改变住所的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/"
+	},
+	{
+		"english": "gave the chinese the right to change their home and loyalty",
+		"chinese": "赋予中国人改变家园和忠诚的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/"
+	},
+	{
+		"english": "gave the chinese the right to change their home and loyalty from",
+		"chinese": "赋予中国人改变家园和忠诚的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/"
+	},
+	{
+		"english": "gave the chinese the right to change their home and loyalty from one",
+		"chinese": "赋予中国人改变家园和忠诚对象的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/"
+	},
+	{
+		"english": "gave the chinese the right to change their home and loyalty from one country",
+		"chinese": "赋予中国人改变居住地和忠诚所属国家的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/ /kˈəntriː/"
+	},
+	{
+		"english": "gave the chinese the right to change their home and loyalty from one country to",
+		"chinese": "赋予中国民众改变居住地和忠诚对象从一国到另一国的权利",
+		"soundmark": "/ɡˈeɪv/ /ðiː/ /tʃaɪnˈiːz/ /ðiː/ /rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/ /kˈəntriː/ /tə/"
+	},
+	{
+		"english": "right to change their home and loyalty from one country to another",
+		"chinese": "改变住所和从一国转向另一国的权利",
+		"soundmark": "/rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/ /kˈəntriː/ /tə/ /ənˈəðɜː/"
+	},
+	{
+		"english": "right to change their home and loyalty from one country to another for",
+		"chinese": "改变住所和从一国转向另一国的忠诚的权利",
+		"soundmark": "/rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/ /kˈəntriː/ /tə/ /ənˈəðɜː/ /frɜː/"
+	},
+	{
+		"english": "right to change their home and loyalty from one country to another for the",
+		"chinese": "改变住所和从一国转向另一国的忠诚的权利",
+		"soundmark": "/rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/ /kˈəntriː/ /tə/ /ənˈəðɜː/ /frɜː/ /ðiː/"
+	},
+	{
+		"english": "right to change their home and loyalty from one country to another for the purposes",
+		"chinese": "为了特定目的，改变居住地以及从一国转向另一国的忠诚权",
+		"soundmark": "/rˈaɪt/ /tə/ /tʃˈeɪndʒ/ /ðˈɛːr/ /hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/ /kˈəntriː/ /tə/ /ənˈəðɜː/ /frɜː/ /ðiː/ /pˈɜːpəsɪz/"
+	},
+	{
+		"english": "home and loyalty from one country to another for the purposes of",
+		"chinese": "出于特定目的，从一个国家到另一个国家的家园与忠诚",
+		"soundmark": "/hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/ /kˈəntriː/ /tə/ /ənˈəðɜː/ /frɜː/ /ðiː/ /pˈɜːpəsɪz/ /əv/"
+	},
+	{
+		"english": "home and loyalty from one country to another for the purposes of curiosity",
+		"chinese": "出于好奇，从一个国家到另一个国家的家园与忠诚",
+		"soundmark": "/hˈoʊm/ /ˈænd/ /lˈɔɪəltiː/ /fɜːm/ /hwˈən/ /kˈəntriː/ /tə/ /ənˈəðɜː/ /frɜː/ /ðiː/ /pˈɜːpəsɪz/ /əv/ /kjˌʊriːˈɑːsətiː/"
+	},
+	{
+		"english": "of",
+		"chinese": "的",
+		"soundmark": "/əv/"
+	},
+	{
+		"english": "of trade",
+		"chinese": "贸易",
+		"soundmark": "/əv/ /trˈeɪd/"
+	},
+	{
+		"english": "or",
+		"chinese": "或",
+		"soundmark": "/ɜː/"
+	},
+	{
+		"english": "or as",
+		"chinese": "或作为",
+		"soundmark": "/ɜː/ /ˈɛːz/"
+	},
+	{
+		"english": "or as permanent",
+		"chinese": "或作为永久状态",
+		"soundmark": "/ɜː/ /ˈɛːz/ /pˈɜːmənənt/"
+	},
+	{
+		"english": "or as permanent residents",
+		"chinese": "或作为永久居民",
+		"soundmark": "/ɜː/ /ˈɛːz/ /pˈɜːmənənt/ /rˈɛːzɪdənts/"
+	},
+	{
+		"english": "thereby",
+		"chinese": "从而",
+		"soundmark": "/ðˈɛːrbˈaɪ/"
+	},
+	{
+		"english": "thereby opening",
+		"chinese": "从而开启",
+		"soundmark": "/ðˈɛːrbˈaɪ/ /ˈoʊpənɪŋ/"
+	},
+	{
+		"english": "thereby opening the",
+		"chinese": "从而打开",
+		"soundmark": "/ðˈɛːrbˈaɪ/ /ˈoʊpənɪŋ/ /ðiː/"
+	},
+	{
+		"english": "thereby opening the gates",
+		"chinese": "从而打开大门",
+		"soundmark": "/ðˈɛːrbˈaɪ/ /ˈoʊpənɪŋ/ /ðiː/ /ɡˈeɪts/"
+	},
+	{
+		"english": "thereby opening the gates for",
+		"chinese": "从而为……打开大门",
+		"soundmark": "/ðˈɛːrbˈaɪ/ /ˈoʊpənɪŋ/ /ðiː/ /ɡˈeɪts/ /frɜː/"
+	},
+	{
+		"english": "thereby opening the gates for emigration",
+		"chinese": "从而为移民开放大门",
+		"soundmark": "/ðˈɛːrbˈaɪ/ /ˈoʊpənɪŋ/ /ðiː/ /ɡˈeɪts/ /frɜː/ /ˌɛːməɡrˈeɪʃən/"
+	},
+	{
+		"english": "thereby opening the gates for emigration from",
+		"chinese": "从而为移民开放了通道",
+		"soundmark": "/ðˈɛːrbˈaɪ/ /ˈoʊpənɪŋ/ /ðiː/ /ɡˈeɪts/ /frɜː/ /ˌɛːməɡrˈeɪʃən/ /fɜːm/"
+	},
+	{
+		"english": "thereby opening the gates for emigration from china",
+		"chinese": "从而为从中国移民打开大门",
+		"soundmark": "/ðˈɛːrbˈaɪ/ /ˈoʊpənɪŋ/ /ðiː/ /ɡˈeɪts/ /frɜː/ /ˌɛːməɡrˈeɪʃən/ /fɜːm/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the gold",
+		"chinese": "黄金",
+		"soundmark": "/ðiː/ /ɡˈoʊld/"
+	},
+	{
+		"english": "the gold boom",
+		"chinese": "黄金热潮",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/"
+	},
+	{
+		"english": "the gold boom in",
+		"chinese": "黄金热潮",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/"
+	},
+	{
+		"english": "the gold boom in british",
+		"chinese": "英国的黄金热潮",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "the gold boom in british columbia",
+		"chinese": "不列颠哥伦比亚省的黄金热潮",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/"
+	},
+	{
+		"english": "the gold boom in british columbia in",
+		"chinese": "不列颠哥伦比亚省的黄金热潮",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/"
+	},
+	{
+		"english": "the gold boom in british columbia in the",
+		"chinese": "不列颠哥伦比亚省的黄金热潮",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "the gold boom in british columbia in the s",
+		"chinese": "不列颠哥伦比亚省的黄金热潮在20世纪",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/"
+	},
+	{
+		"english": "the gold boom in british columbia in the s was",
+		"chinese": "20世纪不列颠哥伦比亚省的黄金热潮",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/"
+	},
+	{
+		"english": "the gold boom in british columbia in the s was the",
+		"chinese": "19世纪不列颠哥伦比亚省的黄金热潮",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/"
+	},
+	{
+		"english": "the gold boom in british columbia in the s was the beginning",
+		"chinese": "20世纪不列颠哥伦比亚省的黄金热潮是开端",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/"
+	},
+	{
+		"english": "the gold boom in british columbia in the s was the beginning of",
+		"chinese": "19世纪不列颠哥伦比亚省的黄金热潮是……的开始",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/ /əv/"
+	},
+	{
+		"english": "the gold boom in british columbia in the s was the beginning of chinese",
+		"chinese": "20世纪不列颠哥伦比亚省的黄金热潮是中国人的开始",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/ /əv/ /tʃaɪnˈiːz/"
+	},
+	{
+		"english": "the gold boom in british columbia in the s was the beginning of chinese immigration",
+		"chinese": "20世纪不列颠哥伦比亚省的黄金热潮是中国移民的开始",
+		"soundmark": "/ðiː/ /ɡˈoʊld/ /bˈuːm/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/ /əv/ /tʃaɪnˈiːz/ /ˌɪməɡrˈeɪʃən/"
+	},
+	{
+		"english": "british columbia in the s was the beginning of chinese immigration from",
+		"chinese": "19世纪不列颠哥伦比亚是华人移民的起点",
+		"soundmark": "/brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/ /əv/ /tʃaɪnˈiːz/ /ˌɪməɡrˈeɪʃən/ /fɜːm/"
+	},
+	{
+		"english": "british columbia in the s was the beginning of chinese immigration from the",
+		"chinese": "19世纪不列颠哥伦比亚省是中国移民的起点",
+		"soundmark": "/brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/ /əv/ /tʃaɪnˈiːz/ /ˌɪməɡrˈeɪʃən/ /fɜːm/ /ðiː/"
+	},
+	{
+		"english": "british columbia in the s was the beginning of chinese immigration from the us",
+		"chinese": "20世纪时期的不列颠哥伦比亚地区是中国人从美国移民的起点",
+		"soundmark": "/brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/ /əv/ /tʃaɪnˈiːz/ /ˌɪməɡrˈeɪʃən/ /fɜːm/ /ðiː/ /jˈuːˈɛːs/"
+	},
+	{
+		"english": "british columbia in the s was the beginning of chinese immigration from the us into",
+		"chinese": "19世纪不列颠哥伦比亚省是中国移民从美国进入该地区的起点",
+		"soundmark": "/brˈɪtɪʃ/ /kəlˈəmbiːə/ /ˈɪn/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/ /əv/ /tʃaɪnˈiːz/ /ˌɪməɡrˈeɪʃən/ /fɜːm/ /ðiː/ /jˈuːˈɛːs/ /ɪntə/"
+	},
+	{
+		"english": "s was the beginning of chinese immigration from the us into canada",
+		"chinese": "这是中国移民从美国进入加拿大的开端",
+		"soundmark": "/ˈɛːs/ /wˈɔːz/ /ðiː/ /bɪɡˈɪnɪŋ/ /əv/ /tʃaɪnˈiːz/ /ˌɪməɡrˈeɪʃən/ /fɜːm/ /ðiː/ /jˈuːˈɛːs/ /ɪntə/ /kˈænədə/"
+	},
+	{
+		"english": "many",
+		"chinese": "许多",
+		"soundmark": "/mˈɛːniː/"
+	},
+	{
+		"english": "many of",
+		"chinese": "许多",
+		"soundmark": "/mˈɛːniː/ /əv/"
+	},
+	{
+		"english": "many of these",
+		"chinese": "这些中的许多",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/"
+	},
+	{
+		"english": "many of these early",
+		"chinese": "这些早期中的许多",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/"
+	},
+	{
+		"english": "many of these early immigrants",
+		"chinese": "许多这些早期移民",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/"
+	},
+	{
+		"english": "many of these early immigrants sailed",
+		"chinese": "许多这些早期移民乘船出发",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/"
+	},
+	{
+		"english": "many of these early immigrants sailed from",
+		"chinese": "许多这些早期移民从……出发",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/ /fɜːm/"
+	},
+	{
+		"english": "many of these early immigrants sailed from fujian",
+		"chinese": "许多这些早期移民从福建出发航行",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/ /fɜːm/ /fˌuːdʒˈiːən/"
+	},
+	{
+		"english": "many of these early immigrants sailed from fujian and",
+		"chinese": "许多这些早期移民从福建出发",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/ /fɜːm/ /fˌuːdʒˈiːən/ /ˈænd/"
+	},
+	{
+		"english": "many of these early immigrants sailed from fujian and guangdong",
+		"chinese": "许多早期移民来自福建和广东",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/ /fɜːm/ /fˌuːdʒˈiːən/ /ˈænd/ /ɡwˈɑːŋdˈɔːŋ/"
+	},
+	{
+		"english": "many of these early immigrants sailed from fujian and guangdong provinces",
+		"chinese": "许多早期移民来自福建和广东省份",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/ /fɜːm/ /fˌuːdʒˈiːən/ /ˈænd/ /ɡwˈɑːŋdˈɔːŋ/ /prˈɑːvənsəz/"
+	},
+	{
+		"english": "many of these early immigrants sailed from fujian and guangdong provinces to",
+		"chinese": "许多早期移民从福建和广东省份出发前往",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/ /fɜːm/ /fˌuːdʒˈiːən/ /ˈænd/ /ɡwˈɑːŋdˈɔːŋ/ /prˈɑːvənsəz/ /tə/"
+	},
+	{
+		"english": "many of these early immigrants sailed from fujian and guangdong provinces to san",
+		"chinese": "许多这些早期移民从福建和广东省份前往三",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/ /fɜːm/ /fˌuːdʒˈiːən/ /ˈænd/ /ɡwˈɑːŋdˈɔːŋ/ /prˈɑːvənsəz/ /tə/ /sˈæn/"
+	},
+	{
+		"english": "many of these early immigrants sailed from fujian and guangdong provinces to san francisco",
+		"chinese": "许多早期移民从福建和广东省份出发前往旧金山",
+		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ˈɜːliː/ /ˈɪməɡrənts/ /sˈeɪld/ /fɜːm/ /fˌuːdʒˈiːən/ /ˈænd/ /ɡwˈɑːŋdˈɔːŋ/ /prˈɑːvənsəz/ /tə/ /sˈæn/ /frænsˈɪskoʊ/"
+	},
+	{
+		"english": "when",
+		"chinese": "当……时",
+		"soundmark": "/hwˈɪn/"
+	},
+	{
+		"english": "when they",
+		"chinese": "当他们",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/"
+	},
+	{
+		"english": "when they heard",
+		"chinese": "当他们听到时",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/ /hˈɜːd/"
+	},
+	{
+		"english": "when they heard of",
+		"chinese": "当他们听到消息时",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/ /hˈɜːd/ /əv/"
+	},
+	{
+		"english": "when they heard of the",
+		"chinese": "当他们听到这个消息时",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/ /hˈɜːd/ /əv/ /ðiː/"
+	},
+	{
+		"english": "when they heard of the gold",
+		"chinese": "当他们听到关于黄金的消息时",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/ /hˈɜːd/ /əv/ /ðiː/ /ɡˈoʊld/"
+	},
+	{
+		"english": "when they heard of the gold discoveries",
+		"chinese": "当他们听到关于黄金发现的消息时",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/ /hˈɜːd/ /əv/ /ðiː/ /ɡˈoʊld/ /dɪskˈəvɜːiːz/"
+	},
+	{
+		"english": "when they heard of the gold discoveries in",
+		"chinese": "当他们听到关于黄金发现的消息时",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/ /hˈɜːd/ /əv/ /ðiː/ /ɡˈoʊld/ /dɪskˈəvɜːiːz/ /ˈɪn/"
+	},
+	{
+		"english": "when they heard of the gold discoveries in british",
+		"chinese": "当他们听到英国有黄金发现的消息时",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/ /hˈɜːd/ /əv/ /ðiː/ /ɡˈoʊld/ /dɪskˈəvɜːiːz/ /ˈɪn/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "when they heard of the gold discoveries in british columbia",
+		"chinese": "当他们听到不列颠哥伦比亚省有黄金发现的消息时",
+		"soundmark": "/hwˈɪn/ /ðˈeɪ/ /hˈɜːd/ /əv/ /ðiː/ /ɡˈoʊld/ /dɪskˈəvɜːiːz/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/"
+	},
+	{
+		"english": "many",
+		"chinese": "许多",
+		"soundmark": "/mˈɛːniː/"
+	},
+	{
+		"english": "many crossed",
+		"chinese": "许多交叉的",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/"
+	},
+	{
+		"english": "many crossed the",
+		"chinese": "许多人穿越了",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/"
+	},
+	{
+		"english": "many crossed the border",
+		"chinese": "许多人跨越了边界",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/"
+	},
+	{
+		"english": "many crossed the border into",
+		"chinese": "许多人穿越边界进入",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/"
+	},
+	{
+		"english": "many crossed the border into canada",
+		"chinese": "许多人穿越边界进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/"
+	},
+	{
+		"english": "many crossed the border into canada by",
+		"chinese": "许多人穿越边境进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/"
+	},
+	{
+		"english": "many crossed the border into canada by moving",
+		"chinese": "许多人通过移动穿越了边境进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/"
+	},
+	{
+		"english": "many crossed the border into canada by moving overland",
+		"chinese": "许多人通过陆路穿越边界进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/"
+	},
+	{
+		"english": "many crossed the border into canada by moving overland through",
+		"chinese": "许多人通过陆路穿越边界进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/ /θrˈuː/"
+	},
+	{
+		"english": "many crossed the border into canada by moving overland through oregon",
+		"chinese": "许多人通过穿越俄勒冈州徒步跨越边界进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/ /θrˈuː/ /ˈɔːrəɡˌɑːn/"
+	},
+	{
+		"english": "many crossed the border into canada by moving overland through oregon or",
+		"chinese": "许多人通过穿越俄勒冈州徒步进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/ /θrˈuː/ /ˈɔːrəɡˌɑːn/ /ɜː/"
+	},
+	{
+		"english": "many crossed the border into canada by moving overland through oregon or arriving",
+		"chinese": "许多人通过穿越俄勒冈州徒步或抵达的方式跨越边界进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/ /θrˈuː/ /ˈɔːrəɡˌɑːn/ /ɜː/ /ɜːˈaɪvɪŋ/"
+	},
+	{
+		"english": "many crossed the border into canada by moving overland through oregon or arriving by",
+		"chinese": "许多人通过穿越俄勒冈州徒步或乘船方式进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/ /θrˈuː/ /ˈɔːrəɡˌɑːn/ /ɜː/ /ɜːˈaɪvɪŋ/ /bˈaɪ/"
+	},
+	{
+		"english": "many crossed the border into canada by moving overland through oregon or arriving by sea",
+		"chinese": "许多人通过穿越俄勒冈州陆路或海上抵达，从而跨越边界进入加拿大",
+		"soundmark": "/mˈɛːniː/ /krˈɔːst/ /ðiː/ /bˈɔːrdɜː/ /ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/ /θrˈuː/ /ˈɔːrəɡˌɑːn/ /ɜː/ /ɜːˈaɪvɪŋ/ /bˈaɪ/ /sˈiː/"
+	},
+	{
+		"english": "into canada by moving overland through oregon or arriving by sea in",
+		"chinese": "通过穿越俄勒冈地区陆路前往加拿大，或海路抵达",
+		"soundmark": "/ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/ /θrˈuː/ /ˈɔːrəɡˌɑːn/ /ɜː/ /ɜːˈaɪvɪŋ/ /bˈaɪ/ /sˈiː/ /ˈɪn/"
+	},
+	{
+		"english": "into canada by moving overland through oregon or arriving by sea in victoria",
+		"chinese": "通过穿越俄勒冈州陆路或乘船抵达维多利亚，进入加拿大",
+		"soundmark": "/ɪntə/ /kˈænədə/ /bˈaɪ/ /mˈuːvɪŋ/ /ˈoʊvɜːlənd/ /θrˈuː/ /ˈɔːrəɡˌɑːn/ /ɜː/ /ɜːˈaɪvɪŋ/ /bˈaɪ/ /sˈiː/ /ˈɪn/ /vɪktˈɔːriːə/"
+	},
+	{
+		"english": "when",
+		"chinese": "当……时",
+		"soundmark": "/hwˈɪn/"
+	},
+	{
+		"english": "when the",
+		"chinese": "当……时",
+		"soundmark": "/hwˈɪn/ /ðiː/"
+	},
+	{
+		"english": "when the gold",
+		"chinese": "当黄金存在时",
+		"soundmark": "/hwˈɪn/ /ðiː/ /ɡˈoʊld/"
+	},
+	{
+		"english": "when the gold deposits",
+		"chinese": "当金矿存在时",
+		"soundmark": "/hwˈɪn/ /ðiː/ /ɡˈoʊld/ /dɪpˈɑːzəts/"
+	},
+	{
+		"english": "when the gold deposits were",
+		"chinese": "当金矿被发现时",
+		"soundmark": "/hwˈɪn/ /ðiː/ /ɡˈoʊld/ /dɪpˈɑːzəts/ /wˈɜː/"
+	},
+	{
+		"english": "when the gold deposits were depleted",
+		"chinese": "当黄金矿藏被耗尽时",
+		"soundmark": "/hwˈɪn/ /ðiː/ /ɡˈoʊld/ /dɪpˈɑːzəts/ /wˈɜː/ /dɪplˈiːtɪd/"
+	},
+	{
+		"english": "these",
+		"chinese": "这些",
+		"soundmark": "/ðˈiːz/"
+	},
+	{
+		"english": "these early",
+		"chinese": "这些早期",
+		"soundmark": "/ðˈiːz/ /ˈɜːliː/"
+	},
+	{
+		"english": "these early settlers",
+		"chinese": "这些早期定居者",
+		"soundmark": "/ðˈiːz/ /ˈɜːliː/ /sˈɛːtəlɜːz/"
+	},
+	{
+		"english": "these early settlers stayed",
+		"chinese": "这些早期定居者留了下来",
+		"soundmark": "/ðˈiːz/ /ˈɜːliː/ /sˈɛːtəlɜːz/ /stˈeɪd/"
+	},
+	{
+		"english": "moving",
+		"chinese": "移动",
+		"soundmark": "/mˈuːvɪŋ/"
+	},
+	{
+		"english": "moving into",
+		"chinese": "搬入",
+		"soundmark": "/mˈuːvɪŋ/ /ɪntə/"
+	},
+	{
+		"english": "moving into occupations",
+		"chinese": "开始从事职业工作",
+		"soundmark": "/mˈuːvɪŋ/ /ɪntə/ /ˌɑːkjəpˈeɪʃənz/"
+	},
+	{
+		"english": "moving into occupations like",
+		"chinese": "从事这样的职业",
+		"soundmark": "/mˈuːvɪŋ/ /ɪntə/ /ˌɑːkjəpˈeɪʃənz/ /lˈaɪk/"
+	},
+	{
+		"english": "moving into occupations like gardening",
+		"chinese": "从事园艺这样的职业",
+		"soundmark": "/mˈuːvɪŋ/ /ɪntə/ /ˌɑːkjəpˈeɪʃənz/ /lˈaɪk/ /ɡˈɑːrdnɪŋ/"
+	},
+	{
+		"english": "farming",
+		"chinese": "农业",
+		"soundmark": "/fˈɑːrmɪŋ/"
+	},
+	{
+		"english": "domestic",
+		"chinese": "家庭",
+		"soundmark": "/dəmˈɛːstɪk/"
+	},
+	{
+		"english": "domestic service",
+		"chinese": "家政服务",
+		"soundmark": "/dəmˈɛːstɪk/ /sˈɜːvɪs/"
+	},
+	{
+		"english": "road",
+		"chinese": "道路",
+		"soundmark": "/rˈoʊd/"
+	},
+	{
+		"english": "road construction",
+		"chinese": "道路建设",
+		"soundmark": "/rˈoʊd/ /kənstrˈəkʃən/"
+	},
+	{
+		"english": "and",
+		"chinese": "和",
+		"soundmark": "/ˈænd/"
+	},
+	{
+		"english": "and railway",
+		"chinese": "和铁路",
+		"soundmark": "/ˈænd/ /rˈeɪlwˌeɪ/"
+	},
+	{
+		"english": "and railway building",
+		"chinese": "以及铁路建设",
+		"soundmark": "/ˈænd/ /rˈeɪlwˌeɪ/ /bˈɪldɪŋ/"
+	},
+	{
+		"english": "yip",
+		"chinese": "耶普",
+		"soundmark": "/jˈɪp/"
+	},
+	{
+		"english": "yip sang",
+		"chinese": "耶普·桑",
+		"soundmark": "/jˈɪp/ /sˈæŋ/"
+	}
+]

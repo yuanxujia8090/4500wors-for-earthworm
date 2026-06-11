@@ -1,0 +1,437 @@
+[
+	{
+		"english": "i was reminded of",
+		"chinese": "这让我想起了",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/"
+	},
+	{
+		"english": "i was reminded of the",
+		"chinese": "这让我想起了……",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/"
+	},
+	{
+		"english": "i was reminded of the extreme",
+		"chinese": "这让我想起了极度的状态",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/"
+	},
+	{
+		"english": "i was reminded of the extreme weather",
+		"chinese": "这让我想起了极端的天气状况",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/"
+	},
+	{
+		"english": "i was reminded of the extreme weather that",
+		"chinese": "这让我想起了极端的天气状况",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/"
+	},
+	{
+		"english": "i was reminded of the extreme weather that affected",
+		"chinese": "这让我想起了那些影响极大的天气状况",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/"
+	},
+	{
+		"english": "i was reminded of the extreme weather that affected the",
+		"chinese": "这让我想起了那些影响……的极端天气。",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/"
+	},
+	{
+		"english": "i was reminded of the extreme weather that affected the residents",
+		"chinese": "这让我想起了影响居民的极端天气",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/ /rˈɛːzɪdənts/"
+	},
+	{
+		"english": "i was reminded of the extreme weather that affected the residents of",
+		"chinese": "这让我想起了影响居民们的极端天气。",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/ /rˈɛːzɪdənts/ /əv/"
+	},
+	{
+		"english": "i was reminded of the extreme weather that affected the residents of north",
+		"chinese": "这让我想起了影响北方居民的极端天气。",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/ /rˈɛːzɪdənts/ /əv/ /nˈɔːrθ/"
+	},
+	{
+		"english": "i was reminded of the extreme weather that affected the residents of north america",
+		"chinese": "这让我想起了影响北美洲居民的极端天气。",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/ /rˈɛːzɪdənts/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/"
+	},
+	{
+		"english": "hurricanes",
+		"chinese": "飓风",
+		"soundmark": "/hˈɜːəkˌeɪnz/"
+	},
+	{
+		"english": "tornadoes",
+		"chinese": "龙卷风",
+		"soundmark": "/tɔːrnˈeɪdoʊz/"
+	},
+	{
+		"english": "snowstorms",
+		"chinese": "雪暴",
+		"soundmark": "/snˈoʊstˌɔːrmz/"
+	},
+	{
+		"english": "ice",
+		"chinese": "冰",
+		"soundmark": "/ˈaɪs/"
+	},
+	{
+		"english": "ice storms",
+		"chinese": "冰暴",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/"
+	},
+	{
+		"english": "ice storms and",
+		"chinese": "冰暴和",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/"
+	},
+	{
+		"english": "ice storms and electrical",
+		"chinese": "冰暴与电学",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/"
+	},
+	{
+		"english": "ice storms and electrical storms",
+		"chinese": "冰暴和电暴",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/"
+	},
+	{
+		"english": "ice storms and electrical storms are",
+		"chinese": "冰暴和电暴",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/"
+	},
+	{
+		"english": "ice storms and electrical storms are all",
+		"chinese": "冰暴和电暴都是",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/"
+	},
+	{
+		"english": "ice storms and electrical storms are all examples",
+		"chinese": "冰暴和电暴都是例子",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/"
+	},
+	{
+		"english": "ice storms and electrical storms are all examples of",
+		"chinese": "冰暴和电暴都是这样的例子",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/"
+	},
+	{
+		"english": "ice storms and electrical storms are all examples of extreme",
+		"chinese": "冰暴和电暴都是极端现象的例子",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/"
+	},
+	{
+		"english": "ice storms and electrical storms are all examples of extreme weather",
+		"chinese": "冰暴和电风暴都是极端天气的例子",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/"
+	},
+	{
+		"english": "ice storms and electrical storms are all examples of extreme weather that",
+		"chinese": "冰暴和电风暴都是极端天气的例子",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/"
+	},
+	{
+		"english": "ice storms and electrical storms are all examples of extreme weather that may",
+		"chinese": "冰暴和电风暴都是极端天气的例子，可能会",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/"
+	},
+	{
+		"english": "ice storms and electrical storms are all examples of extreme weather that may challenge",
+		"chinese": "冰暴和电风暴都是可能带来挑战的极端天气现象",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/ /tʃˈæləndʒ/"
+	},
+	{
+		"english": "ice storms and electrical storms are all examples of extreme weather that may challenge an",
+		"chinese": "冰暴和电风暴都是可能带来挑战的极端天气现象。",
+		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/ /tʃˈæləndʒ/ /ən/"
+	},
+	{
+		"english": "storms are all examples of extreme weather that may challenge an entire",
+		"chinese": "风暴都是极端天气的实例，可能会对整个……造成挑战",
+		"soundmark": "/stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/ /tʃˈæləndʒ/ /ən/ /ɪntˈaɪɜː/"
+	},
+	{
+		"english": "storms are all examples of extreme weather that may challenge an entire community",
+		"chinese": "风暴都是极端天气的实例，可能会对整个社区造成挑战",
+		"soundmark": "/stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/ /tʃˈæləndʒ/ /ən/ /ɪntˈaɪɜː/ /kəmjˈuːnɪtiː/"
+	},
+	{
+		"english": "each",
+		"chinese": "每个",
+		"soundmark": "/ˈiːtʃ/"
+	},
+	{
+		"english": "each storm",
+		"chinese": "每场风暴",
+		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/"
+	},
+	{
+		"english": "each storm is",
+		"chinese": "每场风暴都是",
+		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/ /ɪz/"
+	},
+	{
+		"english": "each storm is unique",
+		"chinese": "每场风暴都独一无二",
+		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/ /ɪz/ /juːnˈiːk/"
+	},
+	{
+		"english": "each storm is unique in",
+		"chinese": "每场风暴都独一无二",
+		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/ /ɪz/ /juːnˈiːk/ /ˈɪn/"
+	},
+	{
+		"english": "each storm is unique in character",
+		"chinese": "每场风暴的特性都各不相同",
+		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/ /ɪz/ /juːnˈiːk/ /ˈɪn/ /kˈɛːrɪktɜː/"
+	},
+	{
+		"english": "contributing",
+		"chinese": "贡献",
+		"soundmark": "/kəntrˈɪbjuːtɪŋ/"
+	},
+	{
+		"english": "contributing its",
+		"chinese": "贡献其力量",
+		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/"
+	},
+	{
+		"english": "contributing its own",
+		"chinese": "贡献自己的力量",
+		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/"
+	},
+	{
+		"english": "contributing its own particular",
+		"chinese": "贡献其独特的特色",
+		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/ /pˌɑːtˈɪkjəlɜː/"
+	},
+	{
+		"english": "contributing its own particular fascination",
+		"chinese": "贡献其独特的魅力",
+		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/ /pˌɑːtˈɪkjəlɜː/ /fˌæsənˈeɪʃən/"
+	},
+	{
+		"english": "contributing its own particular fascination and",
+		"chinese": "贡献其独特的魅力与吸引力",
+		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/ /pˌɑːtˈɪkjəlɜː/ /fˌæsənˈeɪʃən/ /ˈænd/"
+	},
+	{
+		"english": "contributing its own particular fascination and fear",
+		"chinese": "贡献其独特的吸引力和恐惧感",
+		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/ /pˌɑːtˈɪkjəlɜː/ /fˌæsənˈeɪʃən/ /ˈænd/ /fˈɪr/"
+	},
+	{
+		"english": "every",
+		"chinese": "每个",
+		"soundmark": "/ˈɛːvriː/"
+	},
+	{
+		"english": "every fall",
+		"chinese": "每年秋天",
+		"soundmark": "/ˈɛːvriː/ /fˈɑːl/"
+	},
+	{
+		"english": "every fall hurricanes",
+		"chinese": "每年秋天都会发生飓风",
+		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/"
+	},
+	{
+		"english": "every fall hurricanes slam",
+		"chinese": "每年秋天，飓风都会猛烈来袭",
+		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/"
+	},
+	{
+		"english": "every fall hurricanes slam the",
+		"chinese": "每年秋天，飓风都会猛烈来袭",
+		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/ /ðiː/"
+	},
+	{
+		"english": "every fall hurricanes slam the united",
+		"chinese": "每年秋天，飓风袭击了美国。",
+		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/ /ðiː/ /juːnˈaɪtɪd/"
+	},
+	{
+		"english": "every fall hurricanes slam the united states",
+		"chinese": "每年秋天，飓风都会袭击美国",
+		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/"
+	},
+	{
+		"english": "every fall hurricanes slam the united states coast",
+		"chinese": "每年秋天，飓风都会袭击美国海岸",
+		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/ /kˈoʊst/"
+	},
+	{
+		"english": "they",
+		"chinese": "他们",
+		"soundmark": "/ðˈeɪ/"
+	},
+	{
+		"english": "they upset",
+		"chinese": "他们感到不安",
+		"soundmark": "/ðˈeɪ/ /ˈəpsˌɛːt/"
+	},
+	{
+		"english": "they upset boats",
+		"chinese": "它们使船只不安",
+		"soundmark": "/ðˈeɪ/ /ˈəpsˌɛːt/ /bˈoʊts/"
+	},
+	{
+		"english": "fell",
+		"chinese": "倒下",
+		"soundmark": "/fˈɛːl/"
+	},
+	{
+		"english": "fell mature",
+		"chinese": "成熟掉落",
+		"soundmark": "/fˈɛːl/ /mətjˈʊr/"
+	},
+	{
+		"english": "fell mature trees",
+		"chinese": "成熟的倒下树木",
+		"soundmark": "/fˈɛːl/ /mətjˈʊr/ /trˈiːz/"
+	},
+	{
+		"english": "wash",
+		"chinese": "洗",
+		"soundmark": "/wˈɔːʃ/"
+	},
+	{
+		"english": "wash away",
+		"chinese": "冲走",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/"
+	},
+	{
+		"english": "wash away sections",
+		"chinese": "冲走部分",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/"
+	},
+	{
+		"english": "wash away sections of",
+		"chinese": "冲走部分",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/"
+	},
+	{
+		"english": "wash away sections of public",
+		"chinese": "清除部分公共区域",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/"
+	},
+	{
+		"english": "wash away sections of public beaches",
+		"chinese": "清理公共海滩的部分区域",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/"
+	},
+	{
+		"english": "wash away sections of public beaches and",
+		"chinese": "冲毁部分公共海滩区域",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/ /ˈænd/"
+	},
+	{
+		"english": "wash away sections of public beaches and often",
+		"chinese": "冲毁部分公共海滩，而且经常",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/ /ˈænd/ /ˈɔːftən/"
+	},
+	{
+		"english": "wash away sections of public beaches and often cause",
+		"chinese": "冲毁公共海滩的部分区域，常常造成",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/ /ˈænd/ /ˈɔːftən/ /kˈɔːz/"
+	},
+	{
+		"english": "wash away sections of public beaches and often cause death",
+		"chinese": "冲毁公共海滩的部分区域，常常导致死亡",
+		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/ /ˈænd/ /ˈɔːftən/ /kˈɔːz/ /dˈɛːθ/"
+	},
+	{
+		"english": "fortunately",
+		"chinese": "幸运地",
+		"soundmark": "/fˈɔːrtʃuːnətliː/"
+	},
+	{
+		"english": "fortunately with",
+		"chinese": "幸运的是，随着",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/"
+	},
+	{
+		"english": "fortunately with the",
+		"chinese": "幸运的是，随着……",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/"
+	},
+	{
+		"english": "fortunately with the advantage",
+		"chinese": "幸运的是有这个优势",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/"
+	},
+	{
+		"english": "fortunately with the advantage of",
+		"chinese": "幸运的是，有这个优势",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/"
+	},
+	{
+		"english": "fortunately with the advantage of modern",
+		"chinese": "幸运的是，有现代技术的优势",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior",
+		"chinese": "幸运的是，有现代技术的优势",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior warning",
+		"chinese": "幸运的是，有现代提前预警的优势",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior warning systems",
+		"chinese": "幸运的是，有现代预警系统的优势",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior warning systems authorities",
+		"chinese": "幸运的是，有了现代预警系统的优势，当局",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior warning systems authorities are",
+		"chinese": "幸运的是，借助现代预警系统的优势，当局能够……",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior warning systems authorities are able",
+		"chinese": "幸运的是，借助现代预警系统的优势，当局能够……",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior warning systems authorities are able to",
+		"chinese": "幸运的是，借助现代预警系统的优势，当局能够",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior warning systems authorities are able to keep",
+		"chinese": "幸运的是，借助现代预警系统的优势，当局能够保持",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/"
+	},
+	{
+		"english": "fortunately with the advantage of modern prior warning systems authorities are able to keep the",
+		"chinese": "幸运的是，借助现代预警系统的优势，当局能够保持",
+		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/"
+	},
+	{
+		"english": "of modern prior warning systems authorities are able to keep the chaos",
+		"chinese": "现代预警系统使得当局能够避免混乱",
+		"soundmark": "/əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/ /kˈeɪɑːs/"
+	},
+	{
+		"english": "of modern prior warning systems authorities are able to keep the chaos to",
+		"chinese": "现代预警系统使得当局能够控制混乱局面",
+		"soundmark": "/əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/ /kˈeɪɑːs/ /tə/"
+	},
+	{
+		"english": "of modern prior warning systems authorities are able to keep the chaos to a",
+		"chinese": "现代预警系统使得当局能够控制混乱局面",
+		"soundmark": "/əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/ /kˈeɪɑːs/ /tə/ /ˈeɪ/"
+	},
+	{
+		"english": "of modern prior warning systems authorities are able to keep the chaos to a minimum",
+		"chinese": "现代预警系统使得当局能够将混乱程度降至最低",
+		"soundmark": "/əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/ /kˈeɪɑːs/ /tə/ /ˈeɪ/ /mˈɪnəməm/"
+	}
+]

@@ -1,0 +1,437 @@
+[
+	{
+		"english": "today",
+		"chinese": "今天",
+		"soundmark": "/tuːdˈeɪ/"
+	},
+	{
+		"english": "today the",
+		"chinese": "今天",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/"
+	},
+	{
+		"english": "today the wind",
+		"chinese": "今天的风",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/"
+	},
+	{
+		"english": "today the wind and",
+		"chinese": "今天风很大",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/"
+	},
+	{
+		"english": "today the wind and rain",
+		"chinese": "今天风大雨密",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/"
+	},
+	{
+		"english": "today the wind and rain drove",
+		"chinese": "今天风雨交加",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/"
+	},
+	{
+		"english": "today the wind and rain drove fiercely",
+		"chinese": "今天风雨很大",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/"
+	},
+	{
+		"english": "today the wind and rain drove fiercely against",
+		"chinese": "今天风雨猛烈地吹打着",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/ /əɡˈeɪnst/"
+	},
+	{
+		"english": "today the wind and rain drove fiercely against my",
+		"chinese": "今天风雨猛烈地冲击着我",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/ /əɡˈeɪnst/ /mˈaɪ/"
+	},
+	{
+		"english": "today the wind and rain drove fiercely against my apartment",
+		"chinese": "今天风雨猛烈地冲击着我的公寓",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/ /əɡˈeɪnst/ /mˈaɪ/ /əpˈɑːrtmənt/"
+	},
+	{
+		"english": "today the wind and rain drove fiercely against my apartment window",
+		"chinese": "今天风雨猛烈地拍打着我的公寓窗户",
+		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/ /əɡˈeɪnst/ /mˈaɪ/ /əpˈɑːrtmənt/ /wˈɪndoʊ/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it was",
+		"chinese": "就是",
+		"soundmark": "/ɪt/ /wˈɔːz/"
+	},
+	{
+		"english": "it was the",
+		"chinese": "就是它",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/"
+	},
+	{
+		"english": "it was the tail",
+		"chinese": "那是尾巴",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/"
+	},
+	{
+		"english": "it was the tail end",
+		"chinese": "那是最后阶段",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/ /ˈɛːnd/"
+	},
+	{
+		"english": "it was the tail end of",
+		"chinese": "那是最后阶段",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/ /ˈɛːnd/ /əv/"
+	},
+	{
+		"english": "it was the tail end of a",
+		"chinese": "那是最后阶段",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/ /ˈɛːnd/ /əv/ /ˈeɪ/"
+	},
+	{
+		"english": "it was the tail end of a typhoon",
+		"chinese": "那是台风的尾声",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/ /ˈɛːnd/ /əv/ /ˈeɪ/ /tˌaɪfˈuːn/"
+	},
+	{
+		"english": "every",
+		"chinese": "每个",
+		"soundmark": "/ˈɛːvriː/"
+	},
+	{
+		"english": "every year",
+		"chinese": "每年",
+		"soundmark": "/ˈɛːvriː/ /jˈɪr/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as the",
+		"chinese": "因为",
+		"soundmark": "/ˈɛːz/ /ðiː/"
+	},
+	{
+		"english": "as the calendar",
+		"chinese": "如日历所示",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/"
+	},
+	{
+		"english": "as the calendar indicates",
+		"chinese": "如日历所示",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/"
+	},
+	{
+		"english": "as the calendar indicates the",
+		"chinese": "如日历所示",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/ /ðiː/"
+	},
+	{
+		"english": "as the calendar indicates the approach",
+		"chinese": "如日历所示，即将到来",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/ /ðiː/ /əprˈoʊtʃ/"
+	},
+	{
+		"english": "as the calendar indicates the approach of",
+		"chinese": "如日历所示，即将到来",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/ /ðiː/ /əprˈoʊtʃ/ /əv/"
+	},
+	{
+		"english": "as the calendar indicates the approach of autumn",
+		"chinese": "如日历所示，秋天即将来临",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/ /ðiː/ /əprˈoʊtʃ/ /əv/ /ˈɔːtəm/"
+	},
+	{
+		"english": "these",
+		"chinese": "这些",
+		"soundmark": "/ðˈiːz/"
+	},
+	{
+		"english": "these destructive",
+		"chinese": "这些破坏性行为",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/"
+	},
+	{
+		"english": "these destructive tropical",
+		"chinese": "这些破坏性的热带物种",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/"
+	},
+	{
+		"english": "these destructive tropical storms",
+		"chinese": "这些具有破坏性的热带风暴",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/"
+	},
+	{
+		"english": "these destructive tropical storms account",
+		"chinese": "这些破坏性的热带风暴",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/"
+	},
+	{
+		"english": "these destructive tropical storms account for",
+		"chinese": "这些破坏性的热带风暴占……比例",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/"
+	},
+	{
+		"english": "these destructive tropical storms account for both",
+		"chinese": "这些破坏性的热带风暴导致了两者",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/"
+	},
+	{
+		"english": "these destructive tropical storms account for both death",
+		"chinese": "这些破坏性的热带风暴导致了大量死亡",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/"
+	},
+	{
+		"english": "these destructive tropical storms account for both death and",
+		"chinese": "这些破坏性的热带风暴导致了死亡和",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/"
+	},
+	{
+		"english": "these destructive tropical storms account for both death and destruction",
+		"chinese": "这些破坏性的热带风暴导致了死亡和破坏。",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/"
+	},
+	{
+		"english": "these destructive tropical storms account for both death and destruction along",
+		"chinese": "这些破坏性的热带风暴导致了死亡和破坏。",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/ /əlˈɔːŋ/"
+	},
+	{
+		"english": "these destructive tropical storms account for both death and destruction along asia",
+		"chinese": "这些破坏性的热带风暴导致了亚洲地区的死亡和破坏。",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/ /əlˈɔːŋ/ /ˈeɪʒə/"
+	},
+	{
+		"english": "these destructive tropical storms account for both death and destruction along asia s",
+		"chinese": "这些破坏性的热带风暴导致了亚洲地区的死亡和破坏。",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/ /əlˈɔːŋ/ /ˈeɪʒə/ /ˈɛːs/"
+	},
+	{
+		"english": "these destructive tropical storms account for both death and destruction along asia s coasts",
+		"chinese": "这些破坏性的热带风暴导致了亚洲海岸地区的死亡和破坏。",
+		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/ /əlˈɔːŋ/ /ˈeɪʒə/ /ˈɛːs/ /kˈoʊs/"
+	},
+	{
+		"english": "on",
+		"chinese": "在",
+		"soundmark": "/ˈɔːn/"
+	},
+	{
+		"english": "on an",
+		"chinese": "在……上",
+		"soundmark": "/ˈɔːn/ /ən/"
+	},
+	{
+		"english": "on an average",
+		"chinese": "平均而言",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/"
+	},
+	{
+		"english": "on an average there",
+		"chinese": "平均而言",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/"
+	},
+	{
+		"english": "on an average there may",
+		"chinese": "平均而言可能",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/"
+	},
+	{
+		"english": "on an average there may be",
+		"chinese": "平均而言可能",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/"
+	},
+	{
+		"english": "on an average there may be fifteen",
+		"chinese": "平均而言可能有十五个",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/"
+	},
+	{
+		"english": "on an average there may be fifteen such",
+		"chinese": "平均而言可能有十五个这样的",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/ /sˈətʃ/"
+	},
+	{
+		"english": "on an average there may be fifteen such storms",
+		"chinese": "平均而言可能会有十五次这样的风暴",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/ /sˈətʃ/ /stˈɔːrmz/"
+	},
+	{
+		"english": "on an average there may be fifteen such storms every",
+		"chinese": "平均而言，可能每场有十五次这样的风暴",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/ /sˈətʃ/ /stˈɔːrmz/ /ˈɛːvriː/"
+	},
+	{
+		"english": "on an average there may be fifteen such storms every year",
+		"chinese": "平均每年可能会有十五次这样的风暴",
+		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/ /sˈətʃ/ /stˈɔːrmz/ /ˈɛːvriː/ /jˈɪr/"
+	},
+	{
+		"english": "although",
+		"chinese": "尽管",
+		"soundmark": "/ˌɔːlðˈoʊ/"
+	},
+	{
+		"english": "although many",
+		"chinese": "尽管很多",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/"
+	},
+	{
+		"english": "although many civilians",
+		"chinese": "尽管有许多平民",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/"
+	},
+	{
+		"english": "although many civilians adopt",
+		"chinese": "尽管许多平民采用",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/"
+	},
+	{
+		"english": "although many civilians adopt a",
+		"chinese": "尽管许多平民采用……",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/"
+	},
+	{
+		"english": "although many civilians adopt a casual",
+		"chinese": "尽管许多平民表现得很随意",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/"
+	},
+	{
+		"english": "although many civilians adopt a casual attitude",
+		"chinese": "尽管许多平民采取随意的态度",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/ /ˈætətˌuːd/"
+	},
+	{
+		"english": "although many civilians adopt a casual attitude towards",
+		"chinese": "尽管许多平民对...持随意态度",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/ /ˈætətˌuːd/ /tˈɔːrdz/"
+	},
+	{
+		"english": "although many civilians adopt a casual attitude towards these",
+		"chinese": "尽管许多平民对这些持随意态度",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/ /ˈætətˌuːd/ /tˈɔːrdz/ /ðˈiːz/"
+	},
+	{
+		"english": "although many civilians adopt a casual attitude towards these events",
+		"chinese": "尽管许多平民对这些事件持随意态度",
+		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/ /ˈætətˌuːd/ /tˈɔːrdz/ /ðˈiːz/ /iːvˈɛːnts/"
+	},
+	{
+		"english": "awareness",
+		"chinese": "意识",
+		"soundmark": "/əwˈɛːrnəs/"
+	},
+	{
+		"english": "awareness is",
+		"chinese": "意识是",
+		"soundmark": "/əwˈɛːrnəs/ /ɪz/"
+	},
+	{
+		"english": "awareness is advisable",
+		"chinese": "提高意识很有必要",
+		"soundmark": "/əwˈɛːrnəs/ /ɪz/ /ədvˈaɪzəbəl/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as the",
+		"chinese": "因为",
+		"soundmark": "/ˈɛːz/ /ðiː/"
+	},
+	{
+		"english": "as the water",
+		"chinese": "随着水流动",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/"
+	},
+	{
+		"english": "as the water dripped",
+		"chinese": "当水滴落下来时",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/"
+	},
+	{
+		"english": "as the water dripped from",
+		"chinese": "当水从……滴下时",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/"
+	},
+	{
+		"english": "as the water dripped from my",
+		"chinese": "当水从我身上滴落时",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/"
+	},
+	{
+		"english": "as the water dripped from my balcony",
+		"chinese": "水从我的阳台滴下来",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/"
+	},
+	{
+		"english": "as the water dripped from my balcony and",
+		"chinese": "水从我的阳台滴下来",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/"
+	},
+	{
+		"english": "as the water dripped from my balcony and accumulated",
+		"chinese": "水从我的阳台滴下并聚集起来",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/"
+	},
+	{
+		"english": "as the water dripped from my balcony and accumulated into",
+		"chinese": "水从我的阳台滴落，聚集起来",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/"
+	},
+	{
+		"english": "as the water dripped from my balcony and accumulated into free",
+		"chinese": "水从我的阳台滴下，聚集成水洼",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/"
+	},
+	{
+		"english": "as the water dripped from my balcony and accumulated into free flowing",
+		"chinese": "水从我的阳台滴下，汇聚成流动的水流",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/"
+	},
+	{
+		"english": "as the water dripped from my balcony and accumulated into free flowing rivers",
+		"chinese": "水从我的阳台滴落，汇聚成流动的小河",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/"
+	},
+	{
+		"english": "as the water dripped from my balcony and accumulated into free flowing rivers on",
+		"chinese": "当水从我的阳台滴落，汇聚成流动的小河",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/ /ˈɔːn/"
+	},
+	{
+		"english": "as the water dripped from my balcony and accumulated into free flowing rivers on the",
+		"chinese": "当水从我的阳台滴落，汇聚成流畅的河流",
+		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/ /ˈɔːn/ /ðiː/"
+	},
+	{
+		"english": "from my balcony and accumulated into free flowing rivers on the road",
+		"chinese": "从我的阳台上，汇聚成道路上的流动河流",
+		"soundmark": "/fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/ /ˈɔːn/ /ðiː/ /rˈoʊd/"
+	},
+	{
+		"english": "from my balcony and accumulated into free flowing rivers on the road beneath",
+		"chinese": "从我的阳台上，汇聚成道路上的流动河流",
+		"soundmark": "/fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/ /ˈɔːn/ /ðiː/ /rˈoʊd/ /bɪnˈiːθ/"
+	},
+	{
+		"english": "i",
+		"chinese": "我",
+		"soundmark": "/ˈaɪ/"
+	},
+	{
+		"english": "i was",
+		"chinese": "我曾是",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/"
+	},
+	{
+		"english": "i was reminded",
+		"chinese": "我被提醒了",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/"
+	}
+]

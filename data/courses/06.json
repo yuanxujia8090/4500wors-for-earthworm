@@ -1,0 +1,487 @@
+[
+	{
+		"english": "william randolph hearst",
+		"chinese": "威廉·兰多夫·赫斯特",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/"
+	},
+	{
+		"english": "and",
+		"chinese": "和",
+		"soundmark": "/ˈænd/"
+	},
+	{
+		"english": "and to",
+		"chinese": "和to",
+		"soundmark": "/ˈænd/ /tə/"
+	},
+	{
+		"english": "and to understand",
+		"chinese": "并理解",
+		"soundmark": "/ˈænd/ /tə/ /ˌəndɜːstˈænd/"
+	},
+	{
+		"english": "and to understand the",
+		"chinese": "并理解它",
+		"soundmark": "/ˈænd/ /tə/ /ˌəndɜːstˈænd/ /ðiː/"
+	},
+	{
+		"english": "and to understand the man",
+		"chinese": "并了解这个人",
+		"soundmark": "/ˈænd/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /mˈæn/"
+	},
+	{
+		"english": "you",
+		"chinese": "你",
+		"soundmark": "/jˈuː/"
+	},
+	{
+		"english": "you have",
+		"chinese": "你拥有",
+		"soundmark": "/jˈuː/ /hˈæv/"
+	},
+	{
+		"english": "you have to",
+		"chinese": "你必须",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/"
+	},
+	{
+		"english": "you have to understand",
+		"chinese": "你必须理解",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/"
+	},
+	{
+		"english": "you have to understand the",
+		"chinese": "你必须理解",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/"
+	},
+	{
+		"english": "you have to understand the land",
+		"chinese": "你必须了解这片土地",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /lˈænd/"
+	},
+	{
+		"english": "you have to understand the land upon",
+		"chinese": "你必须了解这片土地的情况",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /lˈænd/ /əpˈɑːn/"
+	},
+	{
+		"english": "you have to understand the land upon which",
+		"chinese": "你必须了解所处于的这片土地",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /lˈænd/ /əpˈɑːn/ /hwˈɪtʃ/"
+	},
+	{
+		"english": "you have to understand the land upon which he",
+		"chinese": "你必须了解他所处于的这片土地",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /lˈænd/ /əpˈɑːn/ /hwˈɪtʃ/ /hˈiː/"
+	},
+	{
+		"english": "you have to understand the land upon which he built",
+		"chinese": "你必须了解他所建造的这片土地",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /lˈænd/ /əpˈɑːn/ /hwˈɪtʃ/ /hˈiː/ /bˈɪlt/"
+	},
+	{
+		"english": "you have to understand the land upon which he built his",
+		"chinese": "你必须了解他建造它的土地",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /lˈænd/ /əpˈɑːn/ /hwˈɪtʃ/ /hˈiː/ /bˈɪlt/ /hɪz/"
+	},
+	{
+		"english": "you have to understand the land upon which he built his dream",
+		"chinese": "你必须了解他构建梦想的那片土地",
+		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /lˈænd/ /əpˈɑːn/ /hwˈɪtʃ/ /hˈiː/ /bˈɪlt/ /hɪz/ /drˈiːm/"
+	},
+	{
+		"english": "born",
+		"chinese": "出生",
+		"soundmark": "/bˈɔːrn/"
+	},
+	{
+		"english": "born on",
+		"chinese": "出生于",
+		"soundmark": "/bˈɔːrn/ /ˈɔːn/"
+	},
+	{
+		"english": "born on april",
+		"chinese": "出生于四月",
+		"soundmark": "/bˈɔːrn/ /ˈɔːn/ /ˈeɪprəl/"
+	},
+	{
+		"english": "william",
+		"chinese": "威廉",
+		"soundmark": "/wˈɪljəm/"
+	},
+	{
+		"english": "william randolph",
+		"chinese": "威廉·兰多夫",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/"
+	},
+	{
+		"english": "william randolph hearst",
+		"chinese": "威廉·兰多夫·赫斯特",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/"
+	},
+	{
+		"english": "william randolph hearst was",
+		"chinese": "威廉·兰多夫·赫斯特",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/"
+	},
+	{
+		"english": "william randolph hearst was the",
+		"chinese": "威廉·兰多夫·赫斯特是",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/"
+	},
+	{
+		"english": "william randolph hearst was the only",
+		"chinese": "威廉·兰多夫·赫斯特是唯一的",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/ /ˈoʊnliː/"
+	},
+	{
+		"english": "william randolph hearst was the only child",
+		"chinese": "威廉·兰道夫·赫斯特是独生子",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/ /ˈoʊnliː/ /tʃˈaɪld/"
+	},
+	{
+		"english": "william randolph hearst was the only child of",
+		"chinese": "威廉·兰多夫·赫斯特是唯一的孩子",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/ /ˈoʊnliː/ /tʃˈaɪld/ /əv/"
+	},
+	{
+		"english": "william randolph hearst was the only child of george",
+		"chinese": "威廉·兰道夫·赫斯特是乔治唯一的孩子",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/ /ˈoʊnliː/ /tʃˈaɪld/ /əv/ /dʒˈɔːrdʒ/"
+	},
+	{
+		"english": "william randolph hearst was the only child of george hearst",
+		"chinese": "威廉·兰道夫·赫斯特是乔治·赫斯特唯一的孩子",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/ /ˈoʊnliː/ /tʃˈaɪld/ /əv/ /dʒˈɔːrdʒ/ /hˈɜːst/"
+	},
+	{
+		"english": "william randolph hearst was the only child of george hearst and",
+		"chinese": "威廉·兰多夫·赫斯特是乔治·赫斯特与...的唯一孩子",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/ /ˈoʊnliː/ /tʃˈaɪld/ /əv/ /dʒˈɔːrdʒ/ /hˈɜːst/ /ˈænd/"
+	},
+	{
+		"english": "william randolph hearst was the only child of george hearst and his",
+		"chinese": "威廉·兰道夫·赫斯特是乔治·赫斯特和他的唯一孩子。",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/ /ˈoʊnliː/ /tʃˈaɪld/ /əv/ /dʒˈɔːrdʒ/ /hˈɜːst/ /ˈænd/ /hɪz/"
+	},
+	{
+		"english": "william randolph hearst was the only child of george hearst and his wife",
+		"chinese": "威廉·兰道夫·赫斯特是乔治·赫斯特和他的妻子唯一的孩子",
+		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/ /hˈɜːst/ /wˈɔːz/ /ðiː/ /ˈoʊnliː/ /tʃˈaɪld/ /əv/ /dʒˈɔːrdʒ/ /hˈɜːst/ /ˈænd/ /hɪz/ /wˈaɪf/"
+	},
+	{
+		"english": "phoebe",
+		"chinese": "菲比",
+		"soundmark": "/fˈiːbiː/"
+	},
+	{
+		"english": "george",
+		"chinese": "乔治",
+		"soundmark": "/dʒˈɔːrdʒ/"
+	},
+	{
+		"english": "george was",
+		"chinese": "乔治是",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/"
+	},
+	{
+		"english": "george was a",
+		"chinese": "乔治是个",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/"
+	},
+	{
+		"english": "george was a multimillionaire",
+		"chinese": "乔治是位亿万富翁",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/"
+	},
+	{
+		"english": "george was a multimillionaire who",
+		"chinese": "乔治是一位身家数百万的富豪",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed",
+		"chinese": "乔治是一位身家数百万的富豪，他积累了大量财富",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his",
+		"chinese": "乔治是一位身家数百万的富豪，他积累了这些财富",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his fortune",
+		"chinese": "乔治是一位身家数百万的富豪",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his fortune through",
+		"chinese": "乔治是一位亿万富翁，他通过……积累了财富。",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his fortune through partnerships",
+		"chinese": "乔治是一位亿万富翁，他通过合伙经营积累了财富",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his fortune through partnerships in",
+		"chinese": "乔治是一位亿万富翁，他通过各种合伙经营积累了财富。",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his fortune through partnerships in three",
+		"chinese": "乔治是一位亿万富翁，他通过三种合作伙伴关系积累了财富。",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his fortune through partnerships in three of",
+		"chinese": "乔治是一位亿万富翁，他通过在三个领域建立合作伙伴关系积累了财富。",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/ /əv/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his fortune through partnerships in three of the",
+		"chinese": "乔治是一位亿万富翁，他通过在三个领域建立合作伙伴关系积累了财富。",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/ /əv/ /ðiː/"
+	},
+	{
+		"english": "george was a multimillionaire who amassed his fortune through partnerships in three of the ever",
+		"chinese": "乔治是一位亿万富翁，他通过在三个行业中的合作经营积累了财富。",
+		"soundmark": "/dʒˈɔːrdʒ/ /wˈɔːz/ /ˈeɪ/ /mˌəltaɪmˌɪljənˈɛːr/ /hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/ /əv/ /ðiː/ /ˈɛːvɜː/"
+	},
+	{
+		"english": "who amassed his fortune through partnerships in three of the ever largest",
+		"chinese": "通过在三个最大的企业中建立合作伙伴关系积累了财富的人",
+		"soundmark": "/hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/ /əv/ /ðiː/ /ˈɛːvɜː/ /lˈɑːrdʒəst/"
+	},
+	{
+		"english": "who amassed his fortune through partnerships in three of the ever largest mining",
+		"chinese": "通过在三个最大的矿业公司中的合伙关系积累财富的人",
+		"soundmark": "/hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/ /əv/ /ðiː/ /ˈɛːvɜː/ /lˈɑːrdʒəst/ /mˈaɪnɪŋ/"
+	},
+	{
+		"english": "who amassed his fortune through partnerships in three of the ever largest mining discoveries",
+		"chinese": "通过参与三个规模巨大的矿业发现项目积累了财富的人",
+		"soundmark": "/hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/ /əv/ /ðiː/ /ˈɛːvɜː/ /lˈɑːrdʒəst/ /mˈaɪnɪŋ/ /dɪskˈəvɜːiːz/"
+	},
+	{
+		"english": "who amassed his fortune through partnerships in three of the ever largest mining discoveries of",
+		"chinese": "通过参与三个最大的矿业发现项目而积累财富的人",
+		"soundmark": "/hˈuː/ /əmˈæst/ /hɪz/ /fˈɔːrtʃuːn/ /θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/ /əv/ /ðiː/ /ˈɛːvɜː/ /lˈɑːrdʒəst/ /mˈaɪnɪŋ/ /dɪskˈəvɜːiːz/ /əv/"
+	},
+	{
+		"english": "through partnerships in three of the ever largest mining discoveries of copper",
+		"chinese": "通过在三个最大的铜矿发现中的合作项目",
+		"soundmark": "/θrˈuː/ /pˈɑːrtnɜːʃˌɪps/ /ˈɪn/ /θrˈiː/ /əv/ /ðiː/ /ˈɛːvɜː/ /lˈɑːrdʒəst/ /mˈaɪnɪŋ/ /dɪskˈəvɜːiːz/ /əv/ /kˈɑːpɜː/"
+	},
+	{
+		"english": "silver",
+		"chinese": "银色",
+		"soundmark": "/sˈɪlvɜː/"
+	},
+	{
+		"english": "and",
+		"chinese": "和",
+		"soundmark": "/ˈænd/"
+	},
+	{
+		"english": "and gold",
+		"chinese": "和黄金",
+		"soundmark": "/ˈænd/ /ɡˈoʊld/"
+	},
+	{
+		"english": "and gold ores",
+		"chinese": "和金矿石",
+		"soundmark": "/ˈænd/ /ɡˈoʊld/ /ˈɔːrz/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "george",
+		"chinese": "乔治",
+		"soundmark": "/dʒˈɔːrdʒ/"
+	},
+	{
+		"english": "george began",
+		"chinese": "乔治开始",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/"
+	},
+	{
+		"english": "george began to",
+		"chinese": "乔治开始",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/"
+	},
+	{
+		"english": "george began to accumulate",
+		"chinese": "乔治开始积累",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/"
+	},
+	{
+		"english": "george began to accumulate parcels",
+		"chinese": "乔治开始积累包裹",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/"
+	},
+	{
+		"english": "george began to accumulate parcels of",
+		"chinese": "乔治开始积累包裹",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/"
+	},
+	{
+		"english": "george began to accumulate parcels of land",
+		"chinese": "乔治开始积累大量土地",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/"
+	},
+	{
+		"english": "george began to accumulate parcels of land by",
+		"chinese": "乔治开始积累大量土地",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/"
+	},
+	{
+		"english": "george began to accumulate parcels of land by obtaining",
+		"chinese": "乔治通过获取土地块来积累财产",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/"
+	},
+	{
+		"english": "george began to accumulate parcels of land by obtaining acres",
+		"chinese": "乔治通过获得土地面积来积累大量土地",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/"
+	},
+	{
+		"english": "george began to accumulate parcels of land by obtaining acres of",
+		"chinese": "乔治通过获得大量土地来积累土地块。",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/"
+	},
+	{
+		"english": "george began to accumulate parcels of land by obtaining acres of the",
+		"chinese": "乔治通过获得大量土地，开始积累土地块。",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/"
+	},
+	{
+		"english": "george began to accumulate parcels of land by obtaining acres of the piedra",
+		"chinese": "乔治通过获得大量土地块来积累地产。",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/ /pˈiːdrə/"
+	},
+	{
+		"english": "george began to accumulate parcels of land by obtaining acres of the piedra blanco",
+		"chinese": "乔治通过获得大量白石地来积累土地块。",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/ /pˈiːdrə/ /blˈæŋkoʊ/"
+	},
+	{
+		"english": "george began to accumulate parcels of land by obtaining acres of the piedra blanco ranch",
+		"chinese": "乔治通过获得白石牧场的大量土地，开始积累土地资产。",
+		"soundmark": "/dʒˈɔːrdʒ/ /biːɡˈæn/ /tə/ /əkjˈuːmjəlˌeɪt/ /pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/ /pˈiːdrə/ /blˈæŋkoʊ/ /rˈæntʃ/"
+	},
+	{
+		"english": "parcels of land by obtaining acres of the piedra blanco ranch on",
+		"chinese": "通过获得白石牧场的土地块而获得土地",
+		"soundmark": "/pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/ /pˈiːdrə/ /blˈæŋkoʊ/ /rˈæntʃ/ /ˈɔːn/"
+	},
+	{
+		"english": "parcels of land by obtaining acres of the piedra blanco ranch on california",
+		"chinese": "通过获得加利福尼亚州白石牧场的土地块来获取土地",
+		"soundmark": "/pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/ /pˈiːdrə/ /blˈæŋkoʊ/ /rˈæntʃ/ /ˈɔːn/ /kˌæləfˈɔːrnjə/"
+	},
+	{
+		"english": "parcels of land by obtaining acres of the piedra blanco ranch on california s",
+		"chinese": "通过获得加利福尼亚州白石牧场的数英亩土地而获得的土地块",
+		"soundmark": "/pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/ /pˈiːdrə/ /blˈæŋkoʊ/ /rˈæntʃ/ /ˈɔːn/ /kˌæləfˈɔːrnjə/ /ˈɛːs/"
+	},
+	{
+		"english": "parcels of land by obtaining acres of the piedra blanco ranch on california s central",
+		"chinese": "通过获得加利福尼亚州中部白石牧场的土地块来获取土地",
+		"soundmark": "/pˈɑːrsəlz/ /əv/ /lˈænd/ /bˈaɪ/ /əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/ /pˈiːdrə/ /blˈæŋkoʊ/ /rˈæntʃ/ /ˈɔːn/ /kˌæləfˈɔːrnjə/ /ˈɛːs/ /sˈɛːntrəl/"
+	},
+	{
+		"english": "obtaining acres of the piedra blanco ranch on california s central coast",
+		"chinese": "获取加利福尼亚州中部海岸皮埃拉布兰科牧场的大量土地",
+		"soundmark": "/əbtˈeɪnɪŋ/ /ˈeɪkɜːz/ /əv/ /ðiː/ /pˈiːdrə/ /blˈæŋkoʊ/ /rˈæntʃ/ /ˈɔːn/ /kˌæləfˈɔːrnjə/ /ˈɛːs/ /sˈɛːntrəl/ /kˈoʊst/"
+	},
+	{
+		"english": "there",
+		"chinese": "那里",
+		"soundmark": "/ðˈɛːr/"
+	},
+	{
+		"english": "there he",
+		"chinese": "就在那里",
+		"soundmark": "/ðˈɛːr/ /hˈiː/"
+	},
+	{
+		"english": "there he began",
+		"chinese": "他就此开始了",
+		"soundmark": "/ðˈɛːr/ /hˈiː/ /biːɡˈæn/"
+	},
+	{
+		"english": "there he began a",
+		"chinese": "就在那里他开始了",
+		"soundmark": "/ðˈɛːr/ /hˈiː/ /biːɡˈæn/ /ˈeɪ/"
+	},
+	{
+		"english": "there he began a successful",
+		"chinese": "他开始取得了成功",
+		"soundmark": "/ðˈɛːr/ /hˈiː/ /biːɡˈæn/ /ˈeɪ/ /səksˈɛːsfəl/"
+	},
+	{
+		"english": "there he began a successful cattle",
+		"chinese": "他开始成功经营牛业",
+		"soundmark": "/ðˈɛːr/ /hˈiː/ /biːɡˈæn/ /ˈeɪ/ /səksˈɛːsfəl/ /kˈætəl/"
+	},
+	{
+		"english": "there he began a successful cattle ranch",
+		"chinese": "他在那里开始经营一家成功的养牛场",
+		"soundmark": "/ðˈɛːr/ /hˈiː/ /biːɡˈæn/ /ˈeɪ/ /səksˈɛːsfəl/ /kˈætəl/ /rˈæntʃ/"
+	},
+	{
+		"english": "eventually",
+		"chinese": "最终",
+		"soundmark": "/iːvˈɛːnʃəliː/"
+	},
+	{
+		"english": "eventually enlarging",
+		"chinese": "最终扩大",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/"
+	},
+	{
+		"english": "eventually enlarging it",
+		"chinese": "最终使其扩大",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/ /ɪt/"
+	},
+	{
+		"english": "eventually enlarging it to",
+		"chinese": "最终将其扩大",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/ /ɪt/ /tə/"
+	},
+	{
+		"english": "eventually enlarging it to acres",
+		"chinese": "最终将其扩大至英亩数",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/ /ɪt/ /tə/ /ˈeɪkɜːz/"
+	},
+	{
+		"english": "eventually enlarging it to acres stretching",
+		"chinese": "最终将其扩大至绵延数英亩的面积",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/ /ɪt/ /tə/ /ˈeɪkɜːz/ /strˈɛːtʃɪŋ/"
+	},
+	{
+		"english": "eventually enlarging it to acres stretching miles",
+		"chinese": "最终将其扩大至绵延数英里的面积",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/ /ɪt/ /tə/ /ˈeɪkɜːz/ /strˈɛːtʃɪŋ/ /mˈaɪəlz/"
+	},
+	{
+		"english": "eventually enlarging it to acres stretching miles along",
+		"chinese": "最终将其扩大为绵延数英里的平方英里土地",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/ /ɪt/ /tə/ /ˈeɪkɜːz/ /strˈɛːtʃɪŋ/ /mˈaɪəlz/ /əlˈɔːŋ/"
+	},
+	{
+		"english": "eventually enlarging it to acres stretching miles along the",
+		"chinese": "最终将其扩大为绵延数英里的大片土地",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/ /ɪt/ /tə/ /ˈeɪkɜːz/ /strˈɛːtʃɪŋ/ /mˈaɪəlz/ /əlˈɔːŋ/ /ðiː/"
+	},
+	{
+		"english": "eventually enlarging it to acres stretching miles along the coast",
+		"chinese": "最终将其扩大为沿海岸延伸数英里的大片土地",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ɪnlˈɑːrdʒɪŋ/ /ɪt/ /tə/ /ˈeɪkɜːz/ /strˈɛːtʃɪŋ/ /mˈaɪəlz/ /əlˈɔːŋ/ /ðiː/ /kˈoʊst/"
+	}
+]

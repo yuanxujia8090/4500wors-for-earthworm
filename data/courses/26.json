@@ -1,0 +1,962 @@
+[
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in the",
+		"chinese": "在……中",
+		"soundmark": "/ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "in the meantime",
+		"chinese": "在此期间",
+		"soundmark": "/ˈɪn/ /ðiː/ /mˈiːntˌaɪm/"
+	},
+	{
+		"english": "japan",
+		"chinese": "日本",
+		"soundmark": "/dʒəpˈæn/"
+	},
+	{
+		"english": "japan was",
+		"chinese": "日本是",
+		"soundmark": "/dʒəpˈæn/ /wˈɔːz/"
+	},
+	{
+		"english": "japan was resuming",
+		"chinese": "日本正在恢复",
+		"soundmark": "/dʒəpˈæn/ /wˈɔːz/ /riːzˈuːmɪŋ/"
+	},
+	{
+		"english": "japan was resuming its",
+		"chinese": "日本正在恢复",
+		"soundmark": "/dʒəpˈæn/ /wˈɔːz/ /riːzˈuːmɪŋ/ /ɪts/"
+	},
+	{
+		"english": "japan was resuming its aggression",
+		"chinese": "日本正在恢复其侵略行为",
+		"soundmark": "/dʒəpˈæn/ /wˈɔːz/ /riːzˈuːmɪŋ/ /ɪts/ /əɡrˈɛːʃən/"
+	},
+	{
+		"english": "japan was resuming its aggression against",
+		"chinese": "日本正在恢复对……的侵略行为",
+		"soundmark": "/dʒəpˈæn/ /wˈɔːz/ /riːzˈuːmɪŋ/ /ɪts/ /əɡrˈɛːʃən/ /əɡˈeɪnst/"
+	},
+	{
+		"english": "japan was resuming its aggression against china",
+		"chinese": "日本正在恢复对中国的侵略行为",
+		"soundmark": "/dʒəpˈæn/ /wˈɔːz/ /riːzˈuːmɪŋ/ /ɪts/ /əɡrˈɛːʃən/ /əɡˈeɪnst/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the decade",
+		"chinese": "这个十年期",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/"
+	},
+	{
+		"english": "the decade of",
+		"chinese": "那个十年期",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/"
+	},
+	{
+		"english": "the decade of the",
+		"chinese": "那个十年期",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/"
+	},
+	{
+		"english": "the decade of the s",
+		"chinese": "S时代十年",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/"
+	},
+	{
+		"english": "the decade of the s was",
+		"chinese": "S时代十年",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/"
+	},
+	{
+		"english": "the decade of the s was the",
+		"chinese": "S时代十年是",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/"
+	},
+	{
+		"english": "the decade of the s was the era",
+		"chinese": "“S”时代是那个十年",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /ˈɪrə/"
+	},
+	{
+		"english": "the decade of the s was the era of",
+		"chinese": "“S”时代是那个十年",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /ˈɪrə/ /əv/"
+	},
+	{
+		"english": "the decade of the s was the era of fascist",
+		"chinese": "“二战时期”是法西斯主义的时代",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /ˈɪrə/ /əv/ /fˈæʃəst/"
+	},
+	{
+		"english": "the decade of the s was the era of fascist aggression",
+		"chinese": "“二战十年”是法西斯侵略的时代",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /ˈɪrə/ /əv/ /fˈæʃəst/ /əɡrˈɛːʃən/"
+	},
+	{
+		"english": "the decade of the s was the era of fascist aggression throughout",
+		"chinese": "“二战时期”是法西斯侵略的时代",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /ˈɪrə/ /əv/ /fˈæʃəst/ /əɡrˈɛːʃən/ /θruːˈaʊt/"
+	},
+	{
+		"english": "the decade of the s was the era of fascist aggression throughout the",
+		"chinese": "“二战十年”是法西斯侵略的时期",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /ˈɪrə/ /əv/ /fˈæʃəst/ /əɡrˈɛːʃən/ /θruːˈaʊt/ /ðiː/"
+	},
+	{
+		"english": "the decade of the s was the era of fascist aggression throughout the world",
+		"chinese": "“二战十年”是全球范围内法西斯侵略的时代",
+		"soundmark": "/ðiː/ /dˈɛːkeɪd/ /əv/ /ðiː/ /ˈɛːs/ /wˈɔːz/ /ðiː/ /ˈɪrə/ /əv/ /fˈæʃəst/ /əɡrˈɛːʃən/ /θruːˈaʊt/ /ðiː/ /wˈɜːld/"
+	},
+	{
+		"english": "bethune",
+		"chinese": "贝恩",
+		"soundmark": "/bəθjˈuːn/"
+	},
+	{
+		"english": "bethune s",
+		"chinese": "贝恩斯",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/"
+	},
+	{
+		"english": "bethune s knowledge",
+		"chinese": "贝恩的知识",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/"
+	},
+	{
+		"english": "bethune s knowledge of",
+		"chinese": "贝恩的知识",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/"
+	},
+	{
+		"english": "bethune s knowledge of the",
+		"chinese": "贝恩对……的了解",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/"
+	},
+	{
+		"english": "bethune s knowledge of the long",
+		"chinese": "贝恩对长期的了解",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/"
+	},
+	{
+		"english": "bethune s knowledge of the long history",
+		"chinese": "贝恩对悠久历史的了解",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/"
+	},
+	{
+		"english": "bethune s knowledge of the long history of",
+		"chinese": "贝恩对悠久历史的了解",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/"
+	},
+	{
+		"english": "bethune s knowledge of the long history of western",
+		"chinese": "贝恩对西方悠久历史的了解",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/"
+	},
+	{
+		"english": "bethune s knowledge of the long history of western aggression",
+		"chinese": "贝恩对西方侵略长期历史的认识",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/"
+	},
+	{
+		"english": "bethune s knowledge of the long history of western aggression and",
+		"chinese": "贝恩对西方侵略长期历史的认识",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/"
+	},
+	{
+		"english": "bethune s knowledge of the long history of western aggression and exploitation",
+		"chinese": "贝恩对西方侵略和剥削漫长历史的认识",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/"
+	},
+	{
+		"english": "bethune s knowledge of the long history of western aggression and exploitation in",
+		"chinese": "贝恩对西方侵略和剥削长期历史的认识",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/"
+	},
+	{
+		"english": "bethune s knowledge of the long history of western aggression and exploitation in china",
+		"chinese": "贝恩对西方对中国长期侵略和剥削历史的了解",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "bethune s knowledge of the long history of western aggression and exploitation in china made",
+		"chinese": "贝恩对西方对中国长期侵略和剥削的历史了解",
+		"soundmark": "/bəθjˈuːn/ /ˈɛːs/ /nˈɑːlɪdʒ/ /əv/ /ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/"
+	},
+	{
+		"english": "the long history of western aggression and exploitation in china made him",
+		"chinese": "西方对中国长期侵略和剥削的历史使他……",
+		"soundmark": "/ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/ /ɪm/"
+	},
+	{
+		"english": "the long history of western aggression and exploitation in china made him conclude",
+		"chinese": "西方对中国长期侵略和剥削的历史使他得出这样的结论",
+		"soundmark": "/ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/ /ɪm/ /kənklˈuːd/"
+	},
+	{
+		"english": "the long history of western aggression and exploitation in china made him conclude that",
+		"chinese": "西方对中国长期侵略和剥削的历史使他得出这样的结论",
+		"soundmark": "/ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/ /ɪm/ /kənklˈuːd/ /ðət/"
+	},
+	{
+		"english": "the long history of western aggression and exploitation in china made him conclude that his",
+		"chinese": "西方对中国长期侵略和剥削的历史使他得出结论：他的",
+		"soundmark": "/ðiː/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/ /ɪm/ /kənklˈuːd/ /ðət/ /hɪz/"
+	},
+	{
+		"english": "western aggression and exploitation in china made him conclude that his services",
+		"chinese": "在中国，西方的侵略和剥削使他得出结论：他的服务",
+		"soundmark": "/hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/ /ɪm/ /kənklˈuːd/ /ðət/ /hɪz/ /sˈɜːvɪsɪz/"
+	},
+	{
+		"english": "western aggression and exploitation in china made him conclude that his services were",
+		"chinese": "中国在西部的侵略与剥削使他得出结论：他的服务……",
+		"soundmark": "/hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/ /ɪm/ /kənklˈuːd/ /ðət/ /hɪz/ /sˈɜːvɪsɪz/ /wˈɜː/"
+	},
+	{
+		"english": "western aggression and exploitation in china made him conclude that his services were needed",
+		"chinese": "在中国存在的西方侵略和剥削行为使他得出结论：需要他的服务",
+		"soundmark": "/hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/ /ɪm/ /kənklˈuːd/ /ðət/ /hɪz/ /sˈɜːvɪsɪz/ /wˈɜː/ /nˈiːdɪd/"
+	},
+	{
+		"english": "western aggression and exploitation in china made him conclude that his services were needed there",
+		"chinese": "在中国，西方的侵略和剥削使他得出结论：那里需要他的服务",
+		"soundmark": "/hwˈɛːstɜːn/ /əɡrˈɛːʃən/ /ˈænd/ /ˌɛːksplˌɔɪtˈeɪʃən/ /ˈɪn/ /tʃˈaɪnə/ /mˈeɪd/ /ɪm/ /kənklˈuːd/ /ðət/ /hɪz/ /sˈɜːvɪsɪz/ /wˈɜː/ /nˈiːdɪd/ /ðˈɛːr/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in january",
+		"chinese": "一月",
+		"soundmark": "/ˈɪn/ /dʒˈænjuːˌɛːriː/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he sailed",
+		"chinese": "他航行了",
+		"soundmark": "/hˈiː/ /sˈeɪld/"
+	},
+	{
+		"english": "he sailed to",
+		"chinese": "他航行了",
+		"soundmark": "/hˈiː/ /sˈeɪld/ /tə/"
+	},
+	{
+		"english": "he sailed to mainland",
+		"chinese": "他乘船前往大陆",
+		"soundmark": "/hˈiː/ /sˈeɪld/ /tə/ /mˈeɪnlənd/"
+	},
+	{
+		"english": "he sailed to mainland china",
+		"chinese": "他乘船前往中国大陆",
+		"soundmark": "/hˈiː/ /sˈeɪld/ /tə/ /mˈeɪnlənd/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he stated",
+		"chinese": "他陈述了",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/"
+	},
+	{
+		"english": "he stated that",
+		"chinese": "他说了",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/"
+	},
+	{
+		"english": "he stated that he",
+		"chinese": "他说他",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/"
+	},
+	{
+		"english": "he stated that he refused",
+		"chinese": "他说他拒绝了",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/"
+	},
+	{
+		"english": "he stated that he refused to",
+		"chinese": "他说他拒绝",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/"
+	},
+	{
+		"english": "he stated that he refused to condone",
+		"chinese": "他说他拒绝纵容",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/"
+	},
+	{
+		"english": "he stated that he refused to condone k",
+		"chinese": "他说他拒绝纵容k",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/"
+	},
+	{
+		"english": "he stated that he refused to condone k n",
+		"chinese": "他说他拒绝纵容KN",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/"
+	},
+	{
+		"english": "he stated that he refused to condone k n do",
+		"chinese": "他说他拒绝纵容KN do",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/"
+	},
+	{
+		"english": "he stated that he refused to condone k n do n",
+		"chinese": "他说他拒绝纵容KN DON",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/"
+	},
+	{
+		"english": "he stated that he refused to condone k n do n or",
+		"chinese": "他说他拒绝纵容KN DON",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/"
+	},
+	{
+		"english": "he stated that he refused to condone k n do n or support",
+		"chinese": "他说他拒绝纵容或支持KN Don",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/ /səpˈɔːrt/"
+	},
+	{
+		"english": "he stated that he refused to condone k n do n or support wars",
+		"chinese": "他说他拒绝纵容KNODN或支持战争",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/ /səpˈɔːrt/ /wˈɔːrz/"
+	},
+	{
+		"english": "he stated that he refused to condone k n do n or support wars which",
+		"chinese": "他表示拒绝纵容KNODN，也不支持战争。",
+		"soundmark": "/hˈiː/ /stˈeɪtɪd/ /ðət/ /hˈiː/ /rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/ /səpˈɔːrt/ /wˈɔːrz/ /hwˈɪtʃ/"
+	},
+	{
+		"english": "refused to condone k n do n or support wars which greedy",
+		"chinese": "拒绝宽恕KNDO或支持贪婪的战争",
+		"soundmark": "/rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/ /səpˈɔːrt/ /wˈɔːrz/ /hwˈɪtʃ/ /ɡrˈiːdiː/"
+	},
+	{
+		"english": "refused to condone k n do n or support wars which greedy men",
+		"chinese": "拒绝宽恕KN Don，也不支持那些贪婪之人的战争",
+		"soundmark": "/rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/ /səpˈɔːrt/ /wˈɔːrz/ /hwˈɪtʃ/ /ɡrˈiːdiː/ /mˈɛːn/"
+	},
+	{
+		"english": "refused to condone k n do n or support wars which greedy men make",
+		"chinese": "拒绝宽恕KN Don，也不支持那些贪婪之人发动的战争",
+		"soundmark": "/rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/ /səpˈɔːrt/ /wˈɔːrz/ /hwˈɪtʃ/ /ɡrˈiːdiː/ /mˈɛːn/ /mˈeɪk/"
+	},
+	{
+		"english": "refused to condone k n do n or support wars which greedy men make against",
+		"chinese": "拒绝宽恕KN Don的行为，也不支持那些贪婪之人发动的战争",
+		"soundmark": "/rɪfjˈuːzd/ /tə/ /kəndˈoʊn/ /kˈeɪ/ /ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/ /səpˈɔːrt/ /wˈɔːrz/ /hwˈɪtʃ/ /ɡrˈiːdiː/ /mˈɛːn/ /mˈeɪk/ /əɡˈeɪnst/"
+	},
+	{
+		"english": "n do n or support wars which greedy men make against others",
+		"chinese": "参与或支持那些贪婪之人对他人的战争",
+		"soundmark": "/ˈɛːn/ /dˈuː/ /ˈɛːn/ /ɜː/ /səpˈɔːrt/ /wˈɔːrz/ /hwˈɪtʃ/ /ɡrˈiːdiː/ /mˈɛːn/ /mˈeɪk/ /əɡˈeɪnst/ /ˈəðɜːz/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he went",
+		"chinese": "他去了",
+		"soundmark": "/hˈiː/ /wˈɛːnt/"
+	},
+	{
+		"english": "he went on",
+		"chinese": "他继续了",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/"
+	},
+	{
+		"english": "he went on to",
+		"chinese": "他继续下去了",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/"
+	},
+	{
+		"english": "he went on to say",
+		"chinese": "他继续说道",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/"
+	},
+	{
+		"english": "he went on to say that",
+		"chinese": "他接着说",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/"
+	},
+	{
+		"english": "he went on to say that spain",
+		"chinese": "他接着说，西班牙",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/"
+	},
+	{
+		"english": "he went on to say that spain and",
+		"chinese": "他接着说，西班牙和",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/"
+	},
+	{
+		"english": "he went on to say that spain and china",
+		"chinese": "他接着说，西班牙和中国",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "he went on to say that spain and china respectively",
+		"chinese": "他接着说，西班牙和中国分别……",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/"
+	},
+	{
+		"english": "he went on to say that spain and china respectively were",
+		"chinese": "他接着说，西班牙和中国分别都是",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/ /wˈɜː/"
+	},
+	{
+		"english": "he went on to say that spain and china respectively were parts",
+		"chinese": "他进一步指出，西班牙和中国分别是其中的一部分",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/ /wˈɜː/ /pˈɑːrts/"
+	},
+	{
+		"english": "he went on to say that spain and china respectively were parts of",
+		"chinese": "他接着说，西班牙和中国分别是……",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/ /wˈɜː/ /pˈɑːrts/ /əv/"
+	},
+	{
+		"english": "he went on to say that spain and china respectively were parts of the",
+		"chinese": "他进一步指出，西班牙和中国分别是……的一部分",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/ /wˈɜː/ /pˈɑːrts/ /əv/ /ðiː/"
+	},
+	{
+		"english": "he went on to say that spain and china respectively were parts of the same",
+		"chinese": "他进一步指出，西班牙和中国分别属于同一整体",
+		"soundmark": "/hˈiː/ /wˈɛːnt/ /ˈɔːn/ /tə/ /sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/ /wˈɜː/ /pˈɑːrts/ /əv/ /ðiː/ /sˈeɪm/"
+	},
+	{
+		"english": "say that spain and china respectively were parts of the same battle",
+		"chinese": "说西班牙和中国分别是同一场战斗的组成部分",
+		"soundmark": "/sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/ /wˈɜː/ /pˈɑːrts/ /əv/ /ðiː/ /sˈeɪm/ /bˈætəl/"
+	},
+	{
+		"english": "say that spain and china respectively were parts of the same battle against",
+		"chinese": "说西班牙和中国分别是针对同一场战斗的组成部分",
+		"soundmark": "/sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/ /wˈɜː/ /pˈɑːrts/ /əv/ /ðiː/ /sˈeɪm/ /bˈætəl/ /əɡˈeɪnst/"
+	},
+	{
+		"english": "say that spain and china respectively were parts of the same battle against fascism",
+		"chinese": "说西班牙和中国分别是反对法西斯主义的同一战斗的一部分",
+		"soundmark": "/sˈeɪ/ /ðət/ /spˈeɪn/ /ˈænd/ /tʃˈaɪnə/ /rɪspˈɛːktɪvliː/ /wˈɜː/ /pˈɑːrts/ /əv/ /ðiː/ /sˈeɪm/ /bˈætəl/ /əɡˈeɪnst/ /fˈæʃˌɪzəm/"
+	},
+	{
+		"english": "f",
+		"chinese": "f",
+		"soundmark": "/ˈɛːf/"
+	},
+	{
+		"english": "f z",
+		"chinese": "f z",
+		"soundmark": "/ˈɛːf/ /zˈiː/"
+	},
+	{
+		"english": "f z m",
+		"chinese": "f z m",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/"
+	},
+	{
+		"english": "f z m the",
+		"chinese": "f z m 那个",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/"
+	},
+	{
+		"english": "f z m the japanese",
+		"chinese": "f z m 日本",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/"
+	},
+	{
+		"english": "f z m the japanese had",
+		"chinese": "f z m 日本人已经",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/"
+	},
+	{
+		"english": "f z m the japanese had chased",
+		"chinese": "f z m 日本人已经追了过来",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/"
+	},
+	{
+		"english": "f z m the japanese had chased the",
+		"chinese": "f z m 日本人已经追了过去",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/"
+	},
+	{
+		"english": "f z m the japanese had chased the chinese",
+		"chinese": "日本人追赶了中国人",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/"
+	},
+	{
+		"english": "f z m the japanese had chased the chinese into",
+		"chinese": "f z m 日本人把中国人逼进了",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/"
+	},
+	{
+		"english": "f z m the japanese had chased the chinese into the",
+		"chinese": "f z m 日本人把中国人逼进了……",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/ /ðiː/"
+	},
+	{
+		"english": "f z m the japanese had chased the chinese into the northwest",
+		"chinese": "日本人把中国人追到了西北地区",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/ /ðiː/ /nˌɔːrθwˈɛːst/"
+	},
+	{
+		"english": "f z m the japanese had chased the chinese into the northwest part",
+		"chinese": "日本人把中国人追到了西北部地区",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/ /ðiː/ /nˌɔːrθwˈɛːst/ /pˈɑːrt/"
+	},
+	{
+		"english": "f z m the japanese had chased the chinese into the northwest part of",
+		"chinese": "f z m 日本人将中国人追到了西北地区",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/ /ðiː/ /nˌɔːrθwˈɛːst/ /pˈɑːrt/ /əv/"
+	},
+	{
+		"english": "f z m the japanese had chased the chinese into the northwest part of the",
+		"chinese": "f z m 日本人将中国人追到了西北地区",
+		"soundmark": "/ˈɛːf/ /zˈiː/ /ˈɛːm/ /ðiː/ /dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/ /ðiː/ /nˌɔːrθwˈɛːst/ /pˈɑːrt/ /əv/ /ðiː/"
+	},
+	{
+		"english": "japanese had chased the chinese into the northwest part of the latter",
+		"chinese": "日本人将中国人追到了后者的西北地区",
+		"soundmark": "/dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/ /ðiː/ /nˌɔːrθwˈɛːst/ /pˈɑːrt/ /əv/ /ðiː/ /lˈætɜː/"
+	},
+	{
+		"english": "japanese had chased the chinese into the northwest part of the latter s",
+		"chinese": "日本人将中国人追到了后者的西北部地区",
+		"soundmark": "/dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/ /ðiː/ /nˌɔːrθwˈɛːst/ /pˈɑːrt/ /əv/ /ðiː/ /lˈætɜː/ /ˈɛːs/"
+	},
+	{
+		"english": "japanese had chased the chinese into the northwest part of the latter s country",
+		"chinese": "日本人将中国人追到了中国西北地区",
+		"soundmark": "/dʒˌæpənˈiːz/ /hˈæd/ /tʃˈeɪst/ /ðiː/ /tʃaɪnˈiːz/ /ɪntə/ /ðiː/ /nˌɔːrθwˈɛːst/ /pˈɑːrt/ /əv/ /ðiː/ /lˈætɜː/ /ˈɛːs/ /kˈəntriː/"
+	},
+	{
+		"english": "chairman",
+		"chinese": "主席",
+		"soundmark": "/tʃˈɛːrmən/"
+	},
+	{
+		"english": "chairman mao",
+		"chinese": "毛泽东主席",
+		"soundmark": "/tʃˈɛːrmən/ /mˈaʊ/"
+	},
+	{
+		"english": "chairman mao met",
+		"chinese": "毛泽东主席会面",
+		"soundmark": "/tʃˈɛːrmən/ /mˈaʊ/ /mˈɛːt/"
+	},
+	{
+		"english": "chairman mao met bethune",
+		"chinese": "毛泽东主席会见了 Bethune",
+		"soundmark": "/tʃˈɛːrmən/ /mˈaʊ/ /mˈɛːt/ /bəθjˈuːn/"
+	},
+	{
+		"english": "chairman mao met bethune only",
+		"chinese": "毛泽东主席只与贝恩会面",
+		"soundmark": "/tʃˈɛːrmən/ /mˈaʊ/ /mˈɛːt/ /bəθjˈuːn/ /ˈoʊnliː/"
+	},
+	{
+		"english": "chairman mao met bethune only once",
+		"chinese": "毛主席只见过 Bethune 一次",
+		"soundmark": "/tʃˈɛːrmən/ /mˈaʊ/ /mˈɛːt/ /bəθjˈuːn/ /ˈoʊnliː/ /wˈəns/"
+	},
+	{
+		"english": "but",
+		"chinese": "但",
+		"soundmark": "/bˈət/"
+	},
+	{
+		"english": "but they",
+		"chinese": "但她们",
+		"soundmark": "/bˈət/ /ðˈeɪ/"
+	},
+	{
+		"english": "but they remained",
+		"chinese": "但他们依然留在了那里",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /riːmˈeɪnd/"
+	},
+	{
+		"english": "but they remained acquaintances",
+		"chinese": "但他们仍然是熟人",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /riːmˈeɪnd/ /əkwˈeɪntənsɪz/"
+	},
+	{
+		"english": "but they remained acquaintances by",
+		"chinese": "但他们仍然是熟人而已",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /riːmˈeɪnd/ /əkwˈeɪntənsɪz/ /bˈaɪ/"
+	},
+	{
+		"english": "but they remained acquaintances by correspondence",
+		"chinese": "但他们通过通信保持着熟人关系",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /riːmˈeɪnd/ /əkwˈeɪntənsɪz/ /bˈaɪ/ /kˌɔːrəspˈɑːndəns/"
+	},
+	{
+		"english": "bethune",
+		"chinese": "贝恩",
+		"soundmark": "/bəθjˈuːn/"
+	},
+	{
+		"english": "bethune almost",
+		"chinese": "贝恩几乎",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/"
+	},
+	{
+		"english": "bethune almost immediately",
+		"chinese": "贝恩几乎立刻",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/"
+	},
+	{
+		"english": "bethune almost immediately set",
+		"chinese": "贝恩几乎立刻就设定了",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/"
+	},
+	{
+		"english": "bethune almost immediately set out",
+		"chinese": "贝恩几乎立刻出发了",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/"
+	},
+	{
+		"english": "bethune almost immediately set out for",
+		"chinese": "贝恩几乎立刻出发了",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/"
+	},
+	{
+		"english": "bethune almost immediately set out for the",
+		"chinese": "贝恩几乎立刻出发了",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/"
+	},
+	{
+		"english": "bethune almost immediately set out for the hazardous",
+		"chinese": "贝恩几乎立刻就出发前往那个危险的地方",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/ /hˈæzɜːdəs/"
+	},
+	{
+		"english": "bethune almost immediately set out for the hazardous surroundings",
+		"chinese": "贝恩几乎立刻就出发了，前往那危险的环境",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/ /hˈæzɜːdəs/ /sɜːˈaʊndɪŋz/"
+	},
+	{
+		"english": "bethune almost immediately set out for the hazardous surroundings of",
+		"chinese": "贝恩几乎立刻就出发前往那危险的环境",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/ /hˈæzɜːdəs/ /sɜːˈaʊndɪŋz/ /əv/"
+	},
+	{
+		"english": "bethune almost immediately set out for the hazardous surroundings of the",
+		"chinese": "贝恩几乎立刻就出发前往那危险的环境",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/ /hˈæzɜːdəs/ /sɜːˈaʊndɪŋz/ /əv/ /ðiː/"
+	},
+	{
+		"english": "bethune almost immediately set out for the hazardous surroundings of the mountain",
+		"chinese": "贝恩几乎立刻就出发了，前往那片危险的山区",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/ /hˈæzɜːdəs/ /sɜːˈaʊndɪŋz/ /əv/ /ðiː/ /mˈaʊntən/"
+	},
+	{
+		"english": "bethune almost immediately set out for the hazardous surroundings of the mountain ranges",
+		"chinese": "贝恩几乎立刻就出发了，前往那些危险的山脉地区",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/ /hˈæzɜːdəs/ /sɜːˈaʊndɪŋz/ /əv/ /ðiː/ /mˈaʊntən/ /rˈeɪndʒɪz/"
+	},
+	{
+		"english": "bethune almost immediately set out for the hazardous surroundings of the mountain ranges of",
+		"chinese": "贝恩几乎立刻便出发前往那些危险的山脉地区",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/ /hˈæzɜːdəs/ /sɜːˈaʊndɪŋz/ /əv/ /ðiː/ /mˈaʊntən/ /rˈeɪndʒɪz/ /əv/"
+	},
+	{
+		"english": "bethune almost immediately set out for the hazardous surroundings of the mountain ranges of yenan",
+		"chinese": "贝恩几乎立刻便出发前往延安山脉那危险的环境中",
+		"soundmark": "/bəθjˈuːn/ /ˈɔːlmˌoʊst/ /ɪmˈiːdiːətliː/ /sˈɛːt/ /ˈaʊt/ /frɜː/ /ðiː/ /hˈæzɜːdəs/ /sɜːˈaʊndɪŋz/ /əv/ /ðiː/ /mˈaʊntən/ /rˈeɪndʒɪz/ /əv/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in the",
+		"chinese": "在……中",
+		"soundmark": "/ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "in the company",
+		"chinese": "在公司里",
+		"soundmark": "/ˈɪn/ /ðiː/ /kˈəmpəniː/"
+	},
+	{
+		"english": "in the company of",
+		"chinese": "与……为伴",
+		"soundmark": "/ˈɪn/ /ðiː/ /kˈəmpəniː/ /əv/"
+	},
+	{
+		"english": "in the company of the",
+		"chinese": "与……为伴",
+		"soundmark": "/ˈɪn/ /ðiː/ /kˈəmpəniː/ /əv/ /ðiː/"
+	},
+	{
+		"english": "in the company of the eighth",
+		"chinese": "在第八位的人中间",
+		"soundmark": "/ˈɪn/ /ðiː/ /kˈəmpəniː/ /əv/ /ðiː/ /ˈeɪθ/"
+	},
+	{
+		"english": "in the company of the eighth route",
+		"chinese": "在第八路线的陪伴下",
+		"soundmark": "/ˈɪn/ /ðiː/ /kˈəmpəniː/ /əv/ /ðiː/ /ˈeɪθ/ /rˈaʊt/"
+	},
+	{
+		"english": "in the company of the eighth route army",
+		"chinese": "在第八路军中",
+		"soundmark": "/ˈɪn/ /ðiː/ /kˈəmpəniː/ /əv/ /ðiː/ /ˈeɪθ/ /rˈaʊt/ /ˈɑːrmiː/"
+	},
+	{
+		"english": "bethune",
+		"chinese": "贝恩",
+		"soundmark": "/bəθjˈuːn/"
+	},
+	{
+		"english": "bethune practiced",
+		"chinese": "贝恩练习了",
+		"soundmark": "/bəθjˈuːn/ /prˈæktɪst/"
+	},
+	{
+		"english": "bethune practiced his",
+		"chinese": "贝恩练习了他的动作",
+		"soundmark": "/bəθjˈuːn/ /prˈæktɪst/ /hɪz/"
+	},
+	{
+		"english": "bethune practiced his profession",
+		"chinese": "贝恩从事他的职业",
+		"soundmark": "/bəθjˈuːn/ /prˈæktɪst/ /hɪz/ /prəfˈɛːʃən/"
+	},
+	{
+		"english": "bethune practiced his profession as",
+		"chinese": "贝恩从事他的职业",
+		"soundmark": "/bəθjˈuːn/ /prˈæktɪst/ /hɪz/ /prəfˈɛːʃən/ /ˈɛːz/"
+	},
+	{
+		"english": "bethune practiced his profession as best",
+		"chinese": "贝恩以最好的状态从事他的职业",
+		"soundmark": "/bəθjˈuːn/ /prˈæktɪst/ /hɪz/ /prəfˈɛːʃən/ /ˈɛːz/ /bˈɛːst/"
+	},
+	{
+		"english": "bethune practiced his profession as best as",
+		"chinese": "贝恩尽最大努力从事他的职业",
+		"soundmark": "/bəθjˈuːn/ /prˈæktɪst/ /hɪz/ /prəfˈɛːʃən/ /ˈɛːz/ /bˈɛːst/ /ˈɛːz/"
+	},
+	{
+		"english": "bethune practiced his profession as best as he",
+		"chinese": "贝恩尽自己最大努力从事他的职业",
+		"soundmark": "/bəθjˈuːn/ /prˈæktɪst/ /hɪz/ /prəfˈɛːʃən/ /ˈɛːz/ /bˈɛːst/ /ˈɛːz/ /hˈiː/"
+	},
+	{
+		"english": "bethune practiced his profession as best as he could",
+		"chinese": "贝恩尽自己最大努力从事他的职业",
+		"soundmark": "/bəθjˈuːn/ /prˈæktɪst/ /hɪz/ /prəfˈɛːʃən/ /ˈɛːz/ /bˈɛːst/ /ˈɛːz/ /hˈiː/ /kˈʊd/"
+	},
+	{
+		"english": "there",
+		"chinese": "那里",
+		"soundmark": "/ðˈɛːr/"
+	},
+	{
+		"english": "there were",
+		"chinese": "有",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/"
+	},
+	{
+		"english": "there were no",
+		"chinese": "没有",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/"
+	},
+	{
+		"english": "there were no mobile",
+		"chinese": "没有移动设备",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/"
+	},
+	{
+		"english": "there were no mobile units",
+		"chinese": "没有移动单元",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/"
+	},
+	{
+		"english": "there were no mobile units and",
+		"chinese": "没有移动单元",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/"
+	},
+	{
+		"english": "there were no mobile units and there",
+		"chinese": "没有移动单元，而且……",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/"
+	},
+	{
+		"english": "there were no mobile units and there was",
+		"chinese": "没有移动单元，而且有",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/"
+	},
+	{
+		"english": "there were no mobile units and there was a",
+		"chinese": "没有移动单元，而且有……",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/"
+	},
+	{
+		"english": "there were no mobile units and there was a desperate",
+		"chinese": "没有移动单位，情况十分危急",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/"
+	},
+	{
+		"english": "there were no mobile units and there was a desperate need",
+		"chinese": "没有移动单位，急需解决",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/"
+	},
+	{
+		"english": "there were no mobile units and there was a desperate need to",
+		"chinese": "没有移动单位，迫切需要……",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/"
+	},
+	{
+		"english": "there were no mobile units and there was a desperate need to recruit",
+		"chinese": "没有移动单位，急需招募人员",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/"
+	},
+	{
+		"english": "there were no mobile units and there was a desperate need to recruit medical",
+		"chinese": "没有移动单位，急需招募医疗人员",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/"
+	},
+	{
+		"english": "there were no mobile units and there was a desperate need to recruit medical trainees",
+		"chinese": "没有移动单位，迫切需要招募医疗实习生",
+		"soundmark": "/ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /mˈoʊbəl/ /jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/"
+	},
+	{
+		"english": "units and there was a desperate need to recruit medical trainees and",
+		"chinese": "单位，迫切需要招募医疗实习生",
+		"soundmark": "/jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/"
+	},
+	{
+		"english": "units and there was a desperate need to recruit medical trainees and convey",
+		"chinese": "单位，迫切需要招募医疗实习生并传达信息",
+		"soundmark": "/jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/"
+	},
+	{
+		"english": "units and there was a desperate need to recruit medical trainees and convey his",
+		"chinese": "单位，迫切需要招募医疗实习生并传达他的信息",
+		"soundmark": "/jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/"
+	},
+	{
+		"english": "units and there was a desperate need to recruit medical trainees and convey his knowledge",
+		"chinese": "单位需要大量医疗培训生，并且迫切需要传播他的知识",
+		"soundmark": "/jˈuːnɪts/ /ˈænd/ /ðˈɛːr/ /wˈɔːz/ /ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/"
+	},
+	{
+		"english": "a desperate need to recruit medical trainees and convey his knowledge and",
+		"chinese": "迫切需要招募医疗实习生，并传授他的知识",
+		"soundmark": "/ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/"
+	},
+	{
+		"english": "a desperate need to recruit medical trainees and convey his knowledge and skills",
+		"chinese": "迫切需要招募医疗实习生，并传授他的知识和技能",
+		"soundmark": "/ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/ /skˈɪlz/"
+	},
+	{
+		"english": "a desperate need to recruit medical trainees and convey his knowledge and skills to",
+		"chinese": "迫切需要招募医疗实习生，并将自己的知识和技能传授给他们",
+		"soundmark": "/ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/ /skˈɪlz/ /tə/"
+	},
+	{
+		"english": "a desperate need to recruit medical trainees and convey his knowledge and skills to meet",
+		"chinese": "迫切需要招募医疗实习生，并将自己的知识和技能传授给他们",
+		"soundmark": "/ˈeɪ/ /dˈɛːspɜːɪt/ /nˈiːd/ /tə/ /riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/ /skˈɪlz/ /tə/ /mˈiːt/"
+	},
+	{
+		"english": "recruit medical trainees and convey his knowledge and skills to meet the",
+		"chinese": "招募医疗实习生，并将自己的知识与技能传授给他们以满足需求",
+		"soundmark": "/riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/ /skˈɪlz/ /tə/ /mˈiːt/ /ðiː/"
+	},
+	{
+		"english": "recruit medical trainees and convey his knowledge and skills to meet the needs",
+		"chinese": "招募医疗实习生，并将自己的知识与技能传授给他们以满足需求",
+		"soundmark": "/riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/ /skˈɪlz/ /tə/ /mˈiːt/ /ðiː/ /nˈiːdz/"
+	},
+	{
+		"english": "recruit medical trainees and convey his knowledge and skills to meet the needs of",
+		"chinese": "招募医疗实习生，并将自己的知识与技能传授给他们以满足需求",
+		"soundmark": "/riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/ /skˈɪlz/ /tə/ /mˈiːt/ /ðiː/ /nˈiːdz/ /əv/"
+	},
+	{
+		"english": "recruit medical trainees and convey his knowledge and skills to meet the needs of the",
+		"chinese": "招募医疗实习生，并将自己的知识与技能传授给他们以满足需求",
+		"soundmark": "/riːkrˈuːt/ /mˈɛːdɪkəl/ /trˈeɪnˈiːz/ /ˈænd/ /kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/ /skˈɪlz/ /tə/ /mˈiːt/ /ðiː/ /nˈiːdz/ /əv/ /ðiː/"
+	},
+	{
+		"english": "convey his knowledge and skills to meet the needs of the soldiers",
+		"chinese": "将他的知识和技能传授给士兵，以满足他们的需求",
+		"soundmark": "/kənvˈeɪ/ /hɪz/ /nˈɑːlɪdʒ/ /ˈænd/ /skˈɪlz/ /tə/ /mˈiːt/ /ðiː/ /nˈiːdz/ /əv/ /ðiː/ /sˈoʊldʒɜːz/"
+	},
+	{
+		"english": "consequently",
+		"chinese": "因此",
+		"soundmark": "/kˈɑːnsəkwˌɛːntliː/"
+	},
+	{
+		"english": "there",
+		"chinese": "那里",
+		"soundmark": "/ðˈɛːr/"
+	},
+	{
+		"english": "there was",
+		"chinese": "有",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/"
+	},
+	{
+		"english": "there was an",
+		"chinese": "曾经有",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ən/"
+	},
+	{
+		"english": "there was an urgent",
+		"chinese": "有紧急情况",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ən/ /ˈɜːdʒənt/"
+	},
+	{
+		"english": "there was an urgent requirement",
+		"chinese": "有紧急需求",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ən/ /ˈɜːdʒənt/ /rɪkwˈaɪrmənt/"
+	},
+	{
+		"english": "there was an urgent requirement for",
+		"chinese": "存在紧急需求",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ən/ /ˈɜːdʒənt/ /rɪkwˈaɪrmənt/ /frɜː/"
+	},
+	{
+		"english": "there was an urgent requirement for illustrated",
+		"chinese": "有紧急需求需要插图",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ən/ /ˈɜːdʒənt/ /rɪkwˈaɪrmənt/ /frɜː/ /ˈɪləstrˌeɪtɪd/"
+	},
+	{
+		"english": "there was an urgent requirement for illustrated medical",
+		"chinese": "有紧急需求需要插图医学资料",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ən/ /ˈɜːdʒənt/ /rɪkwˈaɪrmənt/ /frɜː/ /ˈɪləstrˌeɪtɪd/ /mˈɛːdɪkəl/"
+	},
+	{
+		"english": "there was an urgent requirement for illustrated medical manuals",
+		"chinese": "迫切需要插图医学手册",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ən/ /ˈɜːdʒənt/ /rɪkwˈaɪrmənt/ /frɜː/ /ˈɪləstrˌeɪtɪd/ /mˈɛːdɪkəl/ /mˈænjuːəlz/"
+	}
+]

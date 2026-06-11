@@ -1,0 +1,1112 @@
+[
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the tiny",
+		"chinese": "微小的",
+		"soundmark": "/ðiː/ /tˈaɪniː/"
+	},
+	{
+		"english": "the tiny antique",
+		"chinese": "微小的古物",
+		"soundmark": "/ðiː/ /tˈaɪniː/ /æntˈiːk/"
+	},
+	{
+		"english": "the tiny antique silver",
+		"chinese": "微小的古董银器",
+		"soundmark": "/ðiː/ /tˈaɪniː/ /æntˈiːk/ /sˈɪlvɜː/"
+	},
+	{
+		"english": "the tiny antique silver pin",
+		"chinese": "小小的古董银别针",
+		"soundmark": "/ðiː/ /tˈaɪniː/ /æntˈiːk/ /sˈɪlvɜː/ /pˈɪn/"
+	},
+	{
+		"english": "the tiny antique silver pin lay",
+		"chinese": "那个微小的古董银别针躺在那里",
+		"soundmark": "/ðiː/ /tˈaɪniː/ /æntˈiːk/ /sˈɪlvɜː/ /pˈɪn/ /lˈeɪ/"
+	},
+	{
+		"english": "the tiny antique silver pin lay in",
+		"chinese": "那个微小的古董银别针躺在那里",
+		"soundmark": "/ðiː/ /tˈaɪniː/ /æntˈiːk/ /sˈɪlvɜː/ /pˈɪn/ /lˈeɪ/ /ˈɪn/"
+	},
+	{
+		"english": "the tiny antique silver pin lay in my",
+		"chinese": "那个小小的古董银别针放在我……",
+		"soundmark": "/ðiː/ /tˈaɪniː/ /æntˈiːk/ /sˈɪlvɜː/ /pˈɪn/ /lˈeɪ/ /ˈɪn/ /mˈaɪ/"
+	},
+	{
+		"english": "the tiny antique silver pin lay in my hand",
+		"chinese": "那个小小的古董银别针放在我的手中",
+		"soundmark": "/ðiː/ /tˈaɪniː/ /æntˈiːk/ /sˈɪlvɜː/ /pˈɪn/ /lˈeɪ/ /ˈɪn/ /mˈaɪ/ /hˈænd/"
+	},
+	{
+		"english": "i",
+		"chinese": "我",
+		"soundmark": "/ˈaɪ/"
+	},
+	{
+		"english": "i stared",
+		"chinese": "我盯着看",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/"
+	},
+	{
+		"english": "i stared hard",
+		"chinese": "我用力盯着看",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/"
+	},
+	{
+		"english": "i stared hard at",
+		"chinese": "我仔细地盯着",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/"
+	},
+	{
+		"english": "i stared hard at the",
+		"chinese": "我专注地盯着它",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/"
+	},
+	{
+		"english": "i stared hard at the solemn",
+		"chinese": "我专注地凝视着那肃穆的场景",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/"
+	},
+	{
+		"english": "i stared hard at the solemn face",
+		"chinese": "我专注地盯着那严肃的面容",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/"
+	},
+	{
+		"english": "i stared hard at the solemn face looking",
+		"chinese": "我紧盯着那张严肃的面容",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/ /lˈʊkɪŋ/"
+	},
+	{
+		"english": "i stared hard at the solemn face looking back",
+		"chinese": "我紧盯着那张严肃的脸庞回望着",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/ /lˈʊkɪŋ/ /bˈæk/"
+	},
+	{
+		"english": "i stared hard at the solemn face looking back at",
+		"chinese": "我紧盯着那张严肃的脸，它回望着我",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/ /lˈʊkɪŋ/ /bˈæk/ /ˈæt/"
+	},
+	{
+		"english": "i stared hard at the solemn face looking back at me",
+		"chinese": "我紧盯着那张严肃的脸，它正回望着我",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/ /lˈʊkɪŋ/ /bˈæk/ /ˈæt/ /mˈiː/"
+	},
+	{
+		"english": "i stared hard at the solemn face looking back at me from",
+		"chinese": "我紧紧盯着那张严肃的面孔，它正回望着我",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/ /lˈʊkɪŋ/ /bˈæk/ /ˈæt/ /mˈiː/ /fɜːm/"
+	},
+	{
+		"english": "i stared hard at the solemn face looking back at me from the",
+		"chinese": "我紧盯着那张严肃的面孔，它正回望着我",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/ /lˈʊkɪŋ/ /bˈæk/ /ˈæt/ /mˈiː/ /fɜːm/ /ðiː/"
+	},
+	{
+		"english": "i stared hard at the solemn face looking back at me from the oval",
+		"chinese": "我紧盯着那张严肃的脸，它正从椭圆形中回望着我",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/ /lˈʊkɪŋ/ /bˈæk/ /ˈæt/ /mˈiː/ /fɜːm/ /ðiː/ /ˈoʊvəl/"
+	},
+	{
+		"english": "i stared hard at the solemn face looking back at me from the oval frame",
+		"chinese": "我紧盯着那张严肃的面孔，它从椭圆形框架中回望着我",
+		"soundmark": "/ˈaɪ/ /stˈɛːrd/ /hˈɑːrd/ /ˈæt/ /ðiː/ /sˈɑːləm/ /fˈeɪs/ /lˈʊkɪŋ/ /bˈæk/ /ˈæt/ /mˈiː/ /fɜːm/ /ðiː/ /ˈoʊvəl/ /frˈeɪm/"
+	},
+	{
+		"english": "i",
+		"chinese": "我",
+		"soundmark": "/ˈaɪ/"
+	},
+	{
+		"english": "i was",
+		"chinese": "我曾是",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/"
+	},
+	{
+		"english": "i was looking",
+		"chinese": "我正在看",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/"
+	},
+	{
+		"english": "i was looking for",
+		"chinese": "我在寻找",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/ /frɜː/"
+	},
+	{
+		"english": "i was looking for some",
+		"chinese": "我在寻找一些东西",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/ /frɜː/ /sˈəm/"
+	},
+	{
+		"english": "i was looking for some resemblance",
+		"chinese": "我在寻找一些相似之处",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/ /frɜː/ /sˈəm/ /riːzˈɛːmbləns/"
+	},
+	{
+		"english": "i was looking for some resemblance between",
+		"chinese": "我在寻找一些相似之处",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/ /frɜː/ /sˈəm/ /riːzˈɛːmbləns/ /biːtwˈiːn/"
+	},
+	{
+		"english": "i was looking for some resemblance between my",
+		"chinese": "我在寻找一些相似之处于我的……",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/ /frɜː/ /sˈəm/ /riːzˈɛːmbləns/ /biːtwˈiːn/ /mˈaɪ/"
+	},
+	{
+		"english": "i was looking for some resemblance between my ancestor",
+		"chinese": "我在寻找我的祖先与某人的相似之处",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/ /frɜː/ /sˈəm/ /riːzˈɛːmbləns/ /biːtwˈiːn/ /mˈaɪ/ /ˈænsˌɛːstɜː/"
+	},
+	{
+		"english": "i was looking for some resemblance between my ancestor and",
+		"chinese": "我在寻找我的祖先与某人的相似之处",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/ /frɜː/ /sˈəm/ /riːzˈɛːmbləns/ /biːtwˈiːn/ /mˈaɪ/ /ˈænsˌɛːstɜː/ /ˈænd/"
+	},
+	{
+		"english": "i was looking for some resemblance between my ancestor and myself",
+		"chinese": "我在寻找我的祖先与我自己之间的某些相似之处",
+		"soundmark": "/ˈaɪ/ /wˈɔːz/ /lˈʊkɪŋ/ /frɜː/ /sˈəm/ /riːzˈɛːmbləns/ /biːtwˈiːn/ /mˈaɪ/ /ˈænsˌɛːstɜː/ /ˈænd/ /mˌaɪsˈɛːlf/"
+	},
+	{
+		"english": "her",
+		"chinese": "她",
+		"soundmark": "/hˈɜː/"
+	},
+	{
+		"english": "her brow",
+		"chinese": "她的眉头",
+		"soundmark": "/hˈɜː/ /brˈaʊ/"
+	},
+	{
+		"english": "her brow was",
+		"chinese": "她的眉头",
+		"soundmark": "/hˈɜː/ /brˈaʊ/ /wˈɔːz/"
+	},
+	{
+		"english": "her brow was broad",
+		"chinese": "她的眉头很宽",
+		"soundmark": "/hˈɜː/ /brˈaʊ/ /wˈɔːz/ /brˈɔːd/"
+	},
+	{
+		"english": "her brow was broad and",
+		"chinese": "她的眉头很宽",
+		"soundmark": "/hˈɜː/ /brˈaʊ/ /wˈɔːz/ /brˈɔːd/ /ˈænd/"
+	},
+	{
+		"english": "her brow was broad and strong",
+		"chinese": "她的眉头宽大而有力",
+		"soundmark": "/hˈɜː/ /brˈaʊ/ /wˈɔːz/ /brˈɔːd/ /ˈænd/ /strˈɔːŋ/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the eyes",
+		"chinese": "眼睛",
+		"soundmark": "/ðiː/ /ˈaɪz/"
+	},
+	{
+		"english": "the eyes kind",
+		"chinese": "那双眼睛很可爱",
+		"soundmark": "/ðiː/ /ˈaɪz/ /kˈaɪnd/"
+	},
+	{
+		"english": "the eyes kind and",
+		"chinese": "善良的眼神",
+		"soundmark": "/ðiː/ /ˈaɪz/ /kˈaɪnd/ /ˈænd/"
+	},
+	{
+		"english": "the eyes kind and forgiving",
+		"chinese": "善良且宽容的眼神",
+		"soundmark": "/ðiː/ /ˈaɪz/ /kˈaɪnd/ /ˈænd/ /fɔːrɡˈɪvɪŋ/"
+	},
+	{
+		"english": "she",
+		"chinese": "她",
+		"soundmark": "/ʃˈiː/"
+	},
+	{
+		"english": "she wore",
+		"chinese": "她穿着",
+		"soundmark": "/ʃˈiː/ /wˈɔːr/"
+	},
+	{
+		"english": "she wore a",
+		"chinese": "她穿着一件",
+		"soundmark": "/ʃˈiː/ /wˈɔːr/ /ˈeɪ/"
+	},
+	{
+		"english": "she wore a stiff",
+		"chinese": "她穿着一件僵硬的衣服",
+		"soundmark": "/ʃˈiː/ /wˈɔːr/ /ˈeɪ/ /stˈɪf/"
+	},
+	{
+		"english": "she wore a stiff black",
+		"chinese": "她穿着一件僵硬的黑色衣服",
+		"soundmark": "/ʃˈiː/ /wˈɔːr/ /ˈeɪ/ /stˈɪf/ /blˈæk/"
+	},
+	{
+		"english": "she wore a stiff black bonnet",
+		"chinese": "她戴了一顶硬挺的黑色帽子",
+		"soundmark": "/ʃˈiː/ /wˈɔːr/ /ˈeɪ/ /stˈɪf/ /blˈæk/ /bˈɑːnət/"
+	},
+	{
+		"english": "a",
+		"chinese": "一个",
+		"soundmark": "/ˈeɪ/"
+	},
+	{
+		"english": "a high",
+		"chinese": "高",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/"
+	},
+	{
+		"english": "a high white",
+		"chinese": "高高的白色",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/"
+	},
+	{
+		"english": "a high white collar",
+		"chinese": "高学历的白领",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/"
+	},
+	{
+		"english": "a high white collar and",
+		"chinese": "高学历的白领职业",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/ /ˈænd/"
+	},
+	{
+		"english": "a high white collar and a",
+		"chinese": "高学历的白领人员",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/ /ˈænd/ /ˈeɪ/"
+	},
+	{
+		"english": "a high white collar and a coarsely",
+		"chinese": "高学历的白领，粗糙的",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/ /ˈænd/ /ˈeɪ/"
+	},
+	{
+		"english": "a high white collar and a coarsely woven",
+		"chinese": "高学历的白领，粗织的衣物",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/ /ˈænd/ /ˈeɪ/ /wˈoʊvən/"
+	},
+	{
+		"english": "a high white collar and a coarsely woven shawl",
+		"chinese": "高领白衬衫和粗织披肩",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/ /ˈænd/ /ˈeɪ/ /wˈoʊvən/ /ʃˈɔːl/"
+	},
+	{
+		"english": "a high white collar and a coarsely woven shawl around",
+		"chinese": "一件高领白衬衫和一条粗织披肩",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/ /ˈænd/ /ˈeɪ/ /wˈoʊvən/ /ʃˈɔːl/ /ɜːˈaʊn/"
+	},
+	{
+		"english": "a high white collar and a coarsely woven shawl around her",
+		"chinese": "一个高高的白领制服，以及一条粗织的披肩",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/ /ˈænd/ /ˈeɪ/ /wˈoʊvən/ /ʃˈɔːl/ /ɜːˈaʊn/ /hˈɜː/"
+	},
+	{
+		"english": "a high white collar and a coarsely woven shawl around her shoulders",
+		"chinese": "一个高贵的白领职业，以及一条粗织的披肩",
+		"soundmark": "/ˈeɪ/ /hˈaɪ/ /hwˈaɪt/ /kˈɑːlɜː/ /ˈænd/ /ˈeɪ/ /wˈoʊvən/ /ʃˈɔːl/ /ɜːˈaʊn/ /hˈɜː/ /ʃˈoʊldɜːz/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in examining",
+		"chinese": "在审查中",
+		"soundmark": "/ˈɪn/ /ɪɡzˈæmɪnɪŋ/"
+	},
+	{
+		"english": "in examining her",
+		"chinese": "在检查她时",
+		"soundmark": "/ˈɪn/ /ɪɡzˈæmɪnɪŋ/ /hˈɜː/"
+	},
+	{
+		"english": "in examining her face",
+		"chinese": "观察她的脸庞",
+		"soundmark": "/ˈɪn/ /ɪɡzˈæmɪnɪŋ/ /hˈɜː/ /fˈeɪs/"
+	},
+	{
+		"english": "in examining her face more",
+		"chinese": "仔细观察她的脸庞",
+		"soundmark": "/ˈɪn/ /ɪɡzˈæmɪnɪŋ/ /hˈɜː/ /fˈeɪs/ /mˈɔːr/"
+	},
+	{
+		"english": "in examining her face more closely",
+		"chinese": "仔细观察她的脸庞",
+		"soundmark": "/ˈɪn/ /ɪɡzˈæmɪnɪŋ/ /hˈɜː/ /fˈeɪs/ /mˈɔːr/ /klˈoʊsliː/"
+	},
+	{
+		"english": "maybe",
+		"chinese": "也许",
+		"soundmark": "/mˈeɪbiː/"
+	},
+	{
+		"english": "maybe i",
+		"chinese": "也许我",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/"
+	},
+	{
+		"english": "maybe i could",
+		"chinese": "也许我可以",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/"
+	},
+	{
+		"english": "maybe i could identify",
+		"chinese": "也许我能识别出来",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/"
+	},
+	{
+		"english": "maybe i could identify some",
+		"chinese": "也许我可以认出一些",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /sˈəm/"
+	},
+	{
+		"english": "maybe i could identify some similarity",
+		"chinese": "也许我能发现一些相似之处",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /sˈəm/ /sˌɪməlˈɛːrətiː/"
+	},
+	{
+		"english": "maybe i could identify some similarity around",
+		"chinese": "也许我可以找到一些相似之处",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /sˈəm/ /sˌɪməlˈɛːrətiː/ /ɜːˈaʊn/"
+	},
+	{
+		"english": "maybe i could identify some similarity around the",
+		"chinese": "也许我可以找到一些相似之处……",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /sˈəm/ /sˌɪməlˈɛːrətiː/ /ɜːˈaʊn/ /ðiː/"
+	},
+	{
+		"english": "maybe i could identify some similarity around the eyes",
+		"chinese": "也许我能发现一些眼睛周围的相似之处",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /sˈəm/ /sˌɪməlˈɛːrətiː/ /ɜːˈaʊn/ /ðiː/ /ˈaɪz/"
+	},
+	{
+		"english": "maybe i could identify some similarity around the eyes and",
+		"chinese": "也许我可以发现眼睛周围的一些相似之处",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /sˈəm/ /sˌɪməlˈɛːrətiː/ /ɜːˈaʊn/ /ðiː/ /ˈaɪz/ /ˈænd/"
+	},
+	{
+		"english": "maybe i could identify some similarity around the eyes and the",
+		"chinese": "也许我可以发现眼睛周围的一些相似之处",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /sˈəm/ /sˌɪməlˈɛːrətiː/ /ɜːˈaʊn/ /ðiː/ /ˈaɪz/ /ˈænd/ /ðiː/"
+	},
+	{
+		"english": "maybe i could identify some similarity around the eyes and the nose",
+		"chinese": "也许我能发现一些眼睛和鼻子方面的相似之处",
+		"soundmark": "/mˈeɪbiː/ /ˈaɪ/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /sˈəm/ /sˌɪməlˈɛːrətiː/ /ɜːˈaʊn/ /ðiː/ /ˈaɪz/ /ˈænd/ /ðiː/ /nˈoʊz/"
+	},
+	{
+		"english": "an",
+		"chinese": "一个",
+		"soundmark": "/ən/"
+	},
+	{
+		"english": "an inner",
+		"chinese": "内部",
+		"soundmark": "/ən/ /ˈɪnɜː/"
+	},
+	{
+		"english": "an inner strength",
+		"chinese": "内在力量",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/"
+	},
+	{
+		"english": "an inner strength shone",
+		"chinese": "内在的力量闪耀着",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/"
+	},
+	{
+		"english": "an inner strength shone from",
+		"chinese": "一种内在力量显现出来",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/"
+	},
+	{
+		"english": "an inner strength shone from the",
+		"chinese": "一种内在力量闪耀着",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/"
+	},
+	{
+		"english": "an inner strength shone from the eyes",
+		"chinese": "从眼中闪耀出内在的力量",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/"
+	},
+	{
+		"english": "an inner strength shone from the eyes of",
+		"chinese": "一种内在的力量从眼中显现出来",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/ /əv/"
+	},
+	{
+		"english": "an inner strength shone from the eyes of this",
+		"chinese": "一种内在力量从他的眼中闪耀出来",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/"
+	},
+	{
+		"english": "an inner strength shone from the eyes of this diminutive",
+		"chinese": "一种内在力量从这个娇小之人的眼中闪耀出来",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/"
+	},
+	{
+		"english": "an inner strength shone from the eyes of this diminutive lady",
+		"chinese": "这位小姑娘的眼中闪烁着内在的力量",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/"
+	},
+	{
+		"english": "an inner strength shone from the eyes of this diminutive lady who",
+		"chinese": "这位小个子女士的眼中闪烁着内在的力量",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/"
+	},
+	{
+		"english": "an inner strength shone from the eyes of this diminutive lady who had",
+		"chinese": "这位娇小女士的眼中闪烁着内在的力量",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/"
+	},
+	{
+		"english": "an inner strength shone from the eyes of this diminutive lady who had helped",
+		"chinese": "这位小个子女士的眼中闪烁着内在的力量，她曾给予帮助",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/"
+	},
+	{
+		"english": "an inner strength shone from the eyes of this diminutive lady who had helped lead",
+		"chinese": "这位小个子女士的眼中闪烁着内在的力量，她曾参与领导工作",
+		"soundmark": "/ən/ /ˈɪnɜː/ /strˈɛːŋθ/ /ʃˈoʊn/ /fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/"
+	},
+	{
+		"english": "from the eyes of this diminutive lady who had helped lead her",
+		"chinese": "来自这位曾协助领导她的小个子女士的视角",
+		"soundmark": "/fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/ /hˈɜː/"
+	},
+	{
+		"english": "from the eyes of this diminutive lady who had helped lead her family",
+		"chinese": "来自这位帮助带领家庭的娇小女士的视角",
+		"soundmark": "/fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/ /hˈɜː/ /fˈæmliː/"
+	},
+	{
+		"english": "from the eyes of this diminutive lady who had helped lead her family from",
+		"chinese": "来自这位小女士的视角，她曾帮助带领着她的家庭走向",
+		"soundmark": "/fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/ /hˈɜː/ /fˈæmliː/ /fɜːm/"
+	},
+	{
+		"english": "from the eyes of this diminutive lady who had helped lead her family from ireland",
+		"chinese": "来自这位小个子女士的视角，她曾帮助带领她的家族从爱尔兰出发",
+		"soundmark": "/fɜːm/ /ðiː/ /ˈaɪz/ /əv/ /ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/ /hˈɜː/ /fˈæmliː/ /fɜːm/ /ˈaɪrlənd/"
+	},
+	{
+		"english": "this diminutive lady who had helped lead her family from ireland to",
+		"chinese": "这位小个子女士曾帮助将她的家庭从爱尔兰带到",
+		"soundmark": "/ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/ /hˈɜː/ /fˈæmliː/ /fɜːm/ /ˈaɪrlənd/ /tə/"
+	},
+	{
+		"english": "this diminutive lady who had helped lead her family from ireland to the",
+		"chinese": "这位小个子女士曾帮助将她的家庭从爱尔兰带到...",
+		"soundmark": "/ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/ /hˈɜː/ /fˈæmliː/ /fɜːm/ /ˈaɪrlənd/ /tə/ /ðiː/"
+	},
+	{
+		"english": "this diminutive lady who had helped lead her family from ireland to the new",
+		"chinese": "这位小个子女士曾帮助将她的家庭从爱尔兰带到新地方",
+		"soundmark": "/ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/ /hˈɜː/ /fˈæmliː/ /fɜːm/ /ˈaɪrlənd/ /tə/ /ðiː/ /njˈuː/"
+	},
+	{
+		"english": "this diminutive lady who had helped lead her family from ireland to the new world",
+		"chinese": "这位小个子女士曾帮助将她的家人从爱尔兰带到新世界",
+		"soundmark": "/ðɪs/ /dɪmˈɪnjətɪv/ /lˈeɪdiː/ /hˈuː/ /hˈæd/ /hˈɛːlpt/ /lˈiːd/ /hˈɜː/ /fˈæmliː/ /fɜːm/ /ˈaɪrlənd/ /tə/ /ðiː/ /njˈuː/ /wˈɜːld/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the times",
+		"chinese": "时代",
+		"soundmark": "/ðiː/ /tˈaɪmz/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in ireland",
+		"chinese": "在爱尔兰",
+		"soundmark": "/ˈɪn/ /ˈaɪrlənd/"
+	},
+	{
+		"english": "in ireland during",
+		"chinese": "在爱尔兰期间",
+		"soundmark": "/ˈɪn/ /ˈaɪrlənd/ /dˈɜːɪŋ/"
+	},
+	{
+		"english": "in ireland during the",
+		"chinese": "在爱尔兰期间",
+		"soundmark": "/ˈɪn/ /ˈaɪrlənd/ /dˈɜːɪŋ/ /ðiː/"
+	},
+	{
+		"english": "in ireland during the s",
+		"chinese": "在爱尔兰的 s 时期",
+		"soundmark": "/ˈɪn/ /ˈaɪrlənd/ /dˈɜːɪŋ/ /ðiː/ /ˈɛːs/"
+	},
+	{
+		"english": "were",
+		"chinese": "是",
+		"soundmark": "/wˈɜː/"
+	},
+	{
+		"english": "were difficult",
+		"chinese": "很困难",
+		"soundmark": "/wˈɜː/ /dˈɪfəkəlt/"
+	},
+	{
+		"english": "were difficult for",
+		"chinese": "很困难",
+		"soundmark": "/wˈɜː/ /dˈɪfəkəlt/ /frɜː/"
+	},
+	{
+		"english": "were difficult for everyone",
+		"chinese": "对每个人来说都很困难",
+		"soundmark": "/wˈɜː/ /dˈɪfəkəlt/ /frɜː/ /ˈɛːvriːwˌən/"
+	},
+	{
+		"english": "john",
+		"chinese": "约翰",
+		"soundmark": "/dʒˈɑːn/"
+	},
+	{
+		"english": "john and",
+		"chinese": "约翰与",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/"
+	},
+	{
+		"english": "john and lily",
+		"chinese": "约翰和莉莉",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/"
+	},
+	{
+		"english": "john and lily love",
+		"chinese": "约翰和莉莉爱着彼此",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/"
+	},
+	{
+		"english": "john and lily love and",
+		"chinese": "约翰和莉莉爱着",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/"
+	},
+	{
+		"english": "john and lily love and all",
+		"chinese": "约翰和莉莉热爱一切",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/"
+	},
+	{
+		"english": "john and lily love and all the",
+		"chinese": "约翰和莉莉爱一切",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/"
+	},
+	{
+		"english": "john and lily love and all the tenants",
+		"chinese": "约翰和莉莉爱一切，以及所有租户",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/"
+	},
+	{
+		"english": "john and lily love and all the tenants of",
+		"chinese": "约翰和莉莉、爱以及所有租户",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/"
+	},
+	{
+		"english": "john and lily love and all the tenants of the",
+		"chinese": "约翰和莉莉、爱以及所有的租户",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/"
+	},
+	{
+		"english": "john and lily love and all the tenants of the barren",
+		"chinese": "约翰和莉莉、爱以及那个荒芜之地的所有租户",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/"
+	},
+	{
+		"english": "john and lily love and all the tenants of the barren s",
+		"chinese": "约翰和莉莉、爱以及那片荒芜之地上的所有租户",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/"
+	},
+	{
+		"english": "john and lily love and all the tenants of the barren s court",
+		"chinese": "约翰和莉莉、爱以及贫瘠法院的所有租户",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/"
+	},
+	{
+		"english": "john and lily love and all the tenants of the barren s court estate",
+		"chinese": "约翰和莉莉、以及贫瘠法院地产的所有租户",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/"
+	},
+	{
+		"english": "john and lily love and all the tenants of the barren s court estate were",
+		"chinese": "约翰和莉莉以及贫瘠法院地产的所有租户都爱恋着一切。",
+		"soundmark": "/dʒˈɑːn/ /ˈænd/ /lˈɪliː/ /lˈəv/ /ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/ /wˈɜː/"
+	},
+	{
+		"english": "and all the tenants of the barren s court estate were suffering",
+		"chinese": "而贫瘠的法院地产的所有租户都在受苦",
+		"soundmark": "/ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/ /wˈɜː/ /sˈəfrɪŋ/"
+	},
+	{
+		"english": "and all the tenants of the barren s court estate were suffering after",
+		"chinese": "而那块荒废的庭院地产上的所有租户都在受苦",
+		"soundmark": "/ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/ /wˈɜː/ /sˈəfrɪŋ/ /ˈæftɜː/"
+	},
+	{
+		"english": "and all the tenants of the barren s court estate were suffering after terrible",
+		"chinese": "贫瘠的法院地产的所有租户都在遭受着可怕的苦难。",
+		"soundmark": "/ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/ /wˈɜː/ /sˈəfrɪŋ/ /ˈæftɜː/ /tˈɛːrəbəl/"
+	},
+	{
+		"english": "and all the tenants of the barren s court estate were suffering after terrible floods",
+		"chinese": "贫瘠庄园的所有租户都在可怕的洪水之后遭受了苦难",
+		"soundmark": "/ˈænd/ /ˈɔːl/ /ðiː/ /tˈɛːnənts/ /əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/ /wˈɜː/ /sˈəfrɪŋ/ /ˈæftɜː/ /tˈɛːrəbəl/ /flˈədz/"
+	},
+	{
+		"english": "of the barren s court estate were suffering after terrible floods destroyed",
+		"chinese": "那些荒芜的庄园在严重的洪水破坏后遭受了损失",
+		"soundmark": "/əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/ /wˈɜː/ /sˈəfrɪŋ/ /ˈæftɜː/ /tˈɛːrəbəl/ /flˈədz/ /dɪstrˈɔɪd/"
+	},
+	{
+		"english": "of the barren s court estate were suffering after terrible floods destroyed their",
+		"chinese": "那些荒芜的庄园在严重的洪水过后遭受了损失",
+		"soundmark": "/əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/ /wˈɜː/ /sˈəfrɪŋ/ /ˈæftɜː/ /tˈɛːrəbəl/ /flˈədz/ /dɪstrˈɔɪd/ /ðˈɛːr/"
+	},
+	{
+		"english": "of the barren s court estate were suffering after terrible floods destroyed their crops",
+		"chinese": "那些荒芜的庄园在严重的洪水摧毁了他们的庄稼后遭受了损失",
+		"soundmark": "/əv/ /ðiː/ /bˈɛːrən/ /ˈɛːs/ /kˈɔːrt/ /ɪstˈeɪt/ /wˈɜː/ /sˈəfrɪŋ/ /ˈæftɜː/ /tˈɛːrəbəl/ /flˈədz/ /dɪstrˈɔɪd/ /ðˈɛːr/ /krˈɑːps/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the landlord",
+		"chinese": "房东",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/"
+	},
+	{
+		"english": "the landlord was",
+		"chinese": "房东是",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/"
+	},
+	{
+		"english": "the landlord was generous",
+		"chinese": "房东很慷慨",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/"
+	},
+	{
+		"english": "the landlord was generous in",
+		"chinese": "房东很慷慨",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/"
+	},
+	{
+		"english": "the landlord was generous in allowing",
+		"chinese": "房东在允许方面很慷慨",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/"
+	},
+	{
+		"english": "the landlord was generous in allowing the",
+		"chinese": "房东在允许方面很慷慨",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/"
+	},
+	{
+		"english": "the landlord was generous in allowing the land",
+		"chinese": "房东在允许使用土地方面很慷慨",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/"
+	},
+	{
+		"english": "the landlord was generous in allowing the land rent",
+		"chinese": "房东在支付地租方面很慷慨",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/"
+	},
+	{
+		"english": "the landlord was generous in allowing the land rent to",
+		"chinese": "房东在允许土地租金方面很慷慨",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/"
+	},
+	{
+		"english": "the landlord was generous in allowing the land rent to fall",
+		"chinese": "房东慷慨地允许土地租金下降",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/ /fˈɑːl/"
+	},
+	{
+		"english": "the landlord was generous in allowing the land rent to fall into",
+		"chinese": "房东慷慨地允许土地租金下降",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/ /fˈɑːl/ /ɪntə/"
+	},
+	{
+		"english": "the landlord was generous in allowing the land rent to fall into arrears",
+		"chinese": "房东慷慨地允许土地租金延期支付",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/ /fˈɑːl/ /ɪntə/ /ɜːˈɪrz/"
+	},
+	{
+		"english": "the landlord was generous in allowing the land rent to fall into arrears due",
+		"chinese": "房东慷慨地允许土地租金延期支付",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/ /fˈɑːl/ /ɪntə/ /ɜːˈɪrz/ /djˈuː/"
+	},
+	{
+		"english": "the landlord was generous in allowing the land rent to fall into arrears due to",
+		"chinese": "房东慷慨地允许土地租金延期支付",
+		"soundmark": "/ðiː/ /lˈændlˌɔːrd/ /wˈɔːz/ /dʒˈɛːnɜːəs/ /ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/ /fˈɑːl/ /ɪntə/ /ɜːˈɪrz/ /djˈuː/ /tə/"
+	},
+	{
+		"english": "in allowing the land rent to fall into arrears due to the",
+		"chinese": "由于……导致土地租金被推迟支付",
+		"soundmark": "/ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/ /fˈɑːl/ /ɪntə/ /ɜːˈɪrz/ /djˈuː/ /tə/ /ðiː/"
+	},
+	{
+		"english": "in allowing the land rent to fall into arrears due to the difficult",
+		"chinese": "由于情况困难，导致土地租金拖欠",
+		"soundmark": "/ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/ /fˈɑːl/ /ɪntə/ /ɜːˈɪrz/ /djˈuː/ /tə/ /ðiː/ /dˈɪfəkəlt/"
+	},
+	{
+		"english": "in allowing the land rent to fall into arrears due to the difficult times",
+		"chinese": "因时局艰难，导致地租拖欠",
+		"soundmark": "/ˈɪn/ /əlˈaʊɪŋ/ /ðiː/ /lˈænd/ /rˈɛːnt/ /tə/ /fˈɑːl/ /ɪntə/ /ɜːˈɪrz/ /djˈuː/ /tə/ /ðiː/ /dˈɪfəkəlt/ /tˈaɪmz/"
+	},
+	{
+		"english": "however",
+		"chinese": "然而",
+		"soundmark": "/hˌaʊˈɛːvɜː/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as weather",
+		"chinese": "随着天气变化",
+		"soundmark": "/ˈɛːz/ /wˈɛːðɜː/"
+	},
+	{
+		"english": "as weather conditions",
+		"chinese": "根据天气状况",
+		"soundmark": "/ˈɛːz/ /wˈɛːðɜː/ /kəndˈɪʃənz/"
+	},
+	{
+		"english": "as weather conditions continued",
+		"chinese": "随着天气状况持续",
+		"soundmark": "/ˈɛːz/ /wˈɛːðɜː/ /kəndˈɪʃənz/ /kəntˈɪnjuːd/"
+	},
+	{
+		"english": "as weather conditions continued to",
+		"chinese": "随着天气状况持续……",
+		"soundmark": "/ˈɛːz/ /wˈɛːðɜː/ /kəndˈɪʃənz/ /kəntˈɪnjuːd/ /tə/"
+	},
+	{
+		"english": "as weather conditions continued to worsen",
+		"chinese": "随着天气状况持续恶化",
+		"soundmark": "/ˈɛːz/ /wˈɛːðɜː/ /kəndˈɪʃənz/ /kəntˈɪnjuːd/ /tə/ /wˈɜːsən/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the little",
+		"chinese": "那个小东西",
+		"soundmark": "/ðiː/ /lˈɪtəl/"
+	},
+	{
+		"english": "the little family",
+		"chinese": "小家庭",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/"
+	},
+	{
+		"english": "the little family became",
+		"chinese": "这个小家庭变得",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/"
+	},
+	{
+		"english": "the little family became pessimistic",
+		"chinese": "这个小家庭变得悲观了",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/"
+	},
+	{
+		"english": "the little family became pessimistic and",
+		"chinese": "这个小家庭变得悲观了",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/"
+	},
+	{
+		"english": "the little family became pessimistic and felt",
+		"chinese": "这个小家庭变得悲观起来，感到",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/ /fˈɛːlt/"
+	},
+	{
+		"english": "the little family became pessimistic and felt desperate",
+		"chinese": "这个小家庭变得悲观且感到绝望",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/ /fˈɛːlt/ /dˈɛːspɜːɪt/"
+	},
+	{
+		"english": "the little family became pessimistic and felt desperate about",
+		"chinese": "这个小家庭变得悲观起来，感到绝望",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/ /fˈɛːlt/ /dˈɛːspɜːɪt/ /əbˈaʊt/"
+	},
+	{
+		"english": "the little family became pessimistic and felt desperate about the",
+		"chinese": "这个小家庭变得悲观起来，对……感到绝望",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/ /fˈɛːlt/ /dˈɛːspɜːɪt/ /əbˈaʊt/ /ðiː/"
+	},
+	{
+		"english": "the little family became pessimistic and felt desperate about the direction",
+		"chinese": "这个小家庭变得悲观起来，对未来的方向感到绝望",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/ /fˈɛːlt/ /dˈɛːspɜːɪt/ /əbˈaʊt/ /ðiː/ /dɪrˈɛːkʃɪn/"
+	},
+	{
+		"english": "the little family became pessimistic and felt desperate about the direction of",
+		"chinese": "这个小家庭变得悲观起来，对未来的方向感到绝望",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/ /fˈɛːlt/ /dˈɛːspɜːɪt/ /əbˈaʊt/ /ðiː/ /dɪrˈɛːkʃɪn/ /əv/"
+	},
+	{
+		"english": "the little family became pessimistic and felt desperate about the direction of their",
+		"chinese": "这个小家庭变得悲观起来，对未来的方向感到绝望",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/ /fˈɛːlt/ /dˈɛːspɜːɪt/ /əbˈaʊt/ /ðiː/ /dɪrˈɛːkʃɪn/ /əv/ /ðˈɛːr/"
+	},
+	{
+		"english": "the little family became pessimistic and felt desperate about the direction of their lives",
+		"chinese": "这个小家庭变得悲观起来，对生活的方向感到绝望",
+		"soundmark": "/ðiː/ /lˈɪtəl/ /fˈæmliː/ /biːkˈeɪm/ /pˌɛːsəmˈɪstɪk/ /ˈænd/ /fˈɛːlt/ /dˈɛːspɜːɪt/ /əbˈaʊt/ /ðiː/ /dɪrˈɛːkʃɪn/ /əv/ /ðˈɛːr/ /lˈaɪvz/"
+	},
+	{
+		"english": "nearly",
+		"chinese": "几乎",
+		"soundmark": "/nˈɪrliː/"
+	},
+	{
+		"english": "nearly every",
+		"chinese": "几乎每个",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/"
+	},
+	{
+		"english": "nearly every family",
+		"chinese": "几乎每个家庭",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/"
+	},
+	{
+		"english": "nearly every family at",
+		"chinese": "几乎每个家庭都",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/"
+	},
+	{
+		"english": "nearly every family at this",
+		"chinese": "几乎每个家庭都如此",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/"
+	},
+	{
+		"english": "nearly every family at this time",
+		"chinese": "几乎每个家庭都在此时",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/"
+	},
+	{
+		"english": "nearly every family at this time had",
+		"chinese": "几乎每个家庭都在此时",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/"
+	},
+	{
+		"english": "nearly every family at this time had at",
+		"chinese": "当时几乎每个家庭都有",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/"
+	},
+	{
+		"english": "nearly every family at this time had at least",
+		"chinese": "当时几乎每个家庭都至少有",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/"
+	},
+	{
+		"english": "nearly every family at this time had at least one",
+		"chinese": "此时几乎每个家庭都至少有一个",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/"
+	},
+	{
+		"english": "nearly every family at this time had at least one member",
+		"chinese": "此时几乎每个家庭都至少有一名成员",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/"
+	},
+	{
+		"english": "nearly every family at this time had at least one member of",
+		"chinese": "当时几乎每个家庭都至少有一名成员",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/"
+	},
+	{
+		"english": "nearly every family at this time had at least one member of their",
+		"chinese": "当时几乎每个家庭都至少有一名成员",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/"
+	},
+	{
+		"english": "nearly every family at this time had at least one member of their family",
+		"chinese": "此时几乎每个家庭都至少有一名家庭成员",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/ /fˈæmliː/"
+	},
+	{
+		"english": "nearly every family at this time had at least one member of their family who",
+		"chinese": "此时几乎每个家庭都至少有一名家庭成员……",
+		"soundmark": "/nˈɪrliː/ /ˈɛːvriː/ /fˈæmliː/ /ˈæt/ /ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/ /fˈæmliː/ /hˈuː/"
+	},
+	{
+		"english": "this time had at least one member of their family who had",
+		"chinese": "这次至少有一位家庭成员在场",
+		"soundmark": "/ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/ /fˈæmliː/ /hˈuː/ /hˈæd/"
+	},
+	{
+		"english": "this time had at least one member of their family who had left",
+		"chinese": "这次至少有一名家庭成员离开了",
+		"soundmark": "/ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/ /fˈæmliː/ /hˈuː/ /hˈæd/ /lˈɛːft/"
+	},
+	{
+		"english": "this time had at least one member of their family who had left for",
+		"chinese": "这次至少有一名家庭成员已经出发了",
+		"soundmark": "/ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/ /fˈæmliː/ /hˈuː/ /hˈæd/ /lˈɛːft/ /frɜː/"
+	},
+	{
+		"english": "this time had at least one member of their family who had left for the",
+		"chinese": "这次至少有一位家庭成员已经出发了",
+		"soundmark": "/ðɪs/ /tˈaɪm/ /hˈæd/ /ˈæt/ /lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/ /fˈæmliː/ /hˈuː/ /hˈæd/ /lˈɛːft/ /frɜː/ /ðiː/"
+	},
+	{
+		"english": "least one member of their family who had left for the new",
+		"chinese": "他们家族中至少有一人已经前往新地方",
+		"soundmark": "/lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/ /fˈæmliː/ /hˈuː/ /hˈæd/ /lˈɛːft/ /frɜː/ /ðiː/ /njˈuː/"
+	},
+	{
+		"english": "least one member of their family who had left for the new world",
+		"chinese": "他们家族中至少有一人已前往新世界",
+		"soundmark": "/lˈiːst/ /hwˈən/ /mˈɛːmbɜː/ /əv/ /ðˈɛːr/ /fˈæmliː/ /hˈuː/ /hˈæd/ /lˈɛːft/ /frɜː/ /ðiː/ /njˈuː/ /wˈɜːld/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the ugly",
+		"chinese": "丑陋",
+		"soundmark": "/ðiː/ /ˈəɡliː/"
+	},
+	{
+		"english": "the ugly face",
+		"chinese": "丑陋的面容",
+		"soundmark": "/ðiː/ /ˈəɡliː/ /fˈeɪs/"
+	},
+	{
+		"english": "the ugly face of",
+		"chinese": "丑陋的面容",
+		"soundmark": "/ðiː/ /ˈəɡliː/ /fˈeɪs/ /əv/"
+	},
+	{
+		"english": "the ugly face of famine",
+		"chinese": "饥荒的丑陋面相",
+		"soundmark": "/ðiː/ /ˈəɡliː/ /fˈeɪs/ /əv/ /fˈæmən/"
+	},
+	{
+		"english": "the ugly face of famine was",
+		"chinese": "饥荒的丑陋面貌",
+		"soundmark": "/ðiː/ /ˈəɡliː/ /fˈeɪs/ /əv/ /fˈæmən/ /wˈɔːz/"
+	},
+	{
+		"english": "the ugly face of famine was lurking",
+		"chinese": "饥荒的丑陋面貌正在潜藏",
+		"soundmark": "/ðiː/ /ˈəɡliː/ /fˈeɪs/ /əv/ /fˈæmən/ /wˈɔːz/ /lˈɜːkɪŋ/"
+	},
+	{
+		"english": "the ugly face of famine was lurking everywhere",
+		"chinese": "饥荒的丑陋面貌隐伏在各处",
+		"soundmark": "/ðiː/ /ˈəɡliː/ /fˈeɪs/ /əv/ /fˈæmən/ /wˈɔːz/ /lˈɜːkɪŋ/ /ˈɛːvriːhwˌɛːr/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it was",
+		"chinese": "就是",
+		"soundmark": "/ɪt/ /wˈɔːz/"
+	},
+	{
+		"english": "it was not",
+		"chinese": "并非如此",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/"
+	},
+	{
+		"english": "it was not possible",
+		"chinese": "不可能",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/"
+	},
+	{
+		"english": "it was not possible with",
+		"chinese": "这是不可能的",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/"
+	},
+	{
+		"english": "it was not possible with one",
+		"chinese": "一个人无法做到",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/"
+	},
+	{
+		"english": "it was not possible with one acre",
+		"chinese": "一英亩土地根本无法做到",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/ /ˈeɪkɜː/"
+	},
+	{
+		"english": "it was not possible with one acre of",
+		"chinese": "一英亩土地根本无法做到",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/ /ˈeɪkɜː/ /əv/"
+	},
+	{
+		"english": "it was not possible with one acre of arable",
+		"chinese": "一英亩耕地根本无法做到",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/ /ˈeɪkɜː/ /əv/ /ˈɛːrəbəl/"
+	},
+	{
+		"english": "it was not possible with one acre of arable land",
+		"chinese": "一英亩耕地根本无法做到",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/ /ˈeɪkɜː/ /əv/ /ˈɛːrəbəl/ /lˈænd/"
+	},
+	{
+		"english": "it was not possible with one acre of arable land to",
+		"chinese": "一英亩耕地根本无法做到",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/ /ˈeɪkɜː/ /əv/ /ˈɛːrəbəl/ /lˈænd/ /tə/"
+	},
+	{
+		"english": "it was not possible with one acre of arable land to make",
+		"chinese": "一英亩耕地根本无法做到",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/ /ˈeɪkɜː/ /əv/ /ˈɛːrəbəl/ /lˈænd/ /tə/ /mˈeɪk/"
+	},
+	{
+		"english": "it was not possible with one acre of arable land to make a",
+		"chinese": "一英亩耕地根本无法做到",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/ /ˈeɪkɜː/ /əv/ /ˈɛːrəbəl/ /lˈænd/ /tə/ /mˈeɪk/ /ˈeɪ/"
+	},
+	{
+		"english": "it was not possible with one acre of arable land to make a living",
+		"chinese": "一英亩耕地根本无法维持生计",
+		"soundmark": "/ɪt/ /wˈɔːz/ /nˈɑːt/ /pˈɑːsəbəl/ /wɪð/ /hwˈən/ /ˈeɪkɜː/ /əv/ /ˈɛːrəbəl/ /lˈænd/ /tə/ /mˈeɪk/ /ˈeɪ/ /lˈɪvɪŋ/"
+	},
+	{
+		"english": "eventually",
+		"chinese": "最终",
+		"soundmark": "/iːvˈɛːnʃəliː/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	}
+]

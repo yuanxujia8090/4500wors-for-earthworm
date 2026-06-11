@@ -1,0 +1,957 @@
+[
+	{
+		"english": "norman",
+		"chinese": "诺曼人",
+		"soundmark": "/nˈɔːrmən/"
+	},
+	{
+		"english": "norman bethune",
+		"chinese": "诺曼·贝斯恩",
+		"soundmark": "/nˈɔːrmən/ /bəθjˈuːn/"
+	},
+	{
+		"english": "norman bethune was",
+		"chinese": "诺曼·贝斯恩是",
+		"soundmark": "/nˈɔːrmən/ /bəθjˈuːn/ /wˈɔːz/"
+	},
+	{
+		"english": "norman bethune was born",
+		"chinese": "诺曼·贝斯恩出生了",
+		"soundmark": "/nˈɔːrmən/ /bəθjˈuːn/ /wˈɔːz/ /bˈɔːrn/"
+	},
+	{
+		"english": "norman bethune was born in",
+		"chinese": "诺曼·贝斯恩出生于",
+		"soundmark": "/nˈɔːrmən/ /bəθjˈuːn/ /wˈɔːz/ /bˈɔːrn/ /ˈɪn/"
+	},
+	{
+		"english": "norman bethune was born in graven",
+		"chinese": "诺曼·贝斯恩出生于格拉文",
+		"soundmark": "/nˈɔːrmən/ /bəθjˈuːn/ /wˈɔːz/ /bˈɔːrn/ /ˈɪn/ /ɡrˈeɪvən/"
+	},
+	{
+		"english": "norman bethune was born in graven hurst",
+		"chinese": "诺曼·贝斯恩出生于格拉文赫斯特",
+		"soundmark": "/nˈɔːrmən/ /bəθjˈuːn/ /wˈɔːz/ /bˈɔːrn/ /ˈɪn/ /ɡrˈeɪvən/ /hˈɜːst/"
+	},
+	{
+		"english": "ontario",
+		"chinese": "安大略省",
+		"soundmark": "/ɑːntˈɛːriːoʊ/"
+	},
+	{
+		"english": "canada",
+		"chinese": "加拿大",
+		"soundmark": "/kˈænədə/"
+	},
+	{
+		"english": "canada in",
+		"chinese": "加拿大",
+		"soundmark": "/kˈænədə/ /ˈɪn/"
+	},
+	{
+		"english": "his",
+		"chinese": "他的",
+		"soundmark": "/hɪz/"
+	},
+	{
+		"english": "his family",
+		"chinese": "他的家庭",
+		"soundmark": "/hɪz/ /fˈæmliː/"
+	},
+	{
+		"english": "his family had",
+		"chinese": "他的家庭有",
+		"soundmark": "/hɪz/ /fˈæmliː/ /hˈæd/"
+	},
+	{
+		"english": "his family had a",
+		"chinese": "他的家庭有",
+		"soundmark": "/hɪz/ /fˈæmliː/ /hˈæd/ /ˈeɪ/"
+	},
+	{
+		"english": "his family had a long",
+		"chinese": "他的家庭历史悠久",
+		"soundmark": "/hɪz/ /fˈæmliː/ /hˈæd/ /ˈeɪ/ /lˈɔːŋ/"
+	},
+	{
+		"english": "his family had a long history",
+		"chinese": "他的家族有着悠久的历史",
+		"soundmark": "/hɪz/ /fˈæmliː/ /hˈæd/ /ˈeɪ/ /lˈɔːŋ/ /hˈɪstriː/"
+	},
+	{
+		"english": "his family had a long history of",
+		"chinese": "他的家族有着悠久的历史",
+		"soundmark": "/hɪz/ /fˈæmliː/ /hˈæd/ /ˈeɪ/ /lˈɔːŋ/ /hˈɪstriː/ /əv/"
+	},
+	{
+		"english": "his family had a long history of human",
+		"chinese": "他的家族拥有悠久的人类历史",
+		"soundmark": "/hɪz/ /fˈæmliː/ /hˈæd/ /ˈeɪ/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /jˈuːmən/"
+	},
+	{
+		"english": "his family had a long history of human service",
+		"chinese": "他的家族拥有悠久的人道服务传统",
+		"soundmark": "/hɪz/ /fˈæmliː/ /hˈæd/ /ˈeɪ/ /lˈɔːŋ/ /hˈɪstriː/ /əv/ /jˈuːmən/ /sˈɜːvɪs/"
+	},
+	{
+		"english": "a",
+		"chinese": "一个",
+		"soundmark": "/ˈeɪ/"
+	},
+	{
+		"english": "a fact",
+		"chinese": "事实",
+		"soundmark": "/ˈeɪ/ /fˈækt/"
+	},
+	{
+		"english": "a fact that",
+		"chinese": "一个事实",
+		"soundmark": "/ˈeɪ/ /fˈækt/ /ðət/"
+	},
+	{
+		"english": "a fact that undoubtedly",
+		"chinese": "一个无疑的事实",
+		"soundmark": "/ˈeɪ/ /fˈækt/ /ðət/ /əndˈaʊtɪdliː/"
+	},
+	{
+		"english": "a fact that undoubtedly shaped",
+		"chinese": "一个无疑塑造了……的事实",
+		"soundmark": "/ˈeɪ/ /fˈækt/ /ðət/ /əndˈaʊtɪdliː/ /ʃˈeɪpt/"
+	},
+	{
+		"english": "a fact that undoubtedly shaped his",
+		"chinese": "一个无疑塑造了他的事实",
+		"soundmark": "/ˈeɪ/ /fˈækt/ /ðət/ /əndˈaʊtɪdliː/ /ʃˈeɪpt/ /hɪz/"
+	},
+	{
+		"english": "a fact that undoubtedly shaped his life",
+		"chinese": "一个无疑塑造了他人生的事实",
+		"soundmark": "/ˈeɪ/ /fˈækt/ /ðət/ /əndˈaʊtɪdliː/ /ʃˈeɪpt/ /hɪz/ /lˈaɪf/"
+	},
+	{
+		"english": "a fact that undoubtedly shaped his life in",
+		"chinese": "一个无疑塑造了他人生的事实",
+		"soundmark": "/ˈeɪ/ /fˈækt/ /ðət/ /əndˈaʊtɪdliː/ /ʃˈeɪpt/ /hɪz/ /lˈaɪf/ /ˈɪn/"
+	},
+	{
+		"english": "a fact that undoubtedly shaped his life in later",
+		"chinese": "无疑塑造了他后来人生的一个事实",
+		"soundmark": "/ˈeɪ/ /fˈækt/ /ðət/ /əndˈaʊtɪdliː/ /ʃˈeɪpt/ /hɪz/ /lˈaɪf/ /ˈɪn/ /lˈeɪtɜː/"
+	},
+	{
+		"english": "a fact that undoubtedly shaped his life in later years",
+		"chinese": "这一事实无疑影响了他晚年的生活",
+		"soundmark": "/ˈeɪ/ /fˈækt/ /ðət/ /əndˈaʊtɪdliː/ /ʃˈeɪpt/ /hɪz/ /lˈaɪf/ /ˈɪn/ /lˈeɪtɜː/ /jɜːz/"
+	},
+	{
+		"english": "from",
+		"chinese": "来自",
+		"soundmark": "/fɜːm/"
+	},
+	{
+		"english": "from the",
+		"chinese": "来自",
+		"soundmark": "/fɜːm/ /ðiː/"
+	},
+	{
+		"english": "from the outset",
+		"chinese": "从一开始",
+		"soundmark": "/fɜːm/ /ðiː/ /ˈaʊtsˌɛːt/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as a",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "as a young",
+		"chinese": "作为年轻人",
+		"soundmark": "/ˈɛːz/ /ˈeɪ/ /jˈəŋ/"
+	},
+	{
+		"english": "as a young university",
+		"chinese": "作为一名年轻的大学生",
+		"soundmark": "/ˈɛːz/ /ˈeɪ/ /jˈəŋ/ /jˌuːnəvˈɜːsətiː/"
+	},
+	{
+		"english": "as a young university student",
+		"chinese": "作为一名年轻的大学生",
+		"soundmark": "/ˈɛːz/ /ˈeɪ/ /jˈəŋ/ /jˌuːnəvˈɜːsətiː/ /stˈuːdənt/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he developed",
+		"chinese": "他发展了",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/"
+	},
+	{
+		"english": "he developed a",
+		"chinese": "他发展了",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/"
+	},
+	{
+		"english": "he developed a mission",
+		"chinese": "他制定了一项任务",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/ /mˈɪʃən/"
+	},
+	{
+		"english": "or",
+		"chinese": "或",
+		"soundmark": "/ɜː/"
+	},
+	{
+		"english": "or goal",
+		"chinese": "或目标",
+		"soundmark": "/ɜː/ /ɡˈoʊl/"
+	},
+	{
+		"english": "or goal in",
+		"chinese": "或目标在",
+		"soundmark": "/ɜː/ /ɡˈoʊl/ /ˈɪn/"
+	},
+	{
+		"english": "or goal in life",
+		"chinese": "或人生目标",
+		"soundmark": "/ɜː/ /ɡˈoʊl/ /ˈɪn/ /lˈaɪf/"
+	},
+	{
+		"english": "of",
+		"chinese": "的",
+		"soundmark": "/əv/"
+	},
+	{
+		"english": "of compassion",
+		"chinese": "充满同情心",
+		"soundmark": "/əv/ /kəmpˈæʃən/"
+	},
+	{
+		"english": "of compassion and",
+		"chinese": "充满同情心",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/"
+	},
+	{
+		"english": "of compassion and commitment",
+		"chinese": "充满同情与承诺",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/"
+	},
+	{
+		"english": "of compassion and commitment to",
+		"chinese": "充满同情与承诺",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/"
+	},
+	{
+		"english": "of compassion and commitment to helping",
+		"chinese": "充满同情心且致力于帮助他人",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/"
+	},
+	{
+		"english": "of compassion and commitment to helping the",
+		"chinese": "充满同情心，并致力于帮助他人",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/"
+	},
+	{
+		"english": "of compassion and commitment to helping the less",
+		"chinese": "充满同情心，并致力于帮助那些处于困境的人",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/"
+	},
+	{
+		"english": "of compassion and commitment to helping the less fortunate",
+		"chinese": "充满同情心，并致力于帮助那些不幸的人",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/"
+	},
+	{
+		"english": "of compassion and commitment to helping the less fortunate to",
+		"chinese": "充满同情心，并致力于帮助那些不幸的人",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/ /tə/"
+	},
+	{
+		"english": "of compassion and commitment to helping the less fortunate to find",
+		"chinese": "充满同情心，并致力于帮助那些不幸的人找到出路",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/ /tə/ /fˈaɪnd/"
+	},
+	{
+		"english": "of compassion and commitment to helping the less fortunate to find freedom",
+		"chinese": "充满同情心，致力于帮助不幸之人获得自由",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/ /tə/ /fˈaɪnd/ /frˈiːdəm/"
+	},
+	{
+		"english": "of compassion and commitment to helping the less fortunate to find freedom from",
+		"chinese": "充满同情心，并致力于帮助那些不幸的人获得自由",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/ /tə/ /fˈaɪnd/ /frˈiːdəm/ /fɜːm/"
+	},
+	{
+		"english": "of compassion and commitment to helping the less fortunate to find freedom from the",
+		"chinese": "同情与承诺，帮助那些不幸的人获得自由",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/ /tə/ /fˈaɪnd/ /frˈiːdəm/ /fɜːm/ /ðiː/"
+	},
+	{
+		"english": "of compassion and commitment to helping the less fortunate to find freedom from the chains",
+		"chinese": "充满同情与承诺，致力于帮助那些不幸的人摆脱枷锁获得自由",
+		"soundmark": "/əv/ /kəmpˈæʃən/ /ˈænd/ /kəmˈɪtmənt/ /tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/ /tə/ /fˈaɪnd/ /frˈiːdəm/ /fɜːm/ /ðiː/ /tʃˈeɪnz/"
+	},
+	{
+		"english": "to helping the less fortunate to find freedom from the chains of",
+		"chinese": "帮助那些不幸的人摆脱枷锁",
+		"soundmark": "/tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/ /tə/ /fˈaɪnd/ /frˈiːdəm/ /fɜːm/ /ðiː/ /tʃˈeɪnz/ /əv/"
+	},
+	{
+		"english": "to helping the less fortunate to find freedom from the chains of poverty",
+		"chinese": "帮助那些不幸的人摆脱贫困的枷锁获得自由",
+		"soundmark": "/tə/ /hˈɛːlpɪŋ/ /ðiː/ /lˈɛːs/ /fˈɔːrtʃuːnət/ /tə/ /fˈaɪnd/ /frˈiːdəm/ /fɜːm/ /ðiː/ /tʃˈeɪnz/ /əv/ /pˈɑːvɜːtiː/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in earnest",
+		"chinese": "认真地",
+		"soundmark": "/ˈɪn/ /ˈɜːnɪst/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he developed",
+		"chinese": "他发展了",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/"
+	},
+	{
+		"english": "he developed a",
+		"chinese": "他发展了",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/"
+	},
+	{
+		"english": "he developed a selflessness",
+		"chinese": "他表现出无私精神",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/ /sˈɛːlfləsnɪs/"
+	},
+	{
+		"english": "he developed a selflessness that",
+		"chinese": "他展现出了无私的精神",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/ /sˈɛːlfləsnɪs/ /ðət/"
+	},
+	{
+		"english": "he developed a selflessness that dominated",
+		"chinese": "他展现出了一种主导一切的无私精神",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/ /sˈɛːlfləsnɪs/ /ðət/ /dˈɑːmənˌeɪtəd/"
+	},
+	{
+		"english": "he developed a selflessness that dominated his",
+		"chinese": "他展现出了一种无私的精神，这种精神主导了他的一切",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/ /sˈɛːlfləsnɪs/ /ðət/ /dˈɑːmənˌeɪtəd/ /hɪz/"
+	},
+	{
+		"english": "he developed a selflessness that dominated his whole",
+		"chinese": "他展现出了一种无私精神，完全主导了他的行为",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/ /sˈɛːlfləsnɪs/ /ðət/ /dˈɑːmənˌeɪtəd/ /hɪz/ /hˈoʊl/"
+	},
+	{
+		"english": "he developed a selflessness that dominated his whole life",
+		"chinese": "他拥有一种无私的精神，这种精神支配着他的整个人生",
+		"soundmark": "/hˈiː/ /dɪvˈɛːləpt/ /ˈeɪ/ /sˈɛːlfləsnɪs/ /ðət/ /dˈɑːmənˌeɪtəd/ /hɪz/ /hˈoʊl/ /lˈaɪf/"
+	},
+	{
+		"english": "but",
+		"chinese": "但",
+		"soundmark": "/bˈət/"
+	},
+	{
+		"english": "but not",
+		"chinese": "但非",
+		"soundmark": "/bˈət/ /nˈɑːt/"
+	},
+	{
+		"english": "but not without",
+		"chinese": "但并非没有",
+		"soundmark": "/bˈət/ /nˈɑːt/ /wɪðˈaʊt/"
+	},
+	{
+		"english": "but not without personal",
+		"chinese": "但并非没有个人因素",
+		"soundmark": "/bˈət/ /nˈɑːt/ /wɪðˈaʊt/ /pˈɜːsɪnɪl/"
+	},
+	{
+		"english": "but not without personal sacrifice",
+		"chinese": "但并非没有个人牺牲",
+		"soundmark": "/bˈət/ /nˈɑːt/ /wɪðˈaʊt/ /pˈɜːsɪnɪl/ /sˈækrəfˌaɪs/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he was",
+		"chinese": "他",
+		"soundmark": "/hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "he was in",
+		"chinese": "他在",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/"
+	},
+	{
+		"english": "he was in a",
+		"chinese": "他处于……状态",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/ /ˈeɪ/"
+	},
+	{
+		"english": "he was in a troubled",
+		"chinese": "他处于困境中",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/ /ˈeɪ/ /trˈəbəld/"
+	},
+	{
+		"english": "he was in a troubled marriage",
+		"chinese": "他处于一段混乱的婚姻中",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/ /ˈeɪ/ /trˈəbəld/ /mˈɛːrɪdʒ/"
+	},
+	{
+		"english": "he was in a troubled marriage that",
+		"chinese": "他处于一段充满困扰的婚姻中",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/ /ˈeɪ/ /trˈəbəld/ /mˈɛːrɪdʒ/ /ðət/"
+	},
+	{
+		"english": "he was in a troubled marriage that consequently",
+		"chinese": "他处于一段充满困扰的婚姻中，因此",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/ /ˈeɪ/ /trˈəbəld/ /mˈɛːrɪdʒ/ /ðət/ /kˈɑːnsəkwˌɛːntliː/"
+	},
+	{
+		"english": "he was in a troubled marriage that consequently ended",
+		"chinese": "他处于一段充满困扰的婚姻中，最终导致了婚姻的结束",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/ /ˈeɪ/ /trˈəbəld/ /mˈɛːrɪdʒ/ /ðət/ /kˈɑːnsəkwˌɛːntliː/ /ˈɛːndɪd/"
+	},
+	{
+		"english": "he was in a troubled marriage that consequently ended in",
+		"chinese": "他处于一段充满困扰的婚姻中，最终以……告终",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/ /ˈeɪ/ /trˈəbəld/ /mˈɛːrɪdʒ/ /ðət/ /kˈɑːnsəkwˌɛːntliː/ /ˈɛːndɪd/ /ˈɪn/"
+	},
+	{
+		"english": "he was in a troubled marriage that consequently ended in divorce",
+		"chinese": "他处于一段充满问题的婚姻中，最终以离婚告终",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈɪn/ /ˈeɪ/ /trˈəbəld/ /mˈɛːrɪdʒ/ /ðət/ /kˈɑːnsəkwˌɛːntliː/ /ˈɛːndɪd/ /ˈɪn/ /dɪvˈɔːrs/"
+	},
+	{
+		"english": "progressive",
+		"chinese": "渐进的",
+		"soundmark": "/prəɡrˈɛːsɪv/"
+	},
+	{
+		"english": "progressive medicine",
+		"chinese": "渐进式医学",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/"
+	},
+	{
+		"english": "progressive medicine and",
+		"chinese": "渐进式医学",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/"
+	},
+	{
+		"english": "progressive medicine and humanitarian",
+		"chinese": "进步医学与人道主义",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/"
+	},
+	{
+		"english": "progressive medicine and humanitarian deeds",
+		"chinese": "进步医学与人道主义行动",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/ /dˈiːdz/"
+	},
+	{
+		"english": "progressive medicine and humanitarian deeds became",
+		"chinese": "渐进式医学与人道主义行动得以实现",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/ /dˈiːdz/ /biːkˈeɪm/"
+	},
+	{
+		"english": "progressive medicine and humanitarian deeds became the",
+		"chinese": "渐进式医学与人道主义行动成为了",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/ /dˈiːdz/ /biːkˈeɪm/ /ðiː/"
+	},
+	{
+		"english": "progressive medicine and humanitarian deeds became the sole",
+		"chinese": "进步医学与人道主义行动成为唯一",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/ /dˈiːdz/ /biːkˈeɪm/ /ðiː/ /sˈoʊl/"
+	},
+	{
+		"english": "progressive medicine and humanitarian deeds became the sole purposes",
+		"chinese": "进步医学与人道主义行动成为唯一目的",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/ /dˈiːdz/ /biːkˈeɪm/ /ðiː/ /sˈoʊl/ /pˈɜːpəsɪz/"
+	},
+	{
+		"english": "progressive medicine and humanitarian deeds became the sole purposes of",
+		"chinese": "渐进式医学与人道主义行动成为唯一目的",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/ /dˈiːdz/ /biːkˈeɪm/ /ðiː/ /sˈoʊl/ /pˈɜːpəsɪz/ /əv/"
+	},
+	{
+		"english": "progressive medicine and humanitarian deeds became the sole purposes of his",
+		"chinese": "渐进式医学与人道主义行动成为他的唯一目的",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/ /dˈiːdz/ /biːkˈeɪm/ /ðiː/ /sˈoʊl/ /pˈɜːpəsɪz/ /əv/ /hɪz/"
+	},
+	{
+		"english": "progressive medicine and humanitarian deeds became the sole purposes of his life",
+		"chinese": "进步医学与人道主义行动成为他生活的唯一目标",
+		"soundmark": "/prəɡrˈɛːsɪv/ /mˈɛːdəsən/ /ˈænd/ /jˌuːmˌænətˈɛːriːən/ /dˈiːdz/ /biːkˈeɪm/ /ðiː/ /sˈoʊl/ /pˈɜːpəsɪz/ /əv/ /hɪz/ /lˈaɪf/"
+	},
+	{
+		"english": "understandably",
+		"chinese": "合情合理",
+		"soundmark": "/ˌəndɜːstˈændəbliː/"
+	},
+	{
+		"english": "his",
+		"chinese": "他的",
+		"soundmark": "/hɪz/"
+	},
+	{
+		"english": "his much",
+		"chinese": "他的许多",
+		"soundmark": "/hɪz/ /mˈətʃ/"
+	},
+	{
+		"english": "his much younger",
+		"chinese": "他年轻得多",
+		"soundmark": "/hɪz/ /mˈətʃ/ /jˈəŋɡɜː/"
+	},
+	{
+		"english": "his much younger wife",
+		"chinese": "他年轻得多的妻子",
+		"soundmark": "/hɪz/ /mˈətʃ/ /jˈəŋɡɜː/ /wˈaɪf/"
+	},
+	{
+		"english": "frances",
+		"chinese": "弗朗西斯",
+		"soundmark": "/frˈænsɪs/"
+	},
+	{
+		"english": "could",
+		"chinese": "可以",
+		"soundmark": "/kˈʊd/"
+	},
+	{
+		"english": "could not",
+		"chinese": "无法",
+		"soundmark": "/kˈʊd/ /nˈɑːt/"
+	},
+	{
+		"english": "could not tolerate",
+		"chinese": "无法容忍",
+		"soundmark": "/kˈʊd/ /nˈɑːt/ /tˈɑːlɜːˌeɪt/"
+	},
+	{
+		"english": "could not tolerate this",
+		"chinese": "无法忍受这一点",
+		"soundmark": "/kˈʊd/ /nˈɑːt/ /tˈɑːlɜːˌeɪt/ /ðɪs/"
+	},
+	{
+		"english": "could not tolerate this situation",
+		"chinese": "无法忍受这种状况",
+		"soundmark": "/kˈʊd/ /nˈɑːt/ /tˈɑːlɜːˌeɪt/ /ðɪs/ /sˌɪtʃuːˈeɪʃən/"
+	},
+	{
+		"english": "from",
+		"chinese": "来自",
+		"soundmark": "/fɜːm/"
+	},
+	{
+		"english": "from to",
+		"chinese": "从到",
+		"soundmark": "/fɜːm/ /tə/"
+	},
+	{
+		"english": "bethune",
+		"chinese": "贝恩",
+		"soundmark": "/bəθjˈuːn/"
+	},
+	{
+		"english": "bethune worked",
+		"chinese": "贝恩努工作",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/"
+	},
+	{
+		"english": "bethune worked as",
+		"chinese": "贝恩曾工作过",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/"
+	},
+	{
+		"english": "bethune worked as a",
+		"chinese": "贝恩曾从事过工作",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "bethune worked as a lumberjack",
+		"chinese": "贝恩恩做伐木工人",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/"
+	},
+	{
+		"english": "bethune worked as a lumberjack and",
+		"chinese": "贝恩曾当过伐木工人",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/ /ˈænd/"
+	},
+	{
+		"english": "bethune worked as a lumberjack and teacher",
+		"chinese": "贝恩曾从事伐木工和教师工作",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/ /ˈænd/ /tˈiːtʃɜː/"
+	},
+	{
+		"english": "bethune worked as a lumberjack and teacher in",
+		"chinese": "贝恩曾担任伐木工和教师",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/ /ˈænd/ /tˈiːtʃɜː/ /ˈɪn/"
+	},
+	{
+		"english": "bethune worked as a lumberjack and teacher in a",
+		"chinese": "贝恩曾当过伐木工和教师",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/ /ˈænd/ /tˈiːtʃɜː/ /ˈɪn/ /ˈeɪ/"
+	},
+	{
+		"english": "bethune worked as a lumberjack and teacher in a remote",
+		"chinese": "贝恩在偏远地区从事伐木工和教师工作",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/ /ˈænd/ /tˈiːtʃɜː/ /ˈɪn/ /ˈeɪ/ /riːmˈoʊt/"
+	},
+	{
+		"english": "bethune worked as a lumberjack and teacher in a remote area",
+		"chinese": "贝恩在偏远地区从事伐木工和教师工作",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/ /ˈænd/ /tˈiːtʃɜː/ /ˈɪn/ /ˈeɪ/ /riːmˈoʊt/ /ˈɛːriːə/"
+	},
+	{
+		"english": "bethune worked as a lumberjack and teacher in a remote area of",
+		"chinese": "贝恩在偏远地区担任伐木工和教师。",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/ /ˈænd/ /tˈiːtʃɜː/ /ˈɪn/ /ˈeɪ/ /riːmˈoʊt/ /ˈɛːriːə/ /əv/"
+	},
+	{
+		"english": "bethune worked as a lumberjack and teacher in a remote area of ontario",
+		"chinese": "贝恩在安大略省一个偏远地区从事伐木工和教师工作",
+		"soundmark": "/bəθjˈuːn/ /wˈɜːkt/ /ˈɛːz/ /ˈeɪ/ /lˈəmbɜːdʒˌæk/ /ˈænd/ /tˈiːtʃɜː/ /ˈɪn/ /ˈeɪ/ /riːmˈoʊt/ /ˈɛːriːə/ /əv/ /ɑːntˈɛːriːoʊ/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he taught",
+		"chinese": "他教了",
+		"soundmark": "/hˈiː/ /tˈɔːt/"
+	},
+	{
+		"english": "he taught at",
+		"chinese": "他曾在那里任教",
+		"soundmark": "/hˈiː/ /tˈɔːt/ /ˈæt/"
+	},
+	{
+		"english": "he taught at frontier",
+		"chinese": "他在边疆地区任教",
+		"soundmark": "/hˈiː/ /tˈɔːt/ /ˈæt/ /frəntˈɪr/"
+	},
+	{
+		"english": "he taught at frontier college",
+		"chinese": "他在边境学院任教。",
+		"soundmark": "/hˈiː/ /tˈɔːt/ /ˈæt/ /frəntˈɪr/ /kˈɑːlɪdʒ/"
+	},
+	{
+		"english": "a",
+		"chinese": "一个",
+		"soundmark": "/ˈeɪ/"
+	},
+	{
+		"english": "a unique",
+		"chinese": "独特的",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/"
+	},
+	{
+		"english": "a unique school",
+		"chinese": "独特的学校",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/"
+	},
+	{
+		"english": "a unique school that",
+		"chinese": "一所独特的学校",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/"
+	},
+	{
+		"english": "a unique school that provided",
+		"chinese": "一所独特的学校，提供……",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/"
+	},
+	{
+		"english": "a unique school that provided basic",
+		"chinese": "一所独特的学校，提供基础课程",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/"
+	},
+	{
+		"english": "a unique school that provided basic education",
+		"chinese": "一所提供基础教育的独特学校",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/ /ˌɛːdʒjuːkˈeɪʃən/"
+	},
+	{
+		"english": "a unique school that provided basic education to",
+		"chinese": "一所提供基础教育的独特学校",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/ /ˌɛːdʒjuːkˈeɪʃən/ /tə/"
+	},
+	{
+		"english": "a unique school that provided basic education to adult",
+		"chinese": "一所为成人提供基础教育的独特学校",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/ /ˌɛːdʒjuːkˈeɪʃən/ /tə/ /ˈædəlt/"
+	},
+	{
+		"english": "a unique school that provided basic education to adult workers",
+		"chinese": "一所为成年工人提供基础教育的独特学校",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/ /ˌɛːdʒjuːkˈeɪʃən/ /tə/ /ˈædəlt/ /wˈɜːkɜːz/"
+	},
+	{
+		"english": "a unique school that provided basic education to adult workers at",
+		"chinese": "一所独特的学校，为成年工人提供基础教育",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/ /ˌɛːdʒjuːkˈeɪʃən/ /tə/ /ˈædəlt/ /wˈɜːkɜːz/ /ˈæt/"
+	},
+	{
+		"english": "a unique school that provided basic education to adult workers at the",
+		"chinese": "一所独特的学校，为成年工人提供基础教育",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/ /ˌɛːdʒjuːkˈeɪʃən/ /tə/ /ˈædəlt/ /wˈɜːkɜːz/ /ˈæt/ /ðiː/"
+	},
+	{
+		"english": "a unique school that provided basic education to adult workers at the lumber",
+		"chinese": "一所为成人工人提供基础教育的独特学校，这些工人从事木材加工工作",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/ /ˌɛːdʒjuːkˈeɪʃən/ /tə/ /ˈædəlt/ /wˈɜːkɜːz/ /ˈæt/ /ðiː/ /lˈəmbɜː/"
+	},
+	{
+		"english": "a unique school that provided basic education to adult workers at the lumber camps",
+		"chinese": "一所为木材营地中的成年工人提供基础教育的独特学校",
+		"soundmark": "/ˈeɪ/ /juːnˈiːk/ /skˈuːl/ /ðət/ /prəvˈaɪdɪd/ /bˈeɪsɪk/ /ˌɛːdʒjuːkˈeɪʃən/ /tə/ /ˈædəlt/ /wˈɜːkɜːz/ /ˈæt/ /ðiː/ /lˈəmbɜː/ /kˈæmps/"
+	},
+	{
+		"english": "during",
+		"chinese": "期间",
+		"soundmark": "/dˈɜːɪŋ/"
+	},
+	{
+		"english": "during the",
+		"chinese": "期间",
+		"soundmark": "/dˈɜːɪŋ/ /ðiː/"
+	},
+	{
+		"english": "during the first",
+		"chinese": "在最初阶段",
+		"soundmark": "/dˈɜːɪŋ/ /ðiː/ /fˈɜːst/"
+	},
+	{
+		"english": "during the first world",
+		"chinese": "第一次世界大战期间",
+		"soundmark": "/dˈɜːɪŋ/ /ðiː/ /fˈɜːst/ /wˈɜːld/"
+	},
+	{
+		"english": "during the first world war",
+		"chinese": "第一次世界大战期间",
+		"soundmark": "/dˈɜːɪŋ/ /ðiː/ /fˈɜːst/ /wˈɜːld/ /wˈɔːr/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he became",
+		"chinese": "他成为了",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/"
+	},
+	{
+		"english": "he became a",
+		"chinese": "他成为了",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/"
+	},
+	{
+		"english": "he became a stretcher",
+		"chinese": "他成了担架员",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/"
+	},
+	{
+		"english": "he became a stretcher bearer",
+		"chinese": "他成为了担架员",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/"
+	},
+	{
+		"english": "he became a stretcher bearer helping",
+		"chinese": "他成为了抬担架的人，帮忙了",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/ /hˈɛːlpɪŋ/"
+	},
+	{
+		"english": "he became a stretcher bearer helping to",
+		"chinese": "他成为了担架员，帮忙搬运",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/ /hˈɛːlpɪŋ/ /tə/"
+	},
+	{
+		"english": "he became a stretcher bearer helping to carry",
+		"chinese": "他成为了担架员，负责搬运伤员",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/ /hˈɛːlpɪŋ/ /tə/ /kˈɛːriː/"
+	},
+	{
+		"english": "he became a stretcher bearer helping to carry the",
+		"chinese": "他成为了担架员，负责搬运伤员",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/ /hˈɛːlpɪŋ/ /tə/ /kˈɛːriː/ /ðiː/"
+	},
+	{
+		"english": "he became a stretcher bearer helping to carry the wounded",
+		"chinese": "他成为担架员，负责搬运伤员",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/ /hˈɛːlpɪŋ/ /tə/ /kˈɛːriː/ /ðiː/ /wˈuːndɪd/"
+	},
+	{
+		"english": "he became a stretcher bearer helping to carry the wounded from",
+		"chinese": "他成为担架员，帮助运送伤员",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/ /hˈɛːlpɪŋ/ /tə/ /kˈɛːriː/ /ðiː/ /wˈuːndɪd/ /fɜːm/"
+	},
+	{
+		"english": "he became a stretcher bearer helping to carry the wounded from the",
+		"chinese": "他成为了担架员，负责搬运伤员",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/ /hˈɛːlpɪŋ/ /tə/ /kˈɛːriː/ /ðiː/ /wˈuːndɪd/ /fɜːm/ /ðiː/"
+	},
+	{
+		"english": "he became a stretcher bearer helping to carry the wounded from the battlefields",
+		"chinese": "他担任担架员，帮助将伤员从战场上运走",
+		"soundmark": "/hˈiː/ /biːkˈeɪm/ /ˈeɪ/ /strˈɛːtʃɜː/ /bˈɛːrɜː/ /hˈɛːlpɪŋ/ /tə/ /kˈɛːriː/ /ðiː/ /wˈuːndɪd/ /fɜːm/ /ðiː/ /bˈætəlfˌiːldz/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "himself",
+		"chinese": "他自己",
+		"soundmark": "/hɪmsˈɛːlf/"
+	},
+	{
+		"english": "was",
+		"chinese": "是",
+		"soundmark": "/wˈɔːz/"
+	},
+	{
+		"english": "was wounded",
+		"chinese": "受伤了",
+		"soundmark": "/wˈɔːz/ /wˈuːndɪd/"
+	},
+	{
+		"english": "was wounded by",
+		"chinese": "被伤害了",
+		"soundmark": "/wˈɔːz/ /wˈuːndɪd/ /bˈaɪ/"
+	},
+	{
+		"english": "was wounded by shrapnel",
+		"chinese": "被弹片击中受伤",
+		"soundmark": "/wˈɔːz/ /wˈuːndɪd/ /bˈaɪ/ /ʃrˈæpnəl/"
+	},
+	{
+		"english": "was wounded by shrapnel fragments",
+		"chinese": "被弹片击中受伤",
+		"soundmark": "/wˈɔːz/ /wˈuːndɪd/ /bˈaɪ/ /ʃrˈæpnəl/ /frˈæɡmənts/"
+	},
+	{
+		"english": "was wounded by shrapnel fragments of",
+		"chinese": "被弹片击中受伤",
+		"soundmark": "/wˈɔːz/ /wˈuːndɪd/ /bˈaɪ/ /ʃrˈæpnəl/ /frˈæɡmənts/ /əv/"
+	},
+	{
+		"english": "was wounded by shrapnel fragments of exploding",
+		"chinese": "被爆炸的弹片击伤",
+		"soundmark": "/wˈɔːz/ /wˈuːndɪd/ /bˈaɪ/ /ʃrˈæpnəl/ /frˈæɡmənts/ /əv/ /ɪksplˈoʊdɪŋ/"
+	},
+	{
+		"english": "was wounded by shrapnel fragments of exploding shells",
+		"chinese": "被爆炸炮弹的弹片击中受伤",
+		"soundmark": "/wˈɔːz/ /wˈuːndɪd/ /bˈaɪ/ /ʃrˈæpnəl/ /frˈæɡmənts/ /əv/ /ɪksplˈoʊdɪŋ/ /ʃˈɛːlz/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he was",
+		"chinese": "他",
+		"soundmark": "/hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "he was confined",
+		"chinese": "他被关押了",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /kənfˈaɪnd/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as a",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "as a patient",
+		"chinese": "作为患者",
+		"soundmark": "/ˈɛːz/ /ˈeɪ/ /pˈeɪʃənt/"
+	},
+	{
+		"english": "to",
+		"chinese": "为了",
+		"soundmark": "/tə/"
+	},
+	{
+		"english": "to hospitals",
+		"chinese": "去医院",
+		"soundmark": "/tə/ /hˈɑːspˌɪtəlz/"
+	},
+	{
+		"english": "to hospitals for",
+		"chinese": "前往医院",
+		"soundmark": "/tə/ /hˈɑːspˌɪtəlz/ /frɜː/"
+	},
+	{
+		"english": "to hospitals for months",
+		"chinese": "数月待在医院里",
+		"soundmark": "/tə/ /hˈɑːspˌɪtəlz/ /frɜː/ /mˈənθs/"
+	},
+	{
+		"english": "receiving",
+		"chinese": "接收",
+		"soundmark": "/riːsˈiːvɪŋ/"
+	},
+	{
+		"english": "receiving therapy",
+		"chinese": "接受治疗",
+		"soundmark": "/riːsˈiːvɪŋ/ /θˈɛːrəpiː/"
+	},
+	{
+		"english": "receiving therapy and",
+		"chinese": "接受治疗",
+		"soundmark": "/riːsˈiːvɪŋ/ /θˈɛːrəpiː/ /ˈænd/"
+	},
+	{
+		"english": "receiving therapy and recuperating",
+		"chinese": "接受治疗并恢复身体状态",
+		"soundmark": "/riːsˈiːvɪŋ/ /θˈɛːrəpiː/ /ˈænd/ /riːkˈuːpɜːˌeɪtɪŋ/"
+	},
+	{
+		"english": "receiving therapy and recuperating from",
+		"chinese": "接受治疗并恢复身体",
+		"soundmark": "/riːsˈiːvɪŋ/ /θˈɛːrəpiː/ /ˈænd/ /riːkˈuːpɜːˌeɪtɪŋ/ /fɜːm/"
+	},
+	{
+		"english": "receiving therapy and recuperating from his",
+		"chinese": "接受治疗并恢复身体状态",
+		"soundmark": "/riːsˈiːvɪŋ/ /θˈɛːrəpiː/ /ˈænd/ /riːkˈuːpɜːˌeɪtɪŋ/ /fɜːm/ /hɪz/"
+	},
+	{
+		"english": "receiving therapy and recuperating from his injuries",
+		"chinese": "接受治疗并从伤势中恢复",
+		"soundmark": "/riːsˈiːvɪŋ/ /θˈɛːrəpiː/ /ˈænd/ /riːkˈuːpɜːˌeɪtɪŋ/ /fɜːm/ /hɪz/ /ˈɪndʒɜːiːz/"
+	}
+]

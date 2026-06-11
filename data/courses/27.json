@@ -1,0 +1,992 @@
+[
+	{
+		"english": "what",
+		"chinese": "什么",
+		"soundmark": "/hwˈət/"
+	},
+	{
+		"english": "what will",
+		"chinese": "将会是什么",
+		"soundmark": "/hwˈət/ /wəl/"
+	},
+	{
+		"english": "what will our",
+		"chinese": "我们的未来会怎样",
+		"soundmark": "/hwˈət/ /wəl/ /ˈɑːr/"
+	},
+	{
+		"english": "what will our world",
+		"chinese": "我们的世界将会怎样",
+		"soundmark": "/hwˈət/ /wəl/ /ˈɑːr/ /wˈɜːld/"
+	},
+	{
+		"english": "what will our world be",
+		"chinese": "我们的世界将会是什么样子",
+		"soundmark": "/hwˈət/ /wəl/ /ˈɑːr/ /wˈɜːld/ /biː/"
+	},
+	{
+		"english": "what will our world be like",
+		"chinese": "我们的世界将会是什么样子",
+		"soundmark": "/hwˈət/ /wəl/ /ˈɑːr/ /wˈɜːld/ /biː/ /lˈaɪk/"
+	},
+	{
+		"english": "what will our world be like in",
+		"chinese": "我们的世界将会是什么样子？",
+		"soundmark": "/hwˈət/ /wəl/ /ˈɑːr/ /wˈɜːld/ /biː/ /lˈaɪk/ /ˈɪn/"
+	},
+	{
+		"english": "what will our world be like in the",
+		"chinese": "我们的世界将会是什么样子？",
+		"soundmark": "/hwˈət/ /wəl/ /ˈɑːr/ /wˈɜːld/ /biː/ /lˈaɪk/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "what will our world be like in the future",
+		"chinese": "未来我们的世界会是什么样子",
+		"soundmark": "/hwˈət/ /wəl/ /ˈɑːr/ /wˈɜːld/ /biː/ /lˈaɪk/ /ˈɪn/ /ðiː/ /fjˈuːtʃɜː/"
+	},
+	{
+		"english": "can",
+		"chinese": "可以",
+		"soundmark": "/kən/"
+	},
+	{
+		"english": "can we",
+		"chinese": "我们能吗",
+		"soundmark": "/kən/ /wˈiː/"
+	},
+	{
+		"english": "can we look",
+		"chinese": "我们能看看吗",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/"
+	},
+	{
+		"english": "can we look ahead",
+		"chinese": "我们能展望未来吗",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/"
+	},
+	{
+		"english": "can we look ahead twenty",
+		"chinese": "我们能展望二十年后吗",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/"
+	},
+	{
+		"english": "can we look ahead twenty five",
+		"chinese": "我们能展望未来25年吗",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/"
+	},
+	{
+		"english": "can we look ahead twenty five years",
+		"chinese": "我们能展望25年后的情况吗",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/"
+	},
+	{
+		"english": "can we look ahead twenty five years and",
+		"chinese": "我们能展望25年后吗",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/"
+	},
+	{
+		"english": "can we look ahead twenty five years and dream",
+		"chinese": "我们能展望25年后并梦想吗",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/ /drˈiːm/"
+	},
+	{
+		"english": "can we look ahead twenty five years and dream about",
+		"chinese": "我们能展望25年后并梦想吗",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/ /drˈiːm/ /əbˈaʊt/"
+	},
+	{
+		"english": "can we look ahead twenty five years and dream about the",
+		"chinese": "我们能展望25年后，并梦想着那个时刻吗？",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/ /drˈiːm/ /əbˈaʊt/ /ðiː/"
+	},
+	{
+		"english": "can we look ahead twenty five years and dream about the transformations",
+		"chinese": "我们能展望25年后，梦想那些变革吗？",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/ /drˈiːm/ /əbˈaʊt/ /ðiː/ /trˌænsfɜːmˈeɪʃənz/"
+	},
+	{
+		"english": "can we look ahead twenty five years and dream about the transformations that",
+		"chinese": "我们能展望25年后，梦想那些变革吗？",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/ /drˈiːm/ /əbˈaʊt/ /ðiː/ /trˌænsfɜːmˈeɪʃənz/ /ðət/"
+	},
+	{
+		"english": "can we look ahead twenty five years and dream about the transformations that will",
+		"chinese": "我们能展望25年后，梦想那些即将发生的变革吗？",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/ /drˈiːm/ /əbˈaʊt/ /ðiː/ /trˌænsfɜːmˈeɪʃənz/ /ðət/ /wəl/"
+	},
+	{
+		"english": "can we look ahead twenty five years and dream about the transformations that will take",
+		"chinese": "我们能展望25年后，梦想那些即将发生的变革吗？",
+		"soundmark": "/kən/ /wˈiː/ /lˈʊk/ /əhˈɛːd/ /twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/ /drˈiːm/ /əbˈaʊt/ /ðiː/ /trˌænsfɜːmˈeɪʃənz/ /ðət/ /wəl/ /tˈeɪk/"
+	},
+	{
+		"english": "twenty five years and dream about the transformations that will take place",
+		"chinese": "二十五年，梦想着即将发生的变革",
+		"soundmark": "/twˈɛːniː/ /fˈaɪv/ /jɜːz/ /ˈænd/ /drˈiːm/ /əbˈaʊt/ /ðiː/ /trˌænsfɜːmˈeɪʃənz/ /ðət/ /wəl/ /tˈeɪk/ /plˈeɪs/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the scholars",
+		"chinese": "学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/"
+	},
+	{
+		"english": "the scholars who",
+		"chinese": "那些学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/"
+	},
+	{
+		"english": "the scholars who make",
+		"chinese": "做研究的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/"
+	},
+	{
+		"english": "the scholars who make it",
+		"chinese": "做出此事的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/"
+	},
+	{
+		"english": "the scholars who make it their",
+		"chinese": "将此作为己任的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/"
+	},
+	{
+		"english": "the scholars who make it their business",
+		"chinese": "将此作为职业的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/"
+	},
+	{
+		"english": "the scholars who make it their business to",
+		"chinese": "那些将此作为职业的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/"
+	},
+	{
+		"english": "the scholars who make it their business to try",
+		"chinese": "那些将尝试作为职业的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/"
+	},
+	{
+		"english": "the scholars who make it their business to try to",
+		"chinese": "那些将尝试研究作为职业的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/"
+	},
+	{
+		"english": "the scholars who make it their business to try to predict",
+		"chinese": "那些将预测作为职业的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/"
+	},
+	{
+		"english": "the scholars who make it their business to try to predict the",
+		"chinese": "那些将预测作为职业的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/"
+	},
+	{
+		"english": "the scholars who make it their business to try to predict the future",
+		"chinese": "那些将预测未来作为职业的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/"
+	},
+	{
+		"english": "the scholars who make it their business to try to predict the future are",
+		"chinese": "那些将预测未来作为职业的学者们",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/"
+	},
+	{
+		"english": "the scholars who make it their business to try to predict the future are not",
+		"chinese": "那些将预测未来作为职业的学者们并非",
+		"soundmark": "/ðiː/ /skˈɑːlɜːz/ /hˈuː/ /mˈeɪk/ /ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/"
+	},
+	{
+		"english": "it their business to try to predict the future are not all",
+		"chinese": "那些试图预测未来的人并非都是这样",
+		"soundmark": "/ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/ /ˈɔːl/"
+	},
+	{
+		"english": "it their business to try to predict the future are not all in",
+		"chinese": "试图预测未来的人并非都如此",
+		"soundmark": "/ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/ /ˈɔːl/ /ˈɪn/"
+	},
+	{
+		"english": "it their business to try to predict the future are not all in agreement",
+		"chinese": "试图预测未来的人并不都意见一致",
+		"soundmark": "/ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/ /ˈɔːl/ /ˈɪn/ /əɡrˈiːmənt/"
+	},
+	{
+		"english": "it their business to try to predict the future are not all in agreement about",
+		"chinese": "那些试图预测未来的人并不都意见一致",
+		"soundmark": "/ɪt/ /ðˈɛːr/ /bˈɪznɪs/ /tə/ /trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/ /ˈɔːl/ /ˈɪn/ /əɡrˈiːmənt/ /əbˈaʊt/"
+	},
+	{
+		"english": "try to predict the future are not all in agreement about what",
+		"chinese": "试图预测未来的人对什么并没有一致意见",
+		"soundmark": "/trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/ /ˈɔːl/ /ˈɪn/ /əɡrˈiːmənt/ /əbˈaʊt/ /hwˈət/"
+	},
+	{
+		"english": "try to predict the future are not all in agreement about what the",
+		"chinese": "试图预测未来的人对未来的看法并不一致",
+		"soundmark": "/trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/ /ˈɔːl/ /ˈɪn/ /əɡrˈiːmənt/ /əbˈaʊt/ /hwˈət/ /ðiː/"
+	},
+	{
+		"english": "try to predict the future are not all in agreement about what the future",
+		"chinese": "试图预测未来的人对未来的看法并不一致",
+		"soundmark": "/trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/ /ˈɔːl/ /ˈɪn/ /əɡrˈiːmənt/ /əbˈaʊt/ /hwˈət/ /ðiː/ /fjˈuːtʃɜː/"
+	},
+	{
+		"english": "try to predict the future are not all in agreement about what the future holds",
+		"chinese": "试图预测未来的人对未来的走向并无一致意见",
+		"soundmark": "/trˈaɪ/ /tə/ /priːdˈɪkt/ /ðiː/ /fjˈuːtʃɜː/ /ɜː/ /nˈɑːt/ /ˈɔːl/ /ˈɪn/ /əɡrˈiːmənt/ /əbˈaʊt/ /hwˈət/ /ðiː/ /fjˈuːtʃɜː/ /hˈoʊldz/"
+	},
+	{
+		"english": "if",
+		"chinese": "如果",
+		"soundmark": "/ɪf/"
+	},
+	{
+		"english": "if you",
+		"chinese": "如果你",
+		"soundmark": "/ɪf/ /jˈuː/"
+	},
+	{
+		"english": "if you visit",
+		"chinese": "如果你去拜访",
+		"soundmark": "/ɪf/ /jˈuː/ /vˈɪzɪt/"
+	},
+	{
+		"english": "if you visit displays",
+		"chinese": "如果你参观展览",
+		"soundmark": "/ɪf/ /jˈuː/ /vˈɪzɪt/ /dɪsplˈeɪz/"
+	},
+	{
+		"english": "if you visit displays at",
+		"chinese": "如果你参观展示厅",
+		"soundmark": "/ɪf/ /jˈuː/ /vˈɪzɪt/ /dɪsplˈeɪz/ /ˈæt/"
+	},
+	{
+		"english": "if you visit displays at places",
+		"chinese": "如果你去那些地方参观展览",
+		"soundmark": "/ɪf/ /jˈuː/ /vˈɪzɪt/ /dɪsplˈeɪz/ /ˈæt/ /plˈeɪsɪz/"
+	},
+	{
+		"english": "if you visit displays at places like",
+		"chinese": "如果你去那些地方的展示厅",
+		"soundmark": "/ɪf/ /jˈuː/ /vˈɪzɪt/ /dɪsplˈeɪz/ /ˈæt/ /plˈeɪsɪz/ /lˈaɪk/"
+	},
+	{
+		"english": "if you visit displays at places like disney",
+		"chinese": "如果你去迪士尼这样的地方参观展览",
+		"soundmark": "/ɪf/ /jˈuː/ /vˈɪzɪt/ /dɪsplˈeɪz/ /ˈæt/ /plˈeɪsɪz/ /lˈaɪk/ /dˈɪzniː/"
+	},
+	{
+		"english": "if you visit displays at places like disney world",
+		"chinese": "如果你去迪士尼世界这样的地方参观展览",
+		"soundmark": "/ɪf/ /jˈuː/ /vˈɪzɪt/ /dɪsplˈeɪz/ /ˈæt/ /plˈeɪsɪz/ /lˈaɪk/ /dˈɪzniː/ /wˈɜːld/"
+	},
+	{
+		"english": "you",
+		"chinese": "你",
+		"soundmark": "/jˈuː/"
+	},
+	{
+		"english": "you can",
+		"chinese": "你可以",
+		"soundmark": "/jˈuː/ /kən/"
+	},
+	{
+		"english": "you can get",
+		"chinese": "你可以得到",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/"
+	},
+	{
+		"english": "you can get a",
+		"chinese": "你可以得到",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/"
+	},
+	{
+		"english": "you can get a glimpse",
+		"chinese": "你可以一窥其貌",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/"
+	},
+	{
+		"english": "you can get a glimpse of",
+		"chinese": "你可以一窥",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/"
+	},
+	{
+		"english": "you can get a glimpse of what",
+		"chinese": "你可以一窥究竟",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/"
+	},
+	{
+		"english": "you can get a glimpse of what some",
+		"chinese": "你可以一窥某些东西的样貌",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/ /sˈəm/"
+	},
+	{
+		"english": "you can get a glimpse of what some of",
+		"chinese": "你可以一窥一些……",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/ /sˈəm/ /əv/"
+	},
+	{
+		"english": "you can get a glimpse of what some of the",
+		"chinese": "你可以一窥一些……的情况",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/ /sˈəm/ /əv/ /ðiː/"
+	},
+	{
+		"english": "you can get a glimpse of what some of the predictions",
+		"chinese": "你可以一窥一些预测的内容",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/ /sˈəm/ /əv/ /ðiː/ /priːdˈɪkʃənz/"
+	},
+	{
+		"english": "you can get a glimpse of what some of the predictions are",
+		"chinese": "你可以一窥一些预测的内容",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/ /sˈəm/ /əv/ /ðiː/ /priːdˈɪkʃənz/ /ɜː/"
+	},
+	{
+		"english": "you can get a glimpse of what some of the predictions are for",
+		"chinese": "你可以一窥一些预测的内容",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/ /sˈəm/ /əv/ /ðiː/ /priːdˈɪkʃənz/ /ɜː/ /frɜː/"
+	},
+	{
+		"english": "you can get a glimpse of what some of the predictions are for our",
+		"chinese": "你可以一窥一些预测内容。",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/ /sˈəm/ /əv/ /ðiː/ /priːdˈɪkʃənz/ /ɜː/ /frɜː/ /ˈɑːr/"
+	},
+	{
+		"english": "you can get a glimpse of what some of the predictions are for our lives",
+		"chinese": "你可以一窥一些关于我们生活的预测内容",
+		"soundmark": "/jˈuː/ /kən/ /ɡˈɪt/ /ˈeɪ/ /ɡlˈɪmps/ /əv/ /hwˈət/ /sˈəm/ /əv/ /ðiː/ /priːdˈɪkʃənz/ /ɜː/ /frɜː/ /ˈɑːr/ /lˈaɪvz/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as we",
+		"chinese": "正如我们",
+		"soundmark": "/ˈɛːz/ /wˈiː/"
+	},
+	{
+		"english": "as we fantasize",
+		"chinese": "正如我们幻想的那样",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/"
+	},
+	{
+		"english": "as we fantasize about",
+		"chinese": "正如我们幻想的那样",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/"
+	},
+	{
+		"english": "as we fantasize about what",
+		"chinese": "当我们幻想着什么",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/"
+	},
+	{
+		"english": "as we fantasize about what our",
+		"chinese": "当我们幻想着我们的什么",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/"
+	},
+	{
+		"english": "as we fantasize about what our life",
+		"chinese": "当我们幻想着我们的生活",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/"
+	},
+	{
+		"english": "as we fantasize about what our life might",
+		"chinese": "当我们幻想着我们的生活可能是什么样子",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/ /mˈaɪt/"
+	},
+	{
+		"english": "as we fantasize about what our life might be",
+		"chinese": "当我们想象生活可能是什么样子时",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/ /mˈaɪt/ /biː/"
+	},
+	{
+		"english": "as we fantasize about what our life might be like",
+		"chinese": "当我们想象生活可能是什么样子时",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/ /mˈaɪt/ /biː/ /lˈaɪk/"
+	},
+	{
+		"english": "as we fantasize about what our life might be like a",
+		"chinese": "当我们想象生活可能是什么样子的时候",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/ /mˈaɪt/ /biː/ /lˈaɪk/ /ˈeɪ/"
+	},
+	{
+		"english": "as we fantasize about what our life might be like a few",
+		"chinese": "当我们幻想生活可能是什么样子时",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/ /mˈaɪt/ /biː/ /lˈaɪk/ /ˈeɪ/ /fjˈuː/"
+	},
+	{
+		"english": "as we fantasize about what our life might be like a few decades",
+		"chinese": "当我们想象几十年后生活可能是什么样子时",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/ /mˈaɪt/ /biː/ /lˈaɪk/ /ˈeɪ/ /fjˈuː/ /dˈɛːkeɪdz/"
+	},
+	{
+		"english": "as we fantasize about what our life might be like a few decades from",
+		"chinese": "当我们想象几十年后生活可能是什么样子时",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/ /mˈaɪt/ /biː/ /lˈaɪk/ /ˈeɪ/ /fjˈuː/ /dˈɛːkeɪdz/ /fɜːm/"
+	},
+	{
+		"english": "as we fantasize about what our life might be like a few decades from now",
+		"chinese": "当我们想象几十年后我们的生活会是什么样子时",
+		"soundmark": "/ˈɛːz/ /wˈiː/ /fˈænəsˌaɪz/ /əbˈaʊt/ /hwˈət/ /ˈɑːr/ /lˈaɪf/ /mˈaɪt/ /biː/ /lˈaɪk/ /ˈeɪ/ /fjˈuː/ /dˈɛːkeɪdz/ /fɜːm/ /nˈaʊ/"
+	},
+	{
+		"english": "we",
+		"chinese": "我们",
+		"soundmark": "/wˈiː/"
+	},
+	{
+		"english": "we can",
+		"chinese": "我们可以",
+		"soundmark": "/wˈiː/ /kən/"
+	},
+	{
+		"english": "we can speculate",
+		"chinese": "我们可以推测",
+		"soundmark": "/wˈiː/ /kən/ /spˈɛːkjəlˌeɪt/"
+	},
+	{
+		"english": "we can speculate about",
+		"chinese": "我们可以推测",
+		"soundmark": "/wˈiː/ /kən/ /spˈɛːkjəlˌeɪt/ /əbˈaʊt/"
+	},
+	{
+		"english": "we can speculate about different",
+		"chinese": "我们可以对不同的事物进行推测",
+		"soundmark": "/wˈiː/ /kən/ /spˈɛːkjəlˌeɪt/ /əbˈaʊt/ /dˈɪfrənt/"
+	},
+	{
+		"english": "we can speculate about different aspects",
+		"chinese": "我们可以探讨不同的方面",
+		"soundmark": "/wˈiː/ /kən/ /spˈɛːkjəlˌeɪt/ /əbˈaʊt/ /dˈɪfrənt/ /ˈæspˌɛːkts/"
+	},
+	{
+		"english": "we can speculate about different aspects of",
+		"chinese": "我们可以推测不同的方面",
+		"soundmark": "/wˈiː/ /kən/ /spˈɛːkjəlˌeɪt/ /əbˈaʊt/ /dˈɪfrənt/ /ˈæspˌɛːkts/ /əv/"
+	},
+	{
+		"english": "we can speculate about different aspects of our",
+		"chinese": "我们可以探讨我们不同方面的内容",
+		"soundmark": "/wˈiː/ /kən/ /spˈɛːkjəlˌeɪt/ /əbˈaʊt/ /dˈɪfrənt/ /ˈæspˌɛːkts/ /əv/ /ˈɑːr/"
+	},
+	{
+		"english": "we can speculate about different aspects of our lives",
+		"chinese": "我们可以推测我们生活的不同方面",
+		"soundmark": "/wˈiː/ /kən/ /spˈɛːkjəlˌeɪt/ /əbˈaʊt/ /dˈɪfrənt/ /ˈæspˌɛːkts/ /əv/ /ˈɑːr/ /lˈaɪvz/"
+	},
+	{
+		"english": "personal",
+		"chinese": "个人",
+		"soundmark": "/pˈɜːsɪnɪl/"
+	},
+	{
+		"english": "personal clothing",
+		"chinese": "个人服装",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/"
+	},
+	{
+		"english": "personal clothing styles",
+		"chinese": "个人服装风格",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/"
+	},
+	{
+		"english": "personal clothing styles change",
+		"chinese": "个人服装风格在变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/"
+	},
+	{
+		"english": "personal clothing styles change from",
+		"chinese": "个人服装风格会发生变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/"
+	},
+	{
+		"english": "personal clothing styles change from year",
+		"chinese": "个人服装风格每年都会变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/"
+	},
+	{
+		"english": "personal clothing styles change from year to",
+		"chinese": "个人服装风格每年都会变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/ /tə/"
+	},
+	{
+		"english": "personal clothing styles change from year to year",
+		"chinese": "个人服装风格每年都会变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/ /tə/ /jˈɪr/"
+	},
+	{
+		"english": "personal clothing styles change from year to year and",
+		"chinese": "个人服装风格每年都会变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/ /tə/ /jˈɪr/ /ˈænd/"
+	},
+	{
+		"english": "personal clothing styles change from year to year and also",
+		"chinese": "个人服装风格每年都会变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/ /tə/ /jˈɪr/ /ˈænd/ /ˈɔːlsoʊ/"
+	},
+	{
+		"english": "personal clothing styles change from year to year and also from",
+		"chinese": "个人服装风格每年都会变化，也因……而不同",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/ /tə/ /jˈɪr/ /ˈænd/ /ˈɔːlsoʊ/ /fɜːm/"
+	},
+	{
+		"english": "personal clothing styles change from year to year and also from culture",
+		"chinese": "个人服装风格每年以及不同文化之间都会发生变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/ /tə/ /jˈɪr/ /ˈænd/ /ˈɔːlsoʊ/ /fɜːm/ /kˈəltʃɜː/"
+	},
+	{
+		"english": "personal clothing styles change from year to year and also from culture to",
+		"chinese": "个人服装风格每年以及不同文化之间都会发生变化",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/ /tə/ /jˈɪr/ /ˈænd/ /ˈɔːlsoʊ/ /fɜːm/ /kˈəltʃɜː/ /tə/"
+	},
+	{
+		"english": "personal clothing styles change from year to year and also from culture to culture",
+		"chinese": "个人服装风格每年不同，不同文化之间也各不相同",
+		"soundmark": "/pˈɜːsɪnɪl/ /klˈoʊðɪŋ/ /stˈaɪlz/ /tʃˈeɪndʒ/ /fɜːm/ /jˈɪr/ /tə/ /jˈɪr/ /ˈænd/ /ˈɔːlsoʊ/ /fɜːm/ /kˈəltʃɜː/ /tə/ /kˈəltʃɜː/"
+	},
+	{
+		"english": "do",
+		"chinese": "做",
+		"soundmark": "/dˈuː/"
+	},
+	{
+		"english": "do you",
+		"chinese": "你",
+		"soundmark": "/dˈuː/ /jˈuː/"
+	},
+	{
+		"english": "do you think",
+		"chinese": "你认为",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/"
+	},
+	{
+		"english": "do you think that",
+		"chinese": "你认为呢",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/"
+	},
+	{
+		"english": "do you think that we",
+		"chinese": "你认为我们",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/"
+	},
+	{
+		"english": "do you think that we will",
+		"chinese": "你认为我们会",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/ /wəl/"
+	},
+	{
+		"english": "do you think that we will have",
+		"chinese": "你认为我们会...吗",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/ /wəl/ /hˈæv/"
+	},
+	{
+		"english": "do you think that we will have sleeves",
+		"chinese": "你认为我们会拥有袖子吗？",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/ /wəl/ /hˈæv/ /slˈiːvz/"
+	},
+	{
+		"english": "do you think that we will have sleeves in",
+		"chinese": "你认为我们会拥有袖子吗",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/ /wəl/ /hˈæv/ /slˈiːvz/ /ˈɪn/"
+	},
+	{
+		"english": "do you think that we will have sleeves in our",
+		"chinese": "你认为我们的衣服会有袖子吗？",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/ /wəl/ /hˈæv/ /slˈiːvz/ /ˈɪn/ /ˈɑːr/"
+	},
+	{
+		"english": "do you think that we will have sleeves in our shirts",
+		"chinese": "你认为我们的衬衫会有袖子吗",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/ /wəl/ /hˈæv/ /slˈiːvz/ /ˈɪn/ /ˈɑːr/ /ʃˈɜːts/"
+	},
+	{
+		"english": "do you think that we will have sleeves in our shirts and",
+		"chinese": "你认为我们的衬衫会带有袖子吗？",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/ /wəl/ /hˈæv/ /slˈiːvz/ /ˈɪn/ /ˈɑːr/ /ʃˈɜːts/ /ˈænd/"
+	},
+	{
+		"english": "do you think that we will have sleeves in our shirts and blouses",
+		"chinese": "你认为我们的衬衫和女装会带有袖子吗？",
+		"soundmark": "/dˈuː/ /jˈuː/ /θˈɪŋk/ /ðət/ /wˈiː/ /wəl/ /hˈæv/ /slˈiːvz/ /ˈɪn/ /ˈɑːr/ /ʃˈɜːts/ /ˈænd/ /blˈaʊsɪz/"
+	},
+	{
+		"english": "will",
+		"chinese": "将会",
+		"soundmark": "/wəl/"
+	},
+	{
+		"english": "will we",
+		"chinese": "我们会吗",
+		"soundmark": "/wəl/ /wˈiː/"
+	},
+	{
+		"english": "will we wear",
+		"chinese": "我们会穿吗",
+		"soundmark": "/wəl/ /wˈiː/ /wˈɛːr/"
+	},
+	{
+		"english": "will we wear socks",
+		"chinese": "我们会穿袜子吗",
+		"soundmark": "/wəl/ /wˈiː/ /wˈɛːr/ /sˈɑːks/"
+	},
+	{
+		"english": "will we wear socks to",
+		"chinese": "我们会穿袜子吗",
+		"soundmark": "/wəl/ /wˈiː/ /wˈɛːr/ /sˈɑːks/ /tə/"
+	},
+	{
+		"english": "will we wear socks to protect",
+		"chinese": "我们会穿袜子来保护吗",
+		"soundmark": "/wəl/ /wˈiː/ /wˈɛːr/ /sˈɑːks/ /tə/ /pɜːtˈɛːkt/"
+	},
+	{
+		"english": "will we wear socks to protect our",
+		"chinese": "我们会穿袜子来保护自己吗",
+		"soundmark": "/wəl/ /wˈiː/ /wˈɛːr/ /sˈɑːks/ /tə/ /pɜːtˈɛːkt/ /ˈɑːr/"
+	},
+	{
+		"english": "will we wear socks to protect our feet",
+		"chinese": "我们会穿袜子来保护脚吗？",
+		"soundmark": "/wəl/ /wˈiː/ /wˈɛːr/ /sˈɑːks/ /tə/ /pɜːtˈɛːkt/ /ˈɑːr/ /fˈiːt/"
+	},
+	{
+		"english": "will",
+		"chinese": "将会",
+		"soundmark": "/wəl/"
+	},
+	{
+		"english": "will plastic",
+		"chinese": "将塑料",
+		"soundmark": "/wəl/ /plˈæstɪk/"
+	},
+	{
+		"english": "will plastic gloves",
+		"chinese": "会戴塑料手套",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/"
+	},
+	{
+		"english": "will plastic gloves be",
+		"chinese": "塑料手套会吗",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/"
+	},
+	{
+		"english": "will plastic gloves be used",
+		"chinese": "会使用塑料手套吗",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/"
+	},
+	{
+		"english": "will plastic gloves be used routinely",
+		"chinese": "塑料手套会被常规使用吗",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as",
+		"chinese": "塑料手套会常规使用吗",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as part",
+		"chinese": "塑料手套是否会被常规使用作为一部分",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as part of",
+		"chinese": "塑料手套是否会被常规用作……的一部分",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/ /əv/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as part of everyday",
+		"chinese": "塑料手套会作为日常用品被常规使用吗",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/ /əv/ /ˈɛːvriːdˈeɪ/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as part of everyday life",
+		"chinese": "塑料手套是否会被常规用于日常生活",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/ /əv/ /ˈɛːvriːdˈeɪ/ /lˈaɪf/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as part of everyday life to",
+		"chinese": "塑料手套是否会被常规用于日常生活",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/ /əv/ /ˈɛːvriːdˈeɪ/ /lˈaɪf/ /tə/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as part of everyday life to avoid",
+		"chinese": "是否将塑料手套作为日常生活的一部分常规使用以避免",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/ /əv/ /ˈɛːvriːdˈeɪ/ /lˈaɪf/ /tə/ /əvˈɔɪd/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as part of everyday life to avoid transmission",
+		"chinese": "是否将塑料手套作为日常生活的一部分常规使用，以避免传播",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/ /əv/ /ˈɛːvriːdˈeɪ/ /lˈaɪf/ /tə/ /əvˈɔɪd/ /trænzmˈɪʃən/"
+	},
+	{
+		"english": "will plastic gloves be used routinely as part of everyday life to avoid transmission of",
+		"chinese": "是否将塑料手套作为日常生活的一部分常规使用，以避免传播",
+		"soundmark": "/wəl/ /plˈæstɪk/ /ɡlˈəvz/ /biː/ /jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/ /əv/ /ˈɛːvriːdˈeɪ/ /lˈaɪf/ /tə/ /əvˈɔɪd/ /trænzmˈɪʃən/ /əv/"
+	},
+	{
+		"english": "used routinely as part of everyday life to avoid transmission of germs",
+		"chinese": "作为日常生活的一部分被经常使用，以避免细菌传播",
+		"soundmark": "/jˈuːzd/ /ruːtˈiːnliː/ /ˈɛːz/ /pˈɑːrt/ /əv/ /ˈɛːvriːdˈeɪ/ /lˈaɪf/ /tə/ /əvˈɔɪd/ /trænzmˈɪʃən/ /əv/ /dʒˈɜːmz/"
+	},
+	{
+		"english": "will",
+		"chinese": "将会",
+		"soundmark": "/wəl/"
+	},
+	{
+		"english": "will we",
+		"chinese": "我们会吗",
+		"soundmark": "/wəl/ /wˈiː/"
+	},
+	{
+		"english": "will we still",
+		"chinese": "我们还会吗",
+		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/"
+	},
+	{
+		"english": "will we still use",
+		"chinese": "我们还会使用吗",
+		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/"
+	},
+	{
+		"english": "will we still use buttons",
+		"chinese": "我们还会使用按钮吗",
+		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /bˈətənz/"
+	},
+	{
+		"english": "will we still use buttons to",
+		"chinese": "我们还会继续使用按钮吗",
+		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /bˈətənz/ /tə/"
+	},
+	{
+		"english": "will we still use buttons to fasten",
+		"chinese": "我们还会使用按钮来固定吗",
+		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /bˈətənz/ /tə/ /fˈæsən/"
+	},
+	{
+		"english": "will we still use buttons to fasten our",
+		"chinese": "我们还会使用按钮来固定吗",
+		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /bˈətənz/ /tə/ /fˈæsən/ /ˈɑːr/"
+	},
+	{
+		"english": "will we still use buttons to fasten our clothing",
+		"chinese": "我们还会使用纽扣来扣紧衣服吗",
+		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /bˈətənz/ /tə/ /fˈæsən/ /ˈɑːr/ /klˈoʊðɪŋ/"
+	},
+	{
+		"english": "will",
+		"chinese": "将会",
+		"soundmark": "/wəl/"
+	},
+	{
+		"english": "will we",
+		"chinese": "我们会吗",
+		"soundmark": "/wəl/ /wˈiː/"
+	},
+	{
+		"english": "will we all",
+		"chinese": "我们都会吗",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/"
+	},
+	{
+		"english": "will we all wear",
+		"chinese": "我们都会穿吗",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/"
+	},
+	{
+		"english": "will we all wear the",
+		"chinese": "我们都会穿吗",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/"
+	},
+	{
+		"english": "will we all wear the same",
+		"chinese": "我们都会穿一样的吗",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/"
+	},
+	{
+		"english": "will we all wear the same kind",
+		"chinese": "我们都会穿一样的吗",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/"
+	},
+	{
+		"english": "will we all wear the same kind of",
+		"chinese": "我们都会穿同一种吗",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/"
+	},
+	{
+		"english": "will we all wear the same kind of jeans",
+		"chinese": "我们都会穿同一种牛仔裤吗",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/"
+	},
+	{
+		"english": "will we all wear the same kind of jeans or",
+		"chinese": "我们都会穿同一种牛仔裤吗？",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/"
+	},
+	{
+		"english": "will we all wear the same kind of jeans or pants",
+		"chinese": "我们都会穿同一种牛仔裤或裤子吗？",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/"
+	},
+	{
+		"english": "will we all wear the same kind of jeans or pants like",
+		"chinese": "我们都会穿同一种牛仔裤或裤子吗",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/"
+	},
+	{
+		"english": "will we all wear the same kind of jeans or pants like a",
+		"chinese": "我们都会穿同一种牛仔裤或裤子吗？",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/ /ˈeɪ/"
+	},
+	{
+		"english": "will we all wear the same kind of jeans or pants like a uniform",
+		"chinese": "我们都会穿同一种牛仔裤或裤子作为制服吗？",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/ /ˈeɪ/ /jˈuːnəfˌɔːrm/"
+	},
+	{
+		"english": "will we all wear the same kind of jeans or pants like a uniform or",
+		"chinese": "我们都会穿同一种牛仔裤或裤子作为制服吗？",
+		"soundmark": "/wəl/ /wˈiː/ /ˈɔːl/ /wˈɛːr/ /ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/ /ˈeɪ/ /jˈuːnəfˌɔːrm/ /ɜː/"
+	},
+	{
+		"english": "the same kind of jeans or pants like a uniform or will",
+		"chinese": "同样的牛仔裤或裤子，像制服一样或将会",
+		"soundmark": "/ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/ /ˈeɪ/ /jˈuːnəfˌɔːrm/ /ɜː/ /wəl/"
+	},
+	{
+		"english": "the same kind of jeans or pants like a uniform or will each",
+		"chinese": "同一种类的牛仔裤或裤子，就像制服一样，每一条都如此",
+		"soundmark": "/ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/ /ˈeɪ/ /jˈuːnəfˌɔːrm/ /ɜː/ /wəl/ /ˈiːtʃ/"
+	},
+	{
+		"english": "the same kind of jeans or pants like a uniform or will each culture",
+		"chinese": "类似制服的同一款牛仔裤或裤子，不同文化会如此",
+		"soundmark": "/ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/ /ˈeɪ/ /jˈuːnəfˌɔːrm/ /ɜː/ /wəl/ /ˈiːtʃ/ /kˈəltʃɜː/"
+	},
+	{
+		"english": "the same kind of jeans or pants like a uniform or will each culture be",
+		"chinese": "像制服一样的同一种牛仔裤或裤子，各文化会一样吗？",
+		"soundmark": "/ðiː/ /sˈeɪm/ /kˈaɪnd/ /əv/ /dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/ /ˈeɪ/ /jˈuːnəfˌɔːrm/ /ɜː/ /wəl/ /ˈiːtʃ/ /kˈəltʃɜː/ /biː/"
+	},
+	{
+		"english": "jeans or pants like a uniform or will each culture be different",
+		"chinese": "牛仔裤或裤子作为制服，不同文化是否会有所不同？",
+		"soundmark": "/dʒˈiːnz/ /ɜː/ /pˈænts/ /lˈaɪk/ /ˈeɪ/ /jˈuːnəfˌɔːrm/ /ɜː/ /wəl/ /ˈiːtʃ/ /kˈəltʃɜː/ /biː/ /dˈɪfrənt/"
+	},
+	{
+		"english": "what",
+		"chinese": "什么",
+		"soundmark": "/hwˈət/"
+	},
+	{
+		"english": "what textiles",
+		"chinese": "什么纺织品",
+		"soundmark": "/hwˈət/ /tˈɛːkstˌaɪlz/"
+	},
+	{
+		"english": "what textiles will",
+		"chinese": "哪些纺织品",
+		"soundmark": "/hwˈət/ /tˈɛːkstˌaɪlz/ /wəl/"
+	},
+	{
+		"english": "what textiles will be",
+		"chinese": "哪些纺织品将会出现",
+		"soundmark": "/hwˈət/ /tˈɛːkstˌaɪlz/ /wəl/ /biː/"
+	},
+	{
+		"english": "what textiles will be used",
+		"chinese": "将使用哪些纺织品",
+		"soundmark": "/hwˈət/ /tˈɛːkstˌaɪlz/ /wəl/ /biː/ /jˈuːzd/"
+	},
+	{
+		"english": "what textiles will be used in",
+		"chinese": "将使用哪些纺织品？",
+		"soundmark": "/hwˈət/ /tˈɛːkstˌaɪlz/ /wəl/ /biː/ /jˈuːzd/ /ˈɪn/"
+	},
+	{
+		"english": "what textiles will be used in manufacturing",
+		"chinese": "制造中将使用哪些纺织品",
+		"soundmark": "/hwˈət/ /tˈɛːkstˌaɪlz/ /wəl/ /biː/ /jˈuːzd/ /ˈɪn/ /mˌænjəfˈæktʃɜːɪŋ/"
+	},
+	{
+		"english": "what textiles will be used in manufacturing our",
+		"chinese": "我们将使用哪些纺织品进行生产？",
+		"soundmark": "/hwˈət/ /tˈɛːkstˌaɪlz/ /wəl/ /biː/ /jˈuːzd/ /ˈɪn/ /mˌænjəfˈæktʃɜːɪŋ/ /ˈɑːr/"
+	},
+	{
+		"english": "what textiles will be used in manufacturing our clothing",
+		"chinese": "用于制造服装的纺织品有哪些？",
+		"soundmark": "/hwˈət/ /tˈɛːkstˌaɪlz/ /wəl/ /biː/ /jˈuːzd/ /ˈɪn/ /mˌænjəfˈæktʃɜːɪŋ/ /ˈɑːr/ /klˈoʊðɪŋ/"
+	},
+	{
+		"english": "will",
+		"chinese": "将会",
+		"soundmark": "/wəl/"
+	},
+	{
+		"english": "will a",
+		"chinese": "会吗",
+		"soundmark": "/wəl/ /ˈeɪ/"
+	},
+	{
+		"english": "will a type",
+		"chinese": "会是某种类型吗",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/"
+	},
+	{
+		"english": "will a type of",
+		"chinese": "一种会吗",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/"
+	},
+	{
+		"english": "will a type of nylon",
+		"chinese": "一种尼龙会吗",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/"
+	},
+	{
+		"english": "will a type of nylon fabric",
+		"chinese": "一种尼龙面料会吗",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/"
+	},
+	{
+		"english": "will a type of nylon fabric be",
+		"chinese": "某种尼龙面料会……吗",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/"
+	},
+	{
+		"english": "will a type of nylon fabric be used",
+		"chinese": "一种尼龙面料会被使用吗？",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/"
+	},
+	{
+		"english": "will a type of nylon fabric be used in",
+		"chinese": "某种尼龙面料会被使用吗？",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/"
+	},
+	{
+		"english": "will a type of nylon fabric be used in an",
+		"chinese": "某种尼龙面料会被用于……吗？",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/ /ən/"
+	},
+	{
+		"english": "will a type of nylon fabric be used in an effort",
+		"chinese": "是否会使用某种尼龙面料来尝试",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/ /ən/ /ˈɛːfɜːt/"
+	},
+	{
+		"english": "will a type of nylon fabric be used in an effort to",
+		"chinese": "是否会使用某种尼龙面料来……",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/ /ən/ /ˈɛːfɜːt/ /tə/"
+	},
+	{
+		"english": "will a type of nylon fabric be used in an effort to make",
+		"chinese": "是否会使用某种尼龙面料来尝试实现",
+		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/ /ən/ /ˈɛːfɜːt/ /tə/ /mˈeɪk/"
+	}
+]

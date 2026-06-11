@@ -1,0 +1,1252 @@
+[
+	{
+		"english": "the next day",
+		"chinese": "第二天",
+		"soundmark": "/ðiː/ /nˈɛːks/ /dˈeɪ/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as the",
+		"chinese": "因为",
+		"soundmark": "/ˈɛːz/ /ðiː/"
+	},
+	{
+		"english": "as the morning",
+		"chinese": "当早晨",
+		"soundmark": "/ˈɛːz/ /ðiː/ /mˈɔːrnɪŋ/"
+	},
+	{
+		"english": "as the morning wore",
+		"chinese": "随着早晨的推移",
+		"soundmark": "/ˈɛːz/ /ðiː/ /mˈɔːrnɪŋ/ /wˈɔːr/"
+	},
+	{
+		"english": "as the morning wore on",
+		"chinese": "随着早晨的推移",
+		"soundmark": "/ˈɛːz/ /ðiː/ /mˈɔːrnɪŋ/ /wˈɔːr/ /ˈɔːn/"
+	},
+	{
+		"english": "lesley",
+		"chinese": "莱斯利",
+		"soundmark": "/lˈɛːsliː/"
+	},
+	{
+		"english": "lesley became",
+		"chinese": "莱斯利成为了",
+		"soundmark": "/lˈɛːsliː/ /biːkˈeɪm/"
+	},
+	{
+		"english": "lesley became more",
+		"chinese": "莱斯利变得更加……",
+		"soundmark": "/lˈɛːsliː/ /biːkˈeɪm/ /mˈɔːr/"
+	},
+	{
+		"english": "lesley became more and",
+		"chinese": "莱斯利变得越来越……",
+		"soundmark": "/lˈɛːsliː/ /biːkˈeɪm/ /mˈɔːr/ /ˈænd/"
+	},
+	{
+		"english": "lesley became more and more",
+		"chinese": "莱斯利变得越来越……",
+		"soundmark": "/lˈɛːsliː/ /biːkˈeɪm/ /mˈɔːr/ /ˈænd/ /mˈɔːr/"
+	},
+	{
+		"english": "lesley became more and more agitated",
+		"chinese": "莱斯利越来越激动了",
+		"soundmark": "/lˈɛːsliː/ /biːkˈeɪm/ /mˈɔːr/ /ˈænd/ /mˈɔːr/ /ˈædʒətˌeɪtəd/"
+	},
+	{
+		"english": "and",
+		"chinese": "和",
+		"soundmark": "/ˈænd/"
+	},
+	{
+		"english": "and her",
+		"chinese": "和她",
+		"soundmark": "/ˈænd/ /hˈɜː/"
+	},
+	{
+		"english": "and her mood",
+		"chinese": "以及她的心情",
+		"soundmark": "/ˈænd/ /hˈɜː/ /mˈuːd/"
+	},
+	{
+		"english": "and her mood became",
+		"chinese": "她的情绪变得",
+		"soundmark": "/ˈænd/ /hˈɜː/ /mˈuːd/ /biːkˈeɪm/"
+	},
+	{
+		"english": "and her mood became apprehensive",
+		"chinese": "她的情绪变得担忧起来",
+		"soundmark": "/ˈænd/ /hˈɜː/ /mˈuːd/ /biːkˈeɪm/ /ˌæpriːhˈɛːnsɪv/"
+	},
+	{
+		"english": "when",
+		"chinese": "当……时",
+		"soundmark": "/hwˈɪn/"
+	},
+	{
+		"english": "when jeff",
+		"chinese": "当杰夫时",
+		"soundmark": "/hwˈɪn/ /dʒˈɛːf/"
+	},
+	{
+		"english": "when jeff did",
+		"chinese": "当杰夫做的时候",
+		"soundmark": "/hwˈɪn/ /dʒˈɛːf/ /dɪd/"
+	},
+	{
+		"english": "when jeff did not",
+		"chinese": "当杰夫没有的时候",
+		"soundmark": "/hwˈɪn/ /dʒˈɛːf/ /dɪd/ /nˈɑːt/"
+	},
+	{
+		"english": "when jeff did not appear",
+		"chinese": "当杰夫没有出现时",
+		"soundmark": "/hwˈɪn/ /dʒˈɛːf/ /dɪd/ /nˈɑːt/ /əpˈɪr/"
+	},
+	{
+		"english": "when",
+		"chinese": "当……时",
+		"soundmark": "/hwˈɪn/"
+	},
+	{
+		"english": "when noon",
+		"chinese": "正午时",
+		"soundmark": "/hwˈɪn/ /nˈuːn/"
+	},
+	{
+		"english": "when noon hour",
+		"chinese": "正午时分",
+		"soundmark": "/hwˈɪn/ /nˈuːn/ /ˈaʊr/"
+	},
+	{
+		"english": "when noon hour arrived",
+		"chinese": "当正午到来时",
+		"soundmark": "/hwˈɪn/ /nˈuːn/ /ˈaʊr/ /ɜːˈaɪvd/"
+	},
+	{
+		"english": "when noon hour arrived and",
+		"chinese": "当正午到来时",
+		"soundmark": "/hwˈɪn/ /nˈuːn/ /ˈaʊr/ /ɜːˈaɪvd/ /ˈænd/"
+	},
+	{
+		"english": "when noon hour arrived and he",
+		"chinese": "当正午到来时，他",
+		"soundmark": "/hwˈɪn/ /nˈuːn/ /ˈaʊr/ /ɜːˈaɪvd/ /ˈænd/ /hˈiː/"
+	},
+	{
+		"english": "when noon hour arrived and he still",
+		"chinese": "当正午到来时，他仍然",
+		"soundmark": "/hwˈɪn/ /nˈuːn/ /ˈaʊr/ /ɜːˈaɪvd/ /ˈænd/ /hˈiː/ /stˈɪl/"
+	},
+	{
+		"english": "when noon hour arrived and he still had",
+		"chinese": "当正午到来时，他仍然没有……",
+		"soundmark": "/hwˈɪn/ /nˈuːn/ /ˈaʊr/ /ɜːˈaɪvd/ /ˈænd/ /hˈiː/ /stˈɪl/ /hˈæd/"
+	},
+	{
+		"english": "when noon hour arrived and he still had not",
+		"chinese": "当正午到来时，他仍然没有",
+		"soundmark": "/hwˈɪn/ /nˈuːn/ /ˈaʊr/ /ɜːˈaɪvd/ /ˈænd/ /hˈiː/ /stˈɪl/ /hˈæd/ /nˈɑːt/"
+	},
+	{
+		"english": "when noon hour arrived and he still had not appeared",
+		"chinese": "当正午到来时，他仍然没有出现",
+		"soundmark": "/hwˈɪn/ /nˈuːn/ /ˈaʊr/ /ɜːˈaɪvd/ /ˈænd/ /hˈiː/ /stˈɪl/ /hˈæd/ /nˈɑːt/ /əpˈɪrd/"
+	},
+	{
+		"english": "she",
+		"chinese": "她",
+		"soundmark": "/ʃˈiː/"
+	},
+	{
+		"english": "she started",
+		"chinese": "她开始了",
+		"soundmark": "/ʃˈiː/ /stˈɑːrtɪd/"
+	},
+	{
+		"english": "she started making",
+		"chinese": "她开始制作",
+		"soundmark": "/ʃˈiː/ /stˈɑːrtɪd/ /mˈeɪkɪŋ/"
+	},
+	{
+		"english": "she started making some",
+		"chinese": "她开始做一些事情",
+		"soundmark": "/ʃˈiː/ /stˈɑːrtɪd/ /mˈeɪkɪŋ/ /sˈəm/"
+	},
+	{
+		"english": "she started making some phone",
+		"chinese": "她开始打电话了",
+		"soundmark": "/ʃˈiː/ /stˈɑːrtɪd/ /mˈeɪkɪŋ/ /sˈəm/ /fˈoʊn/"
+	},
+	{
+		"english": "she started making some phone calls",
+		"chinese": "她开始打一些电话",
+		"soundmark": "/ʃˈiː/ /stˈɑːrtɪd/ /mˈeɪkɪŋ/ /sˈəm/ /fˈoʊn/ /kˈɔːlz/"
+	},
+	{
+		"english": "none",
+		"chinese": "无",
+		"soundmark": "/nˈən/"
+	},
+	{
+		"english": "none of",
+		"chinese": "没有",
+		"soundmark": "/nˈən/ /əv/"
+	},
+	{
+		"english": "none of their",
+		"chinese": "没有哪一个",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/"
+	},
+	{
+		"english": "none of their mutual",
+		"chinese": "他们之间的任何东西",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/"
+	},
+	{
+		"english": "none of their mutual friends",
+		"chinese": "他们的共同朋友都没有",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/"
+	},
+	{
+		"english": "none of their mutual friends had",
+		"chinese": "他们的共同朋友都没有",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/"
+	},
+	{
+		"english": "none of their mutual friends had either",
+		"chinese": "他们的共同朋友都没有",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/ /ˈaɪðɜː/"
+	},
+	{
+		"english": "none of their mutual friends had either seen",
+		"chinese": "他们的共同朋友都没有见过",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/ /ˈaɪðɜː/ /sˈiːn/"
+	},
+	{
+		"english": "none of their mutual friends had either seen or",
+		"chinese": "他们的共同朋友中没有一个人见过或",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/ /ˈaɪðɜː/ /sˈiːn/ /ɜː/"
+	},
+	{
+		"english": "none of their mutual friends had either seen or talked",
+		"chinese": "他们的共同朋友都没有见过或交谈过",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/ /ˈaɪðɜː/ /sˈiːn/ /ɜː/ /tˈɔːkt/"
+	},
+	{
+		"english": "none of their mutual friends had either seen or talked with",
+		"chinese": "他们的共同朋友都没有见过他们，也没有交谈过",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/ /ˈaɪðɜː/ /sˈiːn/ /ɜː/ /tˈɔːkt/ /wɪð/"
+	},
+	{
+		"english": "none of their mutual friends had either seen or talked with jeff",
+		"chinese": "他们的共同朋友都没有见过杰夫，也没有与他交谈过",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/ /ˈaɪðɜː/ /sˈiːn/ /ɜː/ /tˈɔːkt/ /wɪð/ /dʒˈɛːf/"
+	},
+	{
+		"english": "none of their mutual friends had either seen or talked with jeff that",
+		"chinese": "他们的共同朋友中没有人见过杰夫，也没有与他交谈过",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/ /ˈaɪðɜː/ /sˈiːn/ /ɜː/ /tˈɔːkt/ /wɪð/ /dʒˈɛːf/ /ðət/"
+	},
+	{
+		"english": "none of their mutual friends had either seen or talked with jeff that day",
+		"chinese": "那天他们的共同朋友都没有见过杰夫，也没有与他交谈过",
+		"soundmark": "/nˈən/ /əv/ /ðˈɛːr/ /mjˈuːtʃəwəl/ /frˈɛːnz/ /hˈæd/ /ˈaɪðɜː/ /sˈiːn/ /ɜː/ /tˈɔːkt/ /wɪð/ /dʒˈɛːf/ /ðət/ /dˈeɪ/"
+	},
+	{
+		"english": "until",
+		"chinese": "直到",
+		"soundmark": "/əntˈɪl/"
+	},
+	{
+		"english": "until today",
+		"chinese": "直到今天",
+		"soundmark": "/əntˈɪl/ /tuːdˈeɪ/"
+	},
+	{
+		"english": "jeff",
+		"chinese": "杰夫",
+		"soundmark": "/dʒˈɛːf/"
+	},
+	{
+		"english": "jeff had",
+		"chinese": "杰夫有",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/"
+	},
+	{
+		"english": "jeff had always",
+		"chinese": "杰夫一直如此",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/"
+	},
+	{
+		"english": "jeff had always been",
+		"chinese": "杰夫一直都是这样",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/"
+	},
+	{
+		"english": "jeff had always been very",
+		"chinese": "杰夫一直都很",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/"
+	},
+	{
+		"english": "jeff had always been very punctual",
+		"chinese": "杰夫一直都很守时",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/"
+	},
+	{
+		"english": "jeff had always been very punctual about",
+		"chinese": "杰夫一直非常守时",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/ /əbˈaʊt/"
+	},
+	{
+		"english": "jeff had always been very punctual about returning",
+		"chinese": "杰夫总是很准时回来",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/ /əbˈaʊt/ /riːtˈɜːnɪŋ/"
+	},
+	{
+		"english": "jeff had always been very punctual about returning the",
+		"chinese": "杰夫总是很准时归还东西",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/ /əbˈaʊt/ /riːtˈɜːnɪŋ/ /ðiː/"
+	},
+	{
+		"english": "jeff had always been very punctual about returning the boy",
+		"chinese": "杰夫总是很准时归还那个男孩",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/ /əbˈaʊt/ /riːtˈɜːnɪŋ/ /ðiː/ /bˈɔɪ/"
+	},
+	{
+		"english": "jeff had always been very punctual about returning the boy at",
+		"chinese": "杰夫总是很准时把男孩送回",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/ /əbˈaʊt/ /riːtˈɜːnɪŋ/ /ðiː/ /bˈɔɪ/ /ˈæt/"
+	},
+	{
+		"english": "jeff had always been very punctual about returning the boy at the",
+		"chinese": "杰夫总是很准时把男孩送回……",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/ /əbˈaʊt/ /riːtˈɜːnɪŋ/ /ðiː/ /bˈɔɪ/ /ˈæt/ /ðiː/"
+	},
+	{
+		"english": "jeff had always been very punctual about returning the boy at the appointed",
+		"chinese": "杰夫总是很准时在约定的时间把男孩送回去",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/ /əbˈaʊt/ /riːtˈɜːnɪŋ/ /ðiː/ /bˈɔɪ/ /ˈæt/ /ðiː/ /əpˈɔɪntɪd/"
+	},
+	{
+		"english": "jeff had always been very punctual about returning the boy at the appointed time",
+		"chinese": "杰夫总是很准时在指定时间归还那个男孩",
+		"soundmark": "/dʒˈɛːf/ /hˈæd/ /ˈɔːlwiːz/ /bɪn/ /vˈɛːriː/ /pˈəŋktʃuːəl/ /əbˈaʊt/ /riːtˈɜːnɪŋ/ /ðiː/ /bˈɔɪ/ /ˈæt/ /ðiː/ /əpˈɔɪntɪd/ /tˈaɪm/"
+	},
+	{
+		"english": "lesley",
+		"chinese": "莱斯利",
+		"soundmark": "/lˈɛːsliː/"
+	},
+	{
+		"english": "lesley felt",
+		"chinese": "莱斯利感到",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/"
+	},
+	{
+		"english": "lesley felt a",
+		"chinese": "莱斯利感到……",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/"
+	},
+	{
+		"english": "lesley felt a knot",
+		"chinese": "莱斯利感到一阵紧张",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/"
+	},
+	{
+		"english": "lesley felt a knot forming",
+		"chinese": "莱斯利感到一阵不安",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/"
+	},
+	{
+		"english": "lesley felt a knot forming in",
+		"chinese": "莱斯利感到心里有一团乱麻",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/"
+	},
+	{
+		"english": "lesley felt a knot forming in her",
+		"chinese": "莱斯利感到心里有一团乱糟糟的感觉",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/"
+	},
+	{
+		"english": "lesley felt a knot forming in her stomach",
+		"chinese": "莱斯利感到胃里有一团紧绷感",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/"
+	},
+	{
+		"english": "lesley felt a knot forming in her stomach as",
+		"chinese": "莱斯利感到胃里一阵紧缩",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/"
+	},
+	{
+		"english": "lesley felt a knot forming in her stomach as a",
+		"chinese": "莱斯利感到胃里一阵紧缩，因为……",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "lesley felt a knot forming in her stomach as a crazy",
+		"chinese": "莱斯利感到胃里像结了一团，简直太疯狂了",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/"
+	},
+	{
+		"english": "lesley felt a knot forming in her stomach as a crazy thought",
+		"chinese": "莱斯利感到胃里一阵紧缩，一个疯狂的念头涌上心头",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/ /θˈɔːt/"
+	},
+	{
+		"english": "lesley felt a knot forming in her stomach as a crazy thought persisted",
+		"chinese": "莱斯利感到胃里一阵紧缩，一个疯狂的念头不断浮现",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/ /θˈɔːt/ /pɜːsˈɪstɪd/"
+	},
+	{
+		"english": "lesley felt a knot forming in her stomach as a crazy thought persisted at",
+		"chinese": "莱斯利感到胃里一阵紧缩，一个疯狂的念头不断在她脑海中盘旋",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/ /θˈɔːt/ /pɜːsˈɪstɪd/ /ˈæt/"
+	},
+	{
+		"english": "lesley felt a knot forming in her stomach as a crazy thought persisted at the",
+		"chinese": "莱斯利感到胃里一阵紧缩，一个疯狂的念头不断在她脑海中盘旋",
+		"soundmark": "/lˈɛːsliː/ /fˈɛːlt/ /ˈeɪ/ /nˈɑːt/ /fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/ /θˈɔːt/ /pɜːsˈɪstɪd/ /ˈæt/ /ðiː/"
+	},
+	{
+		"english": "forming in her stomach as a crazy thought persisted at the back",
+		"chinese": "在她的胃里形成，一个疯狂的想法在背后持续着",
+		"soundmark": "/fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/ /θˈɔːt/ /pɜːsˈɪstɪd/ /ˈæt/ /ðiː/ /bˈæk/"
+	},
+	{
+		"english": "forming in her stomach as a crazy thought persisted at the back of",
+		"chinese": "在她的胃里形成，一个疯狂的想法在内心持续着",
+		"soundmark": "/fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/ /θˈɔːt/ /pɜːsˈɪstɪd/ /ˈæt/ /ðiː/ /bˈæk/ /əv/"
+	},
+	{
+		"english": "forming in her stomach as a crazy thought persisted at the back of her",
+		"chinese": "在她的胃里形成，一个疯狂的念头在她心底持续着",
+		"soundmark": "/fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/ /θˈɔːt/ /pɜːsˈɪstɪd/ /ˈæt/ /ðiː/ /bˈæk/ /əv/ /hˈɜː/"
+	},
+	{
+		"english": "forming in her stomach as a crazy thought persisted at the back of her mind",
+		"chinese": "在她的脑海中持续萦绕着一个疯狂的想法，在她肚子里形成……",
+		"soundmark": "/fˈɔːrmɪŋ/ /ˈɪn/ /hˈɜː/ /stˈəmək/ /ˈɛːz/ /ˈeɪ/ /krˈeɪziː/ /θˈɔːt/ /pɜːsˈɪstɪd/ /ˈæt/ /ðiː/ /bˈæk/ /əv/ /hˈɜː/ /mˈaɪnd/"
+	},
+	{
+		"english": "she",
+		"chinese": "她",
+		"soundmark": "/ʃˈiː/"
+	},
+	{
+		"english": "she was",
+		"chinese": "她是",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "she was absolutely",
+		"chinese": "她绝对是",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /ˌæbsəlˈuːtliː/"
+	},
+	{
+		"english": "she was absolutely sure",
+		"chinese": "她绝对确定",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /ˌæbsəlˈuːtliː/ /ʃˈʊr/"
+	},
+	{
+		"english": "she was absolutely sure something",
+		"chinese": "她绝对确信有事情",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /ˌæbsəlˈuːtliː/ /ʃˈʊr/ /sˈəmθɪŋ/"
+	},
+	{
+		"english": "she was absolutely sure something was",
+		"chinese": "她绝对确定有什么事情发生了",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /ˌæbsəlˈuːtliː/ /ʃˈʊr/ /sˈəmθɪŋ/ /wˈɔːz/"
+	},
+	{
+		"english": "she was absolutely sure something was wrong",
+		"chinese": "她绝对确定出了什么问题",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /ˌæbsəlˈuːtliː/ /ʃˈʊr/ /sˈəmθɪŋ/ /wˈɔːz/ /rˈɔːŋ/"
+	},
+	{
+		"english": "jeff",
+		"chinese": "杰夫",
+		"soundmark": "/dʒˈɛːf/"
+	},
+	{
+		"english": "jeff sat",
+		"chinese": "杰夫·萨特",
+		"soundmark": "/dʒˈɛːf/ /sˈæt/"
+	},
+	{
+		"english": "jeff sat with",
+		"chinese": "杰夫坐在一起",
+		"soundmark": "/dʒˈɛːf/ /sˈæt/ /wɪð/"
+	},
+	{
+		"english": "jeff sat with his",
+		"chinese": "杰夫与他坐在一起",
+		"soundmark": "/dʒˈɛːf/ /sˈæt/ /wɪð/ /hɪz/"
+	},
+	{
+		"english": "jeff sat with his head",
+		"chinese": "杰夫坐着，头靠在...",
+		"soundmark": "/dʒˈɛːf/ /sˈæt/ /wɪð/ /hɪz/ /hˈɛːd/"
+	},
+	{
+		"english": "jeff sat with his head bowed",
+		"chinese": "杰夫低着头坐着",
+		"soundmark": "/dʒˈɛːf/ /sˈæt/ /wɪð/ /hɪz/ /hˈɛːd/ /bˈoʊd/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he was",
+		"chinese": "他",
+		"soundmark": "/hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "he was undecided",
+		"chinese": "他犹豫不决",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˌəndɪsˈaɪdɪd/"
+	},
+	{
+		"english": "he was undecided what",
+		"chinese": "他不确定该做什么",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˌəndɪsˈaɪdɪd/ /hwˈət/"
+	},
+	{
+		"english": "he was undecided what to",
+		"chinese": "他不确定该做什么",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˌəndɪsˈaɪdɪd/ /hwˈət/ /tə/"
+	},
+	{
+		"english": "he was undecided what to do",
+		"chinese": "他不知道该做什么",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˌəndɪsˈaɪdɪd/ /hwˈət/ /tə/ /dˈuː/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the domestic",
+		"chinese": "国内",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/"
+	},
+	{
+		"english": "the domestic arrangement",
+		"chinese": "国内安排",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/"
+	},
+	{
+		"english": "the domestic arrangement with",
+		"chinese": "国内安排",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/"
+	},
+	{
+		"english": "the domestic arrangement with his",
+		"chinese": "与他之间的国内安排",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/ /hɪz/"
+	},
+	{
+		"english": "the domestic arrangement with his former",
+		"chinese": "与他前任的国内安排",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/ /hɪz/ /fˈɔːrmɜː/"
+	},
+	{
+		"english": "the domestic arrangement with his former wife",
+		"chinese": "与前妻的国内安排",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/ /hɪz/ /fˈɔːrmɜː/ /wˈaɪf/"
+	},
+	{
+		"english": "the domestic arrangement with his former wife was",
+		"chinese": "他与前妻的国内安排",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/ /hɪz/ /fˈɔːrmɜː/ /wˈaɪf/ /wˈɔːz/"
+	},
+	{
+		"english": "the domestic arrangement with his former wife was proving",
+		"chinese": "他与前妻的国内安排正在显现效果",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/ /hɪz/ /fˈɔːrmɜː/ /wˈaɪf/ /wˈɔːz/ /prˈuːvɪŋ/"
+	},
+	{
+		"english": "the domestic arrangement with his former wife was proving to",
+		"chinese": "他与前妻的国内安排正在被证明……",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/ /hɪz/ /fˈɔːrmɜː/ /wˈaɪf/ /wˈɔːz/ /prˈuːvɪŋ/ /tə/"
+	},
+	{
+		"english": "the domestic arrangement with his former wife was proving to be",
+		"chinese": "他与前妻的国内安排正在显现出……",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/ /hɪz/ /fˈɔːrmɜː/ /wˈaɪf/ /wˈɔːz/ /prˈuːvɪŋ/ /tə/ /biː/"
+	},
+	{
+		"english": "the domestic arrangement with his former wife was proving to be awkward",
+		"chinese": "他与前妻的家庭关系显得很尴尬",
+		"soundmark": "/ðiː/ /dəmˈɛːstɪk/ /ɜːˈeɪndʒmənt/ /wɪð/ /hɪz/ /fˈɔːrmɜː/ /wˈaɪf/ /wˈɔːz/ /prˈuːvɪŋ/ /tə/ /biː/ /ˈɔːkwɜːd/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he was",
+		"chinese": "他",
+		"soundmark": "/hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "he was frustrated",
+		"chinese": "他感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/"
+	},
+	{
+		"english": "he was frustrated at",
+		"chinese": "他感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/"
+	},
+	{
+		"english": "he was frustrated at being",
+		"chinese": "他因感到沮丧而……",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/"
+	},
+	{
+		"english": "he was frustrated at being able",
+		"chinese": "他因无法做到而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/"
+	},
+	{
+		"english": "he was frustrated at being able to",
+		"chinese": "他因无法做到而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/"
+	},
+	{
+		"english": "he was frustrated at being able to see",
+		"chinese": "他因无法看到而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/"
+	},
+	{
+		"english": "he was frustrated at being able to see his",
+		"chinese": "他因无法见到他而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/"
+	},
+	{
+		"english": "he was frustrated at being able to see his son",
+		"chinese": "他因能见到儿子而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/"
+	},
+	{
+		"english": "he was frustrated at being able to see his son only",
+		"chinese": "他因只能见到儿子而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/"
+	},
+	{
+		"english": "he was frustrated at being able to see his son only on",
+		"chinese": "他因只能看到儿子而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/"
+	},
+	{
+		"english": "he was frustrated at being able to see his son only on weekends",
+		"chinese": "他因只能在周末才能见到儿子而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/"
+	},
+	{
+		"english": "he was frustrated at being able to see his son only on weekends and",
+		"chinese": "他因只能在周末才能见到儿子而感到沮丧",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/"
+	},
+	{
+		"english": "he was frustrated at being able to see his son only on weekends and felt",
+		"chinese": "他因只能在周末才能见到儿子而感到沮丧，并感到……",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /frˈəstrˌeɪtəd/ /ˈæt/ /bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/"
+	},
+	{
+		"english": "being able to see his son only on weekends and felt he",
+		"chinese": "只能在周末才能见到儿子，感觉他……",
+		"soundmark": "/bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/"
+	},
+	{
+		"english": "being able to see his son only on weekends and felt he was",
+		"chinese": "只能在周末才能见到他的儿子，感觉自己……",
+		"soundmark": "/bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "being able to see his son only on weekends and felt he was always",
+		"chinese": "只能在周末才能见到儿子，感觉自己总是",
+		"soundmark": "/bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/"
+	},
+	{
+		"english": "being able to see his son only on weekends and felt he was always making",
+		"chinese": "只能在周末才能见到儿子，感觉自己总是在制造……",
+		"soundmark": "/bˈiːɪŋ/ /ˈeɪbəl/ /tə/ /sˈiː/ /hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/ /mˈeɪkɪŋ/"
+	},
+	{
+		"english": "his son only on weekends and felt he was always making concessions",
+		"chinese": "他的儿子只在周末才出现，他感觉自己总是在做出让步",
+		"soundmark": "/hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/ /mˈeɪkɪŋ/ /kənsˈɛːʃənz/"
+	},
+	{
+		"english": "his son only on weekends and felt he was always making concessions to",
+		"chinese": "他的儿子只在周末才出现，他感觉自己总是不得不做出让步",
+		"soundmark": "/hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/ /mˈeɪkɪŋ/ /kənsˈɛːʃənz/ /tə/"
+	},
+	{
+		"english": "his son only on weekends and felt he was always making concessions to accommodate",
+		"chinese": "他的儿子只在周末才出现，他感觉自己总是不得不做出让步来迁就他人",
+		"soundmark": "/hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/ /mˈeɪkɪŋ/ /kənsˈɛːʃənz/ /tə/ /əkˈɑːmədˌeɪt/"
+	},
+	{
+		"english": "his son only on weekends and felt he was always making concessions to accommodate lesley",
+		"chinese": "他的儿子只在周末才出现，他感觉自己总是做出让步以迁就莱斯利",
+		"soundmark": "/hɪz/ /sˈən/ /ˈoʊnliː/ /ˈɔːn/ /wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/ /mˈeɪkɪŋ/ /kənsˈɛːʃənz/ /tə/ /əkˈɑːmədˌeɪt/ /lˈɛːsliː/"
+	},
+	{
+		"english": "weekends and felt he was always making concessions to accommodate lesley s",
+		"chinese": "周末时，他感觉自己总是做出让步以迁就莱斯利。",
+		"soundmark": "/wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/ /mˈeɪkɪŋ/ /kənsˈɛːʃənz/ /tə/ /əkˈɑːmədˌeɪt/ /lˈɛːsliː/ /ˈɛːs/"
+	},
+	{
+		"english": "weekends and felt he was always making concessions to accommodate lesley s work",
+		"chinese": "周末时，他感觉自己总是做出让步以配合莱斯利的工作",
+		"soundmark": "/wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/ /mˈeɪkɪŋ/ /kənsˈɛːʃənz/ /tə/ /əkˈɑːmədˌeɪt/ /lˈɛːsliː/ /ˈɛːs/ /wˈɜːk/"
+	},
+	{
+		"english": "weekends and felt he was always making concessions to accommodate lesley s work schedule",
+		"chinese": "周末时，他感觉自己总是做出让步以适应莱斯利的工作安排",
+		"soundmark": "/wˈiːkˌɛːndz/ /ˈænd/ /fˈɛːlt/ /hˈiː/ /wˈɔːz/ /ˈɔːlwiːz/ /mˈeɪkɪŋ/ /kənsˈɛːʃənz/ /tə/ /əkˈɑːmədˌeɪt/ /lˈɛːsliː/ /ˈɛːs/ /wˈɜːk/ /skˈɛːdʒuːl/"
+	},
+	{
+		"english": "every",
+		"chinese": "每个",
+		"soundmark": "/ˈɛːvriː/"
+	},
+	{
+		"english": "every meeting",
+		"chinese": "每次会议",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/"
+	},
+	{
+		"english": "every meeting was",
+		"chinese": "每次会议都",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/"
+	},
+	{
+		"english": "every meeting was turning",
+		"chinese": "每次会议都变得混乱",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/"
+	},
+	{
+		"english": "every meeting was turning into",
+		"chinese": "每次会议都变得……",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/ /ɪntə/"
+	},
+	{
+		"english": "every meeting was turning into a",
+		"chinese": "每次会议都变成了一",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/ /ɪntə/ /ˈeɪ/"
+	},
+	{
+		"english": "every meeting was turning into a competition",
+		"chinese": "每次会议都变成了一场竞争",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/ /ɪntə/ /ˈeɪ/ /kˌɑːmpətˈɪʃən/"
+	},
+	{
+		"english": "every meeting was turning into a competition for",
+		"chinese": "每次会议都变成了一场竞争",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/ /ɪntə/ /ˈeɪ/ /kˌɑːmpətˈɪʃən/ /frɜː/"
+	},
+	{
+		"english": "every meeting was turning into a competition for the",
+		"chinese": "每次会议都变成了一场竞争",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/ /ɪntə/ /ˈeɪ/ /kˌɑːmpətˈɪʃən/ /frɜː/ /ðiː/"
+	},
+	{
+		"english": "every meeting was turning into a competition for the boy",
+		"chinese": "每次会议都变成了一个男孩的竞争赛场",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/ /ɪntə/ /ˈeɪ/ /kˌɑːmpətˈɪʃən/ /frɜː/ /ðiː/ /bˈɔɪ/"
+	},
+	{
+		"english": "every meeting was turning into a competition for the boy s",
+		"chinese": "每次会议都变成了对那个男孩的竞争",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/ /ɪntə/ /ˈeɪ/ /kˌɑːmpətˈɪʃən/ /frɜː/ /ðiː/ /bˈɔɪ/ /ˈɛːs/"
+	},
+	{
+		"english": "every meeting was turning into a competition for the boy s affection",
+		"chinese": "每次会议都变成了争夺男孩关注的竞争",
+		"soundmark": "/ˈɛːvriː/ /mˈiːtɪŋ/ /wˈɔːz/ /tˈɜːnɪŋ/ /ɪntə/ /ˈeɪ/ /kˌɑːmpətˈɪʃən/ /frɜː/ /ðiː/ /bˈɔɪ/ /ˈɛːs/ /əfˈɛːkʃən/"
+	},
+	{
+		"english": "his",
+		"chinese": "他的",
+		"soundmark": "/hɪz/"
+	},
+	{
+		"english": "his one",
+		"chinese": "他的那个",
+		"soundmark": "/hɪz/ /hwˈən/"
+	},
+	{
+		"english": "his one desire",
+		"chinese": "他的唯一愿望",
+		"soundmark": "/hɪz/ /hwˈən/ /dɪzˈaɪɜː/"
+	},
+	{
+		"english": "his one desire was",
+		"chinese": "他唯一的愿望是",
+		"soundmark": "/hɪz/ /hwˈən/ /dɪzˈaɪɜː/ /wˈɔːz/"
+	},
+	{
+		"english": "his one desire was to",
+		"chinese": "他唯一的愿望是",
+		"soundmark": "/hɪz/ /hwˈən/ /dɪzˈaɪɜː/ /wˈɔːz/ /tə/"
+	},
+	{
+		"english": "his one desire was to take",
+		"chinese": "他唯一的愿望就是带走",
+		"soundmark": "/hɪz/ /hwˈən/ /dɪzˈaɪɜː/ /wˈɔːz/ /tə/ /tˈeɪk/"
+	},
+	{
+		"english": "his one desire was to take zac",
+		"chinese": "他唯一的愿望就是带走扎克",
+		"soundmark": "/hɪz/ /hwˈən/ /dɪzˈaɪɜː/ /wˈɔːz/ /tə/ /tˈeɪk/"
+	},
+	{
+		"english": "his one desire was to take zac away",
+		"chinese": "他唯一的愿望就是带走扎克",
+		"soundmark": "/hɪz/ /hwˈən/ /dɪzˈaɪɜː/ /wˈɔːz/ /tə/ /tˈeɪk/ /əwˈeɪ/"
+	},
+	{
+		"english": "his one desire was to take zac away for",
+		"chinese": "他唯一的愿望就是带扎克离开。",
+		"soundmark": "/hɪz/ /hwˈən/ /dɪzˈaɪɜː/ /wˈɔːz/ /tə/ /tˈeɪk/ /əwˈeɪ/ /frɜː/"
+	},
+	{
+		"english": "his one desire was to take zac away for good",
+		"chinese": "他唯一的愿望就是永远把扎克带走",
+		"soundmark": "/hɪz/ /hwˈən/ /dɪzˈaɪɜː/ /wˈɔːz/ /tə/ /tˈeɪk/ /əwˈeɪ/ /frɜː/ /ɡɪd/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the enormous",
+		"chinese": "巨大的",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/"
+	},
+	{
+		"english": "the enormous decision",
+		"chinese": "巨大的决定",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/"
+	},
+	{
+		"english": "the enormous decision to",
+		"chinese": "这个巨大的决定",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/"
+	},
+	{
+		"english": "the enormous decision to undertake",
+		"chinese": "做出这一重大决定",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/ /ˈəndɜːtˌeɪk/"
+	},
+	{
+		"english": "the enormous decision to undertake this",
+		"chinese": "做出这一决定实在巨大",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/ /ˈəndɜːtˌeɪk/ /ðɪs/"
+	},
+	{
+		"english": "the enormous decision to undertake this plan",
+		"chinese": "实施该计划的重大决定",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/ /ˈəndɜːtˌeɪk/ /ðɪs/ /plˈæn/"
+	},
+	{
+		"english": "the enormous decision to undertake this plan appeared",
+		"chinese": "实施该计划的重大决定出现了",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/ /ˈəndɜːtˌeɪk/ /ðɪs/ /plˈæn/ /əpˈɪrd/"
+	},
+	{
+		"english": "the enormous decision to undertake this plan appeared to",
+		"chinese": "实施这一计划的重大决定似乎",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/ /ˈəndɜːtˌeɪk/ /ðɪs/ /plˈæn/ /əpˈɪrd/ /tə/"
+	},
+	{
+		"english": "the enormous decision to undertake this plan appeared to be",
+		"chinese": "实施该计划的重大决定似乎……",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/ /ˈəndɜːtˌeɪk/ /ðɪs/ /plˈæn/ /əpˈɪrd/ /tə/ /biː/"
+	},
+	{
+		"english": "the enormous decision to undertake this plan appeared to be presenting",
+		"chinese": "这个庞大决策实施该计划的举动似乎正在呈现……",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/ /ˈəndɜːtˌeɪk/ /ðɪs/ /plˈæn/ /əpˈɪrd/ /tə/ /biː/ /priːzˈɛːntɪŋ/"
+	},
+	{
+		"english": "the enormous decision to undertake this plan appeared to be presenting itself",
+		"chinese": "决定实施这一计划的巨大决心似乎已经显现出来",
+		"soundmark": "/ðiː/ /iːnˈɔːrmɪs/ /dɪsˈɪʒən/ /tə/ /ˈəndɜːtˌeɪk/ /ðɪs/ /plˈæn/ /əpˈɪrd/ /tə/ /biː/ /priːzˈɛːntɪŋ/ /ɪtsˈɛːlf/"
+	},
+	{
+		"english": "today",
+		"chinese": "今天",
+		"soundmark": "/tuːdˈeɪ/"
+	},
+	{
+		"english": "today he",
+		"chinese": "今天他",
+		"soundmark": "/tuːdˈeɪ/ /hˈiː/"
+	},
+	{
+		"english": "today he would",
+		"chinese": "今天他将会",
+		"soundmark": "/tuːdˈeɪ/ /hˈiː/ /wˈʊd/"
+	},
+	{
+		"english": "today he would depart",
+		"chinese": "今天他将启程",
+		"soundmark": "/tuːdˈeɪ/ /hˈiː/ /wˈʊd/ /dɪpˈɑːrt/"
+	},
+	{
+		"english": "today he would depart for",
+		"chinese": "今天他将启程前往",
+		"soundmark": "/tuːdˈeɪ/ /hˈiː/ /wˈʊd/ /dɪpˈɑːrt/ /frɜː/"
+	},
+	{
+		"english": "today he would depart for a",
+		"chinese": "今天他将启程前往",
+		"soundmark": "/tuːdˈeɪ/ /hˈiː/ /wˈʊd/ /dɪpˈɑːrt/ /frɜː/ /ˈeɪ/"
+	},
+	{
+		"english": "today he would depart for a conference",
+		"chinese": "今天他将前往参加一个会议",
+		"soundmark": "/tuːdˈeɪ/ /hˈiː/ /wˈʊd/ /dɪpˈɑːrt/ /frɜː/ /ˈeɪ/ /kˈɑːnfrəns/"
+	},
+	{
+		"english": "today he would depart for a conference in",
+		"chinese": "今天他将前往参加一个会议",
+		"soundmark": "/tuːdˈeɪ/ /hˈiː/ /wˈʊd/ /dɪpˈɑːrt/ /frɜː/ /ˈeɪ/ /kˈɑːnfrəns/ /ˈɪn/"
+	},
+	{
+		"english": "today he would depart for a conference in california",
+		"chinese": "今天他将前往加利福尼亚参加一个会议",
+		"soundmark": "/tuːdˈeɪ/ /hˈiː/ /wˈʊd/ /dɪpˈɑːrt/ /frɜː/ /ˈeɪ/ /kˈɑːnfrəns/ /ˈɪn/ /kˌæləfˈɔːrnjə/"
+	},
+	{
+		"english": "this",
+		"chinese": "这个",
+		"soundmark": "/ðɪs/"
+	},
+	{
+		"english": "this appeared",
+		"chinese": "这看起来如此",
+		"soundmark": "/ðɪs/ /əpˈɪrd/"
+	},
+	{
+		"english": "this appeared to",
+		"chinese": "这似乎",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/"
+	},
+	{
+		"english": "this appeared to be",
+		"chinese": "这似乎是",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/"
+	},
+	{
+		"english": "this appeared to be a",
+		"chinese": "这似乎是一个",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/"
+	},
+	{
+		"english": "this appeared to be a marvelous",
+		"chinese": "这似乎是一件了不起的事情",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity",
+		"chinese": "这似乎是一个绝佳的机会",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity to",
+		"chinese": "这似乎是一个绝佳的机会",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity to take",
+		"chinese": "这似乎是一个绝佳的机会来抓住",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity to take the",
+		"chinese": "这似乎是一个绝佳的机会来……",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/ /ðiː/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity to take the boy",
+		"chinese": "这似乎是一个让男孩获得机会的绝佳机会",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/ /ðiː/ /bˈɔɪ/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity to take the boy and",
+		"chinese": "这似乎是一个将男孩带走的绝佳机会",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/ /ðiː/ /bˈɔɪ/ /ˈænd/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity to take the boy and leave",
+		"chinese": "这似乎是一个将男孩带走并离开的绝佳机会",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/ /ðiː/ /bˈɔɪ/ /ˈænd/ /lˈiːv/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity to take the boy and leave the",
+		"chinese": "这似乎是一个绝佳的机会，可以带走那个男孩并离开……",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/ /ðiː/ /bˈɔɪ/ /ˈænd/ /lˈiːv/ /ðiː/"
+	},
+	{
+		"english": "this appeared to be a marvelous opportunity to take the boy and leave the country",
+		"chinese": "这似乎是一个绝佳的机会，可以带走那个男孩并离开这个国家",
+		"soundmark": "/ðɪs/ /əpˈɪrd/ /tə/ /biː/ /ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/ /ðiː/ /bˈɔɪ/ /ˈænd/ /lˈiːv/ /ðiː/ /kˈəntriː/"
+	},
+	{
+		"english": "a marvelous opportunity to take the boy and leave the country for",
+		"chinese": "一个将男孩带离该国的重要机会",
+		"soundmark": "/ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/ /ðiː/ /bˈɔɪ/ /ˈænd/ /lˈiːv/ /ðiː/ /kˈəntriː/ /frɜː/"
+	},
+	{
+		"english": "a marvelous opportunity to take the boy and leave the country for good",
+		"chinese": "一个绝佳的机会，可以带走那个男孩并永远离开这个国家",
+		"soundmark": "/ˈeɪ/ /mˈɑːrvələs/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /tˈeɪk/ /ðiː/ /bˈɔɪ/ /ˈænd/ /lˈiːv/ /ðiː/ /kˈəntriː/ /frɜː/ /ɡɪd/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he bet",
+		"chinese": "他下注",
+		"soundmark": "/hˈiː/ /bˈɛːt/"
+	},
+	{
+		"english": "he bet that",
+		"chinese": "他打赌了",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/"
+	},
+	{
+		"english": "he bet that he",
+		"chinese": "他打赌他",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/"
+	},
+	{
+		"english": "he bet that he could",
+		"chinese": "他打赌自己能做到",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/"
+	},
+	{
+		"english": "he bet that he could pack",
+		"chinese": "他打赌自己能打包完成",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/"
+	},
+	{
+		"english": "he bet that he could pack sufficient",
+		"chinese": "他打赌自己能打包足够多的东西",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/"
+	},
+	{
+		"english": "he bet that he could pack sufficient baggage",
+		"chinese": "他打赌自己能携带足够的行李",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/"
+	},
+	{
+		"english": "he bet that he could pack sufficient baggage into",
+		"chinese": "他打赌自己能装下足够的行李",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/"
+	},
+	{
+		"english": "he bet that he could pack sufficient baggage into his",
+		"chinese": "他打赌自己能把足够的行李装进他的",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/ /hɪz/"
+	},
+	{
+		"english": "he bet that he could pack sufficient baggage into his vehicle",
+		"chinese": "他打赌自己能把足够的行李装进他的车辆里",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/ /hɪz/ /vˈiːɪkəl/"
+	},
+	{
+		"english": "he bet that he could pack sufficient baggage into his vehicle and",
+		"chinese": "他打赌能够把足够的行李装进他的车辆里",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/ /hɪz/ /vˈiːɪkəl/ /ˈænd/"
+	},
+	{
+		"english": "he bet that he could pack sufficient baggage into his vehicle and then",
+		"chinese": "他打赌能够把足够的行李装进他的车辆里",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/ /hɪz/ /vˈiːɪkəl/ /ˈænd/ /ðˈɛːn/"
+	},
+	{
+		"english": "he bet that he could pack sufficient baggage into his vehicle and then disappear",
+		"chinese": "他打赌能够把足够的行李装进他的车里，然后消失不见",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/ /hɪz/ /vˈiːɪkəl/ /ˈænd/ /ðˈɛːn/ /dˌɪsəpˈiːr/"
+	},
+	{
+		"english": "he bet that he could pack sufficient baggage into his vehicle and then disappear across",
+		"chinese": "他打赌能够把足够的行李装进他的车辆里，然后消失不见",
+		"soundmark": "/hˈiː/ /bˈɛːt/ /ðət/ /hˈiː/ /kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/ /hɪz/ /vˈiːɪkəl/ /ˈænd/ /ðˈɛːn/ /dˌɪsəpˈiːr/ /əkrˈɔːs/"
+	},
+	{
+		"english": "could pack sufficient baggage into his vehicle and then disappear across the",
+		"chinese": "能够把足够的行李装进他的车辆里，然后消失在...",
+		"soundmark": "/kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/ /hɪz/ /vˈiːɪkəl/ /ˈænd/ /ðˈɛːn/ /dˌɪsəpˈiːr/ /əkrˈɔːs/ /ðiː/"
+	},
+	{
+		"english": "could pack sufficient baggage into his vehicle and then disappear across the border",
+		"chinese": "能够把足够的行李装进他的车辆里，然后穿过边界消失",
+		"soundmark": "/kˈʊd/ /pˈæk/ /səfˈɪʃənt/ /bˈæɡɪdʒ/ /ɪntə/ /hɪz/ /vˈiːɪkəl/ /ˈænd/ /ðˈɛːn/ /dˌɪsəpˈiːr/ /əkrˈɔːs/ /ðiː/ /bˈɔːrdɜː/"
+	},
+	{
+		"english": "gaining",
+		"chinese": "获得",
+		"soundmark": "/ɡˈeɪnɪŋ/"
+	},
+	{
+		"english": "gaining entry",
+		"chinese": "进入",
+		"soundmark": "/ɡˈeɪnɪŋ/ /ˈɛːntriː/"
+	},
+	{
+		"english": "gaining entry the",
+		"chinese": "进入",
+		"soundmark": "/ɡˈeɪnɪŋ/ /ˈɛːntriː/ /ðiː/"
+	},
+	{
+		"english": "gaining entry the us",
+		"chinese": "进入美国",
+		"soundmark": "/ɡˈeɪnɪŋ/ /ˈɛːntriː/ /ðiː/ /jˈuːˈɛːs/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he gave",
+		"chinese": "他给了",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/"
+	},
+	{
+		"english": "he gave little",
+		"chinese": "他几乎没给什么",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/"
+	},
+	{
+		"english": "he gave little thought",
+		"chinese": "他几乎没有考虑过",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/"
+	},
+	{
+		"english": "he gave little thought to",
+		"chinese": "他几乎没有考虑过",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/"
+	},
+	{
+		"english": "he gave little thought to whatsoever",
+		"chinese": "他几乎没考虑过任何事情",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of",
+		"chinese": "他几乎没考虑过任何事情",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of the",
+		"chinese": "他几乎没考虑过任何事情",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of the fact",
+		"chinese": "他几乎没有考虑过这一事实",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of the fact that",
+		"chinese": "他几乎没有考虑过这一事实。",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of the fact that this",
+		"chinese": "他几乎没有考虑过这一事实。",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of the fact that this act",
+		"chinese": "他几乎没有考虑过这一行为的事实",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/ /ˈækt/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of the fact that this act could",
+		"chinese": "他几乎没有考虑过这一行为可能带来的后果",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of the fact that this act could lead",
+		"chinese": "他几乎没有考虑过这一行为可能带来的后果",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/"
+	},
+	{
+		"english": "he gave little thought to whatsoever of the fact that this act could lead to",
+		"chinese": "他几乎没有考虑过这一行为可能导致的后果。",
+		"soundmark": "/hˈiː/ /ɡˈeɪv/ /lˈɪtəl/ /θˈɔːt/ /tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/"
+	},
+	{
+		"english": "to whatsoever of the fact that this act could lead to his",
+		"chinese": "因为这一行为可能导致他的",
+		"soundmark": "/tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/ /hɪz/"
+	},
+	{
+		"english": "to whatsoever of the fact that this act could lead to his conviction",
+		"chinese": "因为这一行为可能导致他被定罪",
+		"soundmark": "/tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/"
+	},
+	{
+		"english": "to whatsoever of the fact that this act could lead to his conviction if",
+		"chinese": "因为这一行为可能导致他被定罪，所以",
+		"soundmark": "/tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/ /ɪf/"
+	},
+	{
+		"english": "to whatsoever of the fact that this act could lead to his conviction if he",
+		"chinese": "无论哪种情况，如果这一行为可能导致他被定罪的话",
+		"soundmark": "/tə/ /hwˌətsoʊˈɛːvɜː/ /əv/ /ðiː/ /fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/ /ɪf/ /hˈiː/"
+	},
+	{
+		"english": "fact that this act could lead to his conviction if he was",
+		"chinese": "这一行为可能导致他被定罪的事实，如果他……",
+		"soundmark": "/fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/ /ɪf/ /hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "fact that this act could lead to his conviction if he was tracked",
+		"chinese": "这一行为可能导致他被定罪，如果他被追踪的话",
+		"soundmark": "/fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/ /ɪf/ /hˈiː/ /wˈɔːz/ /trˈækt/"
+	},
+	{
+		"english": "fact that this act could lead to his conviction if he was tracked down",
+		"chinese": "这一行为如果被查到，可能导致他被定罪",
+		"soundmark": "/fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/ /ɪf/ /hˈiː/ /wˈɔːz/ /trˈækt/ /dˈaʊn/"
+	},
+	{
+		"english": "fact that this act could lead to his conviction if he was tracked down by",
+		"chinese": "这一行为如果被找到，可能导致他被定罪的事实",
+		"soundmark": "/fˈækt/ /ðət/ /ðɪs/ /ˈækt/ /kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/ /ɪf/ /hˈiː/ /wˈɔːz/ /trˈækt/ /dˈaʊn/ /bˈaɪ/"
+	},
+	{
+		"english": "could lead to his conviction if he was tracked down by the",
+		"chinese": "如果他被找到，可能会导致他被定罪",
+		"soundmark": "/kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/ /ɪf/ /hˈiː/ /wˈɔːz/ /trˈækt/ /dˈaʊn/ /bˈaɪ/ /ðiː/"
+	},
+	{
+		"english": "could lead to his conviction if he was tracked down by the cops",
+		"chinese": "如果被警察找到，他可能会被定罪",
+		"soundmark": "/kˈʊd/ /lˈiːd/ /tə/ /hɪz/ /kənvˈɪkʃən/ /ɪf/ /hˈiː/ /wˈɔːz/ /trˈækt/ /dˈaʊn/ /bˈaɪ/ /ðiː/ /kˈɑːps/"
+	}
+]

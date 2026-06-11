@@ -1,0 +1,1077 @@
+[
+	{
+		"english": "among",
+		"chinese": "之中",
+		"soundmark": "/əmˈəŋ/"
+	},
+	{
+		"english": "among the",
+		"chinese": "其中",
+		"soundmark": "/əmˈəŋ/ /ðiː/"
+	},
+	{
+		"english": "among the contents",
+		"chinese": "内容之中",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/"
+	},
+	{
+		"english": "among the contents of",
+		"chinese": "内容之中",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/"
+	},
+	{
+		"english": "among the contents of the",
+		"chinese": "内容之中",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/"
+	},
+	{
+		"english": "among the contents of the toolboxes",
+		"chinese": "工具箱中的内容",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/"
+	},
+	{
+		"english": "among the contents of the toolboxes of",
+		"chinese": "工具箱中的内容包括",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/"
+	},
+	{
+		"english": "among the contents of the toolboxes of most",
+		"chinese": "大多数工具箱中的内容",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/"
+	},
+	{
+		"english": "among the contents of the toolboxes of most people",
+		"chinese": "大多数人的工具箱中的内容",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/"
+	},
+	{
+		"english": "among the contents of the toolboxes of most people in",
+		"chinese": "大多数人的工具箱中包含的内容",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/"
+	},
+	{
+		"english": "among the contents of the toolboxes of most people in the",
+		"chinese": "大多数人的工具箱中包含的内容",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "among the contents of the toolboxes of most people in the western",
+		"chinese": "大多数西方人的工具箱中包含的内容",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/"
+	},
+	{
+		"english": "among the contents of the toolboxes of most people in the western world",
+		"chinese": "西方世界大多数人的工具箱中包含的内容",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/"
+	},
+	{
+		"english": "among the contents of the toolboxes of most people in the western world you",
+		"chinese": "在西方世界大多数人的工具箱中，有这些内容",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/"
+	},
+	{
+		"english": "among the contents of the toolboxes of most people in the western world you would",
+		"chinese": "在西方世界大多数人的工具箱中，你会看到",
+		"soundmark": "/əmˈəŋ/ /ðiː/ /kəntˈɛːnts/ /əv/ /ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/ /wˈʊd/"
+	},
+	{
+		"english": "the toolboxes of most people in the western world you would expect",
+		"chinese": "西方世界大多数人的工具箱，正如你所预期的那样",
+		"soundmark": "/ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/ /wˈʊd/ /ɪkspˈɛːkt/"
+	},
+	{
+		"english": "the toolboxes of most people in the western world you would expect to",
+		"chinese": "西方世界大多数人的工具箱，你预期会这样",
+		"soundmark": "/ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/ /wˈʊd/ /ɪkspˈɛːkt/ /tə/"
+	},
+	{
+		"english": "the toolboxes of most people in the western world you would expect to find",
+		"chinese": "西方世界大多数人的工具箱，你本可以预期会找到",
+		"soundmark": "/ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/ /wˈʊd/ /ɪkspˈɛːkt/ /tə/ /fˈaɪnd/"
+	},
+	{
+		"english": "the toolboxes of most people in the western world you would expect to find a",
+		"chinese": "西方世界大多数人的工具箱，你本可以预期会找到……",
+		"soundmark": "/ðiː/ /tˈuːlbˌɔːks/ /əv/ /mˈoʊs/ /pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/ /wˈʊd/ /ɪkspˈɛːkt/ /tə/ /fˈaɪnd/ /ˈeɪ/"
+	},
+	{
+		"english": "people in the western world you would expect to find a hammer",
+		"chinese": "西方世界的人，你本以为会找到锤子",
+		"soundmark": "/pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/ /wˈʊd/ /ɪkspˈɛːkt/ /tə/ /fˈaɪnd/ /ˈeɪ/ /hˈæmɜː/"
+	},
+	{
+		"english": "people in the western world you would expect to find a hammer and",
+		"chinese": "西方世界的人们，你本可以预期会看到锤子。",
+		"soundmark": "/pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/ /wˈʊd/ /ɪkspˈɛːkt/ /tə/ /fˈaɪnd/ /ˈeɪ/ /hˈæmɜː/ /ˈænd/"
+	},
+	{
+		"english": "people in the western world you would expect to find a hammer and nails",
+		"chinese": "在西方世界的人身上，你本可以找到锤子和钉子",
+		"soundmark": "/pˈiːpəl/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/ /jˈuː/ /wˈʊd/ /ɪkspˈɛːkt/ /tə/ /fˈaɪnd/ /ˈeɪ/ /hˈæmɜː/ /ˈænd/ /nˈeɪlz/"
+	},
+	{
+		"english": "a",
+		"chinese": "一个",
+		"soundmark": "/ˈeɪ/"
+	},
+	{
+		"english": "a drill",
+		"chinese": "钻机",
+		"soundmark": "/ˈeɪ/ /drˈɪl/"
+	},
+	{
+		"english": "screwdrivers",
+		"chinese": "螺丝刀",
+		"soundmark": "/skrˈuːdrˌaɪvɜːz/"
+	},
+	{
+		"english": "screwdrivers and",
+		"chinese": "螺丝刀和",
+		"soundmark": "/skrˈuːdrˌaɪvɜːz/ /ˈænd/"
+	},
+	{
+		"english": "screwdrivers and some",
+		"chinese": "螺丝刀和一些",
+		"soundmark": "/skrˈuːdrˌaɪvɜːz/ /ˈænd/ /sˈəm/"
+	},
+	{
+		"english": "screwdrivers and some screws",
+		"chinese": "螺丝刀和一些螺丝",
+		"soundmark": "/skrˈuːdrˌaɪvɜːz/ /ˈænd/ /sˈəm/ /skrˈuːz/"
+	},
+	{
+		"english": "but",
+		"chinese": "但",
+		"soundmark": "/bˈət/"
+	},
+	{
+		"english": "but if",
+		"chinese": "但如果是",
+		"soundmark": "/bˈət/ /ɪf/"
+	},
+	{
+		"english": "but if you",
+		"chinese": "但如果你",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/"
+	},
+	{
+		"english": "but if you were",
+		"chinese": "但如果你是",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/"
+	},
+	{
+		"english": "but if you were to",
+		"chinese": "但如果你会",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/"
+	},
+	{
+		"english": "but if you were to ask",
+		"chinese": "但如果你问的话",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/"
+	},
+	{
+		"english": "but if you were to ask people",
+		"chinese": "但如果你去问人们",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/"
+	},
+	{
+		"english": "but if you were to ask people from",
+		"chinese": "但如果你问那些人……",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/"
+	},
+	{
+		"english": "but if you were to ask people from north",
+		"chinese": "但如果你问北方的人",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/"
+	},
+	{
+		"english": "but if you were to ask people from north america",
+		"chinese": "但如果你问北美洲的人",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/"
+	},
+	{
+		"english": "but if you were to ask people from north america what",
+		"chinese": "但如果你问北美洲的人什么",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/"
+	},
+	{
+		"english": "but if you were to ask people from north america what the",
+		"chinese": "但如果你问北美洲的人什么是",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/ /ðiː/"
+	},
+	{
+		"english": "but if you were to ask people from north america what the most",
+		"chinese": "但如果你问北美洲的人什么是最",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/ /ðiː/ /mˈoʊs/"
+	},
+	{
+		"english": "but if you were to ask people from north america what the most useful",
+		"chinese": "但如果你问北美洲的人什么最有用",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/ /ðiː/ /mˈoʊs/ /jˈuːsfəl/"
+	},
+	{
+		"english": "but if you were to ask people from north america what the most useful item",
+		"chinese": "但如果你问北美洲的人什么最实用的物品",
+		"soundmark": "/bˈət/ /ɪf/ /jˈuː/ /wˈɜː/ /tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/ /ðiː/ /mˈoʊs/ /jˈuːsfəl/ /ˈaɪtəm/"
+	},
+	{
+		"english": "to ask people from north america what the most useful item in",
+		"chinese": "询问北美洲的人，最实用的物品是",
+		"soundmark": "/tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/ /ðiː/ /mˈoʊs/ /jˈuːsfəl/ /ˈaɪtəm/ /ˈɪn/"
+	},
+	{
+		"english": "to ask people from north america what the most useful item in their",
+		"chinese": "询问北美洲的人他们最实用的物品是什么",
+		"soundmark": "/tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/ /ðiː/ /mˈoʊs/ /jˈuːsfəl/ /ˈaɪtəm/ /ˈɪn/ /ðˈɛːr/"
+	},
+	{
+		"english": "to ask people from north america what the most useful item in their toolboxes",
+		"chinese": "询问北美洲的人他们的工具箱中最有用的物品是什么",
+		"soundmark": "/tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/ /ðiː/ /mˈoʊs/ /jˈuːsfəl/ /ˈaɪtəm/ /ˈɪn/ /ðˈɛːr/ /tˈuːlbˌɔːks/"
+	},
+	{
+		"english": "to ask people from north america what the most useful item in their toolboxes was",
+		"chinese": "询问北美洲的人他们的工具箱中最有用的物品是什么",
+		"soundmark": "/tə/ /ˈæsk/ /pˈiːpəl/ /fɜːm/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /hwˈət/ /ðiː/ /mˈoʊs/ /jˈuːsfəl/ /ˈaɪtəm/ /ˈɪn/ /ðˈɛːr/ /tˈuːlbˌɔːks/ /wˈɔːz/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the majority",
+		"chinese": "大多数",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/"
+	},
+	{
+		"english": "the majority of",
+		"chinese": "大多数",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/"
+	},
+	{
+		"english": "the majority of people",
+		"chinese": "大多数人",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/"
+	},
+	{
+		"english": "the majority of people would",
+		"chinese": "大多数人会",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/"
+	},
+	{
+		"english": "the majority of people would undoubtedly",
+		"chinese": "大多数人无疑会",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/ /əndˈaʊtɪdliː/"
+	},
+	{
+		"english": "the majority of people would undoubtedly tell",
+		"chinese": "大多数人无疑会告诉",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/ /əndˈaʊtɪdliː/ /tˈɛːl/"
+	},
+	{
+		"english": "the majority of people would undoubtedly tell you",
+		"chinese": "大多数人无疑会告诉你",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/ /əndˈaʊtɪdliː/ /tˈɛːl/ /jˈuː/"
+	},
+	{
+		"english": "the majority of people would undoubtedly tell you that",
+		"chinese": "大多数人无疑会告诉你",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/ /əndˈaʊtɪdliː/ /tˈɛːl/ /jˈuː/ /ðət/"
+	},
+	{
+		"english": "the majority of people would undoubtedly tell you that it",
+		"chinese": "大多数人无疑会告诉你，它",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/ /əndˈaʊtɪdliː/ /tˈɛːl/ /jˈuː/ /ðət/ /ɪt/"
+	},
+	{
+		"english": "the majority of people would undoubtedly tell you that it was",
+		"chinese": "大多数人无疑会告诉你，那是",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/ /əndˈaʊtɪdliː/ /tˈɛːl/ /jˈuː/ /ðət/ /ɪt/ /wˈɔːz/"
+	},
+	{
+		"english": "the majority of people would undoubtedly tell you that it was duct",
+		"chinese": "大多数人无疑会告诉你，那是管道",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/ /əndˈaʊtɪdliː/ /tˈɛːl/ /jˈuː/ /ðət/ /ɪt/ /wˈɔːz/ /dˈəkt/"
+	},
+	{
+		"english": "the majority of people would undoubtedly tell you that it was duct tape",
+		"chinese": "大多数人无疑会告诉你那是胶带",
+		"soundmark": "/ðiː/ /mədʒˈɔːrətiː/ /əv/ /pˈiːpəl/ /wˈʊd/ /əndˈaʊtɪdliː/ /tˈɛːl/ /jˈuː/ /ðət/ /ɪt/ /wˈɔːz/ /dˈəkt/ /tˈeɪp/"
+	},
+	{
+		"english": "indeed",
+		"chinese": "确实",
+		"soundmark": "/ɪndˈiːd/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it has",
+		"chinese": "它有",
+		"soundmark": "/ɪt/ /həz/"
+	},
+	{
+		"english": "it has become",
+		"chinese": "它已经变成了",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/"
+	},
+	{
+		"english": "it has become an",
+		"chinese": "它已经成为了",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/"
+	},
+	{
+		"english": "it has become an indispensable",
+		"chinese": "它已成为不可或缺的东西",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/"
+	},
+	{
+		"english": "it has become an indispensable addition",
+		"chinese": "它已成为不可或缺的补充",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/"
+	},
+	{
+		"english": "it has become an indispensable addition to",
+		"chinese": "它已成为不可或缺的补充",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/"
+	},
+	{
+		"english": "it has become an indispensable addition to every",
+		"chinese": "它已成为每个不可或缺的组成部分",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/ /ˈɛːvriː/"
+	},
+	{
+		"english": "it has become an indispensable addition to every person",
+		"chinese": "它已成为每个人不可或缺的一部分",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/ /ˈɛːvriː/ /pˈɜːsən/"
+	},
+	{
+		"english": "it has become an indispensable addition to every person s",
+		"chinese": "它已成为每个人不可或缺的一部分",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/ /ˈɛːvriː/ /pˈɜːsən/ /ˈɛːs/"
+	},
+	{
+		"english": "it has become an indispensable addition to every person s perception",
+		"chinese": "它已成为每个人认知中不可或缺的一部分",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/ /ˈɛːvriː/ /pˈɜːsən/ /ˈɛːs/ /pɜːsˈɛːpʃən/"
+	},
+	{
+		"english": "it has become an indispensable addition to every person s perception of",
+		"chinese": "它已成为每个人认知中不可或缺的一部分",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/ /ˈɛːvriː/ /pˈɜːsən/ /ˈɛːs/ /pɜːsˈɛːpʃən/ /əv/"
+	},
+	{
+		"english": "it has become an indispensable addition to every person s perception of what",
+		"chinese": "它已成为每个人对事物的认知中不可或缺的一部分",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/ /ˈɛːvriː/ /pˈɜːsən/ /ˈɛːs/ /pɜːsˈɛːpʃən/ /əv/ /hwˈət/"
+	},
+	{
+		"english": "it has become an indispensable addition to every person s perception of what constitutes",
+		"chinese": "它已成为每个人对什么是该有的认知中不可或缺的一部分",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/ /ˈɛːvriː/ /pˈɜːsən/ /ˈɛːs/ /pɜːsˈɛːpʃən/ /əv/ /hwˈət/ /kˈɑːnstətˌuːts/"
+	},
+	{
+		"english": "it has become an indispensable addition to every person s perception of what constitutes necessity",
+		"chinese": "它已成为每个人对什么是必需品认知中不可或缺的一部分",
+		"soundmark": "/ɪt/ /həz/ /bɪkˈəm/ /ən/ /ˌɪndɪspˈɛːnsəbəl/ /ədˈɪʃən/ /tə/ /ˈɛːvriː/ /pˈɜːsən/ /ˈɛːs/ /pɜːsˈɛːpʃən/ /əv/ /hwˈət/ /kˈɑːnstətˌuːts/ /nəsˈɛːsɪtiː/"
+	},
+	{
+		"english": "maybe",
+		"chinese": "也许",
+		"soundmark": "/mˈeɪbiː/"
+	},
+	{
+		"english": "maybe you",
+		"chinese": "也许你",
+		"soundmark": "/mˈeɪbiː/ /jˈuː/"
+	},
+	{
+		"english": "maybe you have",
+		"chinese": "也许你拥有",
+		"soundmark": "/mˈeɪbiː/ /jˈuː/ /hˈæv/"
+	},
+	{
+		"english": "maybe you have never",
+		"chinese": "也许你从未",
+		"soundmark": "/mˈeɪbiː/ /jˈuː/ /hˈæv/ /nˈɛːvɜː/"
+	},
+	{
+		"english": "maybe you have never heard",
+		"chinese": "也许你从未听说过",
+		"soundmark": "/mˈeɪbiː/ /jˈuː/ /hˈæv/ /nˈɛːvɜː/ /hˈɜːd/"
+	},
+	{
+		"english": "maybe you have never heard of",
+		"chinese": "也许你从未听说过",
+		"soundmark": "/mˈeɪbiː/ /jˈuː/ /hˈæv/ /nˈɛːvɜː/ /hˈɜːd/ /əv/"
+	},
+	{
+		"english": "maybe you have never heard of duct",
+		"chinese": "也许你从未听说过管道。",
+		"soundmark": "/mˈeɪbiː/ /jˈuː/ /hˈæv/ /nˈɛːvɜː/ /hˈɜːd/ /əv/ /dˈəkt/"
+	},
+	{
+		"english": "maybe you have never heard of duct tape",
+		"chinese": "也许你从未听说过管道胶带",
+		"soundmark": "/mˈeɪbiː/ /jˈuː/ /hˈæv/ /nˈɛːvɜː/ /hˈɜːd/ /əv/ /dˈəkt/ /tˈeɪp/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it is",
+		"chinese": "就是",
+		"soundmark": "/ɪt/ /ɪz/"
+	},
+	{
+		"english": "it is the",
+		"chinese": "就是它",
+		"soundmark": "/ɪt/ /ɪz/ /ðiː/"
+	},
+	{
+		"english": "it is the brand",
+		"chinese": "这就是品牌",
+		"soundmark": "/ɪt/ /ɪz/ /ðiː/ /brˈænd/"
+	},
+	{
+		"english": "it is the brand name",
+		"chinese": "这是品牌名称",
+		"soundmark": "/ɪt/ /ɪz/ /ðiː/ /brˈænd/ /nˈeɪm/"
+	},
+	{
+		"english": "it is the brand name of",
+		"chinese": "这是品牌名称",
+		"soundmark": "/ɪt/ /ɪz/ /ðiː/ /brˈænd/ /nˈeɪm/ /əv/"
+	},
+	{
+		"english": "it is the brand name of a",
+		"chinese": "这是某个品牌的名称",
+		"soundmark": "/ɪt/ /ɪz/ /ðiː/ /brˈænd/ /nˈeɪm/ /əv/ /ˈeɪ/"
+	},
+	{
+		"english": "it is the brand name of a tape",
+		"chinese": "这是一种磁带的品牌名",
+		"soundmark": "/ɪt/ /ɪz/ /ðiː/ /brˈænd/ /nˈeɪm/ /əv/ /ˈeɪ/ /tˈeɪp/"
+	},
+	{
+		"english": "not",
+		"chinese": "不",
+		"soundmark": "/nˈɑːt/"
+	},
+	{
+		"english": "not only",
+		"chinese": "不仅",
+		"soundmark": "/nˈɑːt/ /ˈoʊnliː/"
+	},
+	{
+		"english": "not only is",
+		"chinese": "不仅",
+		"soundmark": "/nˈɑːt/ /ˈoʊnliː/ /ɪz/"
+	},
+	{
+		"english": "not only is it",
+		"chinese": "不仅如此",
+		"soundmark": "/nˈɑːt/ /ˈoʊnliː/ /ɪz/ /ɪt/"
+	},
+	{
+		"english": "not only is it a",
+		"chinese": "不仅它是",
+		"soundmark": "/nˈɑːt/ /ˈoʊnliː/ /ɪz/ /ɪt/ /ˈeɪ/"
+	},
+	{
+		"english": "not only is it a tape",
+		"chinese": "不仅是一盘磁带",
+		"soundmark": "/nˈɑːt/ /ˈoʊnliː/ /ɪz/ /ɪt/ /ˈeɪ/ /tˈeɪp/"
+	},
+	{
+		"english": "but",
+		"chinese": "但",
+		"soundmark": "/bˈət/"
+	},
+	{
+		"english": "but also",
+		"chinese": "也",
+		"soundmark": "/bˈət/ /ˈɔːlsoʊ/"
+	},
+	{
+		"english": "but also it",
+		"chinese": "而且它",
+		"soundmark": "/bˈət/ /ˈɔːlsoʊ/ /ɪt/"
+	},
+	{
+		"english": "but also it is",
+		"chinese": "而且它也是",
+		"soundmark": "/bˈət/ /ˈɔːlsoʊ/ /ɪt/ /ɪz/"
+	},
+	{
+		"english": "but also it is a",
+		"chinese": "而且它也是",
+		"soundmark": "/bˈət/ /ˈɔːlsoʊ/ /ɪt/ /ɪz/ /ˈeɪ/"
+	},
+	{
+		"english": "but also it is a special",
+		"chinese": "但也是特别的",
+		"soundmark": "/bˈət/ /ˈɔːlsoʊ/ /ɪt/ /ɪz/ /ˈeɪ/ /spˈɛːʃəl/"
+	},
+	{
+		"english": "but also it is a special kind",
+		"chinese": "也是一种特殊的类型",
+		"soundmark": "/bˈət/ /ˈɔːlsoʊ/ /ɪt/ /ɪz/ /ˈeɪ/ /spˈɛːʃəl/ /kˈaɪnd/"
+	},
+	{
+		"english": "but also it is a special kind of",
+		"chinese": "也是一种特殊的类型",
+		"soundmark": "/bˈət/ /ˈɔːlsoʊ/ /ɪt/ /ɪz/ /ˈeɪ/ /spˈɛːʃəl/ /kˈaɪnd/ /əv/"
+	},
+	{
+		"english": "but also it is a special kind of tape",
+		"chinese": "而且它也是一种特殊的胶带",
+		"soundmark": "/bˈət/ /ˈɔːlsoʊ/ /ɪt/ /ɪz/ /ˈeɪ/ /spˈɛːʃəl/ /kˈaɪnd/ /əv/ /tˈeɪp/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the name",
+		"chinese": "名字",
+		"soundmark": "/ðiː/ /nˈeɪm/"
+	},
+	{
+		"english": "the name of",
+		"chinese": "名字",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/"
+	},
+	{
+		"english": "the name of the",
+		"chinese": "名字",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/"
+	},
+	{
+		"english": "the name of the tape",
+		"chinese": "磁带的名称",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/"
+	},
+	{
+		"english": "the name of the tape comes",
+		"chinese": "磁带的名称是",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/"
+	},
+	{
+		"english": "the name of the tape comes from",
+		"chinese": "磁带的名称来源于",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/"
+	},
+	{
+		"english": "the name of the tape comes from the",
+		"chinese": "磁带的名称来源于",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/"
+	},
+	{
+		"english": "the name of the tape comes from the fact",
+		"chinese": "磁带的名称源于这一事实",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/"
+	},
+	{
+		"english": "the name of the tape comes from the fact that",
+		"chinese": "磁带的名称源于这一事实",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/"
+	},
+	{
+		"english": "the name of the tape comes from the fact that it",
+		"chinese": "磁带的名称源于其...",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/"
+	},
+	{
+		"english": "the name of the tape comes from the fact that it was",
+		"chinese": "磁带的名称源于其特性",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/ /wˈɔːz/"
+	},
+	{
+		"english": "the name of the tape comes from the fact that it was designed",
+		"chinese": "该磁带的名称源于其设计初衷",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/"
+	},
+	{
+		"english": "the name of the tape comes from the fact that it was designed as",
+		"chinese": "该磁带的名称源于其设计初衷",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/"
+	},
+	{
+		"english": "the name of the tape comes from the fact that it was designed as an",
+		"chinese": "该磁带的名称源于其被设计为",
+		"soundmark": "/ðiː/ /nˈeɪm/ /əv/ /ðiː/ /tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/"
+	},
+	{
+		"english": "tape comes from the fact that it was designed as an insulating",
+		"chinese": "“tape”一词源于其被设计为绝缘材料这一特性。",
+		"soundmark": "/tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/"
+	},
+	{
+		"english": "tape comes from the fact that it was designed as an insulating tape",
+		"chinese": "“胶带”这一名称源于其被设计为绝缘胶带这一特性。",
+		"soundmark": "/tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/"
+	},
+	{
+		"english": "tape comes from the fact that it was designed as an insulating tape that",
+		"chinese": "胶带之所以如此，是因为它被设计成一种绝缘胶带。",
+		"soundmark": "/tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/"
+	},
+	{
+		"english": "tape comes from the fact that it was designed as an insulating tape that can",
+		"chinese": "胶带之所以如此，是因为它被设计成一种绝缘胶带。",
+		"soundmark": "/tˈeɪp/ /kˈəmz/ /fɜːm/ /ðiː/ /fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/"
+	},
+	{
+		"english": "fact that it was designed as an insulating tape that can be",
+		"chinese": "事实是，它被设计成一种可以使用的绝缘带",
+		"soundmark": "/fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/ /biː/"
+	},
+	{
+		"english": "fact that it was designed as an insulating tape that can be used",
+		"chinese": "事实是，它被设计成一种可用作绝缘带的材料",
+		"soundmark": "/fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/"
+	},
+	{
+		"english": "fact that it was designed as an insulating tape that can be used in",
+		"chinese": "事实是，它被设计成一种可用于绝缘胶带",
+		"soundmark": "/fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/"
+	},
+	{
+		"english": "fact that it was designed as an insulating tape that can be used in duct",
+		"chinese": "其被设计为可用于管道的绝缘带这一事实",
+		"soundmark": "/fˈækt/ /ðət/ /ɪt/ /wˈɔːz/ /dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/"
+	},
+	{
+		"english": "designed as an insulating tape that can be used in duct work",
+		"chinese": "设计成一种可用于管道系统的绝缘胶带",
+		"soundmark": "/dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/"
+	},
+	{
+		"english": "designed as an insulating tape that can be used in duct work channels",
+		"chinese": "设计成一种可用于管道通道的绝缘带",
+		"soundmark": "/dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/"
+	},
+	{
+		"english": "designed as an insulating tape that can be used in duct work channels or",
+		"chinese": "设计成一种绝缘带，可用于管道通道中",
+		"soundmark": "/dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/"
+	},
+	{
+		"english": "designed as an insulating tape that can be used in duct work channels or conduits",
+		"chinese": "设计成一种绝缘带，可用于管道通道或导管中",
+		"soundmark": "/dɪzˈaɪnd/ /ˈɛːz/ /ən/ /ˈɪnsəlˌeɪtɪŋ/ /tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/"
+	},
+	{
+		"english": "tape that can be used in duct work channels or conduits that",
+		"chinese": "可用于管道通道或导管中的胶带",
+		"soundmark": "/tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/"
+	},
+	{
+		"english": "tape that can be used in duct work channels or conduits that are",
+		"chinese": "可用于管道通道或导管中的胶带",
+		"soundmark": "/tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/"
+	},
+	{
+		"english": "tape that can be used in duct work channels or conduits that are used",
+		"chinese": "可用于管道通道或管道中的胶带",
+		"soundmark": "/tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/"
+	},
+	{
+		"english": "tape that can be used in duct work channels or conduits that are used for",
+		"chinese": "可用于管道通道或管道中的胶带",
+		"soundmark": "/tˈeɪp/ /ðət/ /kən/ /biː/ /jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/"
+	},
+	{
+		"english": "used in duct work channels or conduits that are used for heat",
+		"chinese": "用于用于散热的管道通道或导管中",
+		"soundmark": "/jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/"
+	},
+	{
+		"english": "used in duct work channels or conduits that are used for heat to",
+		"chinese": "用于管道通道或用于传递热量的管道中",
+		"soundmark": "/jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/"
+	},
+	{
+		"english": "used in duct work channels or conduits that are used for heat to travel",
+		"chinese": "用于输送热量的管道或通道中",
+		"soundmark": "/jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/"
+	},
+	{
+		"english": "used in duct work channels or conduits that are used for heat to travel through",
+		"chinese": "用于输送热量的管道或通道中",
+		"soundmark": "/jˈuːzd/ /ˈɪn/ /dˈəkt/ /wˈɜːk/ /tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/"
+	},
+	{
+		"english": "channels or conduits that are used for heat to travel through to",
+		"chinese": "用于热量传递的通道或导管",
+		"soundmark": "/tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/ /tə/"
+	},
+	{
+		"english": "channels or conduits that are used for heat to travel through to get",
+		"chinese": "用于热量传递的通道或导管",
+		"soundmark": "/tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/ /tə/ /ɡˈɪt/"
+	},
+	{
+		"english": "channels or conduits that are used for heat to travel through to get to",
+		"chinese": "用于热量传递以到达的通道或导管",
+		"soundmark": "/tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/ /tə/ /ɡˈɪt/ /tə/"
+	},
+	{
+		"english": "channels or conduits that are used for heat to travel through to get to different",
+		"chinese": "用于热量传递以到达不同地方的通道或导管",
+		"soundmark": "/tʃˈænəlz/ /ɜː/ /kˈɑːndwəts/ /ðət/ /ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/ /tə/ /ɡˈɪt/ /tə/ /dˈɪfrənt/"
+	},
+	{
+		"english": "are used for heat to travel through to get to different areas",
+		"chinese": "用于热量传播以到达不同区域",
+		"soundmark": "/ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/ /tə/ /ɡˈɪt/ /tə/ /dˈɪfrənt/ /ˈɛːriːəz/"
+	},
+	{
+		"english": "are used for heat to travel through to get to different areas of",
+		"chinese": "用于热量传递以到达不同区域",
+		"soundmark": "/ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/ /tə/ /ɡˈɪt/ /tə/ /dˈɪfrənt/ /ˈɛːriːəz/ /əv/"
+	},
+	{
+		"english": "are used for heat to travel through to get to different areas of a",
+		"chinese": "用于热量传递，以到达不同的区域",
+		"soundmark": "/ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/ /tə/ /ɡˈɪt/ /tə/ /dˈɪfrənt/ /ˈɛːriːəz/ /əv/ /ˈeɪ/"
+	},
+	{
+		"english": "are used for heat to travel through to get to different areas of a building",
+		"chinese": "用于让热量传播到建筑物的不同区域",
+		"soundmark": "/ɜː/ /jˈuːzd/ /frɜː/ /hˈiːt/ /tə/ /trˈævəl/ /θrˈuː/ /tə/ /ɡˈɪt/ /tə/ /dˈɪfrənt/ /ˈɛːriːəz/ /əv/ /ˈeɪ/ /bˈɪldɪŋ/"
+	},
+	{
+		"english": "incredible",
+		"chinese": "难以置信",
+		"soundmark": "/ɪnkrˈɛːdəbəl/"
+	},
+	{
+		"english": "incredible though",
+		"chinese": "虽然令人难以置信",
+		"soundmark": "/ɪnkrˈɛːdəbəl/ /ðˈoʊ/"
+	},
+	{
+		"english": "incredible though it",
+		"chinese": "尽管难以置信",
+		"soundmark": "/ɪnkrˈɛːdəbəl/ /ðˈoʊ/ /ɪt/"
+	},
+	{
+		"english": "incredible though it seems",
+		"chinese": "尽管看似难以置信",
+		"soundmark": "/ɪnkrˈɛːdəbəl/ /ðˈoʊ/ /ɪt/ /sˈiːmz/"
+	},
+	{
+		"english": "someone",
+		"chinese": "某人",
+		"soundmark": "/sˈəmwˌən/"
+	},
+	{
+		"english": "someone actually",
+		"chinese": "真的有人",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/"
+	},
+	{
+		"english": "someone actually put",
+		"chinese": "真的有人放了",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/"
+	},
+	{
+		"english": "someone actually put a",
+		"chinese": "真的有人放了一个",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/"
+	},
+	{
+		"english": "someone actually put a picture",
+		"chinese": "真的有人放了一张照片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/"
+	},
+	{
+		"english": "someone actually put a picture of",
+		"chinese": "真的有人放了一张照片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/"
+	},
+	{
+		"english": "someone actually put a picture of a",
+		"chinese": "真的有人放了一张图片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/"
+	},
+	{
+		"english": "someone actually put a picture of a duck",
+		"chinese": "真的有人放了一张鸭子的照片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/"
+	},
+	{
+		"english": "someone actually put a picture of a duck on",
+		"chinese": "真的有人放了一张鸭子的照片在……",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/"
+	},
+	{
+		"english": "someone actually put a picture of a duck on the",
+		"chinese": "真的有人在上面放了一张鸭子的照片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/"
+	},
+	{
+		"english": "someone actually put a picture of a duck on the packaging",
+		"chinese": "真的有人在包装上放了一张鸭子的照片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/"
+	},
+	{
+		"english": "someone actually put a picture of a duck on the packaging of",
+		"chinese": "真的有人在包装上放了一张鸭子的照片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/"
+	},
+	{
+		"english": "someone actually put a picture of a duck on the packaging of the",
+		"chinese": "真的有人在包装上放了一张鸭子的照片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/"
+	},
+	{
+		"english": "someone actually put a picture of a duck on the packaging of the tape",
+		"chinese": "真的有人在磁带包装上放了一张鸭子的照片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/"
+	},
+	{
+		"english": "someone actually put a picture of a duck on the packaging of the tape from",
+		"chinese": "真的有人在磁带包装上放了一张鸭子的图片",
+		"soundmark": "/sˈəmwˌən/ /ˈækʃəliː/ /pˈʊt/ /ˈeɪ/ /pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/"
+	},
+	{
+		"english": "picture of a duck on the packaging of the tape from one",
+		"chinese": "某品牌磁带包装上的鸭子图片",
+		"soundmark": "/pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/"
+	},
+	{
+		"english": "picture of a duck on the packaging of the tape from one manufacturer",
+		"chinese": "某家制造商的磁带包装上有一只鸭子的图片",
+		"soundmark": "/pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/"
+	},
+	{
+		"english": "picture of a duck on the packaging of the tape from one manufacturer perhaps",
+		"chinese": "也许某个制造商的磁带包装上有一只鸭子的图片",
+		"soundmark": "/pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/"
+	},
+	{
+		"english": "picture of a duck on the packaging of the tape from one manufacturer perhaps just",
+		"chinese": "某个制造商的磁带包装上有一只鸭子的图片，也许只是",
+		"soundmark": "/pˈɪktʃɜː/ /əv/ /ˈeɪ/ /dˈək/ /ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/"
+	},
+	{
+		"english": "on the packaging of the tape from one manufacturer perhaps just as",
+		"chinese": "某个制造商的磁带包装上或许只是",
+		"soundmark": "/ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/"
+	},
+	{
+		"english": "on the packaging of the tape from one manufacturer perhaps just as a",
+		"chinese": "也许只是某个制造商的磁带包装上",
+		"soundmark": "/ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "on the packaging of the tape from one manufacturer perhaps just as a joke",
+		"chinese": "也许只是开玩笑地标注某家制造商的胶带包装上",
+		"soundmark": "/ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/"
+	},
+	{
+		"english": "on the packaging of the tape from one manufacturer perhaps just as a joke or",
+		"chinese": "某个制造商的磁带包装上，或许只是个玩笑或",
+		"soundmark": "/ˈɔːn/ /ðiː/ /pˈækɪdʒɪŋ/ /əv/ /ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/"
+	},
+	{
+		"english": "the tape from one manufacturer perhaps just as a joke or maybe",
+		"chinese": "某个制造商的胶带，或许只是个玩笑，或者也许",
+		"soundmark": "/ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/"
+	},
+	{
+		"english": "the tape from one manufacturer perhaps just as a joke or maybe because",
+		"chinese": "某个制造商的胶带，或许只是个玩笑，或者可能是因为",
+		"soundmark": "/ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/"
+	},
+	{
+		"english": "the tape from one manufacturer perhaps just as a joke or maybe because the",
+		"chinese": "某个制造商的胶带，或许只是个玩笑，或者可能是因为……",
+		"soundmark": "/ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/"
+	},
+	{
+		"english": "the tape from one manufacturer perhaps just as a joke or maybe because the design",
+		"chinese": "某个制造商的胶带，或许只是个玩笑，或者因为设计原因",
+		"soundmark": "/ðiː/ /tˈeɪp/ /fɜːm/ /hwˈən/ /mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/"
+	},
+	{
+		"english": "manufacturer perhaps just as a joke or maybe because the design artist",
+		"chinese": "制造商，或许只是开玩笑，或者因为设计艺术家的原因",
+		"soundmark": "/mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/"
+	},
+	{
+		"english": "manufacturer perhaps just as a joke or maybe because the design artist did",
+		"chinese": "制造商，也许只是开玩笑，或者因为设计艺术家如此",
+		"soundmark": "/mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/ /dɪd/"
+	},
+	{
+		"english": "manufacturer perhaps just as a joke or maybe because the design artist did not",
+		"chinese": "制造商，也许只是开玩笑，或者因为设计艺术家没有……",
+		"soundmark": "/mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/ /dɪd/ /nˈɑːt/"
+	},
+	{
+		"english": "manufacturer perhaps just as a joke or maybe because the design artist did not understand",
+		"chinese": "制造商，也许只是开玩笑，或者因为设计艺术家没有理解",
+		"soundmark": "/mˌænjəfˈæktʃɜːɜː/ /pɜːhˈæps/ /dʒɪst/ /ˈɛːz/ /ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/ /dɪd/ /nˈɑːt/ /ˌəndɜːstˈænd/"
+	},
+	{
+		"english": "a joke or maybe because the design artist did not understand the",
+		"chinese": "一个玩笑，或者可能是因为设计艺术家没有理解……",
+		"soundmark": "/ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/ /dɪd/ /nˈɑːt/ /ˌəndɜːstˈænd/ /ðiː/"
+	},
+	{
+		"english": "a joke or maybe because the design artist did not understand the origin",
+		"chinese": "一个玩笑，或者可能是因为设计艺术家不明白其来源",
+		"soundmark": "/ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/ /dɪd/ /nˈɑːt/ /ˌəndɜːstˈænd/ /ðiː/ /ˈɔːrədʒən/"
+	},
+	{
+		"english": "a joke or maybe because the design artist did not understand the origin of",
+		"chinese": "一个玩笑，或者可能是因为设计艺术家不明白其来源",
+		"soundmark": "/ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/ /dɪd/ /nˈɑːt/ /ˌəndɜːstˈænd/ /ðiː/ /ˈɔːrədʒən/ /əv/"
+	},
+	{
+		"english": "a joke or maybe because the design artist did not understand the origin of the",
+		"chinese": "一个玩笑，或者可能是因为设计艺术家不明白其来源",
+		"soundmark": "/ˈeɪ/ /dʒˈoʊk/ /ɜː/ /mˈeɪbiː/ /bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/ /dɪd/ /nˈɑːt/ /ˌəndɜːstˈænd/ /ðiː/ /ˈɔːrədʒən/ /əv/ /ðiː/"
+	},
+	{
+		"english": "because the design artist did not understand the origin of the name",
+		"chinese": "因为设计艺术家不了解这个名字的由来",
+		"soundmark": "/bɪkəz/ /ðiː/ /dɪzˈaɪn/ /ˈɑːrtɪst/ /dɪd/ /nˈɑːt/ /ˌəndɜːstˈænd/ /ðiː/ /ˈɔːrədʒən/ /əv/ /ðiː/ /nˈeɪm/"
+	},
+	{
+		"english": "neither",
+		"chinese": "neither",
+		"soundmark": "/nˈaɪðɜː/"
+	},
+	{
+		"english": "neither the",
+		"chinese": "neither 也不",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/"
+	},
+	{
+		"english": "neither the word",
+		"chinese": "既非这个词",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/ /wˈɜːd/"
+	},
+	{
+		"english": "neither the word duck",
+		"chinese": "既不是“duck”这个词",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/ /wˈɜːd/ /dˈək/"
+	},
+	{
+		"english": "neither the word duck nor",
+		"chinese": "既不是“鸭子”这个词，也不是",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/ /wˈɜːd/ /dˈək/ /nˈɔːr/"
+	},
+	{
+		"english": "neither the word duck nor duct",
+		"chinese": "既不是“duck”这个词，也不是“duct”",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/ /wˈɜːd/ /dˈək/ /nˈɔːr/ /dˈəkt/"
+	},
+	{
+		"english": "neither the word duck nor duct was",
+		"chinese": "neither \"duck\" nor \"duct\" was",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/ /wˈɜːd/ /dˈək/ /nˈɔːr/ /dˈəkt/ /wˈɔːz/"
+	},
+	{
+		"english": "neither the word duck nor duct was on",
+		"chinese": "neither “duck” nor “duct” 出现在其中",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/ /wˈɜːd/ /dˈək/ /nˈɔːr/ /dˈəkt/ /wˈɔːz/ /ˈɔːn/"
+	},
+	{
+		"english": "neither the word duck nor duct was on the",
+		"chinese": "neither the word “duck” nor “duct” was on the",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/ /wˈɜːd/ /dˈək/ /nˈɔːr/ /dˈəkt/ /wˈɔːz/ /ˈɔːn/ /ðiː/"
+	},
+	{
+		"english": "neither the word duck nor duct was on the label",
+		"chinese": "标签上既没有“duck”这个词，也没有“duct”这个词",
+		"soundmark": "/nˈaɪðɜː/ /ðiː/ /wˈɜːd/ /dˈək/ /nˈɔːr/ /dˈəkt/ /wˈɔːz/ /ˈɔːn/ /ðiː/ /lˈeɪbəl/"
+	},
+	{
+		"english": "presumably",
+		"chinese": "大概",
+		"soundmark": "/priːzˈuːməbliː/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it was",
+		"chinese": "就是",
+		"soundmark": "/ɪt/ /wˈɔːz/"
+	},
+	{
+		"english": "it was assumed",
+		"chinese": "假设是",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əsˈuːmd/"
+	},
+	{
+		"english": "it was assumed that",
+		"chinese": "假设是",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əsˈuːmd/ /ðət/"
+	},
+	{
+		"english": "it was assumed that everyone",
+		"chinese": "人们认为每个人",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əsˈuːmd/ /ðət/ /ˈɛːvriːwˌən/"
+	},
+	{
+		"english": "it was assumed that everyone could",
+		"chinese": "人们认为每个人都能",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əsˈuːmd/ /ðət/ /ˈɛːvriːwˌən/ /kˈʊd/"
+	},
+	{
+		"english": "it was assumed that everyone could identify",
+		"chinese": "假设每个人都能识别",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əsˈuːmd/ /ðət/ /ˈɛːvriːwˌən/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/"
+	},
+	{
+		"english": "it was assumed that everyone could identify the",
+		"chinese": "人们认为每个人都能识别出来",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əsˈuːmd/ /ðət/ /ˈɛːvriːwˌən/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /ðiː/"
+	},
+	{
+		"english": "it was assumed that everyone could identify the product",
+		"chinese": "假设每个人都能识别该产品",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əsˈuːmd/ /ðət/ /ˈɛːvriːwˌən/ /kˈʊd/ /aɪdˈɛːnəfˌaɪ/ /ðiː/ /prˈɑːdəkt/"
+	},
+	{
+		"english": "one",
+		"chinese": "一个",
+		"soundmark": "/hwˈən/"
+	},
+	{
+		"english": "one of",
+		"chinese": "其中一个",
+		"soundmark": "/hwˈən/ /əv/"
+	},
+	{
+		"english": "one of the",
+		"chinese": "其中一个",
+		"soundmark": "/hwˈən/ /əv/ /ðiː/"
+	},
+	{
+		"english": "one of the typical",
+		"chinese": "典型的之一",
+		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/"
+	},
+	{
+		"english": "one of the typical uses",
+		"chinese": "典型的用途之一",
+		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/"
+	}
+]

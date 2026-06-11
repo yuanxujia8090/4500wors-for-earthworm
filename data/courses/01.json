@@ -1,0 +1,1252 @@
+[
+	{
+		"english": "unfortunately",
+		"chinese": "不幸地",
+		"soundmark": "/ənfˈɔːrtʃuːnətliː/"
+	},
+	{
+		"english": "a",
+		"chinese": "一个",
+		"soundmark": "/ˈeɪ/"
+	},
+	{
+		"english": "a crime",
+		"chinese": "犯罪",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/"
+	},
+	{
+		"english": "a crime was",
+		"chinese": "一项犯罪",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/"
+	},
+	{
+		"english": "a crime was about",
+		"chinese": "一项犯罪即将发生",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/"
+	},
+	{
+		"english": "a crime was about to",
+		"chinese": "一项犯罪即将发生",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/"
+	},
+	{
+		"english": "a crime was about to be",
+		"chinese": "一项犯罪即将发生",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/"
+	},
+	{
+		"english": "a crime was about to be committed",
+		"chinese": "即将发生犯罪行为",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/"
+	},
+	{
+		"english": "a crime was about to be committed but",
+		"chinese": "一项犯罪即将发生但",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/ /bˈət/"
+	},
+	{
+		"english": "a crime was about to be committed but at",
+		"chinese": "一项犯罪即将发生，但……",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/"
+	},
+	{
+		"english": "a crime was about to be committed but at that",
+		"chinese": "一项犯罪即将发生，但就在那时",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/"
+	},
+	{
+		"english": "a crime was about to be committed but at that moment",
+		"chinese": "一项犯罪即将发生，但就在那一刻",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/ /mˈoʊmənt/"
+	},
+	{
+		"english": "a crime was about to be committed but at that moment lesley",
+		"chinese": "即将发生犯罪，但在那一刻，莱斯利……",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/ /mˈoʊmənt/ /lˈɛːsliː/"
+	},
+	{
+		"english": "a crime was about to be committed but at that moment lesley was",
+		"chinese": "一项犯罪即将发生，但就在那一刻，莱斯利……",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/ /mˈoʊmənt/ /lˈɛːsliː/ /wˈɔːz/"
+	},
+	{
+		"english": "a crime was about to be committed but at that moment lesley was unaware",
+		"chinese": "即将发生犯罪，但当时莱斯利并不知情",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/ /mˈoʊmənt/ /lˈɛːsliː/ /wˈɔːz/ /ˌənəwˈɛːr/"
+	},
+	{
+		"english": "a crime was about to be committed but at that moment lesley was unaware of",
+		"chinese": "一项犯罪即将发生，但当时莱斯利并不知情",
+		"soundmark": "/ˈeɪ/ /krˈaɪm/ /wˈɔːz/ /əbˈaʊt/ /tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/ /mˈoʊmənt/ /lˈɛːsliː/ /wˈɔːz/ /ˌənəwˈɛːr/ /əv/"
+	},
+	{
+		"english": "to be committed but at that moment lesley was unaware of the",
+		"chinese": "决心要这么做，但当时莱斯利并未意识到这一点",
+		"soundmark": "/tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/ /mˈoʊmənt/ /lˈɛːsliː/ /wˈɔːz/ /ˌənəwˈɛːr/ /əv/ /ðiː/"
+	},
+	{
+		"english": "to be committed but at that moment lesley was unaware of the impending",
+		"chinese": "决心要这么做，但当时莱斯利并未意识到即将发生的……",
+		"soundmark": "/tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/ /mˈoʊmənt/ /lˈɛːsliː/ /wˈɔːz/ /ˌənəwˈɛːr/ /əv/ /ðiː/ /ɪmpˈɛːndɪŋ/"
+	},
+	{
+		"english": "to be committed but at that moment lesley was unaware of the impending event",
+		"chinese": "决心要这么做，但当时莱斯利并未意识到即将发生的事件",
+		"soundmark": "/tə/ /biː/ /kəmˈɪtəd/ /bˈət/ /ˈæt/ /ðət/ /mˈoʊmənt/ /lˈɛːsliː/ /wˈɔːz/ /ˌənəwˈɛːr/ /əv/ /ðiː/ /ɪmpˈɛːndɪŋ/ /iːvˈɛːnt/"
+	},
+	{
+		"english": "which",
+		"chinese": "哪个",
+		"soundmark": "/hwˈɪtʃ/"
+	},
+	{
+		"english": "which would",
+		"chinese": "这将",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/"
+	},
+	{
+		"english": "which would affect",
+		"chinese": "这将产生影响",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/"
+	},
+	{
+		"english": "which would affect her",
+		"chinese": "这将影响她",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/"
+	},
+	{
+		"english": "which would affect her life",
+		"chinese": "这将影响她的生活",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/ /lˈaɪf/"
+	},
+	{
+		"english": "which would affect her life so",
+		"chinese": "这将会影响她的生活如此",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/ /lˈaɪf/ /sˈoʊ/"
+	},
+	{
+		"english": "which would affect her life so drastically",
+		"chinese": "这将对她的生活产生极大的影响",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/ /lˈaɪf/ /sˈoʊ/ /drˈæstɪkliː/"
+	},
+	{
+		"english": "which would affect her life so drastically for",
+		"chinese": "这将会对她的生活产生巨大的影响",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/ /lˈaɪf/ /sˈoʊ/ /drˈæstɪkliː/ /frɜː/"
+	},
+	{
+		"english": "which would affect her life so drastically for the",
+		"chinese": "这将会对她的生活产生巨大的影响",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/ /lˈaɪf/ /sˈoʊ/ /drˈæstɪkliː/ /frɜː/ /ðiː/"
+	},
+	{
+		"english": "which would affect her life so drastically for the next",
+		"chinese": "这将对她的生活产生巨大的影响，在接下来的时间里",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/ /lˈaɪf/ /sˈoʊ/ /drˈæstɪkliː/ /frɜː/ /ðiː/ /nˈɛːks/"
+	},
+	{
+		"english": "which would affect her life so drastically for the next two",
+		"chinese": "这将对她的生活产生巨大的影响，在接下来的两年里",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/ /lˈaɪf/ /sˈoʊ/ /drˈæstɪkliː/ /frɜː/ /ðiː/ /nˈɛːks/ /tˈuː/"
+	},
+	{
+		"english": "which would affect her life so drastically for the next two years",
+		"chinese": "这将对她的生活在接下来的两年里产生巨大的影响",
+		"soundmark": "/hwˈɪtʃ/ /wˈʊd/ /əfˈɛːkt/ /hˈɜː/ /lˈaɪf/ /sˈoʊ/ /drˈæstɪkliː/ /frɜː/ /ðiː/ /nˈɛːks/ /tˈuː/ /jɜːz/"
+	},
+	{
+		"english": "for",
+		"chinese": "为了",
+		"soundmark": "/frɜː/"
+	},
+	{
+		"english": "for the",
+		"chinese": "为了",
+		"soundmark": "/frɜː/ /ðiː/"
+	},
+	{
+		"english": "for the moment",
+		"chinese": "目前",
+		"soundmark": "/frɜː/ /ðiː/ /mˈoʊmənt/"
+	},
+	{
+		"english": "for the moment at",
+		"chinese": "目前，在",
+		"soundmark": "/frɜː/ /ðiː/ /mˈoʊmənt/ /ˈæt/"
+	},
+	{
+		"english": "for the moment at least",
+		"chinese": "至少目前如此",
+		"soundmark": "/frɜː/ /ðiː/ /mˈoʊmənt/ /ˈæt/ /lˈiːst/"
+	},
+	{
+		"english": "her",
+		"chinese": "她",
+		"soundmark": "/hˈɜː/"
+	},
+	{
+		"english": "her holiday",
+		"chinese": "她的假期",
+		"soundmark": "/hˈɜː/ /hˈɑːlɪdˌeɪ/"
+	},
+	{
+		"english": "her holiday at",
+		"chinese": "她的假期在……",
+		"soundmark": "/hˈɜː/ /hˈɑːlɪdˌeɪ/ /ˈæt/"
+	},
+	{
+		"english": "her holiday at the",
+		"chinese": "她在……的假期",
+		"soundmark": "/hˈɜː/ /hˈɑːlɪdˌeɪ/ /ˈæt/ /ðiː/"
+	},
+	{
+		"english": "her holiday at the cottage",
+		"chinese": "她在小屋里的假期",
+		"soundmark": "/hˈɜː/ /hˈɑːlɪdˌeɪ/ /ˈæt/ /ðiː/ /kˈɑːtɪdʒ/"
+	},
+	{
+		"english": "her holiday at the cottage had",
+		"chinese": "她在小屋里的假期",
+		"soundmark": "/hˈɜː/ /hˈɑːlɪdˌeɪ/ /ˈæt/ /ðiː/ /kˈɑːtɪdʒ/ /hˈæd/"
+	},
+	{
+		"english": "her holiday at the cottage had been",
+		"chinese": "她在小屋里的假期已经结束了",
+		"soundmark": "/hˈɜː/ /hˈɑːlɪdˌeɪ/ /ˈæt/ /ðiː/ /kˈɑːtɪdʒ/ /hˈæd/ /bɪn/"
+	},
+	{
+		"english": "her holiday at the cottage had been ideal",
+		"chinese": "她在小屋的假期非常理想",
+		"soundmark": "/hˈɜː/ /hˈɑːlɪdˌeɪ/ /ˈæt/ /ðiː/ /kˈɑːtɪdʒ/ /hˈæd/ /bɪn/ /aɪdˈiːl/"
+	},
+	{
+		"english": "she",
+		"chinese": "她",
+		"soundmark": "/ʃˈiː/"
+	},
+	{
+		"english": "she had",
+		"chinese": "她有",
+		"soundmark": "/ʃˈiː/ /hˈæd/"
+	},
+	{
+		"english": "she had spent",
+		"chinese": "她已经花费了",
+		"soundmark": "/ʃˈiː/ /hˈæd/ /spˈɛːnt/"
+	},
+	{
+		"english": "she had spent many",
+		"chinese": "她已经花费了很多",
+		"soundmark": "/ʃˈiː/ /hˈæd/ /spˈɛːnt/ /mˈɛːniː/"
+	},
+	{
+		"english": "she had spent many idle",
+		"chinese": "她浪费了很多时间",
+		"soundmark": "/ʃˈiː/ /hˈæd/ /spˈɛːnt/ /mˈɛːniː/ /ˈaɪdəl/"
+	},
+	{
+		"english": "she had spent many idle hours",
+		"chinese": "她度过了许多无所事事的时光",
+		"soundmark": "/ʃˈiː/ /hˈæd/ /spˈɛːnt/ /mˈɛːniː/ /ˈaɪdəl/ /ˈaʊrz/"
+	},
+	{
+		"english": "she had spent many idle hours relaxing",
+		"chinese": "她花了许多空闲时间放松身心",
+		"soundmark": "/ʃˈiː/ /hˈæd/ /spˈɛːnt/ /mˈɛːniː/ /ˈaɪdəl/ /ˈaʊrz/ /riːlˈæksɪŋ/"
+	},
+	{
+		"english": "she had spent many idle hours relaxing on",
+		"chinese": "她花了许多空闲时间放松身心",
+		"soundmark": "/ʃˈiː/ /hˈæd/ /spˈɛːnt/ /mˈɛːniː/ /ˈaɪdəl/ /ˈaʊrz/ /riːlˈæksɪŋ/ /ˈɔːn/"
+	},
+	{
+		"english": "she had spent many idle hours relaxing on the",
+		"chinese": "她花了许多空闲时间在……上放松身心",
+		"soundmark": "/ʃˈiː/ /hˈæd/ /spˈɛːnt/ /mˈɛːniː/ /ˈaɪdəl/ /ˈaʊrz/ /riːlˈæksɪŋ/ /ˈɔːn/ /ðiː/"
+	},
+	{
+		"english": "she had spent many idle hours relaxing on the deck",
+		"chinese": "她花了许多空闲时间在甲板上放松休息",
+		"soundmark": "/ʃˈiː/ /hˈæd/ /spˈɛːnt/ /mˈɛːniː/ /ˈaɪdəl/ /ˈaʊrz/ /riːlˈæksɪŋ/ /ˈɔːn/ /ðiː/ /dˈɛːk/"
+	},
+	{
+		"english": "reading",
+		"chinese": "阅读",
+		"soundmark": "/rˈiːdɪŋ/"
+	},
+	{
+		"english": "eating",
+		"chinese": "进食",
+		"soundmark": "/ˈiːtɪŋ/"
+	},
+	{
+		"english": "eating a",
+		"chinese": "吃",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/"
+	},
+	{
+		"english": "eating a sandwich",
+		"chinese": "吃三明治",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/"
+	},
+	{
+		"english": "eating a sandwich when",
+		"chinese": "正在吃三明治时",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/"
+	},
+	{
+		"english": "eating a sandwich when she",
+		"chinese": "当她吃三明治的时候",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/"
+	},
+	{
+		"english": "eating a sandwich when she was",
+		"chinese": "当她……的时候在吃三明治",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry",
+		"chinese": "当她饿的时候吃三明治",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry and",
+		"chinese": "当她饿的时候吃三明治",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry and in",
+		"chinese": "当她饿的时候吃三明治",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry and in the",
+		"chinese": "她饿的时候吃三明治，而且在……",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry and in the evening",
+		"chinese": "当她饿了时吃三明治，晚上也吃",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry and in the evening watching",
+		"chinese": "饿的时候吃三明治，晚上看电影",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry and in the evening watching the",
+		"chinese": "饿的时候吃三明治，晚上看电影",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry and in the evening watching the sky",
+		"chinese": "饿的时候吃三明治，晚上看天空",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/"
+	},
+	{
+		"english": "eating a sandwich when she was hungry and in the evening watching the sky turn",
+		"chinese": "当她饿了时吃三明治，晚上看着天空变暗",
+		"soundmark": "/ˈiːtɪŋ/ /ˈeɪ/ /sˈæmwɪtʃ/ /hwˈɪn/ /ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/"
+	},
+	{
+		"english": "she was hungry and in the evening watching the sky turn from",
+		"chinese": "她很饿，傍晚时看着天空从……",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/"
+	},
+	{
+		"english": "she was hungry and in the evening watching the sky turn from brilliant",
+		"chinese": "她很饿，傍晚时看着天空从明亮变为暗淡",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/"
+	},
+	{
+		"english": "she was hungry and in the evening watching the sky turn from brilliant orange",
+		"chinese": "她很饿，傍晚时看着天空从明亮的橙色变为……",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/ /ˈɔːrɪndʒ/"
+	},
+	{
+		"english": "she was hungry and in the evening watching the sky turn from brilliant orange to",
+		"chinese": "她很饿，傍晚时看着天空从明亮的橙色变成",
+		"soundmark": "/ʃˈiː/ /wˈɔːz/ /hˈəŋɡriː/ /ˈænd/ /ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/ /ˈɔːrɪndʒ/ /tə/"
+	},
+	{
+		"english": "in the evening watching the sky turn from brilliant orange to peach",
+		"chinese": "傍晚时看着天空从明亮的橙色变为桃色",
+		"soundmark": "/ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/ /ˈɔːrɪndʒ/ /tə/ /pˈiːtʃ/"
+	},
+	{
+		"english": "in the evening watching the sky turn from brilliant orange to peach and",
+		"chinese": "傍晚时看着天空从明亮的橙色变为桃色",
+		"soundmark": "/ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/ /ˈɔːrɪndʒ/ /tə/ /pˈiːtʃ/ /ˈænd/"
+	},
+	{
+		"english": "in the evening watching the sky turn from brilliant orange to peach and finally",
+		"chinese": "傍晚时看着天空从明亮的橙色变为桃色，最后",
+		"soundmark": "/ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/ /ˈɔːrɪndʒ/ /tə/ /pˈiːtʃ/ /ˈænd/ /fˈaɪnəliː/"
+	},
+	{
+		"english": "in the evening watching the sky turn from brilliant orange to peach and finally to",
+		"chinese": "傍晚时看着天空从明亮的橙色变为桃色，最后变为",
+		"soundmark": "/ˈɪn/ /ðiː/ /ˈiːvnɪŋ/ /wˈɑːtʃɪŋ/ /ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/ /ˈɔːrɪndʒ/ /tə/ /pˈiːtʃ/ /ˈænd/ /fˈaɪnəliː/ /tə/"
+	},
+	{
+		"english": "the sky turn from brilliant orange to peach and finally to pale",
+		"chinese": "天空从明亮的橙色变为桃色，最后变成淡色",
+		"soundmark": "/ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/ /ˈɔːrɪndʒ/ /tə/ /pˈiːtʃ/ /ˈænd/ /fˈaɪnəliː/ /tə/ /pˈeɪl/"
+	},
+	{
+		"english": "the sky turn from brilliant orange to peach and finally to pale purple",
+		"chinese": "天空从明亮的橙色变为桃色，最后变成淡紫色",
+		"soundmark": "/ðiː/ /skˈaɪ/ /tˈɜːn/ /fɜːm/ /brˈɪljənt/ /ˈɔːrɪndʒ/ /tə/ /pˈiːtʃ/ /ˈænd/ /fˈaɪnəliː/ /tə/ /pˈeɪl/ /pˈɜːpəl/"
+	},
+	{
+		"english": "eventually",
+		"chinese": "最终",
+		"soundmark": "/iːvˈɛːnʃəliː/"
+	},
+	{
+		"english": "eventually the",
+		"chinese": "最终",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ðiː/"
+	},
+	{
+		"english": "eventually the light",
+		"chinese": "最终灯光亮起",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ðiː/ /lˈaɪt/"
+	},
+	{
+		"english": "eventually the light becoming",
+		"chinese": "最终光开始显现",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ðiː/ /lˈaɪt/ /bɪkˈəmɪŋ/"
+	},
+	{
+		"english": "eventually the light becoming dim",
+		"chinese": "最终光线变得暗淡",
+		"soundmark": "/iːvˈɛːnʃəliː/ /ðiː/ /lˈaɪt/ /bɪkˈəmɪŋ/ /dˈɪm/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it was",
+		"chinese": "就是",
+		"soundmark": "/ɪt/ /wˈɔːz/"
+	},
+	{
+		"english": "it was about",
+		"chinese": "是关于",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/"
+	},
+	{
+		"english": "it was about this",
+		"chinese": "就是关于这个",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/"
+	},
+	{
+		"english": "it was about this time",
+		"chinese": "大概就在这个时候",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/"
+	},
+	{
+		"english": "it was about this time that",
+		"chinese": "就在那个时候",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/"
+	},
+	{
+		"english": "it was about this time that the",
+		"chinese": "就在那个时候，",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/"
+	},
+	{
+		"english": "it was about this time that the mist",
+		"chinese": "大概就在这个时候，雾气出现了",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/"
+	},
+	{
+		"english": "it was about this time that the mist would",
+		"chinese": "大概就在这个时候，雾气会",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/"
+	},
+	{
+		"english": "it was about this time that the mist would begin",
+		"chinese": "就在那个时候，雾气开始弥漫了",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/"
+	},
+	{
+		"english": "it was about this time that the mist would begin to",
+		"chinese": "就在那个时候，雾气开始弥漫了",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/"
+	},
+	{
+		"english": "it was about this time that the mist would begin to rise",
+		"chinese": "就在那个时候，雾气开始升起",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/"
+	},
+	{
+		"english": "it was about this time that the mist would begin to rise from",
+		"chinese": "就在那个时候，雾气开始从……升起",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/"
+	},
+	{
+		"english": "it was about this time that the mist would begin to rise from the",
+		"chinese": "就在那个时候，雾气开始从……升起。",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/"
+	},
+	{
+		"english": "it was about this time that the mist would begin to rise from the cool",
+		"chinese": "就在那个时候，雾气开始从凉爽处升起",
+		"soundmark": "/ɪt/ /wˈɔːz/ /əbˈaʊt/ /ðɪs/ /tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/"
+	},
+	{
+		"english": "time that the mist would begin to rise from the cool water",
+		"chinese": "雾气开始从凉水中升起的时刻",
+		"soundmark": "/tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/"
+	},
+	{
+		"english": "time that the mist would begin to rise from the cool water hiding",
+		"chinese": "雾气开始从凉爽的水中升起的时间",
+		"soundmark": "/tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/"
+	},
+	{
+		"english": "time that the mist would begin to rise from the cool water hiding in",
+		"chinese": "雾气开始从隐藏在凉水中的水面上升起的时刻",
+		"soundmark": "/tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/ /ˈɪn/"
+	},
+	{
+		"english": "time that the mist would begin to rise from the cool water hiding in the",
+		"chinese": "雾气开始从隐藏在凉水中的水面上升起的时刻",
+		"soundmark": "/tˈaɪm/ /ðət/ /ðiː/ /mˈɪst/ /wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "would begin to rise from the cool water hiding in the dense",
+		"chinese": "将开始从隐藏在茂密中的凉水中升起",
+		"soundmark": "/wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/ /ˈɪn/ /ðiː/ /dˈɛːns/"
+	},
+	{
+		"english": "would begin to rise from the cool water hiding in the dense forest",
+		"chinese": "将从密林中隐藏的凉水中开始上升",
+		"soundmark": "/wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/ /ˈɪn/ /ðiː/ /dˈɛːns/ /fˈɔːrɪst/"
+	},
+	{
+		"english": "would begin to rise from the cool water hiding in the dense forest that",
+		"chinese": "将从隐藏在茂密森林中的凉水中开始上升",
+		"soundmark": "/wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/ /ˈɪn/ /ðiː/ /dˈɛːns/ /fˈɔːrɪst/ /ðət/"
+	},
+	{
+		"english": "would begin to rise from the cool water hiding in the dense forest that hugged",
+		"chinese": "将从环绕着茂密森林的凉水中开始升起",
+		"soundmark": "/wˈʊd/ /bɪɡˈɪn/ /tə/ /rˈaɪz/ /fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/ /ˈɪn/ /ðiː/ /dˈɛːns/ /fˈɔːrɪst/ /ðət/ /hˈəɡd/"
+	},
+	{
+		"english": "from the cool water hiding in the dense forest that hugged the",
+		"chinese": "来自环绕着茂密森林的清凉水中",
+		"soundmark": "/fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/ /ˈɪn/ /ðiː/ /dˈɛːns/ /fˈɔːrɪst/ /ðət/ /hˈəɡd/ /ðiː/"
+	},
+	{
+		"english": "from the cool water hiding in the dense forest that hugged the shoreline",
+		"chinese": "来自环绕海岸线的茂密森林中的清凉水",
+		"soundmark": "/fɜːm/ /ðiː/ /kˈuːl/ /wˈɔːtɜː/ /hˈaɪdɪŋ/ /ˈɪn/ /ðiː/ /dˈɛːns/ /fˈɔːrɪst/ /ðət/ /hˈəɡd/ /ðiː/ /ʃˈɔːrlˌaɪn/"
+	},
+	{
+		"english": "late",
+		"chinese": "晚",
+		"soundmark": "/lˈeɪt/"
+	},
+	{
+		"english": "late evening",
+		"chinese": "深夜",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/"
+	},
+	{
+		"english": "late evening dew",
+		"chinese": "傍晚的露水",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/"
+	},
+	{
+		"english": "late evening dew glistened",
+		"chinese": "傍晚的露水闪闪发光",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/"
+	},
+	{
+		"english": "late evening dew glistened on",
+		"chinese": "傍晚的露水闪闪发光",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/"
+	},
+	{
+		"english": "late evening dew glistened on every",
+		"chinese": "傍晚的露水在每一处闪烁",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/"
+	},
+	{
+		"english": "late evening dew glistened on every bush",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/"
+	},
+	{
+		"english": "late evening dew glistened on every bush and",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/"
+	},
+	{
+		"english": "late evening dew glistened on every bush and soon",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光，很快……",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/"
+	},
+	{
+		"english": "late evening dew glistened on every bush and soon the",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光，很快……",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/ /ðiː/"
+	},
+	{
+		"english": "late evening dew glistened on every bush and soon the loons",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光，很快夜鹭就出现了",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/ /ðiː/ /lˈuːnz/"
+	},
+	{
+		"english": "late evening dew glistened on every bush and soon the loons call",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光，很快夜鹭开始鸣叫",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/ /ðiː/ /lˈuːnz/ /kˈɔːl/"
+	},
+	{
+		"english": "late evening dew glistened on every bush and soon the loons call would",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光，很快夜鸟的叫声就响起",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/ /ðiː/ /lˈuːnz/ /kˈɔːl/ /wˈʊd/"
+	},
+	{
+		"english": "late evening dew glistened on every bush and soon the loons call would resound",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光，很快夜鸟的鸣叫便回荡起来",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/ /ðiː/ /lˈuːnz/ /kˈɔːl/ /wˈʊd/ /rˌiːzˈaʊnd/"
+	},
+	{
+		"english": "late evening dew glistened on every bush and soon the loons call would resound across",
+		"chinese": "傍晚的露水在每株灌木上闪闪发光，很快夜鸟的鸣叫便在四周回荡",
+		"soundmark": "/lˈeɪt/ /ˈiːvnɪŋ/ /dˈuː/ /ɡlˈɪsənd/ /ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/ /ðiː/ /lˈuːnz/ /kˈɔːl/ /wˈʊd/ /rˌiːzˈaʊnd/ /əkrˈɔːs/"
+	},
+	{
+		"english": "on every bush and soon the loons call would resound across the",
+		"chinese": "每棵灌木上，很快鸟鸣声就会在四周回荡",
+		"soundmark": "/ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/ /ðiː/ /lˈuːnz/ /kˈɔːl/ /wˈʊd/ /rˌiːzˈaʊnd/ /əkrˈɔːs/ /ðiː/"
+	},
+	{
+		"english": "on every bush and soon the loons call would resound across the water",
+		"chinese": "在每一棵灌木上，很快，夜鸟的叫声将在水面上回荡",
+		"soundmark": "/ˈɔːn/ /ˈɛːvriː/ /bˈʊʃ/ /ˈænd/ /sˈuːn/ /ðiː/ /lˈuːnz/ /kˈɔːl/ /wˈʊd/ /rˌiːzˈaʊnd/ /əkrˈɔːs/ /ðiː/ /wˈɔːtɜː/"
+	},
+	{
+		"english": "she",
+		"chinese": "她",
+		"soundmark": "/ʃˈiː/"
+	},
+	{
+		"english": "she decided",
+		"chinese": "她决定",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/"
+	},
+	{
+		"english": "she decided to",
+		"chinese": "她决定",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/ /tə/"
+	},
+	{
+		"english": "she decided to take",
+		"chinese": "她决定去",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/ /tə/ /tˈeɪk/"
+	},
+	{
+		"english": "she decided to take one",
+		"chinese": "她决定要一个",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/ /tə/ /tˈeɪk/ /hwˈən/"
+	},
+	{
+		"english": "she decided to take one last",
+		"chinese": "她决定再做最后一次",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/ /tə/ /tˈeɪk/ /hwˈən/ /lˈæs/"
+	},
+	{
+		"english": "she decided to take one last dip",
+		"chinese": "她决定再跳一次泳",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/ /tə/ /tˈeɪk/ /hwˈən/ /lˈæs/ /dˈɪp/"
+	},
+	{
+		"english": "she decided to take one last dip in",
+		"chinese": "她决定再跳一次泳",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/ /tə/ /tˈeɪk/ /hwˈən/ /lˈæs/ /dˈɪp/ /ˈɪn/"
+	},
+	{
+		"english": "she decided to take one last dip in the",
+		"chinese": "她决定再跳一次泳",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/ /tə/ /tˈeɪk/ /hwˈən/ /lˈæs/ /dˈɪp/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "she decided to take one last dip in the lake",
+		"chinese": "她决定在湖里再游一次。",
+		"soundmark": "/ʃˈiː/ /dɪsˈaɪdɪd/ /tə/ /tˈeɪk/ /hwˈən/ /lˈæs/ /dˈɪp/ /ˈɪn/ /ðiː/ /lˈeɪk/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as the",
+		"chinese": "因为",
+		"soundmark": "/ˈɛːz/ /ðiː/"
+	},
+	{
+		"english": "as the cool",
+		"chinese": "就像那个酷的人",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈuːl/"
+	},
+	{
+		"english": "as the cool night",
+		"chinese": "在凉爽的夜晚",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈuːl/ /nˈaɪt/"
+	},
+	{
+		"english": "as the cool night air",
+		"chinese": "随着凉爽的夜风",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈuːl/ /nˈaɪt/ /ˈɛːr/"
+	},
+	{
+		"english": "as the cool night air touched",
+		"chinese": "当凉爽的夜风拂过",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈuːl/ /nˈaɪt/ /ˈɛːr/ /tˈətʃt/"
+	},
+	{
+		"english": "as the cool night air touched her",
+		"chinese": "当凉爽的夜风拂过她时",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈuːl/ /nˈaɪt/ /ˈɛːr/ /tˈətʃt/ /hˈɜː/"
+	},
+	{
+		"english": "as the cool night air touched her arms",
+		"chinese": "当凉爽的夜风拂过她的手臂时",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈuːl/ /nˈaɪt/ /ˈɛːr/ /tˈətʃt/ /hˈɜː/ /ˈɑːrmz/"
+	},
+	{
+		"english": "she",
+		"chinese": "她",
+		"soundmark": "/ʃˈiː/"
+	},
+	{
+		"english": "she gave",
+		"chinese": "她给了",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/"
+	},
+	{
+		"english": "she gave a",
+		"chinese": "她给了",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/"
+	},
+	{
+		"english": "she gave a little",
+		"chinese": "她微微动了一下",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/"
+	},
+	{
+		"english": "she gave a little shiver",
+		"chinese": "她微微颤抖了一下",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/"
+	},
+	{
+		"english": "she gave a little shiver and",
+		"chinese": "她微微颤抖了一下",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/ /ˈænd/"
+	},
+	{
+		"english": "she gave a little shiver and decided",
+		"chinese": "她微微颤抖了一下，然后决定",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/ /ˈænd/ /dɪsˈaɪdɪd/"
+	},
+	{
+		"english": "she gave a little shiver and decided it",
+		"chinese": "她微微颤抖了一下，决定……",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/ /ˈænd/ /dɪsˈaɪdɪd/ /ɪt/"
+	},
+	{
+		"english": "she gave a little shiver and decided it was",
+		"chinese": "她微微颤抖了一下，决定那是",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/ /ˈænd/ /dɪsˈaɪdɪd/ /ɪt/ /wˈɔːz/"
+	},
+	{
+		"english": "she gave a little shiver and decided it was time",
+		"chinese": "她微微颤抖了一下，觉得是时候了",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/ /ˈænd/ /dɪsˈaɪdɪd/ /ɪt/ /wˈɔːz/ /tˈaɪm/"
+	},
+	{
+		"english": "she gave a little shiver and decided it was time to",
+		"chinese": "她微微颤抖了一下，决定是时候了",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/ /ˈænd/ /dɪsˈaɪdɪd/ /ɪt/ /wˈɔːz/ /tˈaɪm/ /tə/"
+	},
+	{
+		"english": "she gave a little shiver and decided it was time to move",
+		"chinese": "她微微颤抖了一下，决定是时候行动了",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/ /ˈænd/ /dɪsˈaɪdɪd/ /ɪt/ /wˈɔːz/ /tˈaɪm/ /tə/ /mˈuːv/"
+	},
+	{
+		"english": "she gave a little shiver and decided it was time to move inside",
+		"chinese": "她微微颤抖了一下，决定是时候进屋了",
+		"soundmark": "/ʃˈiː/ /ɡˈeɪv/ /ˈeɪ/ /lˈɪtəl/ /ʃˈɪvɜː/ /ˈænd/ /dɪsˈaɪdɪd/ /ɪt/ /wˈɔːz/ /tˈaɪm/ /tə/ /mˈuːv/ /ˈɪnsˌaɪd/"
+	},
+	{
+		"english": "this",
+		"chinese": "这个",
+		"soundmark": "/ðɪs/"
+	},
+	{
+		"english": "this was",
+		"chinese": "这就是",
+		"soundmark": "/ðɪs/ /wˈɔːz/"
+	},
+	{
+		"english": "this was to",
+		"chinese": "这是为了",
+		"soundmark": "/ðɪs/ /wˈɔːz/ /tə/"
+	},
+	{
+		"english": "this was to be",
+		"chinese": "这原本是",
+		"soundmark": "/ðɪs/ /wˈɔːz/ /tə/ /biː/"
+	},
+	{
+		"english": "this was to be her",
+		"chinese": "这将是她的",
+		"soundmark": "/ðɪs/ /wˈɔːz/ /tə/ /biː/ /hˈɜː/"
+	},
+	{
+		"english": "this was to be her last",
+		"chinese": "这将是她的最后一次",
+		"soundmark": "/ðɪs/ /wˈɔːz/ /tə/ /biː/ /hˈɜː/ /lˈæs/"
+	},
+	{
+		"english": "this was to be her last evening",
+		"chinese": "这是她的最后一个晚上",
+		"soundmark": "/ðɪs/ /wˈɔːz/ /tə/ /biː/ /hˈɜː/ /lˈæs/ /ˈiːvnɪŋ/"
+	},
+	{
+		"english": "this was to be her last evening alone",
+		"chinese": "这是她独自度过的最后一个晚上",
+		"soundmark": "/ðɪs/ /wˈɔːz/ /tə/ /biː/ /hˈɜː/ /lˈæs/ /ˈiːvnɪŋ/ /əlˈoʊn/"
+	},
+	{
+		"english": "this was to be her last evening alone as",
+		"chinese": "这是她独自度过的最后一个夜晚",
+		"soundmark": "/ðɪs/ /wˈɔːz/ /tə/ /biː/ /hˈɜː/ /lˈæs/ /ˈiːvnɪŋ/ /əlˈoʊn/ /ˈɛːz/"
+	},
+	{
+		"english": "this was to be her last evening alone as jeff",
+		"chinese": "这将是她独自度过的最后一个夜晚，杰夫",
+		"soundmark": "/ðɪs/ /wˈɔːz/ /tə/ /biː/ /hˈɜː/ /lˈæs/ /ˈiːvnɪŋ/ /əlˈoʊn/ /ˈɛːz/ /dʒˈɛːf/"
+	},
+	{
+		"english": "her",
+		"chinese": "她",
+		"soundmark": "/hˈɜː/"
+	},
+	{
+		"english": "her former",
+		"chinese": "她以前的",
+		"soundmark": "/hˈɜː/ /fˈɔːrmɜː/"
+	},
+	{
+		"english": "her former mate",
+		"chinese": "她的前伴侣",
+		"soundmark": "/hˈɜː/ /fˈɔːrmɜː/ /mˈeɪt/"
+	},
+	{
+		"english": "would",
+		"chinese": "会",
+		"soundmark": "/wˈʊd/"
+	},
+	{
+		"english": "would be",
+		"chinese": "将会是",
+		"soundmark": "/wˈʊd/ /biː/"
+	},
+	{
+		"english": "would be returning",
+		"chinese": "将会返回",
+		"soundmark": "/wˈʊd/ /biː/ /riːtˈɜːnɪŋ/"
+	},
+	{
+		"english": "would be returning zac",
+		"chinese": "将会带回扎克",
+		"soundmark": "/wˈʊd/ /biː/ /riːtˈɜːnɪŋ/"
+	},
+	{
+		"english": "would be returning zac to",
+		"chinese": "将把扎克送回",
+		"soundmark": "/wˈʊd/ /biː/ /riːtˈɜːnɪŋ/ /tə/"
+	},
+	{
+		"english": "would be returning zac to her",
+		"chinese": "会把扎克带回给她",
+		"soundmark": "/wˈʊd/ /biː/ /riːtˈɜːnɪŋ/ /tə/ /hˈɜː/"
+	},
+	{
+		"english": "would be returning zac to her early",
+		"chinese": "会把扎克送回她早上的时间",
+		"soundmark": "/wˈʊd/ /biː/ /riːtˈɜːnɪŋ/ /tə/ /hˈɜː/ /ˈɜːliː/"
+	},
+	{
+		"english": "would be returning zac to her early in",
+		"chinese": "会早些时候把扎克送回给她",
+		"soundmark": "/wˈʊd/ /biː/ /riːtˈɜːnɪŋ/ /tə/ /hˈɜː/ /ˈɜːliː/ /ˈɪn/"
+	},
+	{
+		"english": "would be returning zac to her early in the",
+		"chinese": "会早些时候把扎克送回给她",
+		"soundmark": "/wˈʊd/ /biː/ /riːtˈɜːnɪŋ/ /tə/ /hˈɜː/ /ˈɜːliː/ /ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "would be returning zac to her early in the morning",
+		"chinese": "会在清晨把扎克送回给她",
+		"soundmark": "/wˈʊd/ /biː/ /riːtˈɜːnɪŋ/ /tə/ /hˈɜː/ /ˈɜːliː/ /ˈɪn/ /ðiː/ /mˈɔːrnɪŋ/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as the",
+		"chinese": "因为",
+		"soundmark": "/ˈɛːz/ /ðiː/"
+	},
+	{
+		"english": "as the case",
+		"chinese": "如情况所是",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈeɪs/"
+	},
+	{
+		"english": "as the case in",
+		"chinese": "正如情况所是",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈeɪs/ /ˈɪn/"
+	},
+	{
+		"english": "as the case in many",
+		"chinese": "就像许多情况一样",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈeɪs/ /ˈɪn/ /mˈɛːniː/"
+	},
+	{
+		"english": "as the case in many marriages",
+		"chinese": "就像许多婚姻一样",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈeɪs/ /ˈɪn/ /mˈɛːniː/ /mˈɛːrɪdʒɪz/"
+	},
+	{
+		"english": "as the case in many marriages these",
+		"chinese": "就像许多婚姻中的情况一样",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈeɪs/ /ˈɪn/ /mˈɛːniː/ /mˈɛːrɪdʒɪz/ /ðˈiːz/"
+	},
+	{
+		"english": "as the case in many marriages these days",
+		"chinese": "就像如今许多婚姻的情况一样",
+		"soundmark": "/ˈɛːz/ /ðiː/ /kˈeɪs/ /ˈɪn/ /mˈɛːniː/ /mˈɛːrɪdʒɪz/ /ðˈiːz/ /dˈeɪz/"
+	},
+	{
+		"english": "problems",
+		"chinese": "问题",
+		"soundmark": "/prˈɑːbləmz/"
+	},
+	{
+		"english": "problems had",
+		"chinese": "问题存在",
+		"soundmark": "/prˈɑːbləmz/ /hˈæd/"
+	},
+	{
+		"english": "problems had arisen",
+		"chinese": "已经出现了问题",
+		"soundmark": "/prˈɑːbləmz/ /hˈæd/ /ɜːˈɪzən/"
+	},
+	{
+		"english": "problems had arisen between",
+		"chinese": "之间出现了问题",
+		"soundmark": "/prˈɑːbləmz/ /hˈæd/ /ɜːˈɪzən/ /biːtwˈiːn/"
+	},
+	{
+		"english": "problems had arisen between lesley",
+		"chinese": "莱斯利之间出现了问题",
+		"soundmark": "/prˈɑːbləmz/ /hˈæd/ /ɜːˈɪzən/ /biːtwˈiːn/ /lˈɛːsliː/"
+	},
+	{
+		"english": "problems had arisen between lesley and",
+		"chinese": "莱斯利之间出现了问题",
+		"soundmark": "/prˈɑːbləmz/ /hˈæd/ /ɜːˈɪzən/ /biːtwˈiːn/ /lˈɛːsliː/ /ˈænd/"
+	},
+	{
+		"english": "problems had arisen between lesley and jeff",
+		"chinese": "莱斯利和杰夫之间出现了问题",
+		"soundmark": "/prˈɑːbləmz/ /hˈæd/ /ɜːˈɪzən/ /biːtwˈiːn/ /lˈɛːsliː/ /ˈænd/ /dʒˈɛːf/"
+	},
+	{
+		"english": "but",
+		"chinese": "但",
+		"soundmark": "/bˈət/"
+	},
+	{
+		"english": "but they",
+		"chinese": "但她们",
+		"soundmark": "/bˈət/ /ðˈeɪ/"
+	},
+	{
+		"english": "but they did",
+		"chinese": "但他们确实这么做了",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /dɪd/"
+	},
+	{
+		"english": "but they did not",
+		"chinese": "但他们没有",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /dɪd/ /nˈɑːt/"
+	},
+	{
+		"english": "but they did not extend",
+		"chinese": "但他们没有延伸",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /dɪd/ /nˈɑːt/ /ɪkstˈɛːnd/"
+	},
+	{
+		"english": "but they did not extend to",
+		"chinese": "但他们并未扩展至",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /dɪd/ /nˈɑːt/ /ɪkstˈɛːnd/ /tə/"
+	},
+	{
+		"english": "but they did not extend to zac",
+		"chinese": "但他们没有扩展到扎克",
+		"soundmark": "/bˈət/ /ðˈeɪ/ /dɪd/ /nˈɑːt/ /ɪkstˈɛːnd/ /tə/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he was",
+		"chinese": "他",
+		"soundmark": "/hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "he was a",
+		"chinese": "他是一个",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈeɪ/"
+	},
+	{
+		"english": "he was a good",
+		"chinese": "他很不错",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈeɪ/ /ɡɪd/"
+	},
+	{
+		"english": "he was a good kid",
+		"chinese": "他是个好孩子",
+		"soundmark": "/hˈiː/ /wˈɔːz/ /ˈeɪ/ /ɡɪd/ /kˈɪd/"
+	},
+	{
+		"english": "just",
+		"chinese": "只是",
+		"soundmark": "/dʒɪst/"
+	},
+	{
+		"english": "just entering",
+		"chinese": "刚刚进入",
+		"soundmark": "/dʒɪst/ /ˈɛːnɜːɪŋ/"
+	},
+	{
+		"english": "just entering kindergarten",
+		"chinese": "刚进入幼儿园",
+		"soundmark": "/dʒɪst/ /ˈɛːnɜːɪŋ/ /kˈɪndɜːɡˌɑːrtən/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the couple",
+		"chinese": "这对夫妇",
+		"soundmark": "/ðiː/ /kˈəpəl/"
+	},
+	{
+		"english": "the couple had",
+		"chinese": "这对夫妇有",
+		"soundmark": "/ðiː/ /kˈəpəl/ /hˈæd/"
+	},
+	{
+		"english": "the couple had come",
+		"chinese": "这对夫妇来了",
+		"soundmark": "/ðiː/ /kˈəpəl/ /hˈæd/ /kˈəm/"
+	},
+	{
+		"english": "the couple had come to",
+		"chinese": "这对夫妇已经来了",
+		"soundmark": "/ðiː/ /kˈəpəl/ /hˈæd/ /kˈəm/ /tə/"
+	},
+	{
+		"english": "the couple had come to a",
+		"chinese": "这对夫妇已经到了",
+		"soundmark": "/ðiː/ /kˈəpəl/ /hˈæd/ /kˈəm/ /tə/ /ˈeɪ/"
+	},
+	{
+		"english": "the couple had come to a mutual",
+		"chinese": "这对夫妇达成了共识",
+		"soundmark": "/ðiː/ /kˈəpəl/ /hˈæd/ /kˈəm/ /tə/ /ˈeɪ/ /mjˈuːtʃəwəl/"
+	},
+	{
+		"english": "the couple had come to a mutual agreement",
+		"chinese": "这对夫妇达成了共同协议",
+		"soundmark": "/ðiː/ /kˈəpəl/ /hˈæd/ /kˈəm/ /tə/ /ˈeɪ/ /mjˈuːtʃəwəl/ /əɡrˈiːmənt/"
+	},
+	{
+		"english": "as",
+		"chinese": "作为",
+		"soundmark": "/ˈɛːz/"
+	},
+	{
+		"english": "as dictated",
+		"chinese": "如指示所示",
+		"soundmark": "/ˈɛːz/ /dˈɪktˌeɪtɪd/"
+	},
+	{
+		"english": "as dictated by",
+		"chinese": "按照……指示",
+		"soundmark": "/ˈɛːz/ /dˈɪktˌeɪtɪd/ /bˈaɪ/"
+	},
+	{
+		"english": "as dictated by the",
+		"chinese": "按照指示",
+		"soundmark": "/ˈɛːz/ /dˈɪktˌeɪtɪd/ /bˈaɪ/ /ðiː/"
+	},
+	{
+		"english": "as dictated by the legal",
+		"chinese": "按照法律规定",
+		"soundmark": "/ˈɛːz/ /dˈɪktˌeɪtɪd/ /bˈaɪ/ /ðiː/ /lˈiːɡəl/"
+	},
+	{
+		"english": "as dictated by the legal custody",
+		"chinese": "按照法律监护规定",
+		"soundmark": "/ˈɛːz/ /dˈɪktˌeɪtɪd/ /bˈaɪ/ /ðiː/ /lˈiːɡəl/ /kˈəstədiː/"
+	},
+	{
+		"english": "as dictated by the legal custody agreement",
+		"chinese": "根据法律监护协议的规定",
+		"soundmark": "/ˈɛːz/ /dˈɪktˌeɪtɪd/ /bˈaɪ/ /ðiː/ /lˈiːɡəl/ /kˈəstədiː/ /əɡrˈiːmənt/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it stated",
+		"chinese": "它说明",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/"
+	},
+	{
+		"english": "it stated that",
+		"chinese": "它指出",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/"
+	},
+	{
+		"english": "it stated that each",
+		"chinese": "它指出，每一个",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/"
+	},
+	{
+		"english": "it stated that each parent",
+		"chinese": "它指出每个父母",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/"
+	},
+	{
+		"english": "it stated that each parent would",
+		"chinese": "它指出，每位父母都会",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/"
+	},
+	{
+		"english": "it stated that each parent would share",
+		"chinese": "声明说每位父母将共同承担",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/"
+	},
+	{
+		"english": "it stated that each parent would share zac",
+		"chinese": "声明说每位父母将共同承担zac",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/"
+	},
+	{
+		"english": "it stated that each parent would share zac s",
+		"chinese": "它指出，每位父母都将分享扎克的东西",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/"
+	},
+	{
+		"english": "it stated that each parent would share zac s care",
+		"chinese": "声明说每位父母都将共同照顾扎克",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/"
+	},
+	{
+		"english": "it stated that each parent would share zac s care every",
+		"chinese": "它指出，每位父母都将共同承担扎克的生活照料责任",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/"
+	},
+	{
+		"english": "it stated that each parent would share zac s care every second",
+		"chinese": "它指出，每位父母都会每两分钟照顾一次扎克。",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/"
+	},
+	{
+		"english": "it stated that each parent would share zac s care every second weekend",
+		"chinese": "声明称，每个父母将在每个第二个周末共同照顾扎克",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/"
+	},
+	{
+		"english": "it stated that each parent would share zac s care every second weekend and",
+		"chinese": "它指出，每位父母会在每个第二个周末共同照顾扎克。",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/"
+	},
+	{
+		"english": "it stated that each parent would share zac s care every second weekend and this",
+		"chinese": "声明说每位父母会在每个第二个周末共同照顾扎克。",
+		"soundmark": "/ɪt/ /stˈeɪtɪd/ /ðət/ /ˈiːtʃ/ /pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/ /ðɪs/"
+	},
+	{
+		"english": "parent would share zac s care every second weekend and this had",
+		"chinese": "父母每两个周末都会帮忙照顾扎克，这已经……",
+		"soundmark": "/pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/ /ðɪs/ /hˈæd/"
+	},
+	{
+		"english": "parent would share zac s care every second weekend and this had been",
+		"chinese": "父母每两个周末都会帮忙照顾扎克，这种情况一直如此",
+		"soundmark": "/pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/ /ðɪs/ /hˈæd/ /bɪn/"
+	},
+	{
+		"english": "parent would share zac s care every second weekend and this had been her",
+		"chinese": "父母每两个周末都会陪伴扎克，而这一直是她的习惯",
+		"soundmark": "/pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/ /ðɪs/ /hˈæd/ /bɪn/ /hˈɜː/"
+	},
+	{
+		"english": "parent would share zac s care every second weekend and this had been her weekend",
+		"chinese": "父母每两个周末都会陪伴扎克，而这个周末就是她的周末",
+		"soundmark": "/pˈɛːrənt/ /wˈʊd/ /ʃˈɛːr/ /ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/ /ðɪs/ /hˈæd/ /bɪn/ /hˈɜː/ /wˈiːkˌɪnd/"
+	},
+	{
+		"english": "s care every second weekend and this had been her weekend to",
+		"chinese": "每个周末都很用心，而这个周末正是她的……",
+		"soundmark": "/ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/ /ðɪs/ /hˈæd/ /bɪn/ /hˈɜː/ /wˈiːkˌɪnd/ /tə/"
+	},
+	{
+		"english": "s care every second weekend and this had been her weekend to be",
+		"chinese": "每个周末都很用心，这个周末本该是她的周末",
+		"soundmark": "/ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/ /ðɪs/ /hˈæd/ /bɪn/ /hˈɜː/ /wˈiːkˌɪnd/ /tə/ /biː/"
+	},
+	{
+		"english": "s care every second weekend and this had been her weekend to be alone",
+		"chinese": "每个周末都很小心，而这个周末正是她独处的时光",
+		"soundmark": "/ˈɛːs/ /kˈɛːr/ /ˈɛːvriː/ /sˈɛːkən/ /wˈiːkˌɪnd/ /ˈænd/ /ðɪs/ /hˈæd/ /bɪn/ /hˈɜː/ /wˈiːkˌɪnd/ /tə/ /biː/ /əlˈoʊn/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the next",
+		"chinese": "下一个",
+		"soundmark": "/ðiː/ /nˈɛːks/"
+	}
+]

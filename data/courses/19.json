@@ -1,0 +1,957 @@
+[
+	{
+		"english": "before",
+		"chinese": "之前",
+		"soundmark": "/bˌiːfˈɔːr/"
+	},
+	{
+		"english": "before canada",
+		"chinese": "在加拿大之前",
+		"soundmark": "/bˌiːfˈɔːr/ /kˈænədə/"
+	},
+	{
+		"english": "before canada became",
+		"chinese": "在加拿大成为之前",
+		"soundmark": "/bˌiːfˈɔːr/ /kˈænədə/ /biːkˈeɪm/"
+	},
+	{
+		"english": "before canada became a",
+		"chinese": "在加拿大成为……之前",
+		"soundmark": "/bˌiːfˈɔːr/ /kˈænədə/ /biːkˈeɪm/ /ˈeɪ/"
+	},
+	{
+		"english": "before canada became a nation",
+		"chinese": "在加拿大成为独立国家之前",
+		"soundmark": "/bˌiːfˈɔːr/ /kˈænədə/ /biːkˈeɪm/ /ˈeɪ/ /nˈeɪʃən/"
+	},
+	{
+		"english": "before canada became a nation in",
+		"chinese": "在加拿大成为独立国家之前",
+		"soundmark": "/bˌiːfˈɔːr/ /kˈænədə/ /biːkˈeɪm/ /ˈeɪ/ /nˈeɪʃən/ /ˈɪn/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the area",
+		"chinese": "该区域",
+		"soundmark": "/ðiː/ /ˈɛːriːə/"
+	},
+	{
+		"english": "the area of",
+		"chinese": "区域面积",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/"
+	},
+	{
+		"english": "the area of north",
+		"chinese": "北部地区",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/"
+	},
+	{
+		"english": "the area of north america",
+		"chinese": "北美地区",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/"
+	},
+	{
+		"english": "the area of north america that",
+		"chinese": "北美洲的那个地区",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/"
+	},
+	{
+		"english": "the area of north america that now",
+		"chinese": "目前北美地区的范围",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/"
+	},
+	{
+		"english": "the area of north america that now composes",
+		"chinese": "现在构成北美洲的区域",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/"
+	},
+	{
+		"english": "the area of north america that now composes canada",
+		"chinese": "现在构成加拿大的北美地区",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/"
+	},
+	{
+		"english": "the area of north america that now composes canada was",
+		"chinese": "现在构成加拿大的北美地区",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/"
+	},
+	{
+		"english": "the area of north america that now composes canada was a",
+		"chinese": "现在构成加拿大的北美地区曾经是",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/"
+	},
+	{
+		"english": "the area of north america that now composes canada was a large",
+		"chinese": "现在构成加拿大的北美地区曾经是一个巨大的区域",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/"
+	},
+	{
+		"english": "the area of north america that now composes canada was a large expanse",
+		"chinese": "现在构成加拿大的北美地区曾是一片广袤之地",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/"
+	},
+	{
+		"english": "the area of north america that now composes canada was a large expanse of",
+		"chinese": "现在构成加拿大的北美地区曾经是一片广阔的地域",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/"
+	},
+	{
+		"english": "the area of north america that now composes canada was a large expanse of widely",
+		"chinese": "现在构成加拿大的北美地区曾经是一片广阔的区域。",
+		"soundmark": "/ðiː/ /ˈɛːriːə/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/ /wˈaɪdliː/"
+	},
+	{
+		"english": "america that now composes canada was a large expanse of widely scattered",
+		"chinese": "现在构成加拿大的美洲是一片分布广泛的广阔区域",
+		"soundmark": "/əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/ /wˈaɪdliː/ /skˈætɜːd/"
+	},
+	{
+		"english": "america that now composes canada was a large expanse of widely scattered communities",
+		"chinese": "如今构成加拿大的美洲地区，是一片分布广泛的众多社区组成的广阔区域",
+		"soundmark": "/əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/ /wˈaɪdliː/ /skˈætɜːd/ /kəmjˈuːnɪtiːz/"
+	},
+	{
+		"english": "america that now composes canada was a large expanse of widely scattered communities of",
+		"chinese": "如今构成加拿大的美洲，是一片分布广泛的分散社区构成的广阔区域",
+		"soundmark": "/əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/ /wˈaɪdliː/ /skˈætɜːd/ /kəmjˈuːnɪtiːz/ /əv/"
+	},
+	{
+		"english": "america that now composes canada was a large expanse of widely scattered communities of british",
+		"chinese": "如今构成加拿大的美洲，曾是一片分布广泛的英国社区群集之地",
+		"soundmark": "/əmˈɛːrɪkə/ /ðət/ /nˈaʊ/ /kəmpˈoʊzɪz/ /kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/ /wˈaɪdliː/ /skˈætɜːd/ /kəmjˈuːnɪtiːz/ /əv/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "canada was a large expanse of widely scattered communities of british and",
+		"chinese": "加拿大是一片广阔的区域，由众多分散的英国及",
+		"soundmark": "/kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/ /wˈaɪdliː/ /skˈætɜːd/ /kəmjˈuːnɪtiːz/ /əv/ /brˈɪtɪʃ/ /ˈænd/"
+	},
+	{
+		"english": "canada was a large expanse of widely scattered communities of british and french",
+		"chinese": "加拿大是一片广阔的区域，由英国和法国的众多分散社区组成",
+		"soundmark": "/kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/ /wˈaɪdliː/ /skˈætɜːd/ /kəmjˈuːnɪtiːz/ /əv/ /brˈɪtɪʃ/ /ˈænd/ /frˈɛːntʃ/"
+	},
+	{
+		"english": "canada was a large expanse of widely scattered communities of british and french origins",
+		"chinese": "加拿大是一片广阔的土地，由英国和法国起源的众多分散社区组成",
+		"soundmark": "/kˈænədə/ /wˈɔːz/ /ˈeɪ/ /lˈɑːrdʒ/ /ɪkspˈæns/ /əv/ /wˈaɪdliː/ /skˈætɜːd/ /kəmjˈuːnɪtiːz/ /əv/ /brˈɪtɪʃ/ /ˈænd/ /frˈɛːntʃ/ /ˈɔːrədʒɪnz/"
+	},
+	{
+		"english": "it",
+		"chinese": "它",
+		"soundmark": "/ɪt/"
+	},
+	{
+		"english": "it was",
+		"chinese": "就是",
+		"soundmark": "/ɪt/ /wˈɔːz/"
+	},
+	{
+		"english": "it was an",
+		"chinese": "那是",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/"
+	},
+	{
+		"english": "it was an area",
+		"chinese": "那是一个区域",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/"
+	},
+	{
+		"english": "it was an area with",
+		"chinese": "这是一个有……的区域",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/"
+	},
+	{
+		"english": "it was an area with diverse",
+		"chinese": "这是一个多样性丰富的地区",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/"
+	},
+	{
+		"english": "it was an area with diverse landscapes",
+		"chinese": "这是一个拥有多样景观的地区",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/"
+	},
+	{
+		"english": "it was an area with diverse landscapes that",
+		"chinese": "这是一个拥有多样景观的地区",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/"
+	},
+	{
+		"english": "it was an area with diverse landscapes that physically",
+		"chinese": "这是一个拥有多样地貌的地区，在物理上",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/"
+	},
+	{
+		"english": "it was an area with diverse landscapes that physically divided",
+		"chinese": "那是一个拥有多样景观的区域，这些景观在物理上将之地分割开来",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/"
+	},
+	{
+		"english": "it was an area with diverse landscapes that physically divided them",
+		"chinese": "那是一个拥有多样景观的区域，这些景观在物理上将他们分隔开",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/ /ðəm/"
+	},
+	{
+		"english": "it was an area with diverse landscapes that physically divided them from",
+		"chinese": "那是一个景观多样的地区，从物理上将他们分隔开。",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/ /ðəm/ /fɜːm/"
+	},
+	{
+		"english": "it was an area with diverse landscapes that physically divided them from the",
+		"chinese": "那是一个景观多样的地区，从物理上将他们与...区分开来。",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/ /ðəm/ /fɜːm/ /ðiː/"
+	},
+	{
+		"english": "it was an area with diverse landscapes that physically divided them from the north",
+		"chinese": "那是一个景观多样的地区，从物理上将他们与北方隔开。",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/ /ðəm/ /fɜːm/ /ðiː/ /nˈɔːrθ/"
+	},
+	{
+		"english": "it was an area with diverse landscapes that physically divided them from the north of",
+		"chinese": "那是一个景观多样的地区，从物理上将他们与北方分隔开来",
+		"soundmark": "/ɪt/ /wˈɔːz/ /ən/ /ˈɛːriːə/ /wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/ /ðəm/ /fɜːm/ /ðiː/ /nˈɔːrθ/ /əv/"
+	},
+	{
+		"english": "with diverse landscapes that physically divided them from the north of the",
+		"chinese": "拥有多样的景观，这些景观在物理上将他们与北方分隔开来",
+		"soundmark": "/wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/ /ðəm/ /fɜːm/ /ðiː/ /nˈɔːrθ/ /əv/ /ðiː/"
+	},
+	{
+		"english": "with diverse landscapes that physically divided them from the north of the united",
+		"chinese": "拥有多样的景观，这些景观在物理上将他们与北方隔开",
+		"soundmark": "/wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/ /ðəm/ /fɜːm/ /ðiː/ /nˈɔːrθ/ /əv/ /ðiː/ /juːnˈaɪtɪd/"
+	},
+	{
+		"english": "with diverse landscapes that physically divided them from the north of the united states",
+		"chinese": "拥有多样的景观，这些景观在物理上将他们与美国北部隔开",
+		"soundmark": "/wɪð/ /dɪvˈɜːs/ /lˈænskˌeɪps/ /ðət/ /fˈɪzɪkliː/ /dɪvˈaɪdəd/ /ðəm/ /fɜːm/ /ðiː/ /nˈɔːrθ/ /əv/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/"
+	},
+	{
+		"english": "there",
+		"chinese": "那里",
+		"soundmark": "/ðˈɛːr/"
+	},
+	{
+		"english": "there was",
+		"chinese": "有",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/"
+	},
+	{
+		"english": "there was little",
+		"chinese": "几乎没有",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /lˈɪtəl/"
+	},
+	{
+		"english": "there was little connection",
+		"chinese": "几乎没有联系",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /lˈɪtəl/ /kənˈɛːkʃən/"
+	},
+	{
+		"english": "there was little connection among",
+		"chinese": "之间几乎没有联系",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /lˈɪtəl/ /kənˈɛːkʃən/ /əmˈəŋ/"
+	},
+	{
+		"english": "there was little connection among communities",
+		"chinese": "各社区之间几乎没有联系",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /lˈɪtəl/ /kənˈɛːkʃən/ /əmˈəŋ/ /kəmjˈuːnɪtiːz/"
+	},
+	{
+		"english": "there was little connection among communities politically",
+		"chinese": "各社区在政治上几乎没有联系",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /lˈɪtəl/ /kənˈɛːkʃən/ /əmˈəŋ/ /kəmjˈuːnɪtiːz/ /plˈɪtɪkliː/"
+	},
+	{
+		"english": "there was little connection among communities politically or",
+		"chinese": "各社区在政治或方面几乎没有联系",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /lˈɪtəl/ /kənˈɛːkʃən/ /əmˈəŋ/ /kəmjˈuːnɪtiːz/ /plˈɪtɪkliː/ /ɜː/"
+	},
+	{
+		"english": "there was little connection among communities politically or economically",
+		"chinese": "各社区在政治或经济方面几乎没有联系",
+		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /lˈɪtəl/ /kənˈɛːkʃən/ /əmˈəŋ/ /kəmjˈuːnɪtiːz/ /plˈɪtɪkliː/ /ɜː/ /ˌiːkənˈɑːmɪkliː/"
+	},
+	{
+		"english": "these",
+		"chinese": "这些",
+		"soundmark": "/ðˈiːz/"
+	},
+	{
+		"english": "these colonies",
+		"chinese": "这些殖民地",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/"
+	},
+	{
+		"english": "these colonies of",
+		"chinese": "这些殖民地",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/"
+	},
+	{
+		"english": "these colonies of british",
+		"chinese": "这些英国殖民地",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "these colonies of british north",
+		"chinese": "这些英国北部的殖民地",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/"
+	},
+	{
+		"english": "these colonies of british north america",
+		"chinese": "这些英属北美洲殖民地",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/"
+	},
+	{
+		"english": "these colonies of british north america traditionally",
+		"chinese": "这些英国北美殖民地传统上",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/"
+	},
+	{
+		"english": "these colonies of british north america traditionally traded",
+		"chinese": "这些英属北美洲殖民地传统上进行贸易",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/ /trˈeɪdɪd/"
+	},
+	{
+		"english": "these colonies of british north america traditionally traded with",
+		"chinese": "这些英属北美殖民地传统上进行贸易",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/ /trˈeɪdɪd/ /wɪð/"
+	},
+	{
+		"english": "these colonies of british north america traditionally traded with britain",
+		"chinese": "这些英属北美殖民地传统上与英国进行贸易",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/ /trˈeɪdɪd/ /wɪð/ /brˈɪtən/"
+	},
+	{
+		"english": "these colonies of british north america traditionally traded with britain and",
+		"chinese": "这些英属北美殖民地传统上与英国进行贸易",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/ /trˈeɪdɪd/ /wɪð/ /brˈɪtən/ /ˈænd/"
+	},
+	{
+		"english": "these colonies of british north america traditionally traded with britain and with",
+		"chinese": "这些英属北美殖民地传统上与英国以及……进行贸易",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/ /trˈeɪdɪd/ /wɪð/ /brˈɪtən/ /ˈænd/ /wɪð/"
+	},
+	{
+		"english": "these colonies of british north america traditionally traded with britain and with the",
+		"chinese": "这些英属北美殖民地传统上与英国以及……进行贸易",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/ /trˈeɪdɪd/ /wɪð/ /brˈɪtən/ /ˈænd/ /wɪð/ /ðiː/"
+	},
+	{
+		"english": "these colonies of british north america traditionally traded with britain and with the united",
+		"chinese": "这些英属北美殖民地传统上与英国以及美国进行贸易",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/ /trˈeɪdɪd/ /wɪð/ /brˈɪtən/ /ˈænd/ /wɪð/ /ðiː/ /juːnˈaɪtɪd/"
+	},
+	{
+		"english": "these colonies of british north america traditionally traded with britain and with the united states",
+		"chinese": "这些英属北美殖民地传统上与英国和美国进行贸易",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /əv/ /brˈɪtɪʃ/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /trədˈɪʃnəliː/ /trˈeɪdɪd/ /wɪð/ /brˈɪtən/ /ˈænd/ /wɪð/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/"
+	},
+	{
+		"english": "very",
+		"chinese": "非常",
+		"soundmark": "/vˈɛːriː/"
+	},
+	{
+		"english": "very little",
+		"chinese": "非常少",
+		"soundmark": "/vˈɛːriː/ /lˈɪtəl/"
+	},
+	{
+		"english": "very little among",
+		"chinese": "几乎没有",
+		"soundmark": "/vˈɛːriː/ /lˈɪtəl/ /əmˈəŋ/"
+	},
+	{
+		"english": "very little among themselves",
+		"chinese": "彼此之间几乎没有",
+		"soundmark": "/vˈɛːriː/ /lˈɪtəl/ /əmˈəŋ/ /ðəmsˈɛːlvz/"
+	},
+	{
+		"english": "these",
+		"chinese": "这些",
+		"soundmark": "/ðˈiːz/"
+	},
+	{
+		"english": "these colonies",
+		"chinese": "这些殖民地",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/"
+	},
+	{
+		"english": "these colonies even",
+		"chinese": "这些殖民地甚至",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /ˈiːvɪn/"
+	},
+	{
+		"english": "these colonies even had",
+		"chinese": "这些殖民地甚至拥有",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /ˈiːvɪn/ /hˈæd/"
+	},
+	{
+		"english": "these colonies even had customs",
+		"chinese": "这些殖民地甚至拥有海关",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /ˈiːvɪn/ /hˈæd/ /kˈəstəmz/"
+	},
+	{
+		"english": "these colonies even had customs duties",
+		"chinese": "这些殖民地甚至有关税",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /ˈiːvɪn/ /hˈæd/ /kˈəstəmz/ /dˈuːtiːz/"
+	},
+	{
+		"english": "these colonies even had customs duties that",
+		"chinese": "这些殖民地甚至有关税制度",
+		"soundmark": "/ðˈiːz/ /kˈɑːləniːz/ /ˈiːvɪn/ /hˈæd/ /kˈəstəmz/ /dˈuːtiːz/ /ðət/"
+	},
+	{
+		"english": "to",
+		"chinese": "为了",
+		"soundmark": "/tə/"
+	},
+	{
+		"english": "to some",
+		"chinese": "到某些地方",
+		"soundmark": "/tə/ /sˈəm/"
+	},
+	{
+		"english": "to some extent",
+		"chinese": "在某种程度上",
+		"soundmark": "/tə/ /sˈəm/ /ɪkstˈɛːnt/"
+	},
+	{
+		"english": "restricted",
+		"chinese": "受限",
+		"soundmark": "/riːstrˈɪktɪd/"
+	},
+	{
+		"english": "restricted such",
+		"chinese": "限制此类",
+		"soundmark": "/riːstrˈɪktɪd/ /sˈətʃ/"
+	},
+	{
+		"english": "restricted such trade",
+		"chinese": "限制此类贸易",
+		"soundmark": "/riːstrˈɪktɪd/ /sˈətʃ/ /trˈeɪd/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "in the",
+		"chinese": "在……中",
+		"soundmark": "/ˈɪn/ /ðiː/"
+	},
+	{
+		"english": "in the mid",
+		"chinese": "在中间",
+		"soundmark": "/ˈɪn/ /ðiː/ /mˈɪd/"
+	},
+	{
+		"english": "in the mid s",
+		"chinese": "在中期",
+		"soundmark": "/ˈɪn/ /ðiː/ /mˈɪd/ /ˈɛːs/"
+	},
+	{
+		"english": "important",
+		"chinese": "重要",
+		"soundmark": "/ɪmpˈɔːrtənt/"
+	},
+	{
+		"english": "important events",
+		"chinese": "重要事件",
+		"soundmark": "/ɪmpˈɔːrtənt/ /iːvˈɛːnts/"
+	},
+	{
+		"english": "important events and",
+		"chinese": "重要事件和",
+		"soundmark": "/ɪmpˈɔːrtənt/ /iːvˈɛːnts/ /ˈænd/"
+	},
+	{
+		"english": "important events and changes",
+		"chinese": "重要事件与变化",
+		"soundmark": "/ɪmpˈɔːrtənt/ /iːvˈɛːnts/ /ˈænd/ /tʃˈeɪndʒɪz/"
+	},
+	{
+		"english": "important events and changes took",
+		"chinese": "重要的事件和变化发生了",
+		"soundmark": "/ɪmpˈɔːrtənt/ /iːvˈɛːnts/ /ˈænd/ /tʃˈeɪndʒɪz/ /tˈʊk/"
+	},
+	{
+		"english": "important events and changes took place",
+		"chinese": "重要的事件和变化发生了",
+		"soundmark": "/ɪmpˈɔːrtənt/ /iːvˈɛːnts/ /ˈænd/ /tʃˈeɪndʒɪz/ /tˈʊk/ /plˈeɪs/"
+	},
+	{
+		"english": "britain",
+		"chinese": "英国",
+		"soundmark": "/brˈɪtən/"
+	},
+	{
+		"english": "britain repealed",
+		"chinese": "英国废除了",
+		"soundmark": "/brˈɪtən/ /riːpˈiːld/"
+	},
+	{
+		"english": "britain repealed the",
+		"chinese": "英国废除了",
+		"soundmark": "/brˈɪtən/ /riːpˈiːld/ /ðiː/"
+	},
+	{
+		"english": "britain repealed the corn",
+		"chinese": "英国废除了玉米政策",
+		"soundmark": "/brˈɪtən/ /riːpˈiːld/ /ðiː/ /kˈɔːrn/"
+	},
+	{
+		"english": "britain repealed the corn laws",
+		"chinese": "英国废除了谷物法",
+		"soundmark": "/brˈɪtən/ /riːpˈiːld/ /ðiː/ /kˈɔːrn/ /lˈɔːz/"
+	},
+	{
+		"english": "britain repealed the corn laws and",
+		"chinese": "英国废除了谷物法",
+		"soundmark": "/brˈɪtən/ /riːpˈiːld/ /ðiː/ /kˈɔːrn/ /lˈɔːz/ /ˈænd/"
+	},
+	{
+		"english": "britain repealed the corn laws and navigations",
+		"chinese": "英国废除了谷物法与航海条例",
+		"soundmark": "/brˈɪtən/ /riːpˈiːld/ /ðiː/ /kˈɔːrn/ /lˈɔːz/ /ˈænd/ /nˌævəɡˈeɪʃən/"
+	},
+	{
+		"english": "britain repealed the corn laws and navigations acts",
+		"chinese": "英国废除了谷物法与航海法",
+		"soundmark": "/brˈɪtən/ /riːpˈiːld/ /ðiː/ /kˈɔːrn/ /lˈɔːz/ /ˈænd/ /nˌævəɡˈeɪʃən/ /ˈæks/"
+	},
+	{
+		"english": "which",
+		"chinese": "哪个",
+		"soundmark": "/hwˈɪtʃ/"
+	},
+	{
+		"english": "which had",
+		"chinese": "曾经拥有",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/"
+	},
+	{
+		"english": "which had been",
+		"chinese": "已经",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/ /bɪn/"
+	},
+	{
+		"english": "which had been economically",
+		"chinese": "这在经济上是有益的",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/ /bɪn/ /ˌiːkənˈɑːmɪkliː/"
+	},
+	{
+		"english": "which had been economically beneficial",
+		"chinese": "这具有经济上的好处",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/ /bɪn/ /ˌiːkənˈɑːmɪkliː/ /bˌɛːnəfˈɪʃəl/"
+	},
+	{
+		"english": "which had been economically beneficial to",
+		"chinese": "这对经济来说是有益的",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/ /bɪn/ /ˌiːkənˈɑːmɪkliː/ /bˌɛːnəfˈɪʃəl/ /tə/"
+	},
+	{
+		"english": "which had been economically beneficial to the",
+		"chinese": "这对经济来说是有益的",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/ /bɪn/ /ˌiːkənˈɑːmɪkliː/ /bˌɛːnəfˈɪʃəl/ /tə/ /ðiː/"
+	},
+	{
+		"english": "which had been economically beneficial to the colonies",
+		"chinese": "这对殖民地来说具有经济利益",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/ /bɪn/ /ˌiːkənˈɑːmɪkliː/ /bˌɛːnəfˈɪʃəl/ /tə/ /ðiː/ /kˈɑːləniːz/"
+	},
+	{
+		"english": "which had been economically beneficial to the colonies for",
+		"chinese": "这对殖民地来说具有经济利益",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/ /bɪn/ /ˌiːkənˈɑːmɪkliː/ /bˌɛːnəfˈɪʃəl/ /tə/ /ðiː/ /kˈɑːləniːz/ /frɜː/"
+	},
+	{
+		"english": "which had been economically beneficial to the colonies for generations",
+		"chinese": "这曾对殖民地产生了经济利益，持续了数代时间",
+		"soundmark": "/hwˈɪtʃ/ /hˈæd/ /bɪn/ /ˌiːkənˈɑːmɪkliː/ /bˌɛːnəfˈɪʃəl/ /tə/ /ðiː/ /kˈɑːləniːz/ /frɜː/ /dʒˌɛːnɜːˈeɪʃənz/"
+	},
+	{
+		"english": "britain",
+		"chinese": "英国",
+		"soundmark": "/brˈɪtən/"
+	},
+	{
+		"english": "britain began",
+		"chinese": "英国开始",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/"
+	},
+	{
+		"english": "britain began imposing",
+		"chinese": "英国开始实施",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/"
+	},
+	{
+		"english": "britain began imposing taxes",
+		"chinese": "英国开始征收税收",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/"
+	},
+	{
+		"english": "britain began imposing taxes on",
+		"chinese": "英国开始对……征税",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/"
+	},
+	{
+		"english": "britain began imposing taxes on the",
+		"chinese": "英国开始对……征税",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies",
+		"chinese": "英国开始对殖民地征收税项",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies at",
+		"chinese": "英国开始对殖民地征收税项",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies at the",
+		"chinese": "英国开始对殖民地征收税项",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies at the same",
+		"chinese": "英国开始对殖民地征收同样的税",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies at the same rate",
+		"chinese": "英国开始以相同的比例对殖民地征收税收",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/ /rˈeɪt/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies at the same rate it",
+		"chinese": "英国开始以相同的比例对殖民地征税",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/ /rˈeɪt/ /ɪt/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies at the same rate it applied",
+		"chinese": "英国开始以相同的比例对殖民地征税",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/ /rˈeɪt/ /ɪt/ /əplˈaɪd/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies at the same rate it applied to",
+		"chinese": "英国开始以与对本土相同的税率对殖民地征税",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/ /rˈeɪt/ /ɪt/ /əplˈaɪd/ /tə/"
+	},
+	{
+		"english": "britain began imposing taxes on the colonies at the same rate it applied to all",
+		"chinese": "英国开始以与对待所有其他地区相同的税率对殖民地征税",
+		"soundmark": "/brˈɪtən/ /biːɡˈæn/ /ɪmpˈoʊzɪŋ/ /tˈæksɪz/ /ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/ /rˈeɪt/ /ɪt/ /əplˈaɪd/ /tə/ /ˈɔːl/"
+	},
+	{
+		"english": "on the colonies at the same rate it applied to all other",
+		"chinese": "对殖民地采用与对待其他所有地区相同的标准",
+		"soundmark": "/ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/ /rˈeɪt/ /ɪt/ /əplˈaɪd/ /tə/ /ˈɔːl/ /ˈəðɜː/"
+	},
+	{
+		"english": "on the colonies at the same rate it applied to all other trading",
+		"chinese": "对殖民地采用与对待所有其他贸易相同的标准",
+		"soundmark": "/ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/ /rˈeɪt/ /ɪt/ /əplˈaɪd/ /tə/ /ˈɔːl/ /ˈəðɜː/ /trˈeɪdɪŋ/"
+	},
+	{
+		"english": "on the colonies at the same rate it applied to all other trading countries",
+		"chinese": "对殖民地采取与对待所有其他贸易国家相同的政策",
+		"soundmark": "/ˈɔːn/ /ðiː/ /kˈɑːləniːz/ /ˈæt/ /ðiː/ /sˈeɪm/ /rˈeɪt/ /ɪt/ /əplˈaɪd/ /tə/ /ˈɔːl/ /ˈəðɜː/ /trˈeɪdɪŋ/ /kˈəntriːz/"
+	},
+	{
+		"english": "a",
+		"chinese": "一个",
+		"soundmark": "/ˈeɪ/"
+	},
+	{
+		"english": "a situation",
+		"chinese": "一种情况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/"
+	},
+	{
+		"english": "a situation to",
+		"chinese": "一种情况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/ /tə/"
+	},
+	{
+		"english": "a situation to which",
+		"chinese": "一种情况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/ /tə/ /hwˈɪtʃ/"
+	},
+	{
+		"english": "a situation to which the",
+		"chinese": "一种情况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/ /tə/ /hwˈɪtʃ/ /ðiː/"
+	},
+	{
+		"english": "a situation to which the colonies",
+		"chinese": "殖民地所面临的状况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/ /tə/ /hwˈɪtʃ/ /ðiː/ /kˈɑːləniːz/"
+	},
+	{
+		"english": "a situation to which the colonies had",
+		"chinese": "殖民地所处的状况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/ /tə/ /hwˈɪtʃ/ /ðiː/ /kˈɑːləniːz/ /hˈæd/"
+	},
+	{
+		"english": "a situation to which the colonies had never",
+		"chinese": "一种殖民地从未经历过的状况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/ /tə/ /hwˈɪtʃ/ /ðiː/ /kˈɑːləniːz/ /hˈæd/ /nˈɛːvɜː/"
+	},
+	{
+		"english": "a situation to which the colonies had never been",
+		"chinese": "一种殖民地从未经历过的状况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/ /tə/ /hwˈɪtʃ/ /ðiː/ /kˈɑːləniːz/ /hˈæd/ /nˈɛːvɜː/ /bɪn/"
+	},
+	{
+		"english": "a situation to which the colonies had never been accustomed",
+		"chinese": "一种殖民地从未习惯过的状况",
+		"soundmark": "/ˈeɪ/ /sˌɪtʃuːˈeɪʃən/ /tə/ /hwˈɪtʃ/ /ðiː/ /kˈɑːləniːz/ /hˈæd/ /nˈɛːvɜː/ /bɪn/ /əkˈəstəmd/"
+	},
+	{
+		"english": "from",
+		"chinese": "来自",
+		"soundmark": "/fɜːm/"
+	},
+	{
+		"english": "from to",
+		"chinese": "从到",
+		"soundmark": "/fɜːm/ /tə/"
+	},
+	{
+		"english": "americans",
+		"chinese": "美国人",
+		"soundmark": "/əmˈɛːrɪkənz/"
+	},
+	{
+		"english": "americans were",
+		"chinese": "美国人",
+		"soundmark": "/əmˈɛːrɪkənz/ /wˈɜː/"
+	},
+	{
+		"english": "americans were involved",
+		"chinese": "美国人参与其中",
+		"soundmark": "/əmˈɛːrɪkənz/ /wˈɜː/ /ɪnvˈɑːlvd/"
+	},
+	{
+		"english": "americans were involved in",
+		"chinese": "美国人参与其中",
+		"soundmark": "/əmˈɛːrɪkənz/ /wˈɜː/ /ɪnvˈɑːlvd/ /ˈɪn/"
+	},
+	{
+		"english": "americans were involved in a",
+		"chinese": "美国人参与了……",
+		"soundmark": "/əmˈɛːrɪkənz/ /wˈɜː/ /ɪnvˈɑːlvd/ /ˈɪn/ /ˈeɪ/"
+	},
+	{
+		"english": "americans were involved in a major",
+		"chinese": "美国人参与了一项重大事件",
+		"soundmark": "/əmˈɛːrɪkənz/ /wˈɜː/ /ɪnvˈɑːlvd/ /ˈɪn/ /ˈeɪ/ /mˈeɪdʒɜː/"
+	},
+	{
+		"english": "americans were involved in a major civil",
+		"chinese": "美国人参与了一场重大民事事件",
+		"soundmark": "/əmˈɛːrɪkənz/ /wˈɜː/ /ɪnvˈɑːlvd/ /ˈɪn/ /ˈeɪ/ /mˈeɪdʒɜː/ /sˈɪvəl/"
+	},
+	{
+		"english": "americans were involved in a major civil war",
+		"chinese": "美国人卷入了一场严重的内战",
+		"soundmark": "/əmˈɛːrɪkənz/ /wˈɜː/ /ɪnvˈɑːlvd/ /ˈɪn/ /ˈeɪ/ /mˈeɪdʒɜː/ /sˈɪvəl/ /wˈɔːr/"
+	},
+	{
+		"english": "britain",
+		"chinese": "英国",
+		"soundmark": "/brˈɪtən/"
+	},
+	{
+		"english": "britain had",
+		"chinese": "英国曾经有",
+		"soundmark": "/brˈɪtən/ /hˈæd/"
+	},
+	{
+		"english": "britain had traditional",
+		"chinese": "英国有传统",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/"
+	},
+	{
+		"english": "britain had traditional economic",
+		"chinese": "英国拥有传统经济",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/"
+	},
+	{
+		"english": "britain had traditional economic ties",
+		"chinese": "英国拥有传统的经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/"
+	},
+	{
+		"english": "britain had traditional economic ties with",
+		"chinese": "英国拥有传统经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/"
+	},
+	{
+		"english": "britain had traditional economic ties with the",
+		"chinese": "英国与该地有传统经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/"
+	},
+	{
+		"english": "britain had traditional economic ties with the southern",
+		"chinese": "英国与南方有传统经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/"
+	},
+	{
+		"english": "britain had traditional economic ties with the southern part",
+		"chinese": "英国与南部地区有传统的经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/"
+	},
+	{
+		"english": "britain had traditional economic ties with the southern part of",
+		"chinese": "英国与南部地区有传统的经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/"
+	},
+	{
+		"english": "britain had traditional economic ties with the southern part of the",
+		"chinese": "英国与南部地区有传统的经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/"
+	},
+	{
+		"english": "britain had traditional economic ties with the southern part of the united",
+		"chinese": "英国与美国的南部地区有传统经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/ /juːnˈaɪtɪd/"
+	},
+	{
+		"english": "britain had traditional economic ties with the southern part of the united states",
+		"chinese": "英国与美国南部地区有传统的经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/"
+	},
+	{
+		"english": "britain had traditional economic ties with the southern part of the united states that",
+		"chinese": "英国与美国南部地区有传统经济联系",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/ /ðət/"
+	},
+	{
+		"english": "britain had traditional economic ties with the southern part of the united states that provided",
+		"chinese": "英国与美国南部地区有传统经济联系，这提供了……",
+		"soundmark": "/brˈɪtən/ /hˈæd/ /trədˈɪʃənəl/ /ˌiːkənˈɑːmɪk/ /tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/ /ðət/ /prəvˈaɪdɪd/"
+	},
+	{
+		"english": "ties with the southern part of the united states that provided cotton",
+		"chinese": "与美国南部地区的联系，那里生产棉花",
+		"soundmark": "/tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/ /ðət/ /prəvˈaɪdɪd/ /kˈɔːtən/"
+	},
+	{
+		"english": "ties with the southern part of the united states that provided cotton to",
+		"chinese": "与美国南部地区的联系，后者提供棉花",
+		"soundmark": "/tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/ /ðət/ /prəvˈaɪdɪd/ /kˈɔːtən/ /tə/"
+	},
+	{
+		"english": "ties with the southern part of the united states that provided cotton to british",
+		"chinese": "与美国南部地区的联系，后者为英国提供棉花",
+		"soundmark": "/tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/ /ðət/ /prəvˈaɪdɪd/ /kˈɔːtən/ /tə/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "ties with the southern part of the united states that provided cotton to british markets",
+		"chinese": "与美国南部地区的联系，后者为英国市场提供棉花",
+		"soundmark": "/tˈaɪz/ /wɪð/ /ðiː/ /sˈəðɜːn/ /pˈɑːrt/ /əv/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/ /ðət/ /prəvˈaɪdɪd/ /kˈɔːtən/ /tə/ /brˈɪtɪʃ/ /mˈɑːrkɪts/"
+	},
+	{
+		"english": "after",
+		"chinese": "之后",
+		"soundmark": "/ˈæftɜː/"
+	},
+	{
+		"english": "after much",
+		"chinese": "经过许多时间",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/"
+	},
+	{
+		"english": "after much complicated",
+		"chinese": "经过许多复杂的步骤",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/"
+	},
+	{
+		"english": "after much complicated debate",
+		"chinese": "经过多次复杂的讨论",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/"
+	},
+	{
+		"english": "after much complicated debate at",
+		"chinese": "经过多次复杂的讨论后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/"
+	},
+	{
+		"english": "after much complicated debate at another",
+		"chinese": "在另一个场合经过复杂的讨论之后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/ /ənˈəðɜː/"
+	},
+	{
+		"english": "after much complicated debate at another convention",
+		"chinese": "在另一个会议上经过多次复杂的讨论之后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/ /ənˈəðɜː/ /kənvˈɛːnʃən/"
+	},
+	{
+		"english": "after much complicated debate at another convention in",
+		"chinese": "在另一场会议上经过多次复杂的讨论后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/ /ənˈəðɜː/ /kənvˈɛːnʃən/ /ˈɪn/"
+	},
+	{
+		"english": "after much complicated debate at another convention in quebec",
+		"chinese": "在魁北克另一场会议上经过复杂的讨论之后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/ /ənˈəðɜː/ /kənvˈɛːnʃən/ /ˈɪn/ /kwəbˈɛːk/"
+	},
+	{
+		"english": "after much complicated debate at another convention in quebec city",
+		"chinese": "在魁北克市另一场会议上经过复杂的讨论之后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/ /ənˈəðɜː/ /kənvˈɛːnʃən/ /ˈɪn/ /kwəbˈɛːk/ /sˈɪtiː/"
+	},
+	{
+		"english": "after much complicated debate at another convention in quebec city that",
+		"chinese": "在魁北克市的另一场会议上经过多次复杂的讨论后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/ /ənˈəðɜː/ /kənvˈɛːnʃən/ /ˈɪn/ /kwəbˈɛːk/ /sˈɪtiː/ /ðət/"
+	},
+	{
+		"english": "after much complicated debate at another convention in quebec city that same",
+		"chinese": "在魁北克市另一场会议上经过多次复杂的讨论之后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/ /ənˈəðɜː/ /kənvˈɛːnʃən/ /ˈɪn/ /kwəbˈɛːk/ /sˈɪtiː/ /ðət/ /sˈeɪm/"
+	},
+	{
+		"english": "after much complicated debate at another convention in quebec city that same year",
+		"chinese": "同年在魁北克市的另一场会议上经过复杂的讨论后",
+		"soundmark": "/ˈæftɜː/ /mˈətʃ/ /kˈɑːmpləkˌeɪtəd/ /dəbˈeɪt/ /ˈæt/ /ənˈəðɜː/ /kənvˈɛːnʃən/ /ˈɪn/ /kwəbˈɛːk/ /sˈɪtiː/ /ðət/ /sˈeɪm/ /jˈɪr/"
+	},
+	{
+		"english": "the",
+		"chinese": "那个",
+		"soundmark": "/ðiː/"
+	},
+	{
+		"english": "the delegates",
+		"chinese": "代表们",
+		"soundmark": "/ðiː/ /dˈɛːləɡəts/"
+	},
+	{
+		"english": "the delegates submitted",
+		"chinese": "代表们提交了材料",
+		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/"
+	},
+	{
+		"english": "the delegates submitted a",
+		"chinese": "代表们提交了文件",
+		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/"
+	},
+	{
+		"english": "the delegates submitted a draft",
+		"chinese": "代表们提交了一份草案",
+		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/"
+	},
+	{
+		"english": "the delegates submitted a draft of",
+		"chinese": "代表们提交了一份草案",
+		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/"
+	}
+]

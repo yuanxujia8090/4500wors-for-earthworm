@@ -1,0 +1,1102 @@
+[
+	{
+		"english": "born",
+		"chinese": "出生",
+		"soundmark": "/bˈɔːrn/"
+	},
+	{
+		"english": "born in",
+		"chinese": "出生于",
+		"soundmark": "/bˈɔːrn/ /ˈɪn/"
+	},
+	{
+		"english": "born in canton",
+		"chinese": "出生于香港",
+		"soundmark": "/bˈɔːrn/ /ˈɪn/ /kˈæntən/"
+	},
+	{
+		"english": "born in canton in",
+		"chinese": "出生于香港",
+		"soundmark": "/bˈɔːrn/ /ˈɪn/ /kˈæntən/ /ˈɪn/"
+	},
+	{
+		"english": "left",
+		"chinese": "左边",
+		"soundmark": "/lˈɛːft/"
+	},
+	{
+		"english": "left china",
+		"chinese": "离开中国",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "left china at",
+		"chinese": "离开中国",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/"
+	},
+	{
+		"english": "left china at the",
+		"chinese": "离开中国",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/"
+	},
+	{
+		"english": "left china at the age",
+		"chinese": "在年龄时离开中国",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/"
+	},
+	{
+		"english": "left china at the age of",
+		"chinese": "在年龄时离开了中国",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/ /əv/"
+	},
+	{
+		"english": "left china at the age of nineteen",
+		"chinese": "十九岁时离开中国",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/ /əv/ /nˈaɪntˈiːn/"
+	},
+	{
+		"english": "left china at the age of nineteen to",
+		"chinese": "十九岁时离开了中国",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/ /əv/ /nˈaɪntˈiːn/ /tə/"
+	},
+	{
+		"english": "left china at the age of nineteen to seek",
+		"chinese": "十九岁时离开中国去寻求",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/ /əv/ /nˈaɪntˈiːn/ /tə/ /sˈiːk/"
+	},
+	{
+		"english": "left china at the age of nineteen to seek his",
+		"chinese": "十九岁时离开中国去寻求他的",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/ /əv/ /nˈaɪntˈiːn/ /tə/ /sˈiːk/ /hɪz/"
+	},
+	{
+		"english": "left china at the age of nineteen to seek his fortune",
+		"chinese": "十九岁时离开中国去寻求机遇",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/ /əv/ /nˈaɪntˈiːn/ /tə/ /sˈiːk/ /hɪz/ /fˈɔːrtʃuːn/"
+	},
+	{
+		"english": "left china at the age of nineteen to seek his fortune in",
+		"chinese": "十九岁时离开中国去寻求机遇",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/ /əv/ /nˈaɪntˈiːn/ /tə/ /sˈiːk/ /hɪz/ /fˈɔːrtʃuːn/ /ˈɪn/"
+	},
+	{
+		"english": "left china at the age of nineteen to seek his fortune in america",
+		"chinese": "十九岁时离开中国，去美国寻求发展机会",
+		"soundmark": "/lˈɛːft/ /tʃˈaɪnə/ /ˈæt/ /ðiː/ /ˈeɪdʒ/ /əv/ /nˈaɪntˈiːn/ /tə/ /sˈiːk/ /hɪz/ /fˈɔːrtʃuːn/ /ˈɪn/ /əmˈɛːrɪkə/"
+	},
+	{
+		"english": "after",
+		"chinese": "之后",
+		"soundmark": "/ˈæftɜː/"
+	},
+	{
+		"english": "after arriving",
+		"chinese": "到达后",
+		"soundmark": "/ˈæftɜː/ /ɜːˈaɪvɪŋ/"
+	},
+	{
+		"english": "after arriving in",
+		"chinese": "到达后",
+		"soundmark": "/ˈæftɜː/ /ɜːˈaɪvɪŋ/ /ˈɪn/"
+	},
+	{
+		"english": "after arriving in san",
+		"chinese": "到达圣城后",
+		"soundmark": "/ˈæftɜː/ /ɜːˈaɪvɪŋ/ /ˈɪn/ /sˈæn/"
+	},
+	{
+		"english": "after arriving in san francisco",
+		"chinese": "抵达旧金山后",
+		"soundmark": "/ˈæftɜː/ /ɜːˈaɪvɪŋ/ /ˈɪn/ /sˈæn/ /frænsˈɪskoʊ/"
+	},
+	{
+		"english": "after arriving in san francisco in",
+		"chinese": "抵达旧金山后",
+		"soundmark": "/ˈæftɜː/ /ɜːˈaɪvɪŋ/ /ˈɪn/ /sˈæn/ /frænsˈɪskoʊ/ /ˈɪn/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he earned",
+		"chinese": "他获得了",
+		"soundmark": "/hˈiː/ /ˈɜːnd/"
+	},
+	{
+		"english": "he earned a",
+		"chinese": "他赚到了",
+		"soundmark": "/hˈiː/ /ˈɜːnd/ /ˈeɪ/"
+	},
+	{
+		"english": "he earned a living",
+		"chinese": "他谋生谋业",
+		"soundmark": "/hˈiː/ /ˈɜːnd/ /ˈeɪ/ /lˈɪvɪŋ/"
+	},
+	{
+		"english": "he earned a living by",
+		"chinese": "他通过工作谋生",
+		"soundmark": "/hˈiː/ /ˈɜːnd/ /ˈeɪ/ /lˈɪvɪŋ/ /bˈaɪ/"
+	},
+	{
+		"english": "he earned a living by working",
+		"chinese": "他通过工作谋生",
+		"soundmark": "/hˈiː/ /ˈɜːnd/ /ˈeɪ/ /lˈɪvɪŋ/ /bˈaɪ/ /wˈɜːkɪŋ/"
+	},
+	{
+		"english": "he earned a living by working first",
+		"chinese": "他通过工作谋生，首先从事工作",
+		"soundmark": "/hˈiː/ /ˈɜːnd/ /ˈeɪ/ /lˈɪvɪŋ/ /bˈaɪ/ /wˈɜːkɪŋ/ /fˈɜːst/"
+	},
+	{
+		"english": "he earned a living by working first as",
+		"chinese": "他最初通过工作谋生，然后……",
+		"soundmark": "/hˈiː/ /ˈɜːnd/ /ˈeɪ/ /lˈɪvɪŋ/ /bˈaɪ/ /wˈɜːkɪŋ/ /fˈɜːst/ /ˈɛːz/"
+	},
+	{
+		"english": "he earned a living by working first as a",
+		"chinese": "他最初通过工作谋生，先是……",
+		"soundmark": "/hˈiː/ /ˈɜːnd/ /ˈeɪ/ /lˈɪvɪŋ/ /bˈaɪ/ /wˈɜːkɪŋ/ /fˈɜːst/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "he earned a living by working first as a dishwasher",
+		"chinese": "他最初做洗碗工来谋生",
+		"soundmark": "/hˈiː/ /ˈɜːnd/ /ˈeɪ/ /lˈɪvɪŋ/ /bˈaɪ/ /wˈɜːkɪŋ/ /fˈɜːst/ /ˈɛːz/ /ˈeɪ/ /dˈɪʃwˌɑːʃɜː/"
+	},
+	{
+		"english": "then",
+		"chinese": "然后",
+		"soundmark": "/ðˈɛːn/"
+	},
+	{
+		"english": "then as",
+		"chinese": "然后作为",
+		"soundmark": "/ðˈɛːn/ /ˈɛːz/"
+	},
+	{
+		"english": "then as a",
+		"chinese": "然后作为",
+		"soundmark": "/ðˈɛːn/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "then as a cook",
+		"chinese": "然后作为厨师",
+		"soundmark": "/ðˈɛːn/ /ˈɛːz/ /ˈeɪ/ /kˈʊk/"
+	},
+	{
+		"english": "and",
+		"chinese": "和",
+		"soundmark": "/ˈænd/"
+	},
+	{
+		"english": "and finally",
+		"chinese": "最后",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/"
+	},
+	{
+		"english": "and finally as",
+		"chinese": "最后作为",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/ /ˈɛːz/"
+	},
+	{
+		"english": "and finally as a",
+		"chinese": "最后作为",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "and finally as a cigar",
+		"chinese": "最后作为雪茄",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/ /ˈɛːz/ /ˈeɪ/ /sɪɡˈɑːr/"
+	},
+	{
+		"english": "and finally as a cigar roller",
+		"chinese": "最后作为雪茄卷压机",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/ /ˈɛːz/ /ˈeɪ/ /sɪɡˈɑːr/ /rˈoʊlɜː/"
+	},
+	{
+		"english": "from",
+		"chinese": "来自",
+		"soundmark": "/fɜːm/"
+	},
+	{
+		"english": "from the",
+		"chinese": "来自",
+		"soundmark": "/fɜːm/ /ðiː/"
+	},
+	{
+		"english": "from the outset",
+		"chinese": "从一开始",
+		"soundmark": "/fɜːm/ /ðiː/ /ˈaʊtsˌɛːt/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he perceived",
+		"chinese": "他感知到了",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/"
+	},
+	{
+		"english": "he perceived that",
+		"chinese": "他察觉到",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/"
+	},
+	{
+		"english": "he perceived that if",
+		"chinese": "他意识到如果……",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/"
+	},
+	{
+		"english": "he perceived that if he",
+		"chinese": "他意识到，如果他",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/"
+	},
+	{
+		"english": "he perceived that if he was",
+		"chinese": "他意识到，如果他……",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/"
+	},
+	{
+		"english": "he perceived that if he was patient",
+		"chinese": "他意识到如果他有耐心的话",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/"
+	},
+	{
+		"english": "he perceived that if he was patient and",
+		"chinese": "他意识到，如果他有耐心的话",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/ /ˈænd/"
+	},
+	{
+		"english": "he perceived that if he was patient and could",
+		"chinese": "他意识到，如果他有耐心并且能够……",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/ /ˈænd/ /kˈʊd/"
+	},
+	{
+		"english": "he perceived that if he was patient and could represent",
+		"chinese": "他意识到，如果他有耐心并且能够代表……",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/ /ˈænd/ /kˈʊd/ /rˌɛːprɪzˈɛːnt/"
+	},
+	{
+		"english": "he perceived that if he was patient and could represent the",
+		"chinese": "他意识到，如果他有耐心并且能够代表……",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/ /ˈænd/ /kˈʊd/ /rˌɛːprɪzˈɛːnt/ /ðiː/"
+	},
+	{
+		"english": "he perceived that if he was patient and could represent the best",
+		"chinese": "他认为，如果他有耐心并且能表现出最佳状态",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/ /ˈænd/ /kˈʊd/ /rˌɛːprɪzˈɛːnt/ /ðiː/ /bˈɛːst/"
+	},
+	{
+		"english": "he perceived that if he was patient and could represent the best of",
+		"chinese": "他意识到，如果他耐心一点，能够表现出最好的一面",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/ /ˈænd/ /kˈʊd/ /rˌɛːprɪzˈɛːnt/ /ðiː/ /bˈɛːst/ /əv/"
+	},
+	{
+		"english": "he perceived that if he was patient and could represent the best of his",
+		"chinese": "他意识到，如果他有耐心并能展现出自己最优秀的水平",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/ /ˈænd/ /kˈʊd/ /rˌɛːprɪzˈɛːnt/ /ðiː/ /bˈɛːst/ /əv/ /hɪz/"
+	},
+	{
+		"english": "he perceived that if he was patient and could represent the best of his race",
+		"chinese": "他意识到，如果他保持耐心并能够展现自己种族的最佳水平",
+		"soundmark": "/hˈiː/ /pɜːsˈiːvd/ /ðət/ /ɪf/ /hˈiː/ /wˈɔːz/ /pˈeɪʃənt/ /ˈænd/ /kˈʊd/ /rˌɛːprɪzˈɛːnt/ /ðiː/ /bˈɛːst/ /əv/ /hɪz/ /rˈeɪs/"
+	},
+	{
+		"english": "his",
+		"chinese": "他的",
+		"soundmark": "/hɪz/"
+	},
+	{
+		"english": "his merits",
+		"chinese": "他的优点",
+		"soundmark": "/hɪz/ /mˈɛːrɪts/"
+	},
+	{
+		"english": "his merits would",
+		"chinese": "他的优点将会",
+		"soundmark": "/hɪz/ /mˈɛːrɪts/ /wˈʊd/"
+	},
+	{
+		"english": "his merits would be",
+		"chinese": "他的优点将会",
+		"soundmark": "/hɪz/ /mˈɛːrɪts/ /wˈʊd/ /biː/"
+	},
+	{
+		"english": "his merits would be recognized",
+		"chinese": "他的功绩将会被认可",
+		"soundmark": "/hɪz/ /mˈɛːrɪts/ /wˈʊd/ /biː/ /rˈɛːkəɡnˌaɪzd/"
+	},
+	{
+		"english": "possibly",
+		"chinese": "可能",
+		"soundmark": "/pˈɑːsəbliː/"
+	},
+	{
+		"english": "possibly the",
+		"chinese": "可能地",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/"
+	},
+	{
+		"english": "possibly the attraction",
+		"chinese": "可能是吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/"
+	},
+	{
+		"english": "possibly the attraction of",
+		"chinese": "可能是吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/"
+	},
+	{
+		"english": "possibly the attraction of high",
+		"chinese": "可能是高值的吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/"
+	},
+	{
+		"english": "possibly the attraction of high wages",
+		"chinese": "可能是高工资的吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored",
+		"chinese": "可能是传闻中的高工资吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored to",
+		"chinese": "可能是传闻中的高工资吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored to be",
+		"chinese": "可能是传闻中的高工资吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored to be offered",
+		"chinese": "可能是传闻中提供的高工资所带来的吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored to be offered by",
+		"chinese": "可能是因为传闻中提供的高工资所产生的吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored to be offered by canadian",
+		"chinese": "可能是加拿大传闻提供的高薪的吸引力",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored to be offered by canadian railroad",
+		"chinese": "可能是加拿大铁路公司所承诺的高工资吸引力的原因",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored to be offered by canadian railroad companies",
+		"chinese": "可能是加拿大铁路公司所宣称的高工资吸引力的原因",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/ /kˈəmpəniːz/"
+	},
+	{
+		"english": "possibly the attraction of high wages rumored to be offered by canadian railroad companies roused",
+		"chinese": "可能是加拿大铁路公司所宣称的高工资吸引力引发了……",
+		"soundmark": "/pˈɑːsəbliː/ /ðiː/ /ətrˈækʃən/ /əv/ /hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/ /kˈəmpəniːz/ /rˈaʊzd/"
+	},
+	{
+		"english": "high wages rumored to be offered by canadian railroad companies roused yip",
+		"chinese": "加拿大铁路公司传闻提供的高工资引发了热潮",
+		"soundmark": "/hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/ /kˈəmpəniːz/ /rˈaʊzd/ /jˈɪp/"
+	},
+	{
+		"english": "high wages rumored to be offered by canadian railroad companies roused yip sang",
+		"chinese": "加拿大铁路公司传闻提供的高工资引发了欢呼声",
+		"soundmark": "/hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/ /kˈəmpəniːz/ /rˈaʊzd/ /jˈɪp/ /sˈæŋ/"
+	},
+	{
+		"english": "high wages rumored to be offered by canadian railroad companies roused yip sang to",
+		"chinese": "加拿大铁路公司传闻提供的高工资引发了欢呼声",
+		"soundmark": "/hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/ /kˈəmpəniːz/ /rˈaʊzd/ /jˈɪp/ /sˈæŋ/ /tə/"
+	},
+	{
+		"english": "high wages rumored to be offered by canadian railroad companies roused yip sang to leave",
+		"chinese": "加拿大铁路公司传闻提供的高工资引发了人们急于离开的情绪",
+		"soundmark": "/hˈaɪ/ /wˈeɪdʒɪz/ /rˈuːmɜːd/ /tə/ /biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/ /kˈəmpəniːz/ /rˈaʊzd/ /jˈɪp/ /sˈæŋ/ /tə/ /lˈiːv/"
+	},
+	{
+		"english": "be offered by canadian railroad companies roused yip sang to leave san",
+		"chinese": "加拿大铁路公司提供，激发了人们离开圣地的热情",
+		"soundmark": "/biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/ /kˈəmpəniːz/ /rˈaʊzd/ /jˈɪp/ /sˈæŋ/ /tə/ /lˈiːv/ /sˈæn/"
+	},
+	{
+		"english": "be offered by canadian railroad companies roused yip sang to leave san francisco",
+		"chinese": "加拿大铁路公司提供……激发了人们离开旧金山的热情",
+		"soundmark": "/biː/ /ˈɔːfɜːd/ /bˈaɪ/ /kənˈeɪdiːən/ /rˈeɪlrˌoʊd/ /kˈəmpəniːz/ /rˈaʊzd/ /jˈɪp/ /sˈæŋ/ /tə/ /lˈiːv/ /sˈæn/ /frænsˈɪskoʊ/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he arrived",
+		"chinese": "他到达了",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/"
+	},
+	{
+		"english": "he arrived in",
+		"chinese": "他到了",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/"
+	},
+	{
+		"english": "he arrived in vancouver",
+		"chinese": "他到达了温哥华",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/"
+	},
+	{
+		"english": "he arrived in vancouver in",
+		"chinese": "他抵达了温哥华",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/"
+	},
+	{
+		"english": "he arrived in vancouver in and",
+		"chinese": "他于某日抵达温哥华",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked",
+		"chinese": "他于某月某日抵达温哥华，并开始工作",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked on",
+		"chinese": "他抵达温哥华后开始工作",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked on the",
+		"chinese": "他抵达温哥华后开始工作",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked on the western",
+		"chinese": "他抵达温哥华后，在西部地区工作",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked on the western portion",
+		"chinese": "他抵达温哥华后，在西部地区工作",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/ /pˈɔːrʃən/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked on the western portion of",
+		"chinese": "他抵达温哥华后，在西部地区工作",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/ /pˈɔːrʃən/ /əv/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked on the western portion of the",
+		"chinese": "他抵达温哥华后，在西部地区工作。",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/ /pˈɔːrʃən/ /əv/ /ðiː/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked on the western portion of the canadian",
+		"chinese": "他抵达温哥华后，在加拿大的西部地区工作。",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/ /pˈɔːrʃən/ /əv/ /ðiː/ /kənˈeɪdiːən/"
+	},
+	{
+		"english": "he arrived in vancouver in and worked on the western portion of the canadian pacific",
+		"chinese": "他抵达温哥华后，在加拿大太平洋地区的西部地区工作。",
+		"soundmark": "/hˈiː/ /ɜːˈaɪvd/ /ˈɪn/ /vænkˈuːvɜː/ /ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/ /pˈɔːrʃən/ /əv/ /ðiː/ /kənˈeɪdiːən/ /pəsˈɪfɪk/"
+	},
+	{
+		"english": "in and worked on the western portion of the canadian pacific railroad",
+		"chinese": "在加拿大太平洋铁路的西部部分工作",
+		"soundmark": "/ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/ /pˈɔːrʃən/ /əv/ /ðiː/ /kənˈeɪdiːən/ /pəsˈɪfɪk/ /rˈeɪlrˌoʊd/"
+	},
+	{
+		"english": "in and worked on the western portion of the canadian pacific railroad from",
+		"chinese": "在加拿大太平洋铁路的西部部分工作",
+		"soundmark": "/ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/ /pˈɔːrʃən/ /əv/ /ðiː/ /kənˈeɪdiːən/ /pəsˈɪfɪk/ /rˈeɪlrˌoʊd/ /fɜːm/"
+	},
+	{
+		"english": "in and worked on the western portion of the canadian pacific railroad from until",
+		"chinese": "在加拿大太平洋铁路的西部部分工作直至",
+		"soundmark": "/ˈɪn/ /ˈænd/ /wˈɜːkt/ /ˈɔːn/ /ðiː/ /hwˈɛːstɜːn/ /pˈɔːrʃən/ /əv/ /ðiː/ /kənˈeɪdiːən/ /pəsˈɪfɪk/ /rˈeɪlrˌoʊd/ /fɜːm/ /əntˈɪl/"
+	},
+	{
+		"english": "first",
+		"chinese": "首先",
+		"soundmark": "/fˈɜːst/"
+	},
+	{
+		"english": "first as",
+		"chinese": "首先作为",
+		"soundmark": "/fˈɜːst/ /ˈɛːz/"
+	},
+	{
+		"english": "first as a",
+		"chinese": "首先作为",
+		"soundmark": "/fˈɜːst/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "first as a book",
+		"chinese": "最初作为一本书",
+		"soundmark": "/fˈɜːst/ /ˈɛːz/ /ˈeɪ/ /bˈʊk/"
+	},
+	{
+		"english": "first as a book keeper",
+		"chinese": "最初担任账房员",
+		"soundmark": "/fˈɜːst/ /ˈɛːz/ /ˈeɪ/ /bˈʊk/ /kˈiːpɜː/"
+	},
+	{
+		"english": "then",
+		"chinese": "然后",
+		"soundmark": "/ðˈɛːn/"
+	},
+	{
+		"english": "then as",
+		"chinese": "然后作为",
+		"soundmark": "/ðˈɛːn/ /ˈɛːz/"
+	},
+	{
+		"english": "then as a",
+		"chinese": "然后作为",
+		"soundmark": "/ðˈɛːn/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "then as a time",
+		"chinese": "然后作为时间",
+		"soundmark": "/ðˈɛːn/ /ˈɛːz/ /ˈeɪ/ /tˈaɪm/"
+	},
+	{
+		"english": "then as a time keeper",
+		"chinese": "然后作为时间记录员",
+		"soundmark": "/ðˈɛːn/ /ˈɛːz/ /ˈeɪ/ /tˈaɪm/ /kˈiːpɜː/"
+	},
+	{
+		"english": "and",
+		"chinese": "和",
+		"soundmark": "/ˈænd/"
+	},
+	{
+		"english": "and finally",
+		"chinese": "最后",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/"
+	},
+	{
+		"english": "and finally as",
+		"chinese": "最后作为",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/ /ˈɛːz/"
+	},
+	{
+		"english": "and finally as a",
+		"chinese": "最后作为",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "and finally as a paymaster",
+		"chinese": "最终作为发薪人",
+		"soundmark": "/ˈænd/ /fˈaɪnəliː/ /ˈɛːz/ /ˈeɪ/"
+	},
+	{
+		"english": "before",
+		"chinese": "之前",
+		"soundmark": "/bˌiːfˈɔːr/"
+	},
+	{
+		"english": "before being",
+		"chinese": "在……之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/"
+	},
+	{
+		"english": "before being promoted",
+		"chinese": "在晋升之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/ /prəmˈoʊtəd/"
+	},
+	{
+		"english": "before being promoted to",
+		"chinese": "在晋升之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/ /prəmˈoʊtəd/ /tə/"
+	},
+	{
+		"english": "before being promoted to chinese",
+		"chinese": "在晋升为中文之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/ /prəmˈoʊtəd/ /tə/ /tʃaɪnˈiːz/"
+	},
+	{
+		"english": "before being promoted to chinese superintendent",
+		"chinese": "在晋升为中国总监之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/ /prəmˈoʊtəd/ /tə/ /tʃaɪnˈiːz/ /sˌuːpɜːɪntˈɛːndənt/"
+	},
+	{
+		"english": "before being promoted to chinese superintendent for",
+		"chinese": "在被提升为中国总监之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/ /prəmˈoʊtəd/ /tə/ /tʃaɪnˈiːz/ /sˌuːpɜːɪntˈɛːndənt/ /frɜː/"
+	},
+	{
+		"english": "before being promoted to chinese superintendent for the",
+		"chinese": "在被提升为中国总监之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/ /prəmˈoʊtəd/ /tə/ /tʃaɪnˈiːz/ /sˌuːpɜːɪntˈɛːndənt/ /frɜː/ /ðiː/"
+	},
+	{
+		"english": "before being promoted to chinese superintendent for the supply",
+		"chinese": "在被提升为中国供应总监之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/ /prəmˈoʊtəd/ /tə/ /tʃaɪnˈiːz/ /sˌuːpɜːɪntˈɛːndənt/ /frɜː/ /ðiː/ /səplˈaɪ/"
+	},
+	{
+		"english": "before being promoted to chinese superintendent for the supply company",
+		"chinese": "在被提升为供应公司的中国主管之前",
+		"soundmark": "/bˌiːfˈɔːr/ /bˈiːɪŋ/ /prəmˈoʊtəd/ /tə/ /tʃaɪnˈiːz/ /sˌuːpɜːɪntˈɛːndənt/ /frɜː/ /ðiː/ /səplˈaɪ/ /kˈəmpəniː/"
+	},
+	{
+		"english": "this",
+		"chinese": "这个",
+		"soundmark": "/ðɪs/"
+	},
+	{
+		"english": "this promotion",
+		"chinese": "此促销活动",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/"
+	},
+	{
+		"english": "this promotion made",
+		"chinese": "这次促销很成功",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/"
+	},
+	{
+		"english": "this promotion made him",
+		"chinese": "这次促销让他……",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/"
+	},
+	{
+		"english": "this promotion made him responsible",
+		"chinese": "这次促销让他承担了责任",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/"
+	},
+	{
+		"english": "this promotion made him responsible for",
+		"chinese": "这次促销让他负有责任",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring",
+		"chinese": "这次推广让他负责招聘工作",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring on",
+		"chinese": "这次推广让他负责招聘工作",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring on contract",
+		"chinese": "这项促销让他负责通过合同招聘人员",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring on contract and",
+		"chinese": "这项推广让他负责合同雇佣工作",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring on contract and transporting",
+		"chinese": "这项推广让他负责合同雇佣和运输工作",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring on contract and transporting thousands",
+		"chinese": "这次推广让他负责合同雇佣和运输数千人",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring on contract and transporting thousands of",
+		"chinese": "这次推广让他负责合同雇佣以及运送数千人",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring on contract and transporting thousands of men",
+		"chinese": "这项推广任务让他负责签订合同招聘以及运送数千名士兵",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/"
+	},
+	{
+		"english": "this promotion made him responsible for hiring on contract and transporting thousands of men from",
+		"chinese": "这项推广让他负责签订合同招聘，并运送数千名士兵",
+		"soundmark": "/ðɪs/ /pɜːmˈoʊʃən/ /mˈeɪd/ /ɪm/ /riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/"
+	},
+	{
+		"english": "responsible for hiring on contract and transporting thousands of men from china",
+		"chinese": "负责合同雇佣及从中国运输数千名人员",
+		"soundmark": "/riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "responsible for hiring on contract and transporting thousands of men from china to",
+		"chinese": "负责合同雇佣及将数千名人员从中国运出",
+		"soundmark": "/riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/"
+	},
+	{
+		"english": "responsible for hiring on contract and transporting thousands of men from china to work",
+		"chinese": "负责合同雇佣以及将数千名人员从中国运来工作",
+		"soundmark": "/riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/ /wˈɜːk/"
+	},
+	{
+		"english": "responsible for hiring on contract and transporting thousands of men from china to work on",
+		"chinese": "负责合同雇佣以及将数千名人员从中国运来工作",
+		"soundmark": "/riːspˈɑːnsəbəl/ /frɜː/ /hˈaɪrɪŋ/ /ˈɔːn/ /kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/ /wˈɜːk/ /ˈɔːn/"
+	},
+	{
+		"english": "contract and transporting thousands of men from china to work on the",
+		"chinese": "合同并运送数千名来自中国的人员去工作",
+		"soundmark": "/kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/ /wˈɜːk/ /ˈɔːn/ /ðiː/"
+	},
+	{
+		"english": "contract and transporting thousands of men from china to work on the railway",
+		"chinese": "合同并运送数千名中国工人到铁路工地工作",
+		"soundmark": "/kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/ /wˈɜːk/ /ˈɔːn/ /ðiː/ /rˈeɪlwˌeɪ/"
+	},
+	{
+		"english": "contract and transporting thousands of men from china to work on the railway line",
+		"chinese": "合同并运送数千名中国工人到铁路线上工作",
+		"soundmark": "/kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/ /wˈɜːk/ /ˈɔːn/ /ðiː/ /rˈeɪlwˌeɪ/ /lˈaɪn/"
+	},
+	{
+		"english": "contract and transporting thousands of men from china to work on the railway line in",
+		"chinese": "合同并运送数千名来自中国的人员在铁路线上工作",
+		"soundmark": "/kəntrˈækt/ /ˈænd/ /trænspˈɔːrtɪŋ/ /θˈaʊzənz/ /əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/ /wˈɜːk/ /ˈɔːn/ /ðiː/ /rˈeɪlwˌeɪ/ /lˈaɪn/ /ˈɪn/"
+	},
+	{
+		"english": "of men from china to work on the railway line in british",
+		"chinese": "来自中国的人员在英国铁路线上工作",
+		"soundmark": "/əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/ /wˈɜːk/ /ˈɔːn/ /ðiː/ /rˈeɪlwˌeɪ/ /lˈaɪn/ /ˈɪn/ /brˈɪtɪʃ/"
+	},
+	{
+		"english": "of men from china to work on the railway line in british columbia",
+		"chinese": "来自中国的人员在不列颠哥伦比亚省的铁路线上工作",
+		"soundmark": "/əv/ /mˈɛːn/ /fɜːm/ /tʃˈaɪnə/ /tə/ /wˈɜːk/ /ˈɔːn/ /ðiː/ /rˈeɪlwˌeɪ/ /lˈaɪn/ /ˈɪn/ /brˈɪtɪʃ/ /kəlˈəmbiːə/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he supervised",
+		"chinese": "他监督了",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/"
+	},
+	{
+		"english": "he supervised some",
+		"chinese": "他监督了某些事情",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/"
+	},
+	{
+		"english": "he supervised some six",
+		"chinese": "他监督了大约六个人",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/"
+	},
+	{
+		"english": "he supervised some six to",
+		"chinese": "他监督了大约六到",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/"
+	},
+	{
+		"english": "he supervised some six to seven",
+		"chinese": "他监督了大约六到七件事",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/"
+	},
+	{
+		"english": "he supervised some six to seven thousand",
+		"chinese": "他监督了大约六到七千人",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/"
+	},
+	{
+		"english": "he supervised some six to seven thousand chinese",
+		"chinese": "他监督了大约六到七千名中国员工",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/ /tʃaɪnˈiːz/"
+	},
+	{
+		"english": "he supervised some six to seven thousand chinese workers",
+		"chinese": "他监督了大约六到七千名中国工人",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/ /tʃaɪnˈiːz/ /wˈɜːkɜːz/"
+	},
+	{
+		"english": "he supervised some six to seven thousand chinese workers during",
+		"chinese": "他在期间监督了大约六到七千名中国工人",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/ /tʃaɪnˈiːz/ /wˈɜːkɜːz/ /dˈɜːɪŋ/"
+	},
+	{
+		"english": "he supervised some six to seven thousand chinese workers during the",
+		"chinese": "他在期间监督了大约六到七千名中国工人。",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/ /tʃaɪnˈiːz/ /wˈɜːkɜːz/ /dˈɜːɪŋ/ /ðiː/"
+	},
+	{
+		"english": "he supervised some six to seven thousand chinese workers during the peak",
+		"chinese": "在高峰期，他监督了大约六到七千名中国工人",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/ /tʃaɪnˈiːz/ /wˈɜːkɜːz/ /dˈɜːɪŋ/ /ðiː/ /pˈiːk/"
+	},
+	{
+		"english": "he supervised some six to seven thousand chinese workers during the peak of",
+		"chinese": "在高峰期，他监督了大约六到七千名中国工人。",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/ /tʃaɪnˈiːz/ /wˈɜːkɜːz/ /dˈɜːɪŋ/ /ðiː/ /pˈiːk/ /əv/"
+	},
+	{
+		"english": "he supervised some six to seven thousand chinese workers during the peak of the",
+		"chinese": "在高峰期，他监督了大约六到七千名中国工人。",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/ /tʃaɪnˈiːz/ /wˈɜːkɜːz/ /dˈɜːɪŋ/ /ðiː/ /pˈiːk/ /əv/ /ðiː/"
+	},
+	{
+		"english": "he supervised some six to seven thousand chinese workers during the peak of the construction",
+		"chinese": "在建设高峰期，他监督了大约六到七千名中国工人",
+		"soundmark": "/hˈiː/ /sˈuːpɜːvˌaɪzd/ /sˈəm/ /sˈɪks/ /tə/ /sˈɛːvən/ /θˈaʊzən/ /tʃaɪnˈiːz/ /wˈɜːkɜːz/ /dˈɜːɪŋ/ /ðiː/ /pˈiːk/ /əv/ /ðiː/ /kənstrˈəkʃən/"
+	},
+	{
+		"english": "in",
+		"chinese": "在",
+		"soundmark": "/ˈɪn/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he returned",
+		"chinese": "他回来了",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/"
+	},
+	{
+		"english": "he returned to",
+		"chinese": "他回来了",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/"
+	},
+	{
+		"english": "he returned to china",
+		"chinese": "他回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/"
+	},
+	{
+		"english": "he returned to china using",
+		"chinese": "他乘飞机返回中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/"
+	},
+	{
+		"english": "he returned to china using the",
+		"chinese": "他使用……返回了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/"
+	},
+	{
+		"english": "he returned to china using the money",
+		"chinese": "他用那笔钱回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/ /mˈəniː/"
+	},
+	{
+		"english": "he returned to china using the money he",
+		"chinese": "他用那笔钱回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/ /mˈəniː/ /hˈiː/"
+	},
+	{
+		"english": "he returned to china using the money he had",
+		"chinese": "他用所得到的钱回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/ /mˈəniː/ /hˈiː/ /hˈæd/"
+	},
+	{
+		"english": "he returned to china using the money he had saved",
+		"chinese": "他用节省下来的钱回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/ /mˈəniː/ /hˈiː/ /hˈæd/ /sˈeɪvd/"
+	},
+	{
+		"english": "he returned to china using the money he had saved from",
+		"chinese": "他用自己攒下的钱回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/ /mˈəniː/ /hˈiː/ /hˈæd/ /sˈeɪvd/ /fɜːm/"
+	},
+	{
+		"english": "he returned to china using the money he had saved from his",
+		"chinese": "他用自己攒下的钱回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/ /mˈəniː/ /hˈiː/ /hˈæd/ /sˈeɪvd/ /fɜːm/ /hɪz/"
+	},
+	{
+		"english": "he returned to china using the money he had saved from his cpr",
+		"chinese": "他用从 CPR中攒下的钱回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/ /mˈəniː/ /hˈiː/ /hˈæd/ /sˈeɪvd/ /fɜːm/ /hɪz/"
+	},
+	{
+		"english": "he returned to china using the money he had saved from his cpr job",
+		"chinese": "他用从CPR工作中攒下的钱回到了中国",
+		"soundmark": "/hˈiː/ /riːtˈɜːnd/ /tə/ /tʃˈaɪnə/ /jˈuːzɪŋ/ /ðiː/ /mˈəniː/ /hˈiː/ /hˈæd/ /sˈeɪvd/ /fɜːm/ /hɪz/ /dʒˈoʊb/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he remained",
+		"chinese": "他一直待在那里",
+		"soundmark": "/hˈiː/ /riːmˈeɪnd/"
+	},
+	{
+		"english": "he remained there",
+		"chinese": "他留在了那里",
+		"soundmark": "/hˈiː/ /riːmˈeɪnd/ /ðˈɛːr/"
+	},
+	{
+		"english": "he remained there from",
+		"chinese": "他一直待在那里",
+		"soundmark": "/hˈiː/ /riːmˈeɪnd/ /ðˈɛːr/ /fɜːm/"
+	},
+	{
+		"english": "he remained there from until",
+		"chinese": "他一直待在那里，直到……",
+		"soundmark": "/hˈiː/ /riːmˈeɪnd/ /ðˈɛːr/ /fɜːm/ /əntˈɪl/"
+	},
+	{
+		"english": "while",
+		"chinese": "当……时",
+		"soundmark": "/hwˈaɪl/"
+	},
+	{
+		"english": "while there",
+		"chinese": "当……时",
+		"soundmark": "/hwˈaɪl/ /ðˈɛːr/"
+	},
+	{
+		"english": "while there he",
+		"chinese": "在他那里",
+		"soundmark": "/hwˈaɪl/ /ðˈɛːr/ /hˈiː/"
+	},
+	{
+		"english": "while there he married",
+		"chinese": "他在那里结婚了",
+		"soundmark": "/hwˈaɪl/ /ðˈɛːr/ /hˈiː/ /mˈɛːriːd/"
+	},
+	{
+		"english": "while there he married four",
+		"chinese": "他在那里娶了四个人",
+		"soundmark": "/hwˈaɪl/ /ðˈɛːr/ /hˈiː/ /mˈɛːriːd/ /fˈɔːr/"
+	},
+	{
+		"english": "while there he married four different",
+		"chinese": "他在那里娶了四不同的妻子",
+		"soundmark": "/hwˈaɪl/ /ðˈɛːr/ /hˈiː/ /mˈɛːriːd/ /fˈɔːr/ /dˈɪfrənt/"
+	},
+	{
+		"english": "while there he married four different wives",
+		"chinese": "他在那里娶了四位不同的妻子",
+		"soundmark": "/hwˈaɪl/ /ðˈɛːr/ /hˈiː/ /mˈɛːriːd/ /fˈɔːr/ /dˈɪfrənt/ /wˈaɪvz/"
+	},
+	{
+		"english": "a",
+		"chinese": "一个",
+		"soundmark": "/ˈeɪ/"
+	},
+	{
+		"english": "a regular",
+		"chinese": "定期",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/"
+	},
+	{
+		"english": "a regular occurrence",
+		"chinese": "常见的现象",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/ /əkˈɜːəns/"
+	},
+	{
+		"english": "a regular occurrence at",
+		"chinese": "常见的现象",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/ /əkˈɜːəns/ /ˈæt/"
+	},
+	{
+		"english": "a regular occurrence at that",
+		"chinese": "在那种情况下是常有的事",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/ /əkˈɜːəns/ /ˈæt/ /ðət/"
+	},
+	{
+		"english": "a regular occurrence at that time",
+		"chinese": "当时常见的现象",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/ /əkˈɜːəns/ /ˈæt/ /ðət/ /tˈaɪm/"
+	},
+	{
+		"english": "a regular occurrence at that time for",
+		"chinese": "当时常见的现象",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/ /əkˈɜːəns/ /ˈæt/ /ðət/ /tˈaɪm/ /frɜː/"
+	},
+	{
+		"english": "a regular occurrence at that time for wealthy",
+		"chinese": "当时富人的常见现象",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/ /əkˈɜːəns/ /ˈæt/ /ðət/ /tˈaɪm/ /frɜː/ /wˈɛːlθiː/"
+	},
+	{
+		"english": "a regular occurrence at that time for wealthy young",
+		"chinese": "当时富有的年轻人常有的事",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/ /əkˈɜːəns/ /ˈæt/ /ðət/ /tˈaɪm/ /frɜː/ /wˈɛːlθiː/ /jˈəŋ/"
+	},
+	{
+		"english": "a regular occurrence at that time for wealthy young men",
+		"chinese": "当时富有的年轻男子常有的事",
+		"soundmark": "/ˈeɪ/ /rˈeɪɡjəlɜː/ /əkˈɜːəns/ /ˈæt/ /ðət/ /tˈaɪm/ /frɜː/ /wˈɛːlθiː/ /jˈəŋ/ /mˈɛːn/"
+	},
+	{
+		"english": "he",
+		"chinese": "他",
+		"soundmark": "/hˈiː/"
+	},
+	{
+		"english": "he and",
+		"chinese": "他和",
+		"soundmark": "/hˈiː/ /ˈænd/"
+	},
+	{
+		"english": "he and his",
+		"chinese": "他和他的",
+		"soundmark": "/hˈiː/ /ˈænd/ /hɪz/"
+	},
+	{
+		"english": "he and his first",
+		"chinese": "他和他的第一个",
+		"soundmark": "/hˈiː/ /ˈænd/ /hɪz/ /fˈɜːst/"
+	},
+	{
+		"english": "he and his first wife",
+		"chinese": "他和他的第一任妻子",
+		"soundmark": "/hˈiː/ /ˈænd/ /hɪz/ /fˈɜːst/ /wˈaɪf/"
+	},
+	{
+		"english": "lee",
+		"chinese": "李",
+		"soundmark": "/lˈiː/"
+	},
+	{
+		"english": "lee shee",
+		"chinese": "李熙",
+		"soundmark": "/lˈiː/"
+	},
+	{
+		"english": "had",
+		"chinese": "拥有",
+		"soundmark": "/hˈæd/"
+	},
+	{
+		"english": "had a",
+		"chinese": "有过",
+		"soundmark": "/hˈæd/ /ˈeɪ/"
+	},
+	{
+		"english": "had a son",
+		"chinese": "有了一个儿子",
+		"soundmark": "/hˈæd/ /ˈeɪ/ /sˈən/"
+	},
+	{
+		"english": "had a son and",
+		"chinese": "有个儿子",
+		"soundmark": "/hˈæd/ /ˈeɪ/ /sˈən/ /ˈænd/"
+	},
+	{
+		"english": "had a son and a",
+		"chinese": "有一个儿子和一个",
+		"soundmark": "/hˈæd/ /ˈeɪ/ /sˈən/ /ˈænd/ /ˈeɪ/"
+	},
+	{
+		"english": "had a son and a daughter",
+		"chinese": "有一个儿子和一个女儿",
+		"soundmark": "/hˈæd/ /ˈeɪ/ /sˈən/ /ˈænd/ /ˈeɪ/ /dˈɔːtɜː/"
+	}
+]
