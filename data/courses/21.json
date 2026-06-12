@@ -1,437 +1,897 @@
 [
-	{
-		"english": "today",
-		"chinese": "今天",
-		"soundmark": "/tuːdˈeɪ/"
-	},
-	{
-		"english": "today the",
-		"chinese": "今天",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/"
-	},
-	{
-		"english": "today the wind",
-		"chinese": "今天的风",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/"
-	},
-	{
-		"english": "today the wind and",
-		"chinese": "今天风很大",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/"
-	},
-	{
-		"english": "today the wind and rain",
-		"chinese": "今天风大雨密",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/"
-	},
-	{
-		"english": "today the wind and rain drove",
-		"chinese": "今天风雨交加",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/"
-	},
-	{
-		"english": "today the wind and rain drove fiercely",
-		"chinese": "今天风雨很大",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/"
-	},
-	{
-		"english": "today the wind and rain drove fiercely against",
-		"chinese": "今天风雨猛烈地吹打着",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/ /əɡˈeɪnst/"
-	},
-	{
-		"english": "today the wind and rain drove fiercely against my",
-		"chinese": "今天风雨猛烈地冲击着我",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/ /əɡˈeɪnst/ /mˈaɪ/"
-	},
-	{
-		"english": "today the wind and rain drove fiercely against my apartment",
-		"chinese": "今天风雨猛烈地冲击着我的公寓",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/ /əɡˈeɪnst/ /mˈaɪ/ /əpˈɑːrtmənt/"
-	},
-	{
-		"english": "today the wind and rain drove fiercely against my apartment window",
-		"chinese": "今天风雨猛烈地拍打着我的公寓窗户",
-		"soundmark": "/tuːdˈeɪ/ /ðiː/ /wˈɪnd/ /ˈænd/ /rˈeɪn/ /drˈoʊv/ /fˈɪrsliː/ /əɡˈeɪnst/ /mˈaɪ/ /əpˈɑːrtmənt/ /wˈɪndoʊ/"
-	},
-	{
-		"english": "it",
-		"chinese": "它",
-		"soundmark": "/ɪt/"
-	},
-	{
-		"english": "it was",
-		"chinese": "就是",
-		"soundmark": "/ɪt/ /wˈɔːz/"
-	},
-	{
-		"english": "it was the",
-		"chinese": "就是它",
-		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/"
-	},
-	{
-		"english": "it was the tail",
-		"chinese": "那是尾巴",
-		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/"
-	},
-	{
-		"english": "it was the tail end",
-		"chinese": "那是最后阶段",
-		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/ /ˈɛːnd/"
-	},
-	{
-		"english": "it was the tail end of",
-		"chinese": "那是最后阶段",
-		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/ /ˈɛːnd/ /əv/"
-	},
-	{
-		"english": "it was the tail end of a",
-		"chinese": "那是最后阶段",
-		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/ /ˈɛːnd/ /əv/ /ˈeɪ/"
-	},
-	{
-		"english": "it was the tail end of a typhoon",
-		"chinese": "那是台风的尾声",
-		"soundmark": "/ɪt/ /wˈɔːz/ /ðiː/ /tˈeɪl/ /ˈɛːnd/ /əv/ /ˈeɪ/ /tˌaɪfˈuːn/"
-	},
-	{
-		"english": "every",
-		"chinese": "每个",
-		"soundmark": "/ˈɛːvriː/"
-	},
-	{
-		"english": "every year",
-		"chinese": "每年",
-		"soundmark": "/ˈɛːvriː/ /jˈɪr/"
-	},
-	{
-		"english": "as",
-		"chinese": "作为",
-		"soundmark": "/ˈɛːz/"
-	},
-	{
-		"english": "as the",
-		"chinese": "因为",
-		"soundmark": "/ˈɛːz/ /ðiː/"
-	},
-	{
-		"english": "as the calendar",
-		"chinese": "如日历所示",
-		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/"
-	},
-	{
-		"english": "as the calendar indicates",
-		"chinese": "如日历所示",
-		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/"
-	},
-	{
-		"english": "as the calendar indicates the",
-		"chinese": "如日历所示",
-		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/ /ðiː/"
-	},
-	{
-		"english": "as the calendar indicates the approach",
-		"chinese": "如日历所示，即将到来",
-		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/ /ðiː/ /əprˈoʊtʃ/"
-	},
-	{
-		"english": "as the calendar indicates the approach of",
-		"chinese": "如日历所示，即将到来",
-		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/ /ðiː/ /əprˈoʊtʃ/ /əv/"
-	},
-	{
-		"english": "as the calendar indicates the approach of autumn",
-		"chinese": "如日历所示，秋天即将来临",
-		"soundmark": "/ˈɛːz/ /ðiː/ /kˈæləndɜː/ /ˈɪndɪkˌeɪts/ /ðiː/ /əprˈoʊtʃ/ /əv/ /ˈɔːtəm/"
-	},
-	{
-		"english": "these",
-		"chinese": "这些",
-		"soundmark": "/ðˈiːz/"
-	},
-	{
-		"english": "these destructive",
-		"chinese": "这些破坏性行为",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/"
-	},
-	{
-		"english": "these destructive tropical",
-		"chinese": "这些破坏性的热带物种",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/"
-	},
-	{
-		"english": "these destructive tropical storms",
-		"chinese": "这些具有破坏性的热带风暴",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/"
-	},
-	{
-		"english": "these destructive tropical storms account",
-		"chinese": "这些破坏性的热带风暴",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/"
-	},
-	{
-		"english": "these destructive tropical storms account for",
-		"chinese": "这些破坏性的热带风暴占……比例",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/"
-	},
-	{
-		"english": "these destructive tropical storms account for both",
-		"chinese": "这些破坏性的热带风暴导致了两者",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/"
-	},
-	{
-		"english": "these destructive tropical storms account for both death",
-		"chinese": "这些破坏性的热带风暴导致了大量死亡",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/"
-	},
-	{
-		"english": "these destructive tropical storms account for both death and",
-		"chinese": "这些破坏性的热带风暴导致了死亡和",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/"
-	},
-	{
-		"english": "these destructive tropical storms account for both death and destruction",
-		"chinese": "这些破坏性的热带风暴导致了死亡和破坏。",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/"
-	},
-	{
-		"english": "these destructive tropical storms account for both death and destruction along",
-		"chinese": "这些破坏性的热带风暴导致了死亡和破坏。",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/ /əlˈɔːŋ/"
-	},
-	{
-		"english": "these destructive tropical storms account for both death and destruction along asia",
-		"chinese": "这些破坏性的热带风暴导致了亚洲地区的死亡和破坏。",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/ /əlˈɔːŋ/ /ˈeɪʒə/"
-	},
-	{
-		"english": "these destructive tropical storms account for both death and destruction along asia s",
-		"chinese": "这些破坏性的热带风暴导致了亚洲地区的死亡和破坏。",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/ /əlˈɔːŋ/ /ˈeɪʒə/ /ˈɛːs/"
-	},
-	{
-		"english": "these destructive tropical storms account for both death and destruction along asia s coasts",
-		"chinese": "这些破坏性的热带风暴导致了亚洲海岸地区的死亡和破坏。",
-		"soundmark": "/ðˈiːz/ /dɪstrˈəktɪv/ /trˈɑːpɪkəl/ /stˈɔːrmz/ /əkˈaʊnt/ /frɜː/ /bˈoʊθ/ /dˈɛːθ/ /ˈænd/ /dɪstrˈəkʃən/ /əlˈɔːŋ/ /ˈeɪʒə/ /ˈɛːs/ /kˈoʊs/"
-	},
-	{
-		"english": "on",
-		"chinese": "在",
-		"soundmark": "/ˈɔːn/"
-	},
-	{
-		"english": "on an",
-		"chinese": "在……上",
-		"soundmark": "/ˈɔːn/ /ən/"
-	},
-	{
-		"english": "on an average",
-		"chinese": "平均而言",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/"
-	},
-	{
-		"english": "on an average there",
-		"chinese": "平均而言",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/"
-	},
-	{
-		"english": "on an average there may",
-		"chinese": "平均而言可能",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/"
-	},
-	{
-		"english": "on an average there may be",
-		"chinese": "平均而言可能",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/"
-	},
-	{
-		"english": "on an average there may be fifteen",
-		"chinese": "平均而言可能有十五个",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/"
-	},
-	{
-		"english": "on an average there may be fifteen such",
-		"chinese": "平均而言可能有十五个这样的",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/ /sˈətʃ/"
-	},
-	{
-		"english": "on an average there may be fifteen such storms",
-		"chinese": "平均而言可能会有十五次这样的风暴",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/ /sˈətʃ/ /stˈɔːrmz/"
-	},
-	{
-		"english": "on an average there may be fifteen such storms every",
-		"chinese": "平均而言，可能每场有十五次这样的风暴",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/ /sˈətʃ/ /stˈɔːrmz/ /ˈɛːvriː/"
-	},
-	{
-		"english": "on an average there may be fifteen such storms every year",
-		"chinese": "平均每年可能会有十五次这样的风暴",
-		"soundmark": "/ˈɔːn/ /ən/ /ˈævrɪdʒ/ /ðˈɛːr/ /mˈeɪ/ /biː/ /fˈɪftˈiːn/ /sˈətʃ/ /stˈɔːrmz/ /ˈɛːvriː/ /jˈɪr/"
-	},
-	{
-		"english": "although",
-		"chinese": "尽管",
-		"soundmark": "/ˌɔːlðˈoʊ/"
-	},
-	{
-		"english": "although many",
-		"chinese": "尽管很多",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/"
-	},
-	{
-		"english": "although many civilians",
-		"chinese": "尽管有许多平民",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/"
-	},
-	{
-		"english": "although many civilians adopt",
-		"chinese": "尽管许多平民采用",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/"
-	},
-	{
-		"english": "although many civilians adopt a",
-		"chinese": "尽管许多平民采用……",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/"
-	},
-	{
-		"english": "although many civilians adopt a casual",
-		"chinese": "尽管许多平民表现得很随意",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/"
-	},
-	{
-		"english": "although many civilians adopt a casual attitude",
-		"chinese": "尽管许多平民采取随意的态度",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/ /ˈætətˌuːd/"
-	},
-	{
-		"english": "although many civilians adopt a casual attitude towards",
-		"chinese": "尽管许多平民对...持随意态度",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/ /ˈætətˌuːd/ /tˈɔːrdz/"
-	},
-	{
-		"english": "although many civilians adopt a casual attitude towards these",
-		"chinese": "尽管许多平民对这些持随意态度",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/ /ˈætətˌuːd/ /tˈɔːrdz/ /ðˈiːz/"
-	},
-	{
-		"english": "although many civilians adopt a casual attitude towards these events",
-		"chinese": "尽管许多平民对这些事件持随意态度",
-		"soundmark": "/ˌɔːlðˈoʊ/ /mˈɛːniː/ /səvˈɪljənz/ /ədˈɑːpt/ /ˈeɪ/ /kˈæʒwəl/ /ˈætətˌuːd/ /tˈɔːrdz/ /ðˈiːz/ /iːvˈɛːnts/"
-	},
-	{
-		"english": "awareness",
-		"chinese": "意识",
-		"soundmark": "/əwˈɛːrnəs/"
-	},
-	{
-		"english": "awareness is",
-		"chinese": "意识是",
-		"soundmark": "/əwˈɛːrnəs/ /ɪz/"
-	},
-	{
-		"english": "awareness is advisable",
-		"chinese": "提高意识很有必要",
-		"soundmark": "/əwˈɛːrnəs/ /ɪz/ /ədvˈaɪzəbəl/"
-	},
-	{
-		"english": "as",
-		"chinese": "作为",
-		"soundmark": "/ˈɛːz/"
-	},
-	{
-		"english": "as the",
-		"chinese": "因为",
-		"soundmark": "/ˈɛːz/ /ðiː/"
-	},
-	{
-		"english": "as the water",
-		"chinese": "随着水流动",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/"
-	},
-	{
-		"english": "as the water dripped",
-		"chinese": "当水滴落下来时",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/"
-	},
-	{
-		"english": "as the water dripped from",
-		"chinese": "当水从……滴下时",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/"
-	},
-	{
-		"english": "as the water dripped from my",
-		"chinese": "当水从我身上滴落时",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/"
-	},
-	{
-		"english": "as the water dripped from my balcony",
-		"chinese": "水从我的阳台滴下来",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/"
-	},
-	{
-		"english": "as the water dripped from my balcony and",
-		"chinese": "水从我的阳台滴下来",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/"
-	},
-	{
-		"english": "as the water dripped from my balcony and accumulated",
-		"chinese": "水从我的阳台滴下并聚集起来",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/"
-	},
-	{
-		"english": "as the water dripped from my balcony and accumulated into",
-		"chinese": "水从我的阳台滴落，聚集起来",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/"
-	},
-	{
-		"english": "as the water dripped from my balcony and accumulated into free",
-		"chinese": "水从我的阳台滴下，聚集成水洼",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/"
-	},
-	{
-		"english": "as the water dripped from my balcony and accumulated into free flowing",
-		"chinese": "水从我的阳台滴下，汇聚成流动的水流",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/"
-	},
-	{
-		"english": "as the water dripped from my balcony and accumulated into free flowing rivers",
-		"chinese": "水从我的阳台滴落，汇聚成流动的小河",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/"
-	},
-	{
-		"english": "as the water dripped from my balcony and accumulated into free flowing rivers on",
-		"chinese": "当水从我的阳台滴落，汇聚成流动的小河",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/ /ˈɔːn/"
-	},
-	{
-		"english": "as the water dripped from my balcony and accumulated into free flowing rivers on the",
-		"chinese": "当水从我的阳台滴落，汇聚成流畅的河流",
-		"soundmark": "/ˈɛːz/ /ðiː/ /wˈɔːtɜː/ /drˈɪpt/ /fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/ /ˈɔːn/ /ðiː/"
-	},
-	{
-		"english": "from my balcony and accumulated into free flowing rivers on the road",
-		"chinese": "从我的阳台上，汇聚成道路上的流动河流",
-		"soundmark": "/fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/ /ˈɔːn/ /ðiː/ /rˈoʊd/"
-	},
-	{
-		"english": "from my balcony and accumulated into free flowing rivers on the road beneath",
-		"chinese": "从我的阳台上，汇聚成道路上的流动河流",
-		"soundmark": "/fɜːm/ /mˈaɪ/ /bˈælkəniː/ /ˈænd/ /əkjˈuːmjəlˌeɪtɪd/ /ɪntə/ /frˈiː/ /flˈoʊɪŋ/ /rˈɪvɜːz/ /ˈɔːn/ /ðiː/ /rˈoʊd/ /bɪnˈiːθ/"
-	},
-	{
-		"english": "i",
-		"chinese": "我",
-		"soundmark": "/ˈaɪ/"
-	},
-	{
-		"english": "i was",
-		"chinese": "我曾是",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/"
-	},
-	{
-		"english": "i was reminded",
-		"chinese": "我被提醒了",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/"
-	}
+  {
+    "english": "One",
+    "chinese": "一个",
+    "soundmark": "/hwˈən/"
+  },
+  {
+    "english": "One of",
+    "chinese": "其中一个"
+  },
+  {
+    "english": "One of the",
+    "chinese": "典型的其中之一"
+  },
+  {
+    "english": "One of the typical",
+    "chinese": "典型的用途之一"
+  },
+  {
+    "english": "One of the typical uses",
+    "chinese": "管道的典型用途之一"
+  },
+  {
+    "english": "One of the typical uses of",
+    "chinese": "胶带的典型用途之一"
+  },
+  {
+    "english": "One of the typical uses of the",
+    "chinese": "胶带的典型用途之一是"
+  },
+  {
+    "english": "One of the typical uses of the duct",
+    "chinese": "胶带的典型用途之一是用于修复"
+  },
+  {
+    "english": "One of the typical uses of the duct tape",
+    "chinese": "胶带的典型用途之一是用于修复泄漏"
+  },
+  {
+    "english": "One of the typical uses of the duct tape is",
+    "chinese": "胶带的典型用途之一是用于修复管道中的泄漏"
+  },
+  {
+    "english": "One of the typical uses of the duct tape is to",
+    "chinese": "胶带的典型用途之一是用于修复水龙头中的泄漏"
+  },
+  {
+    "english": "One of the typical uses of the duct tape is to repair",
+    "chinese": "胶带的典型用途之一就是修复"
+  },
+  {
+    "english": "One of the typical uses of the duct tape is to repair a",
+    "chinese": "胶带的典型用途之一是修复"
+  },
+  {
+    "english": "One of the typical uses of the duct tape is to repair a leak",
+    "chinese": "胶带的典型用途之一就是修复泄漏。"
+  },
+  {
+    "english": "One of the typical uses of the duct tape is to repair a leak in",
+    "chinese": "胶带的典型用途之一是修复泄漏问题"
+  },
+  {
+    "english": "One of the typical uses of the duct tape is to repair a leak in a",
+    "chinese": "胶带的典型用途之一是修复泄漏处"
+  },
+  {
+    "english": "One of the typical uses of the duct tape is to repair a leak in a faucet",
+    "chinese": "胶带的典型用途之一就是修复水龙头的泄漏问题"
+  },
+  {
+    "english": "or",
+    "chinese": "或",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or water",
+    "chinese": "或水"
+  },
+  {
+    "english": "or water tap",
+    "chinese": "或水龙头。"
+  },
+  {
+    "english": "If",
+    "chinese": "如果",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "english": "If the",
+    "chinese": "如果软管"
+  },
+  {
+    "english": "If the hose",
+    "chinese": "如果吸尘器的软管"
+  },
+  {
+    "english": "If the hose of",
+    "chinese": "如果真空器的软管"
+  },
+  {
+    "english": "If the hose of a",
+    "chinese": "如果吸尘器的软管有"
+  },
+  {
+    "english": "If the hose of a vacuum",
+    "chinese": "如果吸尘器的软管有一个洞"
+  },
+  {
+    "english": "If the hose of a vacuum cleaner",
+    "chinese": "如果吸尘器的软管在里面有洞"
+  },
+  {
+    "english": "If the hose of a vacuum cleaner has",
+    "chinese": "如果吸尘器的软管有"
+  },
+  {
+    "english": "If the hose of a vacuum cleaner has a",
+    "chinese": "如果吸尘器的软管有"
+  },
+  {
+    "english": "If the hose of a vacuum cleaner has a hole",
+    "chinese": "如果吸尘器的软管有洞"
+  },
+  {
+    "english": "If the hose of a vacuum cleaner has a hole in",
+    "chinese": "如果吸尘器的软管有洞的话"
+  },
+  {
+    "english": "If the hose of a vacuum cleaner has a hole in it",
+    "chinese": "如果吸尘器的软管上有洞"
+  },
+  {
+    "english": "The",
+    "chinese": "那个",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The duct",
+    "chinese": "那个管道"
+  },
+  {
+    "english": "The duct tape",
+    "chinese": "胶带"
+  },
+  {
+    "english": "The duct tape will",
+    "chinese": "胶带将会"
+  },
+  {
+    "english": "The duct tape will come to",
+    "chinese": "胶带将会来"
+  },
+  {
+    "english": "The duct tape will come to rescue",
+    "chinese": "胶带会来救场的。"
+  },
+  {
+    "english": "Almost",
+    "chinese": "几乎",
+    "soundmark": "/ˈɔːlmˌoʊst/"
+  },
+  {
+    "english": "Almost every",
+    "chinese": "几乎每个"
+  },
+  {
+    "english": "Almost every household",
+    "chinese": "几乎每个家庭"
+  },
+  {
+    "english": "Almost every household in",
+    "chinese": "北美洲的几乎每个家庭"
+  },
+  {
+    "english": "Almost every household in North",
+    "chinese": "北美洲的几乎每个家庭都有"
+  },
+  {
+    "english": "Almost every household in North America",
+    "chinese": "北美洲的几乎每个家庭至少有一个"
+  },
+  {
+    "english": "Almost every household in North America has",
+    "chinese": "北美洲的几乎每个家庭至少有一个卷"
+  },
+  {
+    "english": "Almost every household in North America has at least",
+    "chinese": "北美洲的几乎每个家庭至少有一卷管道材料"
+  },
+  {
+    "english": "Almost every household in North America has at least one",
+    "chinese": "在北美，几乎每个家庭至少有一个"
+  },
+  {
+    "english": "Almost every household in North America has at least one roll",
+    "chinese": "北美几乎每个家庭至少有一卷"
+  },
+  {
+    "english": "Almost every household in North America has at least one roll of",
+    "chinese": "在北美，几乎每个家庭至少有一卷"
+  },
+  {
+    "english": "Almost every household in North America has at least one roll of duct",
+    "chinese": "在北美，几乎每个家庭至少有一卷管道材料。"
+  },
+  {
+    "english": "Almost every household in North America has at least one roll of duct tape",
+    "chinese": "北美几乎每个家庭都至少有一卷胶带。"
+  },
+  {
+    "english": "People",
+    "chinese": "人们",
+    "soundmark": "/pˈiːpəl/"
+  },
+  {
+    "english": "People keep",
+    "chinese": "人们保留着"
+  },
+  {
+    "english": "People keep it",
+    "chinese": "人们保留着它"
+  },
+  {
+    "english": "People keep it handy",
+    "chinese": "人们常随身携带"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and use",
+    "chinese": "并且使用"
+  },
+  {
+    "english": "and use it",
+    "chinese": "使用它"
+  },
+  {
+    "english": "and use it to",
+    "chinese": "使用它来"
+  },
+  {
+    "english": "and use it to repair",
+    "chinese": "使用它来修理"
+  },
+  {
+    "english": "and use it to repair almost",
+    "chinese": "使用它来修理几乎所有东西"
+  },
+  {
+    "english": "and use it to repair almost everything",
+    "chinese": "并用它修复几乎所有东西。"
+  },
+  {
+    "english": "No",
+    "chinese": "没有",
+    "soundmark": "/nˈoʊ/"
+  },
+  {
+    "english": "No one",
+    "chinese": "没有人"
+  },
+  {
+    "english": "No one would",
+    "chinese": "没有人会"
+  },
+  {
+    "english": "No one would think",
+    "chinese": "没有人会认为"
+  },
+  {
+    "english": "No one would think it",
+    "chinese": "没有人会认为那是必要的"
+  },
+  {
+    "english": "No one would think it necessary",
+    "chinese": "没有人会认为有必要这样做"
+  },
+  {
+    "english": "No one would think it necessary to",
+    "chinese": "没有人会认为有必要为某事辩护"
+  },
+  {
+    "english": "No one would think it necessary to justify",
+    "chinese": "没有人会认为有必要为购买行为辩护"
+  },
+  {
+    "english": "No one would think it necessary to justify the",
+    "chinese": "没有人会认为有必要为购买额外物品辩护"
+  },
+  {
+    "english": "No one would think it necessary to justify the purchase",
+    "chinese": "没有人会认为有必要为购买额外卷带辩护"
+  },
+  {
+    "english": "No one would think it necessary to justify the purchase of",
+    "chinese": "没有人会认为有必要为购买额外卷带辩护"
+  },
+  {
+    "english": "No one would think it necessary to justify the purchase of extra",
+    "chinese": "没人会认为有必要为购买额外物品提供理由"
+  },
+  {
+    "english": "No one would think it necessary to justify the purchase of extra rolls",
+    "chinese": "没人会认为有必要为购买额外的卷料提供理由"
+  },
+  {
+    "english": "No one would think it necessary to justify the purchase of extra rolls of",
+    "chinese": "没人会认为有必要为购买额外的卷料提供理由"
+  },
+  {
+    "english": "No one would think it necessary to justify the purchase of extra rolls of tape",
+    "chinese": "没人会认为有必要为购买额外的胶带卷提供理由"
+  },
+  {
+    "english": "so",
+    "chinese": "所以",
+    "soundmark": "/sˈoʊ/"
+  },
+  {
+    "english": "so the",
+    "chinese": "所以销售"
+  },
+  {
+    "english": "so the sales",
+    "chinese": "所以销售持续进行"
+  },
+  {
+    "english": "so the sales continue",
+    "chinese": "所以销售持续增加"
+  },
+  {
+    "english": "so the sales continue to",
+    "chinese": "所以销售持续增加很多"
+  },
+  {
+    "english": "so the sales continue to increase",
+    "chinese": "所以销售持续增加，很多人"
+  },
+  {
+    "english": "so the sales continue to increase Many",
+    "chinese": "所以销售持续增加，很多人喜欢"
+  },
+  {
+    "english": "so the sales continue to increase Many people",
+    "chinese": "所以销售持续增加，很多人喜欢夸耀"
+  },
+  {
+    "english": "so the sales continue to increase Many people like",
+    "chinese": "所以销售持续增加，很多人喜欢夸耀自己"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to",
+    "chinese": "所以销售持续增加，很多人喜欢夸耀自己使用频率如何"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to boast",
+    "chinese": "所以销售持续增加，很多人喜欢夸耀自己使用频率有多高"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to boast about",
+    "chinese": "所以销售持续增加，很多人喜欢夸耀自己使用次数"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to boast about how",
+    "chinese": "所以销售持续增加，很多人喜欢夸耀自己使用磁带的频率"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to boast about how often",
+    "chinese": "所以销售量持续增加，很多人喜欢夸耀自己经常……"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to boast about how often they",
+    "chinese": "所以销售持续增加，很多人喜欢夸耀自己经常……"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to boast about how often they use",
+    "chinese": "因此销售持续增加，许多人喜欢夸耀自己使用频率有多高"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to boast about how often they use the",
+    "chinese": "因此销售持续增加，许多人喜欢夸耀自己使用它的频率"
+  },
+  {
+    "english": "so the sales continue to increase Many people like to boast about how often they use the tape",
+    "chinese": "因此销量持续上升。许多人喜欢夸耀自己使用胶带的频率。"
+  },
+  {
+    "english": "They",
+    "chinese": "他们",
+    "soundmark": "/ðˈeɪ/"
+  },
+  {
+    "english": "They say",
+    "chinese": "他们说"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that the",
+    "chinese": "那个"
+  },
+  {
+    "english": "that the usage",
+    "chinese": "使用情况"
+  },
+  {
+    "english": "that the usage of",
+    "chinese": "关于使用情况"
+  },
+  {
+    "english": "that the usage of duct",
+    "chinese": "关于管道的使用"
+  },
+  {
+    "english": "that the usage of duct tape",
+    "chinese": "使用胶带的情况"
+  },
+  {
+    "english": "that the usage of duct tape has",
+    "chinese": "胶带的使用情况"
+  },
+  {
+    "english": "that the usage of duct tape has allowed",
+    "chinese": "胶带的使用使得……成为可能"
+  },
+  {
+    "english": "that the usage of duct tape has allowed them",
+    "chinese": "使用胶带使得他们能够……"
+  },
+  {
+    "english": "that the usage of duct tape has allowed them to",
+    "chinese": "使用胶带使他们能够"
+  },
+  {
+    "english": "that the usage of duct tape has allowed them to simplify",
+    "chinese": "胶带的使用使他们能够简化流程"
+  },
+  {
+    "english": "that the usage of duct tape has allowed them to simplify their",
+    "chinese": "使用胶带使他们能够简化流程"
+  },
+  {
+    "english": "that the usage of duct tape has allowed them to simplify their life",
+    "chinese": "使用胶带让他们能够简化生活"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and to",
+    "chinese": "并且为了"
+  },
+  {
+    "english": "and to decrease",
+    "chinese": "并且为了降低"
+  },
+  {
+    "english": "and to decrease the",
+    "chinese": "并且为了降低成本"
+  },
+  {
+    "english": "and to decrease the cost",
+    "chinese": "并且为了降低维修成本"
+  },
+  {
+    "english": "and to decrease the cost of",
+    "chinese": "并降低成本"
+  },
+  {
+    "english": "and to decrease the cost of repairs",
+    "chinese": "并降低维修成本。"
+  },
+  {
+    "english": "It",
+    "chinese": "它",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "english": "It can",
+    "chinese": "它可以被"
+  },
+  {
+    "english": "It can be",
+    "chinese": "它可以被使用"
+  },
+  {
+    "english": "It can be used",
+    "chinese": "它可以在室内使用"
+  },
+  {
+    "english": "It can be used indoors",
+    "chinese": "它可以在室内使用在"
+  },
+  {
+    "english": "It can be used indoors in",
+    "chinese": "它可以在室内使用在里面"
+  },
+  {
+    "english": "It can be used indoors in the",
+    "chinese": "它可以在室内使用在内部"
+  },
+  {
+    "english": "It can be used indoors in the interior",
+    "chinese": "它可以在室内使用在内部的内部"
+  },
+  {
+    "english": "It can be used indoors in the interior of",
+    "chinese": "它可以在室内使用在内部的一个"
+  },
+  {
+    "english": "It can be used indoors in the interior of a",
+    "chinese": "它可以在室内使用在内部的一个房子的内部"
+  },
+  {
+    "english": "It can be used indoors in the interior of a house",
+    "chinese": "可以在室内，即房屋内部使用"
+  },
+  {
+    "english": "but",
+    "chinese": "但",
+    "soundmark": "/bˈət/"
+  },
+  {
+    "english": "but there",
+    "chinese": "但然而"
+  },
+  {
+    "english": "but there are",
+    "chinese": "但然而存在"
+  },
+  {
+    "english": "but there are abundant",
+    "chinese": "但然而有大量"
+  },
+  {
+    "english": "but there are abundant uses",
+    "chinese": "但然而有大量用途"
+  },
+  {
+    "english": "but there are abundant uses outside",
+    "chinese": "但然而有大量用途在外部"
+  },
+  {
+    "english": "but there are abundant uses outside the",
+    "chinese": "但然而有大量用途在房子外部"
+  },
+  {
+    "english": "but there are abundant uses outside the house",
+    "chinese": "但然而有大量用途在房子外部，作为"
+  },
+  {
+    "english": "but there are abundant uses outside the house as",
+    "chinese": "但然而有大量用途在房子外部，同样"
+  },
+  {
+    "english": "but there are abundant uses outside the house as well",
+    "chinese": "但它在家庭之外也有许多用途。"
+  },
+  {
+    "english": "If",
+    "chinese": "如果",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "english": "If there",
+    "chinese": "如果存在"
+  },
+  {
+    "english": "If there is",
+    "chinese": "如果存在一个"
+  },
+  {
+    "english": "If there is a",
+    "chinese": "如果存在一块芯片"
+  },
+  {
+    "english": "If there is a chip",
+    "chinese": "如果从……中有一块芯片"
+  },
+  {
+    "english": "If there is a chip out of",
+    "chinese": "如果从某个东西中有一块芯片"
+  },
+  {
+    "english": "If there is a chip out of a",
+    "chinese": "如果从玻璃物体中有一块芯片"
+  },
+  {
+    "english": "If there is a chip out of a glass",
+    "chinese": "如果玻璃上掉出了一片碎片"
+  },
+  {
+    "english": "If there is a chip out of a glass object",
+    "chinese": "如果玻璃物体上有一个碎片"
+  },
+  {
+    "english": "the",
+    "chinese": "那个",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "the duct",
+    "chinese": "那个管道"
+  },
+  {
+    "english": "the duct tape",
+    "chinese": "那个胶带"
+  },
+  {
+    "english": "the duct tape can",
+    "chinese": "那个胶带可以"
+  },
+  {
+    "english": "the duct tape can be",
+    "chinese": "那个胶带可以被使用"
+  },
+  {
+    "english": "the duct tape can be used",
+    "chinese": "那个胶带可以被使用"
+  },
+  {
+    "english": "the duct tape can be used to",
+    "chinese": "那个胶带可以被用来"
+  },
+  {
+    "english": "the duct tape can be used to protect",
+    "chinese": "那个胶带可以被用来保护"
+  },
+  {
+    "english": "the duct tape can be used to protect the",
+    "chinese": "那个胶带可以被用来保护那个"
+  },
+  {
+    "english": "the duct tape can be used to protect the user",
+    "chinese": "那个胶带可以被用来保护用户"
+  },
+  {
+    "english": "the duct tape can be used to protect the user from",
+    "chinese": "那个胶带可以被用来保护用户免受"
+  },
+  {
+    "english": "the duct tape can be used to protect the user from being",
+    "chinese": "那个胶带可以被用来保护用户免受受伤"
+  },
+  {
+    "english": "the duct tape can be used to protect the user from being injured",
+    "chinese": "胶带可以用来保护用户免受伤害。"
+  },
+  {
+    "english": "Repairing",
+    "chinese": "修复",
+    "soundmark": "/riːpˈɛːrɪŋ/"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or reinforcing",
+    "chinese": "或者加固"
+  },
+  {
+    "english": "or reinforcing a",
+    "chinese": "或者加固一个"
+  },
+  {
+    "english": "or reinforcing a joint",
+    "chinese": "或者加固一个接头"
+  },
+  {
+    "english": "or reinforcing a joint on",
+    "chinese": "或者加固一个接头在"
+  },
+  {
+    "english": "or reinforcing a joint on an",
+    "chinese": "或者加固一个接头在某个"
+  },
+  {
+    "english": "or reinforcing a joint on an aluminum",
+    "chinese": "或者加固一个接头在铝制"
+  },
+  {
+    "english": "or reinforcing a joint on an aluminum ladder",
+    "chinese": "或加固铝梯的接头"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that a",
+    "chinese": "那个"
+  },
+  {
+    "english": "that a person",
+    "chinese": "一个人"
+  },
+  {
+    "english": "that a person is",
+    "chinese": "一个人是"
+  },
+  {
+    "english": "that a person is using",
+    "chinese": "一个人正在使用"
+  },
+  {
+    "english": "that a person is using would",
+    "chinese": "一个人正在使用什么"
+  },
+  {
+    "english": "that a person is using would be",
+    "chinese": "一个人正在使用的情况"
+  },
+  {
+    "english": "that a person is using would be a",
+    "chinese": "一个人正在使用的话就会是"
+  },
+  {
+    "english": "that a person is using would be a valuable",
+    "chinese": "一个人正在使用它将会非常有价值"
+  },
+  {
+    "english": "that a person is using would be a valuable use",
+    "chinese": "某人正在使用这一物品将是一种有价值的使用方式"
+  },
+  {
+    "english": "that a person is using would be a valuable use of",
+    "chinese": "一个人正在使用它，将是很有价值的利用方式"
+  },
+  {
+    "english": "that a person is using would be a valuable use of the",
+    "chinese": "一个人正在使用它，将是宝贵的利用方式"
+  },
+  {
+    "english": "that a person is using would be a valuable use of the tape",
+    "chinese": "有人使用它将是对磁带很有价值的利用。"
+  },
+  {
+    "english": "The",
+    "chinese": "那个磁带",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The tape",
+    "chinese": "那个磁带已经"
+  },
+  {
+    "english": "The tape has",
+    "chinese": "那个磁带已经证明"
+  },
+  {
+    "english": "The tape has proved",
+    "chinese": "那个磁带已经证明是"
+  },
+  {
+    "english": "The tape has proved to",
+    "chinese": "那个磁带已经证明是一个划算的东西"
+  },
+  {
+    "english": "The tape has proved to be",
+    "chinese": "胶带被证明是"
+  },
+  {
+    "english": "The tape has proved to be a",
+    "chinese": "胶带被证明是……"
+  },
+  {
+    "english": "The tape has proved to be a bargain",
+    "chinese": "这卷胶带被证明很划算。"
+  },
+  {
+    "english": "Even",
+    "chinese": "即使",
+    "soundmark": "/ˈiːvɪn/"
+  },
+  {
+    "english": "Even if",
+    "chinese": "即使"
+  },
+  {
+    "english": "Even if the",
+    "chinese": "即使如此"
+  },
+  {
+    "english": "Even if the manufacturers",
+    "chinese": "即使制造商"
+  },
+  {
+    "english": "Even if the manufacturers charged",
+    "chinese": "即使制造商收取了费用"
+  },
+  {
+    "english": "Even if the manufacturers charged twice",
+    "chinese": "即使制造商收取两倍费用"
+  },
+  {
+    "english": "Even if the manufacturers charged twice as",
+    "chinese": "即使制造商的收费是原来的两倍"
+  },
+  {
+    "english": "Even if the manufacturers charged twice as much",
+    "chinese": "即使制造商的收费是两倍"
+  },
+  {
+    "english": "Even if the manufacturers charged twice as much for",
+    "chinese": "即使制造商的定价是原来的两倍"
+  },
+  {
+    "english": "Even if the manufacturers charged twice as much for the",
+    "chinese": "即使制造商对产品的价格收取了两倍"
+  },
+  {
+    "english": "Even if the manufacturers charged twice as much for the tape",
+    "chinese": "即使制造商对胶带收取两倍的价格"
+  },
+  {
+    "english": "it",
+    "chinese": "它",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "english": "it would",
+    "chinese": "它仍会"
+  },
+  {
+    "english": "it would still",
+    "chinese": "它仍会依然"
+  },
+  {
+    "english": "it would still be",
+    "chinese": "它仍会依然属于"
+  },
+  {
+    "english": "it would still be a",
+    "chinese": "它仍会依然是最佳"
+  },
+  {
+    "english": "it would still be a best",
+    "chinese": "它仍会依然是最畅销书"
+  },
+  {
+    "english": "it would still be a best seller",
+    "chinese": "它仍会依然是最畅销书在……"
+  },
+  {
+    "english": "it would still be a best seller in",
+    "chinese": "它仍会依然是最畅销书在西方"
+  },
+  {
+    "english": "it would still be a best seller in the",
+    "chinese": "它仍会依然是最畅销书在西方世界"
+  },
+  {
+    "english": "it would still be a best seller in the western",
+    "chinese": "它仍会成为西方地区的畅销书"
+  },
+  {
+    "english": "it would still be a best seller in the western world",
+    "chinese": "它仍会在西方世界成为畅销书。"
+  },
+  {
+    "english": "The",
+    "chinese": "该",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The retail",
+    "chinese": "零售"
+  },
+  {
+    "english": "The retail price",
+    "chinese": "零售价格"
+  },
+  {
+    "english": "The retail price is",
+    "chinese": "零售价格很"
+  },
+  {
+    "english": "The retail price is very",
+    "chinese": "零售价格非常合理"
+  },
+  {
+    "english": "The retail price is very reasonable",
+    "chinese": "零售价格非常合理。"
+  }
 ]

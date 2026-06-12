@@ -1,577 +1,972 @@
 [
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the year",
-		"chinese": "年份",
-		"soundmark": "/ðiː/ /jˈɪr/"
-	},
-	{
-		"english": "the year began",
-		"chinese": "这一年开始了",
-		"soundmark": "/ðiː/ /jˈɪr/ /biːɡˈæn/"
-	},
-	{
-		"english": "the year began softly",
-		"chinese": "这一年开始得平静温和",
-		"soundmark": "/ðiː/ /jˈɪr/ /biːɡˈæn/ /sˈɔːfliː/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the weather",
-		"chinese": "天气",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/"
-	},
-	{
-		"english": "the weather in",
-		"chinese": "天气情况",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/"
-	},
-	{
-		"english": "the weather in southern",
-		"chinese": "南方的天气",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/"
-	},
-	{
-		"english": "the weather in southern china",
-		"chinese": "中国南方的天气",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/ /tʃˈaɪnə/"
-	},
-	{
-		"english": "the weather in southern china was",
-		"chinese": "中国南部的天气是",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/ /tʃˈaɪnə/ /wˈɔːz/"
-	},
-	{
-		"english": "the weather in southern china was warm",
-		"chinese": "中国南方的天气很温暖",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/ /tʃˈaɪnə/ /wˈɔːz/ /wˈɔːrm/"
-	},
-	{
-		"english": "the weather in southern china was warm and",
-		"chinese": "中国南方的天气温暖宜人",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/ /tʃˈaɪnə/ /wˈɔːz/ /wˈɔːrm/ /ˈænd/"
-	},
-	{
-		"english": "the weather in southern china was warm and so",
-		"chinese": "中国南方的天气温暖，所以",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/ /tʃˈaɪnə/ /wˈɔːz/ /wˈɔːrm/ /ˈænd/ /sˈoʊ/"
-	},
-	{
-		"english": "the weather in southern china was warm and so were",
-		"chinese": "中国南方的天气温暖，同样如此",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/ /tʃˈaɪnə/ /wˈɔːz/ /wˈɔːrm/ /ˈænd/ /sˈoʊ/ /wˈɜː/"
-	},
-	{
-		"english": "the weather in southern china was warm and so were the",
-		"chinese": "中国南方的天气温暖，同样如此",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/ /tʃˈaɪnə/ /wˈɔːz/ /wˈɔːrm/ /ˈænd/ /sˈoʊ/ /wˈɜː/ /ðiː/"
-	},
-	{
-		"english": "the weather in southern china was warm and so were the students",
-		"chinese": "中国南方的天气温暖，学生们也是。",
-		"soundmark": "/ðiː/ /wˈɛːðɜː/ /ˈɪn/ /sˈəðɜːn/ /tʃˈaɪnə/ /wˈɔːz/ /wˈɔːrm/ /ˈænd/ /sˈoʊ/ /wˈɜː/ /ðiː/ /stˈuːdənts/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the unexpected",
-		"chinese": "出乎意料",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/"
-	},
-	{
-		"english": "the unexpected events",
-		"chinese": "意外事件",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/"
-	},
-	{
-		"english": "the unexpected events of",
-		"chinese": "意外的事件",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/ /əv/"
-	},
-	{
-		"english": "the unexpected events of the",
-		"chinese": "意想不到的事件",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/ /əv/ /ðiː/"
-	},
-	{
-		"english": "the unexpected events of the year",
-		"chinese": "今年的意外事件",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/ /əv/ /ðiː/ /jˈɪr/"
-	},
-	{
-		"english": "the unexpected events of the year to",
-		"chinese": "今年发生的意外事件",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/ /əv/ /ðiː/ /jˈɪr/ /tə/"
-	},
-	{
-		"english": "the unexpected events of the year to come",
-		"chinese": "来年意想不到的事件",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/ /əv/ /ðiː/ /jˈɪr/ /tə/ /kˈəm/"
-	},
-	{
-		"english": "the unexpected events of the year to come began",
-		"chinese": "来年那些意外的事件开始了",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/ /əv/ /ðiː/ /jˈɪr/ /tə/ /kˈəm/ /biːɡˈæn/"
-	},
-	{
-		"english": "the unexpected events of the year to come began to",
-		"chinese": "来年那些意外的事件开始发生",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/ /əv/ /ðiː/ /jˈɪr/ /tə/ /kˈəm/ /biːɡˈæn/ /tə/"
-	},
-	{
-		"english": "the unexpected events of the year to come began to unfold",
-		"chinese": "来年那些意外事件开始显现出来",
-		"soundmark": "/ðiː/ /ˌənɪkspˈɛːktɪd/ /iːvˈɛːnts/ /əv/ /ðiː/ /jˈɪr/ /tə/ /kˈəm/ /biːɡˈæn/ /tə/ /ənfˈoʊld/"
-	},
-	{
-		"english": "much",
-		"chinese": "很多",
-		"soundmark": "/mˈətʃ/"
-	},
-	{
-		"english": "much too",
-		"chinese": "太过分了",
-		"soundmark": "/mˈətʃ/ /tˈuː/"
-	},
-	{
-		"english": "much too soon",
-		"chinese": "太早了",
-		"soundmark": "/mˈətʃ/ /tˈuː/ /sˈuːn/"
-	},
-	{
-		"english": "much too soon to",
-		"chinese": "为时过早",
-		"soundmark": "/mˈətʃ/ /tˈuː/ /sˈuːn/ /tə/"
-	},
-	{
-		"english": "much too soon to become",
-		"chinese": "还为时过早，无法成为",
-		"soundmark": "/mˈətʃ/ /tˈuː/ /sˈuːn/ /tə/ /bɪkˈəm/"
-	},
-	{
-		"english": "much too soon to become only",
-		"chinese": "还太早，无法仅此而已",
-		"soundmark": "/mˈətʃ/ /tˈuː/ /sˈuːn/ /tə/ /bɪkˈəm/ /ˈoʊnliː/"
-	},
-	{
-		"english": "much too soon to become only an",
-		"chinese": "还太早，无法仅仅成为……",
-		"soundmark": "/mˈətʃ/ /tˈuː/ /sˈuːn/ /tə/ /bɪkˈəm/ /ˈoʊnliː/ /ən/"
-	},
-	{
-		"english": "much too soon to become only an innocent",
-		"chinese": "还太早，无法仅仅成为无辜者",
-		"soundmark": "/mˈətʃ/ /tˈuː/ /sˈuːn/ /tə/ /bɪkˈəm/ /ˈoʊnliː/ /ən/ /ˈɪnəsənt/"
-	},
-	{
-		"english": "much too soon to become only an innocent treasured",
-		"chinese": "还太早，无法仅仅成为一份纯真的珍宝",
-		"soundmark": "/mˈətʃ/ /tˈuː/ /sˈuːn/ /tə/ /bɪkˈəm/ /ˈoʊnliː/ /ən/ /ˈɪnəsənt/ /trˈɛːʒɜːd/"
-	},
-	{
-		"english": "much too soon to become only an innocent treasured memory",
-		"chinese": "还太早，无法成为仅仅一段纯真的珍贵回忆",
-		"soundmark": "/mˈətʃ/ /tˈuː/ /sˈuːn/ /tə/ /bɪkˈəm/ /ˈoʊnliː/ /ən/ /ˈɪnəsənt/ /trˈɛːʒɜːd/ /mˈɛːmɜːiː/"
-	},
-	{
-		"english": "something",
-		"chinese": "一些东西",
-		"soundmark": "/sˈəmθɪŋ/"
-	},
-	{
-		"english": "something precious",
-		"chinese": "珍贵的东西",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/"
-	},
-	{
-		"english": "something precious should",
-		"chinese": "一些珍贵的东西应该",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/"
-	},
-	{
-		"english": "something precious should be",
-		"chinese": "一些珍贵的东西应该被",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/ /biː/"
-	},
-	{
-		"english": "something precious should be held",
-		"chinese": "应该保存一些珍贵的东西",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/ /biː/ /hˈɛːld/"
-	},
-	{
-		"english": "something precious should be held tight",
-		"chinese": "一些珍贵的东西应该紧紧握住",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/ /biː/ /hˈɛːld/ /tˈaɪt/"
-	},
-	{
-		"english": "something precious should be held tight and",
-		"chinese": "一些珍贵的东西应该紧紧握住",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/ /biː/ /hˈɛːld/ /tˈaɪt/ /ˈænd/"
-	},
-	{
-		"english": "something precious should be held tight and not",
-		"chinese": "一些珍贵的东西应该紧紧握住，不要",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/ /biː/ /hˈɛːld/ /tˈaɪt/ /ˈænd/ /nˈɑːt/"
-	},
-	{
-		"english": "something precious should be held tight and not let",
-		"chinese": "一些珍贵的东西应该紧紧握住，不能放手",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/ /biː/ /hˈɛːld/ /tˈaɪt/ /ˈænd/ /nˈɑːt/ /lˈɛːt/"
-	},
-	{
-		"english": "something precious should be held tight and not let it",
-		"chinese": "一些珍贵的东西应该紧紧握住，不能放手",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/ /biː/ /hˈɛːld/ /tˈaɪt/ /ˈænd/ /nˈɑːt/ /lˈɛːt/ /ɪt/"
-	},
-	{
-		"english": "something precious should be held tight and not let it go",
-		"chinese": "一些珍贵的东西应该紧紧握住，不要放手",
-		"soundmark": "/sˈəmθɪŋ/ /prˈɛːʃəs/ /ʃˈʊd/ /biː/ /hˈɛːld/ /tˈaɪt/ /ˈænd/ /nˈɑːt/ /lˈɛːt/ /ɪt/ /ɡˈoʊ/"
-	},
-	{
-		"english": "it",
-		"chinese": "它",
-		"soundmark": "/ɪt/"
-	},
-	{
-		"english": "it was",
-		"chinese": "就是",
-		"soundmark": "/ɪt/ /wˈɔːz/"
-	},
-	{
-		"english": "it was to",
-		"chinese": "是为了",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/"
-	},
-	{
-		"english": "it was to be",
-		"chinese": "它原本要成为",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/"
-	},
-	{
-		"english": "it was to be a",
-		"chinese": "这将是一个",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/"
-	},
-	{
-		"english": "it was to be a year",
-		"chinese": "那将是一个年头",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/ /jˈɪr/"
-	},
-	{
-		"english": "it was to be a year of",
-		"chinese": "这将是一个充满……的一年",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/ /jˈɪr/ /əv/"
-	},
-	{
-		"english": "it was to be a year of surprises",
-		"chinese": "这将是一个充满惊喜的一年",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/ /jˈɪr/ /əv/ /səprˈaɪzɪz/"
-	},
-	{
-		"english": "it was to be a year of surprises and",
-		"chinese": "这将是一个充满惊喜的一年",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/ /jˈɪr/ /əv/ /səprˈaɪzɪz/ /ˈænd/"
-	},
-	{
-		"english": "it was to be a year of surprises and a",
-		"chinese": "这将是一个充满惊喜的一年。",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/ /jˈɪr/ /əv/ /səprˈaɪzɪz/ /ˈænd/ /ˈeɪ/"
-	},
-	{
-		"english": "it was to be a year of surprises and a year",
-		"chinese": "这将是一个充满惊喜的一年，也是一年",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/ /jˈɪr/ /əv/ /səprˈaɪzɪz/ /ˈænd/ /ˈeɪ/ /jˈɪr/"
-	},
-	{
-		"english": "it was to be a year of surprises and a year of",
-		"chinese": "这将是一个充满惊喜的一年，也是一个……的一年",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/ /jˈɪr/ /əv/ /səprˈaɪzɪz/ /ˈænd/ /ˈeɪ/ /jˈɪr/ /əv/"
-	},
-	{
-		"english": "it was to be a year of surprises and a year of love",
-		"chinese": "这将是一个充满惊喜、充满爱意的一年",
-		"soundmark": "/ɪt/ /wˈɔːz/ /tə/ /biː/ /ˈeɪ/ /jˈɪr/ /əv/ /səprˈaɪzɪz/ /ˈænd/ /ˈeɪ/ /jˈɪr/ /əv/ /lˈəv/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the chinese",
-		"chinese": "中国",
-		"soundmark": "/ðiː/ /tʃaɪnˈiːz/"
-	},
-	{
-		"english": "the chinese have",
-		"chinese": "中国人",
-		"soundmark": "/ðiː/ /tʃaɪnˈiːz/ /hˈæv/"
-	},
-	{
-		"english": "the chinese have an",
-		"chinese": "中国人有……",
-		"soundmark": "/ðiː/ /tʃaɪnˈiːz/ /hˈæv/ /ən/"
-	},
-	{
-		"english": "the chinese have an expression",
-		"chinese": "中国人有一个表达方式",
-		"soundmark": "/ðiː/ /tʃaɪnˈiːz/ /hˈæv/ /ən/ /ɪksprˈɛːʃən/"
-	},
-	{
-		"english": "the chinese have an expression for",
-		"chinese": "中国人有一个表达方式",
-		"soundmark": "/ðiː/ /tʃaɪnˈiːz/ /hˈæv/ /ən/ /ɪksprˈɛːʃən/ /frɜː/"
-	},
-	{
-		"english": "the chinese have an expression for it",
-		"chinese": "中国人有相关的表达方式",
-		"soundmark": "/ðiː/ /tʃaɪnˈiːz/ /hˈæv/ /ən/ /ɪksprˈɛːʃən/ /frɜː/ /ɪt/"
-	},
-	{
-		"english": "yuan",
-		"chinese": "元",
-		"soundmark": "/juːˈɑːn/"
-	},
-	{
-		"english": "yuan fen",
-		"chinese": "元分",
-		"soundmark": "/juːˈɑːn/ /fˈɛːn/"
-	},
-	{
-		"english": "a",
-		"chinese": "一个",
-		"soundmark": "/ˈeɪ/"
-	},
-	{
-		"english": "a westerner",
-		"chinese": "一个西方人",
-		"soundmark": "/ˈeɪ/ /wˈɛːstɜːnɜː/"
-	},
-	{
-		"english": "a westerner would",
-		"chinese": "一个西方人会",
-		"soundmark": "/ˈeɪ/ /wˈɛːstɜːnɜː/ /wˈʊd/"
-	},
-	{
-		"english": "a westerner would only",
-		"chinese": "西方人只会……",
-		"soundmark": "/ˈeɪ/ /wˈɛːstɜːnɜː/ /wˈʊd/ /ˈoʊnliː/"
-	},
-	{
-		"english": "a westerner would only question",
-		"chinese": "西方人只会质疑",
-		"soundmark": "/ˈeɪ/ /wˈɛːstɜːnɜː/ /wˈʊd/ /ˈoʊnliː/ /kwˈɛːʃən/"
-	},
-	{
-		"english": "a westerner would only question why",
-		"chinese": "西方人只会质疑为什么",
-		"soundmark": "/ˈeɪ/ /wˈɛːstɜːnɜː/ /wˈʊd/ /ˈoʊnliː/ /kwˈɛːʃən/ /hwˈaɪ/"
-	},
-	{
-		"english": "a westerner would only question why and",
-		"chinese": "西方人只会质疑原因是什么",
-		"soundmark": "/ˈeɪ/ /wˈɛːstɜːnɜː/ /wˈʊd/ /ˈoʊnliː/ /kwˈɛːʃən/ /hwˈaɪ/ /ˈænd/"
-	},
-	{
-		"english": "a westerner would only question why and how",
-		"chinese": "西方人只会质疑原因和方式",
-		"soundmark": "/ˈeɪ/ /wˈɛːstɜːnɜː/ /wˈʊd/ /ˈoʊnliː/ /kwˈɛːʃən/ /hwˈaɪ/ /ˈænd/ /hˈaʊ/"
-	},
-	{
-		"english": "with",
-		"chinese": "与",
-		"soundmark": "/wɪð/"
-	},
-	{
-		"english": "with your",
-		"chinese": "和你一起",
-		"soundmark": "/wɪð/ /jˈʊr/"
-	},
-	{
-		"english": "with your permission",
-		"chinese": "经您许可",
-		"soundmark": "/wɪð/ /jˈʊr/ /pɜːmˈɪʃən/"
-	},
-	{
-		"english": "with your permission let",
-		"chinese": "经您许可，可以",
-		"soundmark": "/wɪð/ /jˈʊr/ /pɜːmˈɪʃən/ /lˈɛːt/"
-	},
-	{
-		"english": "with your permission let us",
-		"chinese": "在您允许的情况下，让我们",
-		"soundmark": "/wɪð/ /jˈʊr/ /pɜːmˈɪʃən/ /lˈɛːt/ /jˈuːˈɛːs/"
-	},
-	{
-		"english": "with your permission let us share",
-		"chinese": "在您允许的情况下，让我们分享",
-		"soundmark": "/wɪð/ /jˈʊr/ /pɜːmˈɪʃən/ /lˈɛːt/ /jˈuːˈɛːs/ /ʃˈɛːr/"
-	},
-	{
-		"english": "with your permission let us share the",
-		"chinese": "在您允许的情况下，让我们分享一下",
-		"soundmark": "/wɪð/ /jˈʊr/ /pɜːmˈɪʃən/ /lˈɛːt/ /jˈuːˈɛːs/ /ʃˈɛːr/ /ðiː/"
-	},
-	{
-		"english": "with your permission let us share the experience",
-		"chinese": "在您允许的情况下，让我们分享这段经历",
-		"soundmark": "/wɪð/ /jˈʊr/ /pɜːmˈɪʃən/ /lˈɛːt/ /jˈuːˈɛːs/ /ʃˈɛːr/ /ðiː/ /ɪkspˈɪriːəns/"
-	},
-	{
-		"english": "with your permission let us share the experience together",
-		"chinese": "在您允许的情况下，让我们共同分享这段经历",
-		"soundmark": "/wɪð/ /jˈʊr/ /pɜːmˈɪʃən/ /lˈɛːt/ /jˈuːˈɛːs/ /ʃˈɛːr/ /ðiː/ /ɪkspˈɪriːəns/ /təɡˈɛːðɜː/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he sat",
-		"chinese": "他坐着",
-		"soundmark": "/hˈiː/ /sˈæt/"
-	},
-	{
-		"english": "he sat at",
-		"chinese": "他坐在那里",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/"
-	},
-	{
-		"english": "he sat at the",
-		"chinese": "他坐在那里",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/"
-	},
-	{
-		"english": "he sat at the front",
-		"chinese": "他坐在前面",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/ /frˈənt/"
-	},
-	{
-		"english": "he sat at the front of",
-		"chinese": "他坐在前面",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/ /frˈənt/ /əv/"
-	},
-	{
-		"english": "he sat at the front of the",
-		"chinese": "他坐在前面",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/ /frˈənt/ /əv/ /ðiː/"
-	},
-	{
-		"english": "he sat at the front of the classroom",
-		"chinese": "他坐在教室的前排",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/ /frˈənt/ /əv/ /ðiː/ /klˈæsrˌuːm/"
-	},
-	{
-		"english": "he sat at the front of the classroom looking",
-		"chinese": "他坐在教室前面看着",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/ /frˈənt/ /əv/ /ðiː/ /klˈæsrˌuːm/ /lˈʊkɪŋ/"
-	},
-	{
-		"english": "he sat at the front of the classroom looking anxious",
-		"chinese": "他坐在教室前排，看起来很焦虑",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/ /frˈənt/ /əv/ /ðiː/ /klˈæsrˌuːm/ /lˈʊkɪŋ/ /ˈæŋʃəs/"
-	},
-	{
-		"english": "he sat at the front of the classroom looking anxious but",
-		"chinese": "他坐在教室前排，看起来很焦虑",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/ /frˈənt/ /əv/ /ðiː/ /klˈæsrˌuːm/ /lˈʊkɪŋ/ /ˈæŋʃəs/ /bˈət/"
-	},
-	{
-		"english": "he sat at the front of the classroom looking anxious but attentive",
-		"chinese": "他坐在教室前排，看起来既焦虑又专注",
-		"soundmark": "/hˈiː/ /sˈæt/ /ˈæt/ /ðiː/ /frˈənt/ /əv/ /ðiː/ /klˈæsrˌuːm/ /lˈʊkɪŋ/ /ˈæŋʃəs/ /bˈət/ /ətˈɛːntɪv/"
-	},
-	{
-		"english": "in",
-		"chinese": "在",
-		"soundmark": "/ˈɪn/"
-	},
-	{
-		"english": "in those",
-		"chinese": "在那些",
-		"soundmark": "/ˈɪn/ /ðˈoʊz/"
-	},
-	{
-		"english": "in those first",
-		"chinese": "在那些最初的时候",
-		"soundmark": "/ˈɪn/ /ðˈoʊz/ /fˈɜːst/"
-	},
-	{
-		"english": "in those first few",
-		"chinese": "在最初的那些时刻",
-		"soundmark": "/ˈɪn/ /ðˈoʊz/ /fˈɜːst/ /fjˈuː/"
-	},
-	{
-		"english": "in those first few days",
-		"chinese": "在最初的几天里",
-		"soundmark": "/ˈɪn/ /ðˈoʊz/ /fˈɜːst/ /fjˈuː/ /dˈeɪz/"
-	},
-	{
-		"english": "his",
-		"chinese": "他的",
-		"soundmark": "/hɪz/"
-	},
-	{
-		"english": "his eyes",
-		"chinese": "他的眼睛",
-		"soundmark": "/hɪz/ /ˈaɪz/"
-	},
-	{
-		"english": "his eyes bright",
-		"chinese": "他的眼睛明亮",
-		"soundmark": "/hɪz/ /ˈaɪz/ /brˈaɪt/"
-	},
-	{
-		"english": "his eyes bright with",
-		"chinese": "他的眼睛亮晶晶的",
-		"soundmark": "/hɪz/ /ˈaɪz/ /brˈaɪt/ /wɪð/"
-	},
-	{
-		"english": "his eyes bright with anticipation",
-		"chinese": "他的眼睛充满期待的光芒",
-		"soundmark": "/hɪz/ /ˈaɪz/ /brˈaɪt/ /wɪð/ /æntɪsəpˈeɪʃən/"
-	},
-	{
-		"english": "his eyes bright with anticipation sought",
-		"chinese": "他充满期待的眼睛寻找着",
-		"soundmark": "/hɪz/ /ˈaɪz/ /brˈaɪt/ /wɪð/ /æntɪsəpˈeɪʃən/ /sˈɔːt/"
-	},
-	{
-		"english": "his eyes bright with anticipation sought approval",
-		"chinese": "他充满期待的眼睛寻求认可",
-		"soundmark": "/hɪz/ /ˈaɪz/ /brˈaɪt/ /wɪð/ /æntɪsəpˈeɪʃən/ /sˈɔːt/ /əprˈuːvəl/"
-	},
-	{
-		"english": "his eyes bright with anticipation sought approval from",
-		"chinese": "他充满期待的眼睛寻求认可",
-		"soundmark": "/hɪz/ /ˈaɪz/ /brˈaɪt/ /wɪð/ /æntɪsəpˈeɪʃən/ /sˈɔːt/ /əprˈuːvəl/ /fɜːm/"
-	},
-	{
-		"english": "his eyes bright with anticipation sought approval from me",
-		"chinese": "他充满期待的眼睛寻求我的认可",
-		"soundmark": "/hɪz/ /ˈaɪz/ /brˈaɪt/ /wɪð/ /æntɪsəpˈeɪʃən/ /sˈɔːt/ /əprˈuːvəl/ /fɜːm/ /mˈiː/"
-	},
-	{
-		"english": "his",
-		"chinese": "他的",
-		"soundmark": "/hɪz/"
-	},
-	{
-		"english": "his teacher",
-		"chinese": "他的老师",
-		"soundmark": "/hɪz/ /tˈiːtʃɜː/"
-	}
+  {
+    "english": "Sometimes",
+    "chinese": "有时",
+    "soundmark": "/sˈəmtˌaɪmz/"
+  },
+  {
+    "english": "Sometimes truth",
+    "chinese": "有时真相"
+  },
+  {
+    "english": "Sometimes truth is",
+    "chinese": "有时真相是"
+  },
+  {
+    "english": "Sometimes truth is stranger",
+    "chinese": "有时真相更离奇"
+  },
+  {
+    "english": "Sometimes truth is stranger than",
+    "chinese": "有时真相比虚构更离奇"
+  },
+  {
+    "english": "Sometimes truth is stranger than fiction",
+    "chinese": "有时真相比虚构更离奇。"
+  },
+  {
+    "english": "Sometimes",
+    "chinese": "有时",
+    "soundmark": "/sˈəmtˌaɪmz/"
+  },
+  {
+    "english": "Sometimes life",
+    "chinese": "有时生活"
+  },
+  {
+    "english": "Sometimes life deals",
+    "chinese": "有时生活会安排"
+  },
+  {
+    "english": "Sometimes life deals us",
+    "chinese": "有时生活会安排我们"
+  },
+  {
+    "english": "Sometimes life deals us a",
+    "chinese": "有时生活会给我们一个"
+  },
+  {
+    "english": "Sometimes life deals us a bad",
+    "chinese": "有时生活会给我们一个糟糕的结局"
+  },
+  {
+    "english": "Sometimes life deals us a bad hand",
+    "chinese": "有时生活会给我们一个不友好的局面。"
+  },
+  {
+    "english": "Sometimes",
+    "chinese": "有时",
+    "soundmark": "/sˈəmtˌaɪmz/"
+  },
+  {
+    "english": "Sometimes it",
+    "chinese": "有时是"
+  },
+  {
+    "english": "Sometimes it is",
+    "chinese": "有时很难"
+  },
+  {
+    "english": "Sometimes it is hard",
+    "chinese": "有时很难继续下去"
+  },
+  {
+    "english": "Sometimes it is hard to",
+    "chinese": "有时很难"
+  },
+  {
+    "english": "Sometimes it is hard to go on",
+    "chinese": "有时候很难继续下去。"
+  },
+  {
+    "english": "Sometimes",
+    "chinese": "有时",
+    "soundmark": "/sˈəmtˌaɪmz/"
+  },
+  {
+    "english": "Sometimes evil",
+    "chinese": "有时是邪恶"
+  },
+  {
+    "english": "Sometimes evil triumphs",
+    "chinese": "有时邪恶会得胜"
+  },
+  {
+    "english": "Sometimes evil triumphs over",
+    "chinese": "有时邪恶会战胜"
+  },
+  {
+    "english": "Sometimes evil triumphs over good",
+    "chinese": "有时邪恶会战胜善良。"
+  },
+  {
+    "english": "Nancy",
+    "chinese": "南希",
+    "soundmark": "/nˈænsiː/"
+  },
+  {
+    "english": "Nancy sighed",
+    "chinese": "南希叹了口气"
+  },
+  {
+    "english": "Nancy sighed heavily",
+    "chinese": "南希强烈地叹了口气"
+  },
+  {
+    "english": "Nancy sighed heavily as",
+    "chinese": "南希在拉扯时强烈地叹了口气"
+  },
+  {
+    "english": "Nancy sighed heavily as she",
+    "chinese": "南希在拉扯她女儿时强烈地叹了口气"
+  },
+  {
+    "english": "Nancy sighed heavily as she pulled",
+    "chinese": "南希在拉扯她女儿的日记时强烈地叹了口气"
+  },
+  {
+    "english": "Nancy sighed heavily as she pulled her",
+    "chinese": "南希从抽屉里拉出她女儿的日记时强烈地叹了口气"
+  },
+  {
+    "english": "Nancy sighed heavily as she pulled her daughters",
+    "chinese": "南希重重地叹了口气，同时牵着女儿的手"
+  },
+  {
+    "english": "Nancy sighed heavily as she pulled her daughters diary",
+    "chinese": "南希叹了口气，同时拿出女儿的日记本"
+  },
+  {
+    "english": "Nancy sighed heavily as she pulled her daughters diary from",
+    "chinese": "南希重重地叹了口气，从女儿的日记本里取出它"
+  },
+  {
+    "english": "Nancy sighed heavily as she pulled her daughters diary from the",
+    "chinese": "南希重重地叹了口气，从女儿的日记本里取出它"
+  },
+  {
+    "english": "Nancy sighed heavily as she pulled her daughters diary from the drawer",
+    "chinese": "南希在从抽屉里取出女儿的日记本时，深深地叹了口气。"
+  },
+  {
+    "english": "She",
+    "chinese": "她",
+    "soundmark": "/ʃˈiː/"
+  },
+  {
+    "english": "She leaned",
+    "chinese": "她倾斜过来"
+  },
+  {
+    "english": "She leaned forward",
+    "chinese": "她向前倾身"
+  },
+  {
+    "english": "She leaned forward to",
+    "chinese": "她向前倾身以便"
+  },
+  {
+    "english": "She leaned forward to examine",
+    "chinese": "她向前倾身以便检查"
+  },
+  {
+    "english": "She leaned forward to examine the",
+    "chinese": "她向前倾身以便检查那个"
+  },
+  {
+    "english": "She leaned forward to examine the familiar",
+    "chinese": "她向前倾身以便检查那个熟悉的"
+  },
+  {
+    "english": "She leaned forward to examine the familiar writing",
+    "chinese": "她向前倾身，查看那熟悉的文字。"
+  },
+  {
+    "english": "A",
+    "chinese": "A",
+    "soundmark": "/ˈeɪ/"
+  },
+  {
+    "english": "A postcard",
+    "chinese": "一张明信片"
+  },
+  {
+    "english": "A postcard with",
+    "chinese": "一张带有……的明信片"
+  },
+  {
+    "english": "A postcard with a",
+    "chinese": "一张带有彩色图案的明信片"
+  },
+  {
+    "english": "A postcard with a colored",
+    "chinese": "一张带有彩色素描的明信片掉落了"
+  },
+  {
+    "english": "A postcard with a colored sketch",
+    "chinese": "一张带有彩色素描的明信片掉在了……上"
+  },
+  {
+    "english": "A postcard with a colored sketch fell",
+    "chinese": "一张带有彩色素描的明信片掉在了地板上"
+  },
+  {
+    "english": "A postcard with a colored sketch fell onto",
+    "chinese": "一张带有彩色素描的明信片从……掉到了地板上"
+  },
+  {
+    "english": "A postcard with a colored sketch fell onto the",
+    "chinese": "一张带有彩色素描的明信片从书中掉到了地板上"
+  },
+  {
+    "english": "A postcard with a colored sketch fell onto the floor",
+    "chinese": "一张带有彩色素描的明信片掉到了地板上"
+  },
+  {
+    "english": "A postcard with a colored sketch fell onto the floor from",
+    "chinese": "一张带有彩色素描的明信片掉到了地板上"
+  },
+  {
+    "english": "A postcard with a colored sketch fell onto the floor from the",
+    "chinese": "一张带有彩色素描的明信片从……上掉到了地板上"
+  },
+  {
+    "english": "A postcard with a colored sketch fell onto the floor from the book",
+    "chinese": "一本书里的一张彩色素描明信片掉到了地板上。"
+  },
+  {
+    "english": "The",
+    "chinese": "那幅画",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The drawing",
+    "chinese": "那幅画是"
+  },
+  {
+    "english": "The drawing was",
+    "chinese": "那幅画是一张图片"
+  },
+  {
+    "english": "The drawing was a",
+    "chinese": "那幅画是一张关于……的图片"
+  },
+  {
+    "english": "The drawing was a picture",
+    "chinese": "那幅画是一张关于长而弯曲的……的图片"
+  },
+  {
+    "english": "The drawing was a picture of",
+    "chinese": "那幅画是一张关于长而弯曲的沙质……的图片"
+  },
+  {
+    "english": "The drawing was a picture of a",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩的图片"
+  },
+  {
+    "english": "The drawing was a picture of a long",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……的图片"
+  },
+  {
+    "english": "The drawing was a picture of a long curved",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……的一个地方的图片"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……一个热带地区的图片"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……一个热带岛屿的图片"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……一个热带岛屿当然的图片"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……一个热带岛屿当然的图片，它"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a tropical",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……一个热带岛屿当然的图片，它将会"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a tropical island",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……一个热带岛屿当然的图片，它将会是"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a tropical island of",
+    "chinese": "那幅画是一张关于长而弯曲的沙质海滩在……一个热带岛屿当然的图片，它将会是蒙塞拉特"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a tropical island of course",
+    "chinese": "这幅画描绘的是热带岛屿上一条长长的弯曲沙质海滩。"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a tropical island of course it",
+    "chinese": "这幅画描绘的是一个热带岛屿上长长的弯曲沙质海滩的景象，当然了"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a tropical island of course it would",
+    "chinese": "这幅画描绘的是一个热带岛屿上长长的弯曲沙质海滩，当然了"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a tropical island of course it would be",
+    "chinese": "这幅画描绘的是一个热带岛屿上长长的弯曲沙质海滩，当然了。"
+  },
+  {
+    "english": "The drawing was a picture of a long curved sandy beach on a tropical island of course it would be Montserrat",
+    "chinese": "这幅画描绘的是一个热带岛屿上长而弯曲的沙质海滩；当然，那一定是蒙塞拉特岛。"
+  },
+  {
+    "english": "She",
+    "chinese": "她",
+    "soundmark": "/ʃˈiː/"
+  },
+  {
+    "english": "She felt",
+    "chinese": "她感到笨拙"
+  },
+  {
+    "english": "She felt clumsy",
+    "chinese": "她在跪下时感到笨拙"
+  },
+  {
+    "english": "She felt clumsy as",
+    "chinese": "她在跪下去取回时感到笨拙"
+  },
+  {
+    "english": "She felt clumsy as she",
+    "chinese": "她跪下去取回那幅画时感到笨拙"
+  },
+  {
+    "english": "She felt clumsy as she knelt",
+    "chinese": "她跪下时感到笨手笨脚的"
+  },
+  {
+    "english": "She felt clumsy as she knelt to",
+    "chinese": "她跪下时感到笨手笨脚的"
+  },
+  {
+    "english": "She felt clumsy as she knelt to retrieve",
+    "chinese": "她跪下去取东西时感到笨手笨脚的"
+  },
+  {
+    "english": "She felt clumsy as she knelt to retrieve the",
+    "chinese": "她跪下去取东西时感到笨手笨脚的"
+  },
+  {
+    "english": "She felt clumsy as she knelt to retrieve the picture",
+    "chinese": "她跪下去取照片时感到笨手笨脚的。"
+  },
+  {
+    "english": "Under",
+    "chinese": "在……之下",
+    "soundmark": "/ˈəndɜː/"
+  },
+  {
+    "english": "Under no",
+    "chinese": "在任何情况下都不"
+  },
+  {
+    "english": "Under no circumstances",
+    "chinese": "在任何情况下都不可以"
+  },
+  {
+    "english": "Under no circumstances could",
+    "chinese": "在任何情况下都不可以她"
+  },
+  {
+    "english": "Under no circumstances could she",
+    "chinese": "在任何情况下都不可以她原谅"
+  },
+  {
+    "english": "Under no circumstances could she forgive",
+    "chinese": "她绝不会原谅"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or forget",
+    "chinese": "或者忘记"
+  },
+  {
+    "english": "or forget the",
+    "chinese": "或者忘记那些"
+  },
+  {
+    "english": "or forget the criminals",
+    "chinese": "或者忘记那些罪犯"
+  },
+  {
+    "english": "who",
+    "chinese": "谁",
+    "soundmark": "/hˈuː/"
+  },
+  {
+    "english": "who tortured",
+    "chinese": "谁折磨了她"
+  },
+  {
+    "english": "who tortured her",
+    "chinese": "谁折磨了她美丽的姑娘"
+  },
+  {
+    "english": "who tortured her beautiful",
+    "chinese": "谁折磨了她美丽的梅根"
+  },
+  {
+    "english": "who tortured her beautiful Megan",
+    "chinese": "那个折磨她美丽的梅根的人。"
+  },
+  {
+    "english": "It",
+    "chinese": "它",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "english": "It was",
+    "chinese": "就是"
+  },
+  {
+    "english": "It was difficult",
+    "chinese": "这很困难"
+  },
+  {
+    "english": "It was difficult not",
+    "chinese": "很难不..."
+  },
+  {
+    "english": "It was difficult not to",
+    "chinese": "很难不..."
+  },
+  {
+    "english": "It was difficult not to feel",
+    "chinese": "很难不感到……"
+  },
+  {
+    "english": "It was difficult not to feel bitter",
+    "chinese": "很难不感到痛苦"
+  },
+  {
+    "english": "It was difficult not to feel bitter about",
+    "chinese": "很难不感到痛苦"
+  },
+  {
+    "english": "It was difficult not to feel bitter about the",
+    "chinese": "很难不对这件事感到痛苦。"
+  },
+  {
+    "english": "It was difficult not to feel bitter about the events",
+    "chinese": "很难不对这些事件感到痛苦"
+  },
+  {
+    "english": "It was difficult not to feel bitter about the events of",
+    "chinese": "对于那些事件，难以不感到痛苦。"
+  },
+  {
+    "english": "It was difficult not to feel bitter about the events of the",
+    "chinese": "这些事件让人难以不感到痛苦。"
+  },
+  {
+    "english": "It was difficult not to feel bitter about the events of the preceding",
+    "chinese": "很难不对之前的事件感到痛苦。"
+  },
+  {
+    "english": "It was difficult not to feel bitter about the events of the preceding year",
+    "chinese": "很难不对过去一年的事件感到痛苦。"
+  },
+  {
+    "english": "She",
+    "chinese": "她",
+    "soundmark": "/ʃˈiː/"
+  },
+  {
+    "english": "She grabbed",
+    "chinese": "她拿起了"
+  },
+  {
+    "english": "She grabbed a",
+    "chinese": "她拿起了一张"
+  },
+  {
+    "english": "She grabbed a tissue",
+    "chinese": "她拿起了纸巾"
+  },
+  {
+    "english": "She grabbed a tissue to",
+    "chinese": "她拿起了纸巾来"
+  },
+  {
+    "english": "She grabbed a tissue to wipe",
+    "chinese": "她拿起了纸巾用来擦拭"
+  },
+  {
+    "english": "She grabbed a tissue to wipe away",
+    "chinese": "她拿起了纸巾用来擦去"
+  },
+  {
+    "english": "She grabbed a tissue to wipe away the",
+    "chinese": "她拿起了纸巾用来擦去那些"
+  },
+  {
+    "english": "She grabbed a tissue to wipe away the tears",
+    "chinese": "她拿起纸巾擦去眼泪"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that came",
+    "chinese": "那个来了"
+  },
+  {
+    "english": "that came to",
+    "chinese": "那个来到她身边"
+  },
+  {
+    "english": "that came to her",
+    "chinese": "那个来到她的眼睛里"
+  },
+  {
+    "english": "that came to her eyes",
+    "chinese": "出现在她的眼中。"
+  },
+  {
+    "english": "She",
+    "chinese": "她",
+    "soundmark": "/ʃˈiː/"
+  },
+  {
+    "english": "She had",
+    "chinese": "她曾"
+  },
+  {
+    "english": "She had shed",
+    "chinese": "她已经流落"
+  },
+  {
+    "english": "so",
+    "chinese": "所以",
+    "soundmark": "/sˈoʊ/"
+  },
+  {
+    "english": "so many",
+    "chinese": "如此多"
+  },
+  {
+    "english": "so many tears",
+    "chinese": "如此多的眼泪"
+  },
+  {
+    "english": "so many tears in",
+    "chinese": "过去如此多的眼泪"
+  },
+  {
+    "english": "so many tears in the",
+    "chinese": "过去一年如此多的眼泪"
+  },
+  {
+    "english": "so many tears in the past",
+    "chinese": "自她女儿被谋杀以来过去一年如此多的眼泪"
+  },
+  {
+    "english": "so many tears in the past year",
+    "chinese": "过去一年里流了那么多眼泪"
+  },
+  {
+    "english": "so many tears in the past year since",
+    "chinese": "过去一年里流了那么多的眼泪"
+  },
+  {
+    "english": "so many tears in the past year since her",
+    "chinese": "过去一年里，她流了那么多眼泪"
+  },
+  {
+    "english": "so many tears in the past year since her daughters",
+    "chinese": "自从女儿出生以来，过去一年里流了那么多眼泪"
+  },
+  {
+    "english": "so many tears in the past year since her daughters murder",
+    "chinese": "自从女儿被谋杀后，过去一年里流了那么多眼泪。"
+  },
+  {
+    "english": "Nancy",
+    "chinese": "南希",
+    "soundmark": "/nˈænsiː/"
+  },
+  {
+    "english": "Nancy recognized",
+    "chinese": "南希认出了"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that she",
+    "chinese": "那个她"
+  },
+  {
+    "english": "that she was",
+    "chinese": "那个她当时"
+  },
+  {
+    "english": "that she was suffering",
+    "chinese": "那个她正在受苦"
+  },
+  {
+    "english": "that she was suffering from",
+    "chinese": "那个她正在遭受"
+  },
+  {
+    "english": "that she was suffering from psychological",
+    "chinese": "那个她正在遭受心理问题"
+  },
+  {
+    "english": "that she was suffering from psychological problems",
+    "chinese": "她正遭受着心理问题困扰"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and had",
+    "chinese": "并且曾经有"
+  },
+  {
+    "english": "and had really",
+    "chinese": "并且真的有"
+  },
+  {
+    "english": "and had really become",
+    "chinese": "并且真的变得漠不关心"
+  },
+  {
+    "english": "and had really become indifferent",
+    "chinese": "并且真的变得对……漠不关心"
+  },
+  {
+    "english": "and had really become indifferent to",
+    "chinese": "并且真的变得对……事件漠不关心"
+  },
+  {
+    "english": "and had really become indifferent to the",
+    "chinese": "并且真的变得对她日常发生的事件漠不关心"
+  },
+  {
+    "english": "and had really become indifferent to the events",
+    "chinese": "并且真的变得对她日常生活的事件漠不关心"
+  },
+  {
+    "english": "and had really become indifferent to the events in",
+    "chinese": "并且真的对所发生的事情漠不关心了"
+  },
+  {
+    "english": "and had really become indifferent to the events in her",
+    "chinese": "并且对她所经历的事情真的变得漠不关心了"
+  },
+  {
+    "english": "and had really become indifferent to the events in her daily",
+    "chinese": "并且对日常发生的事件真的变得漠不关心了"
+  },
+  {
+    "english": "and had really become indifferent to the events in her daily life",
+    "chinese": "对她日常生活中的事情已经完全漠不关心了。"
+  },
+  {
+    "english": "She",
+    "chinese": "她",
+    "soundmark": "/ʃˈiː/"
+  },
+  {
+    "english": "She began",
+    "chinese": "她开始"
+  },
+  {
+    "english": "She began to",
+    "chinese": "她开始颤抖"
+  },
+  {
+    "english": "She began to shake",
+    "chinese": "她开始颤抖"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and then",
+    "chinese": "然后"
+  },
+  {
+    "english": "and then to",
+    "chinese": "然后去"
+  },
+  {
+    "english": "and then to weep",
+    "chinese": "然后哭泣。"
+  },
+  {
+    "english": "When",
+    "chinese": "什么时候",
+    "soundmark": "/hwˈɪn/"
+  },
+  {
+    "english": "When would",
+    "chinese": "什么时候会"
+  },
+  {
+    "english": "When would there",
+    "chinese": "什么时候会那里"
+  },
+  {
+    "english": "When would there be",
+    "chinese": "什么时候会那里有"
+  },
+  {
+    "english": "When would there be an",
+    "chinese": "什么时候会那里有答案"
+  },
+  {
+    "english": "When would there be an answer",
+    "chinese": "什么时候会有一个答案"
+  },
+  {
+    "english": "When would there be an answer to",
+    "chinese": "什么时候会有一个答案来应对"
+  },
+  {
+    "english": "When would there be an answer to this",
+    "chinese": "什么时候会有一个答案来应对这个该死的"
+  },
+  {
+    "english": "When would there be an answer to this damn",
+    "chinese": "什么时候会有一个答案来应对这个该死的噩梦"
+  },
+  {
+    "english": "When would there be an answer to this damn nightmare",
+    "chinese": "什么时候才能有解决这个噩梦的答案呢？"
+  },
+  {
+    "english": "Megan",
+    "chinese": "梅根",
+    "soundmark": "/mˈeɪɡən/"
+  },
+  {
+    "english": "Megan had",
+    "chinese": "梅根曾经参加过"
+  },
+  {
+    "english": "Megan had attended",
+    "chinese": "梅根曾经就读于中学"
+  },
+  {
+    "english": "Megan had attended secondary",
+    "chinese": "梅根曾经在中学就读"
+  },
+  {
+    "english": "Megan had attended secondary school",
+    "chinese": "梅根曾经在一家私立中学就读"
+  },
+  {
+    "english": "Megan had attended secondary school at",
+    "chinese": "梅根曾经在一家私立女校就读"
+  },
+  {
+    "english": "Megan had attended secondary school at a",
+    "chinese": "梅根曾经在一家私立女校就读了五年"
+  },
+  {
+    "english": "Megan had attended secondary school at a private",
+    "chinese": "梅根曾经在一家私立女校就读了五百年"
+  },
+  {
+    "english": "Megan had attended secondary school at a private girls",
+    "chinese": "梅根曾经在一家私立女校就读了五百公里远"
+  },
+  {
+    "english": "Megan had attended secondary school at a private girls school",
+    "chinese": "梅根曾经在一家私立女校就读了五百公里远于家的地方"
+  },
+  {
+    "english": "Megan had attended secondary school at a private girls school five",
+    "chinese": "梅根曾在一所私立女子学校就读过中学五年。"
+  },
+  {
+    "english": "Megan had attended secondary school at a private girls school five hundred",
+    "chinese": "梅根曾在一所私立女子学校就读了五年。"
+  },
+  {
+    "english": "Megan had attended secondary school at a private girls school five hundred kilometers",
+    "chinese": "梅根在五百公里外的私立女子学校就读过中学。"
+  },
+  {
+    "english": "Megan had attended secondary school at a private girls school five hundred kilometers from",
+    "chinese": "梅根曾在距离五百公里远的私立女子学校就读过中学。"
+  },
+  {
+    "english": "Megan had attended secondary school at a private girls school five hundred kilometers from home",
+    "chinese": "梅根在离家五百公里远的私立女子学校就读了中学。"
+  },
+  {
+    "english": "In",
+    "chinese": "在初中时",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In junior",
+    "chinese": "在初级阶段"
+  },
+  {
+    "english": "In junior school",
+    "chinese": "在小学阶段"
+  },
+  {
+    "english": "In junior school she",
+    "chinese": "在小学时她"
+  },
+  {
+    "english": "In junior school she had",
+    "chinese": "在小学时她有"
+  },
+  {
+    "english": "In junior school she had been",
+    "chinese": "在小学时她曾经"
+  },
+  {
+    "english": "In junior school she had been a",
+    "chinese": "在小学时她曾是"
+  },
+  {
+    "english": "In junior school she had been a straight",
+    "chinese": "在小学时，她一直很直率"
+  },
+  {
+    "english": "In junior school she had been a straight A",
+    "chinese": "在小学时，她的成绩都是全A"
+  },
+  {
+    "english": "In junior school she had been a straight A student",
+    "chinese": "在小学时，她一直是全优学生。"
+  },
+  {
+    "english": "Now",
+    "chinese": "现在",
+    "soundmark": "/nˈaʊ/"
+  },
+  {
+    "english": "Now in",
+    "chinese": "现在在……里"
+  },
+  {
+    "english": "Now in high",
+    "chinese": "现在在高中"
+  },
+  {
+    "english": "Now in high school",
+    "chinese": "现在在高中时她"
+  },
+  {
+    "english": "Now in high school she",
+    "chinese": "现在在高中时她继续了"
+  },
+  {
+    "english": "Now in high school she continued",
+    "chinese": "现在在高中时她继续学习"
+  },
+  {
+    "english": "Now in high school she continued to",
+    "chinese": "现在在高中时她继续努力学习"
+  },
+  {
+    "english": "Now in high school she continued to study",
+    "chinese": "现在在高中期间，她继续学习"
+  },
+  {
+    "english": "Now in high school she continued to study hard",
+    "chinese": "现在在高中期间，她继续努力学习"
+  },
+  {
+    "english": "play",
+    "chinese": "玩耍",
+    "soundmark": "/plˈeɪ/"
+  },
+  {
+    "english": "play sports",
+    "chinese": "进行体育运动"
+  },
+  {
+    "english": "join",
+    "chinese": "加入",
+    "soundmark": "/dʒˈɔɪn/"
+  },
+  {
+    "english": "join the",
+    "chinese": "加入"
+  },
+  {
+    "english": "join the school",
+    "chinese": "加入学校"
+  },
+  {
+    "english": "join the school orchestra",
+    "chinese": "加入学校管弦乐队"
+  },
+  {
+    "english": "plus",
+    "chinese": "加上",
+    "soundmark": "/plˈəs/"
+  },
+  {
+    "english": "plus a",
+    "chinese": "再加上"
+  },
+  {
+    "english": "plus a variety",
+    "chinese": "多种不同的"
+  },
+  {
+    "english": "plus a variety of",
+    "chinese": "多种不同的种类"
+  },
+  {
+    "english": "plus a variety of school",
+    "chinese": "多种不同的学校"
+  },
+  {
+    "english": "plus a variety of school clubs",
+    "chinese": "还有各种学校社团。"
+  },
+  {
+    "english": "As",
+    "chinese": "作为",
+    "soundmark": "/ˈɛːz/"
+  },
+  {
+    "english": "As a",
+    "chinese": "作为玩笑"
+  },
+  {
+    "english": "As a joke",
+    "chinese": "作为玩笑，她的"
+  },
+  {
+    "english": "As a joke her",
+    "chinese": "作为玩笑，她的朋友们"
+  },
+  {
+    "english": "As a joke her friends",
+    "chinese": "开玩笑地，她的朋友们"
+  }
 ]

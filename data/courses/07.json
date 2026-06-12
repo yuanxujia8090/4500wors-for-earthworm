@@ -1,1017 +1,1007 @@
 [
-	{
-		"english": "this",
-		"chinese": "这个",
-		"soundmark": "/ðɪs/"
-	},
-	{
-		"english": "this influential",
-		"chinese": "这一具有影响力的人",
-		"soundmark": "/ðɪs/ /ˌɪnfluːˈɛːntʃəl/"
-	},
-	{
-		"english": "this influential media",
-		"chinese": "这一有影响力的媒体",
-		"soundmark": "/ðɪs/ /ˌɪnfluːˈɛːntʃəl/ /mˈiːdiːə/"
-	},
-	{
-		"english": "this influential media giant",
-		"chinese": "这家具有影响力的媒体巨头",
-		"soundmark": "/ðɪs/ /ˌɪnfluːˈɛːntʃəl/ /mˈiːdiːə/ /dʒˈaɪənt/"
-	},
-	{
-		"english": "this influential media giant was",
-		"chinese": "这家具有影响力的媒体巨头",
-		"soundmark": "/ðɪs/ /ˌɪnfluːˈɛːntʃəl/ /mˈiːdiːə/ /dʒˈaɪənt/ /wˈɔːz/"
-	},
-	{
-		"english": "this influential media giant was not",
-		"chinese": "这家具有影响力的媒体巨头并非",
-		"soundmark": "/ðɪs/ /ˌɪnfluːˈɛːntʃəl/ /mˈiːdiːə/ /dʒˈaɪənt/ /wˈɔːz/ /nˈɑːt/"
-	},
-	{
-		"english": "this influential media giant was not without",
-		"chinese": "这家具有影响力的媒体巨头并非没有",
-		"soundmark": "/ðɪs/ /ˌɪnfluːˈɛːntʃəl/ /mˈiːdiːə/ /dʒˈaɪənt/ /wˈɔːz/ /nˈɑːt/ /wɪðˈaʊt/"
-	},
-	{
-		"english": "this influential media giant was not without his",
-		"chinese": "这家有影响力的媒体巨头并非没有他的",
-		"soundmark": "/ðɪs/ /ˌɪnfluːˈɛːntʃəl/ /mˈiːdiːə/ /dʒˈaɪənt/ /wˈɔːz/ /nˈɑːt/ /wɪðˈaʊt/ /hɪz/"
-	},
-	{
-		"english": "this influential media giant was not without his faults",
-		"chinese": "这家有影响力的媒体巨头并非没有缺点",
-		"soundmark": "/ðɪs/ /ˌɪnfluːˈɛːntʃəl/ /mˈiːdiːə/ /dʒˈaɪənt/ /wˈɔːz/ /nˈɑːt/ /wɪðˈaʊt/ /hɪz/ /fˈɔːlts/"
-	},
-	{
-		"english": "his",
-		"chinese": "他的",
-		"soundmark": "/hɪz/"
-	},
-	{
-		"english": "his prejudices",
-		"chinese": "他的偏见",
-		"soundmark": "/hɪz/ /prˈɛːdʒədɪsɪz/"
-	},
-	{
-		"english": "his prejudices were",
-		"chinese": "他的偏见是",
-		"soundmark": "/hɪz/ /prˈɛːdʒədɪsɪz/ /wˈɜː/"
-	},
-	{
-		"english": "his prejudices were common",
-		"chinese": "他的偏见很常见",
-		"soundmark": "/hɪz/ /prˈɛːdʒədɪsɪz/ /wˈɜː/ /kˈɑːmən/"
-	},
-	{
-		"english": "his prejudices were common knowledge",
-		"chinese": "他的偏见是众所周知的事",
-		"soundmark": "/hɪz/ /prˈɛːdʒədɪsɪz/ /wˈɜː/ /kˈɑːmən/ /nˈɑːlɪdʒ/"
-	},
-	{
-		"english": "his",
-		"chinese": "他的",
-		"soundmark": "/hɪz/"
-	},
-	{
-		"english": "his career",
-		"chinese": "他的职业生涯",
-		"soundmark": "/hɪz/ /kɜːˈɪr/"
-	},
-	{
-		"english": "his career was",
-		"chinese": "他的职业生涯",
-		"soundmark": "/hɪz/ /kɜːˈɪr/ /wˈɔːz/"
-	},
-	{
-		"english": "his career was blemished",
-		"chinese": "他的职业生涯受到了损害",
-		"soundmark": "/hɪz/ /kɜːˈɪr/ /wˈɔːz/ /blˈɛːmɪʃt/"
-	},
-	{
-		"english": "his career was blemished by",
-		"chinese": "他的职业生涯受到了损害",
-		"soundmark": "/hɪz/ /kɜːˈɪr/ /wˈɔːz/ /blˈɛːmɪʃt/ /bˈaɪ/"
-	},
-	{
-		"english": "his career was blemished by his",
-		"chinese": "他的职业生涯因他而受损",
-		"soundmark": "/hɪz/ /kɜːˈɪr/ /wˈɔːz/ /blˈɛːmɪʃt/ /bˈaɪ/ /hɪz/"
-	},
-	{
-		"english": "his career was blemished by his offensive",
-		"chinese": "他的职业生涯因他的攻击性而受到损害",
-		"soundmark": "/hɪz/ /kɜːˈɪr/ /wˈɔːz/ /blˈɛːmɪʃt/ /bˈaɪ/ /hɪz/ /əfˈɛːnsɪv/"
-	},
-	{
-		"english": "his career was blemished by his offensive remarks",
-		"chinese": "他的职业生涯因他的攻击性言论而受到损害",
-		"soundmark": "/hɪz/ /kɜːˈɪr/ /wˈɔːz/ /blˈɛːmɪʃt/ /bˈaɪ/ /hɪz/ /əfˈɛːnsɪv/ /riːmˈɑːrks/"
-	},
-	{
-		"english": "his career was blemished by his offensive remarks about",
-		"chinese": "他的职业生涯因他关于……的攻击性言论而受到损害",
-		"soundmark": "/hɪz/ /kɜːˈɪr/ /wˈɔːz/ /blˈɛːmɪʃt/ /bˈaɪ/ /hɪz/ /əfˈɛːnsɪv/ /riːmˈɑːrks/ /əbˈaʊt/"
-	},
-	{
-		"english": "his career was blemished by his offensive remarks about spaniards",
-		"chinese": "他的职业生涯因他对西班牙人的攻击性言论而受到损害",
-		"soundmark": "/hɪz/ /kɜːˈɪr/ /wˈɔːz/ /blˈɛːmɪʃt/ /bˈaɪ/ /hɪz/ /əfˈɛːnsɪv/ /riːmˈɑːrks/ /əbˈaʊt/ /spˈænjɜːdz/"
-	},
-	{
-		"english": "japanese",
-		"chinese": "日本",
-		"soundmark": "/dʒˌæpənˈiːz/"
-	},
-	{
-		"english": "filipinos",
-		"chinese": "菲律宾人",
-		"soundmark": "/fˌɪləpˈiːnoʊz/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and russians",
-		"chinese": "和俄罗斯人",
-		"soundmark": "/ˈænd/ /rˈəʃənz/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he printed",
-		"chinese": "他打印了",
-		"soundmark": "/hˈiː/ /prˈɪnɪd/"
-	},
-	{
-		"english": "he printed lies",
-		"chinese": "他编造了谎言",
-		"soundmark": "/hˈiː/ /prˈɪnɪd/ /lˈaɪz/"
-	},
-	{
-		"english": "forged",
-		"chinese": "伪造",
-		"soundmark": "/fˈɔːrdʒd/"
-	},
-	{
-		"english": "forged documents",
-		"chinese": "伪造文件",
-		"soundmark": "/fˈɔːrdʒd/ /dˈɑːkjuːmənts/"
-	},
-	{
-		"english": "falsified",
-		"chinese": "伪造",
-		"soundmark": "/fˈɔːlsəfˌaɪd/"
-	},
-	{
-		"english": "falsified stories",
-		"chinese": "虚假故事",
-		"soundmark": "/fˈɔːlsəfˌaɪd/ /stˈɔːriːz/"
-	},
-	{
-		"english": "falsified stories of",
-		"chinese": "虚假的故事",
-		"soundmark": "/fˈɔːlsəfˌaɪd/ /stˈɔːriːz/ /əv/"
-	},
-	{
-		"english": "falsified stories of violence",
-		"chinese": "虚假的暴力故事",
-		"soundmark": "/fˈɔːlsəfˌaɪd/ /stˈɔːriːz/ /əv/ /vˈaɪələns/"
-	},
-	{
-		"english": "wrote",
-		"chinese": "写作",
-		"soundmark": "/rˈoʊt/"
-	},
-	{
-		"english": "wrote provocative",
-		"chinese": "写了煽动性内容",
-		"soundmark": "/rˈoʊt/ /proʊvˈɑːkətɪv/"
-	},
-	{
-		"english": "wrote provocative editorials",
-		"chinese": "撰写挑衅性的社论",
-		"soundmark": "/rˈoʊt/ /proʊvˈɑːkətɪv/ /ˌɛːdətˈɔːriːəlz/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and published",
-		"chinese": "并发表",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/"
-	},
-	{
-		"english": "and published sensational",
-		"chinese": "并发布了令人震惊的内容",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/ /sɛːnsˈeɪʃənəl/"
-	},
-	{
-		"english": "and published sensational cartoons",
-		"chinese": "并发布了令人惊叹的漫画",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/ /sɛːnsˈeɪʃənəl/ /kɑːrtˈuːnz/"
-	},
-	{
-		"english": "and published sensational cartoons and",
-		"chinese": "并发布令人惊叹的漫画",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/ /sɛːnsˈeɪʃənəl/ /kɑːrtˈuːnz/ /ˈænd/"
-	},
-	{
-		"english": "and published sensational cartoons and photographs",
-		"chinese": "并发布令人惊叹的漫画和照片",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/ /sɛːnsˈeɪʃənəl/ /kɑːrtˈuːnz/ /ˈænd/ /fˈoʊtəɡrˌæfs/"
-	},
-	{
-		"english": "and published sensational cartoons and photographs to",
-		"chinese": "并发布令人震惊的漫画和照片",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/ /sɛːnsˈeɪʃənəl/ /kɑːrtˈuːnz/ /ˈænd/ /fˈoʊtəɡrˌæfs/ /tə/"
-	},
-	{
-		"english": "and published sensational cartoons and photographs to support",
-		"chinese": "并发布令人震惊的漫画和照片以支持",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/ /sɛːnsˈeɪʃənəl/ /kɑːrtˈuːnz/ /ˈænd/ /fˈoʊtəɡrˌæfs/ /tə/ /səpˈɔːrt/"
-	},
-	{
-		"english": "and published sensational cartoons and photographs to support his",
-		"chinese": "并发布令人震惊的漫画和照片来支持他",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/ /sɛːnsˈeɪʃənəl/ /kɑːrtˈuːnz/ /ˈænd/ /fˈoʊtəɡrˌæfs/ /tə/ /səpˈɔːrt/ /hɪz/"
-	},
-	{
-		"english": "and published sensational cartoons and photographs to support his opinions",
-		"chinese": "并发布令人震惊的漫画和照片来支持他的观点",
-		"soundmark": "/ˈænd/ /pˈəblɪʃt/ /sɛːnsˈeɪʃənəl/ /kɑːrtˈuːnz/ /ˈænd/ /fˈoʊtəɡrˌæfs/ /tə/ /səpˈɔːrt/ /hɪz/ /əpˈɪnjənz/"
-	},
-	{
-		"english": "william",
-		"chinese": "威廉",
-		"soundmark": "/wˈɪljəm/"
-	},
-	{
-		"english": "william hated",
-		"chinese": "威廉厌恶",
-		"soundmark": "/wˈɪljəm/ /hˈeɪtɪd/"
-	},
-	{
-		"english": "william hated minorities",
-		"chinese": "威廉厌恶少数群体",
-		"soundmark": "/wˈɪljəm/ /hˈeɪtɪd/ /mənˈɔːrətiːz/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he took",
-		"chinese": "他拿了",
-		"soundmark": "/hˈiː/ /tˈʊk/"
-	},
-	{
-		"english": "he took advantage",
-		"chinese": "他利用了这个机会",
-		"soundmark": "/hˈiː/ /tˈʊk/ /ədvˈænədʒ/"
-	},
-	{
-		"english": "he took advantage of",
-		"chinese": "他利用了",
-		"soundmark": "/hˈiː/ /tˈʊk/ /ədvˈænədʒ/ /əv/"
-	},
-	{
-		"english": "he took advantage of every",
-		"chinese": "他利用了每一个机会",
-		"soundmark": "/hˈiː/ /tˈʊk/ /ədvˈænədʒ/ /əv/ /ˈɛːvriː/"
-	},
-	{
-		"english": "he took advantage of every opportunity",
-		"chinese": "他利用每一个机会",
-		"soundmark": "/hˈiː/ /tˈʊk/ /ədvˈænədʒ/ /əv/ /ˈɛːvriː/ /ˌɑːpɜːtˈuːnətiː/"
-	},
-	{
-		"english": "he took advantage of every opportunity to",
-		"chinese": "他利用每一个机会",
-		"soundmark": "/hˈiː/ /tˈʊk/ /ədvˈænədʒ/ /əv/ /ˈɛːvriː/ /ˌɑːpɜːtˈuːnətiː/ /tə/"
-	},
-	{
-		"english": "he took advantage of every opportunity to heighten",
-		"chinese": "他利用每一个机会来加强",
-		"soundmark": "/hˈiː/ /tˈʊk/ /ədvˈænədʒ/ /əv/ /ˈɛːvriː/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /hˈaɪtən/"
-	},
-	{
-		"english": "he took advantage of every opportunity to heighten racial",
-		"chinese": "他利用每一个机会来加剧种族差异",
-		"soundmark": "/hˈiː/ /tˈʊk/ /ədvˈænədʒ/ /əv/ /ˈɛːvriː/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /hˈaɪtən/ /rˈeɪʃəl/"
-	},
-	{
-		"english": "he took advantage of every opportunity to heighten racial tensions",
-		"chinese": "他利用每一个机会加剧种族紧张局势",
-		"soundmark": "/hˈiː/ /tˈʊk/ /ədvˈænədʒ/ /əv/ /ˈɛːvriː/ /ˌɑːpɜːtˈuːnətiː/ /tə/ /hˈaɪtən/ /rˈeɪʃəl/ /tˈɛːntʃənz/"
-	},
-	{
-		"english": "his",
-		"chinese": "他的",
-		"soundmark": "/hɪz/"
-	},
-	{
-		"english": "his real",
-		"chinese": "他的真实身份",
-		"soundmark": "/hɪz/ /rˈiːl/"
-	},
-	{
-		"english": "his real motive",
-		"chinese": "他的真实动机",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/"
-	},
-	{
-		"english": "his real motive for",
-		"chinese": "他的真实动机",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/"
-	},
-	{
-		"english": "his real motive for his",
-		"chinese": "他真正的动机是",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/"
-	},
-	{
-		"english": "his real motive for his hatred",
-		"chinese": "他仇恨的真正动机",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/"
-	},
-	{
-		"english": "his real motive for his hatred of",
-		"chinese": "他对仇恨的真正动机",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/"
-	},
-	{
-		"english": "his real motive for his hatred of mexicans",
-		"chinese": "他对墨西哥人怀有仇恨的真实动机",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/"
-	},
-	{
-		"english": "his real motive for his hatred of mexicans may",
-		"chinese": "他憎恨墨西哥人的真正动机可能是",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/"
-	},
-	{
-		"english": "his real motive for his hatred of mexicans may have",
-		"chinese": "他厌恶墨西哥人的真正动机可能在于",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/"
-	},
-	{
-		"english": "his real motive for his hatred of mexicans may have been",
-		"chinese": "他厌恶墨西哥人的真正动机可能在于",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/"
-	},
-	{
-		"english": "his real motive for his hatred of mexicans may have been the",
-		"chinese": "他憎恨墨西哥人的真正动机可能是……",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/"
-	},
-	{
-		"english": "his real motive for his hatred of mexicans may have been the loss",
-		"chinese": "他憎恨墨西哥人的真正动机可能是因为损失",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/"
-	},
-	{
-		"english": "his real motive for his hatred of mexicans may have been the loss of",
-		"chinese": "他憎恨墨西哥人的真正动机可能是因为失去",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/"
-	},
-	{
-		"english": "his real motive for his hatred of mexicans may have been the loss of acres",
-		"chinese": "他憎恨墨西哥人的真正动机可能是因为土地面积的损失",
-		"soundmark": "/hɪz/ /rˈiːl/ /mˈoʊtɪv/ /frɜː/ /hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/ /ˈeɪkɜːz/"
-	},
-	{
-		"english": "his hatred of mexicans may have been the loss of acres of",
-		"chinese": "他对墨西哥人的憎恶可能源于大量土地的丧失",
-		"soundmark": "/hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/ /ˈeɪkɜːz/ /əv/"
-	},
-	{
-		"english": "his hatred of mexicans may have been the loss of acres of prime",
-		"chinese": "他对墨西哥人的憎恶可能源于大量优质土地的丧失",
-		"soundmark": "/hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/ /ˈeɪkɜːz/ /əv/ /prˈaɪm/"
-	},
-	{
-		"english": "his hatred of mexicans may have been the loss of acres of prime timberland",
-		"chinese": "他对墨西哥人的憎恶，可能是因为失去了大量优质林地",
-		"soundmark": "/hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/ /ˈeɪkɜːz/ /əv/ /prˈaɪm/ /tˈɪmbɜːlˌænd/"
-	},
-	{
-		"english": "his hatred of mexicans may have been the loss of acres of prime timberland to",
-		"chinese": "他对墨西哥人的憎恶可能源于大量优质林地被失去。",
-		"soundmark": "/hɪz/ /hˈeɪtrəd/ /əv/ /mˈɛːksɪkənz/ /mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/ /ˈeɪkɜːz/ /əv/ /prˈaɪm/ /tˈɪmbɜːlˌænd/ /tə/"
-	},
-	{
-		"english": "may have been the loss of acres of prime timberland to the",
-		"chinese": "可能是因为大量优质林地被...",
-		"soundmark": "/mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/ /ˈeɪkɜːz/ /əv/ /prˈaɪm/ /tˈɪmbɜːlˌænd/ /tə/ /ðiː/"
-	},
-	{
-		"english": "may have been the loss of acres of prime timberland to the mexican",
-		"chinese": "可能是大量优质林地被墨西哥夺走",
-		"soundmark": "/mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/ /ˈeɪkɜːz/ /əv/ /prˈaɪm/ /tˈɪmbɜːlˌænd/ /tə/ /ðiː/ /mˈɛːksəkən/"
-	},
-	{
-		"english": "may have been the loss of acres of prime timberland to the mexican outlaw",
-		"chinese": "可能是因为大量优质林地被墨西哥黑帮夺走",
-		"soundmark": "/mˈeɪ/ /hˈæv/ /bɪn/ /ðiː/ /lˈɔːs/ /əv/ /ˈeɪkɜːz/ /əv/ /prˈaɪm/ /tˈɪmbɜːlˌænd/ /tə/ /ðiː/ /mˈɛːksəkən/ /ˈaʊtlˌɔː/"
-	},
-	{
-		"english": "pancho",
-		"chinese": "潘乔",
-		"soundmark": "/pˈæntʃoʊ/"
-	},
-	{
-		"english": "pancho villa",
-		"chinese": "潘乔·维拉",
-		"soundmark": "/pˈæntʃoʊ/ /vˈɪlə/"
-	},
-	{
-		"english": "his",
-		"chinese": "他的",
-		"soundmark": "/hɪz/"
-	},
-	{
-		"english": "his papers",
-		"chinese": "他的论文",
-		"soundmark": "/hɪz/ /pˈeɪpɜːz/"
-	},
-	{
-		"english": "his papers described",
-		"chinese": "他的论文描述了",
-		"soundmark": "/hɪz/ /pˈeɪpɜːz/ /dɪskrˈaɪbd/"
-	},
-	{
-		"english": "his papers described them",
-		"chinese": "他的论文中描述了它们",
-		"soundmark": "/hɪz/ /pˈeɪpɜːz/ /dɪskrˈaɪbd/ /ðəm/"
-	},
-	{
-		"english": "his papers described them as",
-		"chinese": "他的论文中将它们描述为",
-		"soundmark": "/hɪz/ /pˈeɪpɜːz/ /dɪskrˈaɪbd/ /ðəm/ /ˈɛːz/"
-	},
-	{
-		"english": "his papers described them as marijuana",
-		"chinese": "他的论文中将它们描述为大麻",
-		"soundmark": "/hɪz/ /pˈeɪpɜːz/ /dɪskrˈaɪbd/ /ðəm/ /ˈɛːz/ /mˌɛːrəwˈɑːnə/"
-	},
-	{
-		"english": "his papers described them as marijuana smoking",
-		"chinese": "他的论文中将它们描述为大麻吸烟",
-		"soundmark": "/hɪz/ /pˈeɪpɜːz/ /dɪskrˈaɪbd/ /ðəm/ /ˈɛːz/ /mˌɛːrəwˈɑːnə/ /smˈoʊkɪŋ/"
-	},
-	{
-		"english": "job",
-		"chinese": "工作",
-		"soundmark": "/dʒˈoʊb/"
-	},
-	{
-		"english": "job stealing",
-		"chinese": "抢工作",
-		"soundmark": "/dʒˈoʊb/ /stˈiːlɪŋ/"
-	},
-	{
-		"english": "lazy",
-		"chinese": "懒散的",
-		"soundmark": "/lˈeɪziː/"
-	},
-	{
-		"english": "wicked",
-		"chinese": "邪恶的",
-		"soundmark": "/wˈɪkəd/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and violent",
-		"chinese": "和暴力",
-		"soundmark": "/ˈænd/ /vˈaɪlənt/"
-	},
-	{
-		"english": "and violent degenerates",
-		"chinese": "以及暴力堕落者",
-		"soundmark": "/ˈænd/ /vˈaɪlənt/ /dɪdʒˈɛːnɜːəts/"
-	},
-	{
-		"english": "some",
-		"chinese": "一些",
-		"soundmark": "/sˈəm/"
-	},
-	{
-		"english": "some suggest",
-		"chinese": "有人建议",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/"
-	},
-	{
-		"english": "some suggest he",
-		"chinese": "有人认为他",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/"
-	},
-	{
-		"english": "some suggest he saw",
-		"chinese": "有人认为他看到了",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/"
-	},
-	{
-		"english": "some suggest he saw the",
-		"chinese": "有人认为他看到了",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/ /ðiː/"
-	},
-	{
-		"english": "some suggest he saw the mexicans",
-		"chinese": "有人认为他看到了墨西哥人",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/ /ðiː/ /mˈɛːksɪkənz/"
-	},
-	{
-		"english": "some suggest he saw the mexicans as",
-		"chinese": "有人认为他把墨西哥人视为",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/ /ðiː/ /mˈɛːksɪkənz/ /ˈɛːz/"
-	},
-	{
-		"english": "some suggest he saw the mexicans as a",
-		"chinese": "有人认为他把墨西哥人视为一种",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/ /ðiː/ /mˈɛːksɪkənz/ /ˈɛːz/ /ˈeɪ/"
-	},
-	{
-		"english": "some suggest he saw the mexicans as a threat",
-		"chinese": "有人认为他将墨西哥人视为威胁",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/ /ðiː/ /mˈɛːksɪkənz/ /ˈɛːz/ /ˈeɪ/ /θrˈɛːt/"
-	},
-	{
-		"english": "some suggest he saw the mexicans as a threat to",
-		"chinese": "有人认为他将墨西哥人视为威胁",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/ /ðiː/ /mˈɛːksɪkənz/ /ˈɛːz/ /ˈeɪ/ /θrˈɛːt/ /tə/"
-	},
-	{
-		"english": "some suggest he saw the mexicans as a threat to his",
-		"chinese": "有人认为他将墨西哥人视为对他的威胁",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/ /ðiː/ /mˈɛːksɪkənz/ /ˈɛːz/ /ˈeɪ/ /θrˈɛːt/ /tə/ /hɪz/"
-	},
-	{
-		"english": "some suggest he saw the mexicans as a threat to his empire",
-		"chinese": "有人认为他将墨西哥人视为对其帝国的威胁",
-		"soundmark": "/sˈəm/ /səɡdʒˈɛːst/ /hˈiː/ /sˈɔː/ /ðiː/ /mˈɛːksɪkənz/ /ˈɛːz/ /ˈeɪ/ /θrˈɛːt/ /tə/ /hɪz/ /ˈɛːmpaɪɜː/"
-	},
-	{
-		"english": "during",
-		"chinese": "期间",
-		"soundmark": "/dˈɜːɪŋ/"
-	},
-	{
-		"english": "during this",
-		"chinese": "在此期间",
-		"soundmark": "/dˈɜːɪŋ/ /ðɪs/"
-	},
-	{
-		"english": "during this period",
-		"chinese": "在此期间",
-		"soundmark": "/dˈɜːɪŋ/ /ðɪs/ /pˈɪriːəd/"
-	},
-	{
-		"english": "william",
-		"chinese": "威廉",
-		"soundmark": "/wˈɪljəm/"
-	},
-	{
-		"english": "william met",
-		"chinese": "威廉·梅特",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/"
-	},
-	{
-		"english": "william met and",
-		"chinese": "威廉见面了",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/ /ˈænd/"
-	},
-	{
-		"english": "william met and fell",
-		"chinese": "威廉相遇并跌倒",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/ /ˈænd/ /fˈɛːl/"
-	},
-	{
-		"english": "william met and fell in",
-		"chinese": "威廉相遇并坠亡",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/ /ˈænd/ /fˈɛːl/ /ˈɪn/"
-	},
-	{
-		"english": "william met and fell in love",
-		"chinese": "威廉相遇并坠入爱河",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/ /ˈænd/ /fˈɛːl/ /ˈɪn/ /lˈəv/"
-	},
-	{
-		"english": "william met and fell in love with",
-		"chinese": "威廉相遇并坠入爱河",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/ /ˈænd/ /fˈɛːl/ /ˈɪn/ /lˈəv/ /wɪð/"
-	},
-	{
-		"english": "william met and fell in love with a",
-		"chinese": "威廉遇见了某人并爱上了她",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/ /ˈænd/ /fˈɛːl/ /ˈɪn/ /lˈəv/ /wɪð/ /ˈeɪ/"
-	},
-	{
-		"english": "william met and fell in love with a young",
-		"chinese": "威廉遇见了一个年轻女子并爱上了她",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/ /ˈænd/ /fˈɛːl/ /ˈɪn/ /lˈəv/ /wɪð/ /ˈeɪ/ /jˈəŋ/"
-	},
-	{
-		"english": "william met and fell in love with a young actress",
-		"chinese": "威廉遇见了一位年轻女演员并爱上了她",
-		"soundmark": "/wˈɪljəm/ /mˈɛːt/ /ˈænd/ /fˈɛːl/ /ˈɪn/ /lˈəv/ /wɪð/ /ˈeɪ/ /jˈəŋ/ /ˈæktrəs/"
-	},
-	{
-		"english": "marion",
-		"chinese": "玛丽昂",
-		"soundmark": "/mˈɛːriːən/"
-	},
-	{
-		"english": "marion davies",
-		"chinese": "马里恩·戴维斯",
-		"soundmark": "/mˈɛːriːən/ /dˈeɪviːz/"
-	},
-	{
-		"english": "millicent",
-		"chinese": "米莉森特",
-		"soundmark": "/mˈɪlɪsɪnt/"
-	},
-	{
-		"english": "his",
-		"chinese": "他的",
-		"soundmark": "/hɪz/"
-	},
-	{
-		"english": "his wife",
-		"chinese": "他的妻子",
-		"soundmark": "/hɪz/ /wˈaɪf/"
-	},
-	{
-		"english": "his wife and",
-		"chinese": "他的妻子和",
-		"soundmark": "/hɪz/ /wˈaɪf/ /ˈænd/"
-	},
-	{
-		"english": "his wife and the",
-		"chinese": "他的妻子和",
-		"soundmark": "/hɪz/ /wˈaɪf/ /ˈænd/ /ðiː/"
-	},
-	{
-		"english": "his wife and the mother",
-		"chinese": "他的妻子和母亲",
-		"soundmark": "/hɪz/ /wˈaɪf/ /ˈænd/ /ðiː/ /mˈəðɜː/"
-	},
-	{
-		"english": "his wife and the mother of",
-		"chinese": "他的妻子和母亲",
-		"soundmark": "/hɪz/ /wˈaɪf/ /ˈænd/ /ðiː/ /mˈəðɜː/ /əv/"
-	},
-	{
-		"english": "his wife and the mother of his",
-		"chinese": "他的妻子和他的母亲",
-		"soundmark": "/hɪz/ /wˈaɪf/ /ˈænd/ /ðiː/ /mˈəðɜː/ /əv/ /hɪz/"
-	},
-	{
-		"english": "his wife and the mother of his five",
-		"chinese": "他的妻子以及他五个孩子的母亲",
-		"soundmark": "/hɪz/ /wˈaɪf/ /ˈænd/ /ðiː/ /mˈəðɜː/ /əv/ /hɪz/ /fˈaɪv/"
-	},
-	{
-		"english": "his wife and the mother of his five sons",
-		"chinese": "他的妻子以及他五个儿子的母亲",
-		"soundmark": "/hɪz/ /wˈaɪf/ /ˈænd/ /ðiː/ /mˈəðɜː/ /əv/ /hɪz/ /fˈaɪv/ /sˈənz/"
-	},
-	{
-		"english": "including",
-		"chinese": "包括",
-		"soundmark": "/ɪnklˈuːdɪŋ/"
-	},
-	{
-		"english": "including a",
-		"chinese": "包括一个",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /ˈeɪ/"
-	},
-	{
-		"english": "including a set",
-		"chinese": "包括一套",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /ˈeɪ/ /sˈɛːt/"
-	},
-	{
-		"english": "including a set of",
-		"chinese": "包括一套",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /ˈeɪ/ /sˈɛːt/ /əv/"
-	},
-	{
-		"english": "including a set of twins",
-		"chinese": "包括一对双胞胎",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /ˈeɪ/ /sˈɛːt/ /əv/ /twˈɪnz/"
-	},
-	{
-		"english": "refused",
-		"chinese": "拒绝",
-		"soundmark": "/rɪfjˈuːzd/"
-	},
-	{
-		"english": "refused to",
-		"chinese": "拒绝",
-		"soundmark": "/rɪfjˈuːzd/ /tə/"
-	},
-	{
-		"english": "refused to dissolve",
-		"chinese": "拒绝解散",
-		"soundmark": "/rɪfjˈuːzd/ /tə/ /dɪzˈɑːlv/"
-	},
-	{
-		"english": "refused to dissolve the",
-		"chinese": "拒绝解散",
-		"soundmark": "/rɪfjˈuːzd/ /tə/ /dɪzˈɑːlv/ /ðiː/"
-	},
-	{
-		"english": "refused to dissolve the marriage",
-		"chinese": "拒绝解除婚姻",
-		"soundmark": "/rɪfjˈuːzd/ /tə/ /dɪzˈɑːlv/ /ðiː/ /mˈɛːrɪdʒ/"
-	},
-	{
-		"english": "which",
-		"chinese": "哪个",
-		"soundmark": "/hwˈɪtʃ/"
-	},
-	{
-		"english": "which obliged",
-		"chinese": "这迫使了",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/"
-	},
-	{
-		"english": "which obliged william",
-		"chinese": "这迫使威廉",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/"
-	},
-	{
-		"english": "which obliged william to",
-		"chinese": "这迫使威廉不得不",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/"
-	},
-	{
-		"english": "which obliged william to live",
-		"chinese": "这迫使威廉必须生活下去",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/"
-	},
-	{
-		"english": "which obliged william to live in",
-		"chinese": "这迫使威廉必须居住在那里",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/"
-	},
-	{
-		"english": "which obliged william to live in sin",
-		"chinese": "这迫使威廉生活在罪恶之中",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/"
-	},
-	{
-		"english": "which obliged william to live in sin with",
-		"chinese": "这迫使威廉在罪恶中生活",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/"
-	},
-	{
-		"english": "which obliged william to live in sin with the",
-		"chinese": "这迫使威廉与某人一起过罪生活",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/"
-	},
-	{
-		"english": "which obliged william to live in sin with the woman",
-		"chinese": "这迫使威廉与那个女人一起过罪生活",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/"
-	},
-	{
-		"english": "which obliged william to live in sin with the woman whom",
-		"chinese": "这迫使威廉与那个女人一起过罪生活",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/"
-	},
-	{
-		"english": "which obliged william to live in sin with the woman whom the",
-		"chinese": "这迫使威廉与那个女人一起过罪生活。",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/"
-	},
-	{
-		"english": "which obliged william to live in sin with the woman whom the tour",
-		"chinese": "这迫使威廉与那个女人一起过罪生活",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/"
-	},
-	{
-		"english": "which obliged william to live in sin with the woman whom the tour guides",
-		"chinese": "这迫使威廉与导游所推荐的女子一起过罪生活",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/ /ɡˈaɪdz/"
-	},
-	{
-		"english": "which obliged william to live in sin with the woman whom the tour guides refer",
-		"chinese": "这迫使威廉与导游所提到的那个女人一起过罪生活",
-		"soundmark": "/hwˈɪtʃ/ /əblˈaɪdʒd/ /wˈɪljəm/ /tə/ /lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/ /ɡˈaɪdz/ /rɪfˈɜː/"
-	},
-	{
-		"english": "live in sin with the woman whom the tour guides refer to",
-		"chinese": "与那些导游所提到的女人一起生活在罪恶之中",
-		"soundmark": "/lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/ /ɡˈaɪdz/ /rɪfˈɜː/ /tə/"
-	},
-	{
-		"english": "live in sin with the woman whom the tour guides refer to as",
-		"chinese": "与那些导游称之为的女子一起沉溺于罪恶之中",
-		"soundmark": "/lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/ /ɡˈaɪdz/ /rɪfˈɜː/ /tə/ /ˈɛːz/"
-	},
-	{
-		"english": "live in sin with the woman whom the tour guides refer to as his",
-		"chinese": "与那些导游称之为他的女人一起沉溺于罪恶之中",
-		"soundmark": "/lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/ /ɡˈaɪdz/ /rɪfˈɜː/ /tə/ /ˈɛːz/ /hɪz/"
-	},
-	{
-		"english": "live in sin with the woman whom the tour guides refer to as his friend",
-		"chinese": "与那些导游称为他的朋友的女人一起沉溺于罪恶之中",
-		"soundmark": "/lˈɪv/ /ˈɪn/ /sˈɪn/ /wɪð/ /ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/ /ɡˈaɪdz/ /rɪfˈɜː/ /tə/ /ˈɛːz/ /hɪz/ /frˈɛːnd/"
-	},
-	{
-		"english": "the woman whom the tour guides refer to as his friend or",
-		"chinese": "导游称他为朋友的那位女士",
-		"soundmark": "/ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/ /ɡˈaɪdz/ /rɪfˈɜː/ /tə/ /ˈɛːz/ /hɪz/ /frˈɛːnd/ /ɜː/"
-	},
-	{
-		"english": "the woman whom the tour guides refer to as his friend or companion",
-		"chinese": "导游们称他为朋友或同伴的那位女士",
-		"soundmark": "/ðiː/ /wˈʊmən/ /hˈuːm/ /ðiː/ /tˈʊr/ /ɡˈaɪdz/ /rɪfˈɜː/ /tə/ /ˈɛːz/ /hɪz/ /frˈɛːnd/ /ɜː/ /kəmpˈænjən/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the complex",
-		"chinese": "复杂事物",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/"
-	},
-	{
-		"english": "the complex was",
-		"chinese": "该建筑群",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /wˈɔːz/"
-	},
-	{
-		"english": "the complex was ready",
-		"chinese": "该建筑群已经准备就绪",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /wˈɔːz/ /rˈɛːdiː/"
-	},
-	{
-		"english": "the complex was ready for",
-		"chinese": "该建筑群已经准备就绪",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /wˈɔːz/ /rˈɛːdiː/ /frɜː/"
-	},
-	{
-		"english": "the complex was ready for occupancy",
-		"chinese": "该建筑已准备好供人入住",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /wˈɔːz/ /rˈɛːdiː/ /frɜː/ /ˈɑːkjəpənsiː/"
-	},
-	{
-		"english": "the complex was ready for occupancy in",
-		"chinese": "该建筑已准备好可供入住",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /wˈɔːz/ /rˈɛːdiː/ /frɜː/ /ˈɑːkjəpənsiː/ /ˈɪn/"
-	},
-	{
-		"english": "but",
-		"chinese": "但",
-		"soundmark": "/bˈət/"
-	},
-	{
-		"english": "but additions",
-		"chinese": "但附加内容",
-		"soundmark": "/bˈət/ /ədˈɪʃənz/"
-	},
-	{
-		"english": "but additions continued",
-		"chinese": "但添加行为持续进行",
-		"soundmark": "/bˈət/ /ədˈɪʃənz/ /kəntˈɪnjuːd/"
-	},
-	{
-		"english": "but additions continued until",
-		"chinese": "但补充一直持续着直到……",
-		"soundmark": "/bˈət/ /ədˈɪʃənz/ /kəntˈɪnjuːd/ /əntˈɪl/"
-	},
-	{
-		"english": "eventually",
-		"chinese": "最终",
-		"soundmark": "/iːvˈɛːnʃəliː/"
-	},
-	{
-		"english": "eventually it",
-		"chinese": "最终它",
-		"soundmark": "/iːvˈɛːnʃəliː/ /ɪt/"
-	},
-	{
-		"english": "eventually it comprised",
-		"chinese": "最终它包含了",
-		"soundmark": "/iːvˈɛːnʃəliː/ /ɪt/ /kəmprˈaɪzd/"
-	},
-	{
-		"english": "eventually it comprised the",
-		"chinese": "最终它包含了……",
-		"soundmark": "/iːvˈɛːnʃəliː/ /ɪt/ /kəmprˈaɪzd/ /ðiː/"
-	},
-	{
-		"english": "eventually it comprised the main",
-		"chinese": "最终它构成了主体",
-		"soundmark": "/iːvˈɛːnʃəliː/ /ɪt/ /kəmprˈaɪzd/ /ðiː/ /mˈeɪn/"
-	},
-	{
-		"english": "eventually it comprised the main house",
-		"chinese": "最终它构成了主屋",
-		"soundmark": "/iːvˈɛːnʃəliː/ /ɪt/ /kəmprˈaɪzd/ /ðiː/ /mˈeɪn/ /hˈaʊs/"
-	},
-	{
-		"english": "eventually it comprised the main house and",
-		"chinese": "最终它包含了主屋和",
-		"soundmark": "/iːvˈɛːnʃəliː/ /ɪt/ /kəmprˈaɪzd/ /ðiː/ /mˈeɪn/ /hˈaʊs/ /ˈænd/"
-	},
-	{
-		"english": "eventually it comprised the main house and three",
-		"chinese": "最终包括主屋和三间房屋",
-		"soundmark": "/iːvˈɛːnʃəliː/ /ɪt/ /kəmprˈaɪzd/ /ðiː/ /mˈeɪn/ /hˈaʊs/ /ˈænd/ /θrˈiː/"
-	},
-	{
-		"english": "eventually it comprised the main house and three cottages",
-		"chinese": "最终它包含了主屋和三间小屋",
-		"soundmark": "/iːvˈɛːnʃəliː/ /ɪt/ /kəmprˈaɪzd/ /ðiː/ /mˈeɪn/ /hˈaʊs/ /ˈænd/ /θrˈiː/ /kˈɑːtɪdʒɪz/"
-	},
-	{
-		"english": "all",
-		"chinese": "全部",
-		"soundmark": "/ˈɔːl/"
-	},
-	{
-		"english": "all of",
-		"chinese": "全部",
-		"soundmark": "/ˈɔːl/ /əv/"
-	},
-	{
-		"english": "all of which",
-		"chinese": "所有这些",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/"
-	},
-	{
-		"english": "all of which are",
-		"chinese": "所有这些",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/ /ɜː/"
-	},
-	{
-		"english": "all of which are furnished",
-		"chinese": "所有这些都配有家具",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/ /ɜː/ /fˈɜːnɪʃt/"
-	},
-	{
-		"english": "all of which are furnished with",
-		"chinese": "所有这些都配备了",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/ /ɜː/ /fˈɜːnɪʃt/ /wɪð/"
-	},
-	{
-		"english": "all of which are furnished with a",
-		"chinese": "所有这些都配备了...",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/ /ɜː/ /fˈɜːnɪʃt/ /wɪð/ /ˈeɪ/"
-	},
-	{
-		"english": "all of which are furnished with a variety",
-		"chinese": "所有这些都配备了多种设施",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/ /ɜː/ /fˈɜːnɪʃt/ /wɪð/ /ˈeɪ/ /vɜːˈaɪətiː/"
-	},
-	{
-		"english": "all of which are furnished with a variety of",
-		"chinese": "所有这些都配备了多种设施",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/ /ɜː/ /fˈɜːnɪʃt/ /wɪð/ /ˈeɪ/ /vɜːˈaɪətiː/ /əv/"
-	},
-	{
-		"english": "all of which are furnished with a variety of valuable",
-		"chinese": "所有这些都配备了各种有价值的物品",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/ /ɜː/ /fˈɜːnɪʃt/ /wɪð/ /ˈeɪ/ /vɜːˈaɪətiː/ /əv/ /vˈæljuːbəl/"
-	},
-	{
-		"english": "all of which are furnished with a variety of valuable antiques",
-		"chinese": "所有物品都配备了各种珍贵的古董",
-		"soundmark": "/ˈɔːl/ /əv/ /hwˈɪtʃ/ /ɜː/ /fˈɜːnɪʃt/ /wɪð/ /ˈeɪ/ /vɜːˈaɪətiː/ /əv/ /vˈæljuːbəl/ /æntˈiːks/"
-	},
-	{
-		"english": "even",
-		"chinese": "甚至",
-		"soundmark": "/ˈiːvɪn/"
-	},
-	{
-		"english": "even the",
-		"chinese": "甚至",
-		"soundmark": "/ˈiːvɪn/ /ðiː/"
-	},
-	{
-		"english": "even the lavatories",
-		"chinese": "甚至厕所",
-		"soundmark": "/ˈiːvɪn/ /ðiː/ /lˈævətˌɔːriːz/"
-	}
+  {
+    "english": "The",
+    "chinese": "该建筑",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The complex",
+    "chinese": "该建筑群"
+  },
+  {
+    "english": "The complex was",
+    "chinese": "该建筑群已经准备就绪"
+  },
+  {
+    "english": "The complex was ready",
+    "chinese": "该建筑群已经准备就绪，可以入住"
+  },
+  {
+    "english": "The complex was ready for",
+    "chinese": "该建筑群在1927年已经准备就绪，可以入住"
+  },
+  {
+    "english": "The complex was ready for occupancy",
+    "chinese": "该建筑已准备好供人入住"
+  },
+  {
+    "english": "The complex was ready for occupancy in",
+    "chinese": "该建筑已准备好供人入住"
+  },
+  {
+    "english": "The complex was ready for occupancy in 1927",
+    "chinese": "该“综合体”于1927年准备投入使用。"
+  },
+  {
+    "english": "but",
+    "chinese": "但",
+    "soundmark": "/bˈət/"
+  },
+  {
+    "english": "but additions",
+    "chinese": "但补充内容"
+  },
+  {
+    "english": "but additions continued",
+    "chinese": "但补充内容持续进行"
+  },
+  {
+    "english": "but additions continued until",
+    "chinese": "但补充内容持续进行直至"
+  },
+  {
+    "english": "but additions continued until 1947",
+    "chinese": "但补充工作一直持续到1947年。"
+  },
+  {
+    "english": "Eventually",
+    "chinese": "最终",
+    "soundmark": "/iːvˈɛːnʃəliː/"
+  },
+  {
+    "english": "Eventually it",
+    "chinese": "最终它"
+  },
+  {
+    "english": "Eventually it comprised",
+    "chinese": "最终它包括"
+  },
+  {
+    "english": "Eventually it comprised the",
+    "chinese": "最终它包括主要的"
+  },
+  {
+    "english": "Eventually it comprised the main",
+    "chinese": "最终它包括主要的房屋"
+  },
+  {
+    "english": "Eventually it comprised the main house",
+    "chinese": "最终它构成了主楼"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and three",
+    "chinese": "还有三座小屋，"
+  },
+  {
+    "english": "and three cottages",
+    "chinese": "三座小屋，全部"
+  },
+  {
+    "english": "and three cottages all",
+    "chinese": "三座小屋，全部都是"
+  },
+  {
+    "english": "and three cottages all of",
+    "chinese": "以及三间小屋，全部"
+  },
+  {
+    "english": "which",
+    "chinese": "哪一个",
+    "soundmark": "/hwˈɪtʃ/"
+  },
+  {
+    "english": "which are",
+    "chinese": "哪些"
+  },
+  {
+    "english": "which are furnished",
+    "chinese": "已配备完毕"
+  },
+  {
+    "english": "which are furnished with",
+    "chinese": "配备了……的"
+  },
+  {
+    "english": "which are furnished with a",
+    "chinese": "配备有……"
+  },
+  {
+    "english": "which are furnished with a variety",
+    "chinese": "配备了多种选择"
+  },
+  {
+    "english": "which are furnished with a variety of",
+    "chinese": "配备了各种设施"
+  },
+  {
+    "english": "which are furnished with a variety of valuable",
+    "chinese": "配备着各种有价值的物品"
+  },
+  {
+    "english": "which are furnished with a variety of valuable antiques",
+    "chinese": "里面摆放着各种珍贵的古董。"
+  },
+  {
+    "english": "Even",
+    "chinese": "甚至",
+    "soundmark": "/ˈiːvɪn/"
+  },
+  {
+    "english": "Even the",
+    "chinese": "甚至那些厕所"
+  },
+  {
+    "english": "Even the lavatories",
+    "chinese": "甚至那些厕所也是"
+  },
+  {
+    "english": "Even the lavatories were",
+    "chinese": "甚至那些厕所是专门"
+  },
+  {
+    "english": "Even the lavatories were specially",
+    "chinese": "甚至那些厕所是专门配备的"
+  },
+  {
+    "english": "Even the lavatories were specially equipped",
+    "chinese": "甚至厕所也配备了特殊设施。"
+  },
+  {
+    "english": "Williams",
+    "chinese": "威廉最喜欢的"
+  },
+  {
+    "english": "Williams favorite",
+    "chinese": "威廉最喜爱的房间"
+  },
+  {
+    "english": "Williams favorite room",
+    "chinese": "威廉最喜爱的房间是"
+  },
+  {
+    "english": "Williams favorite room was",
+    "chinese": "据说威廉最喜爱的房间是"
+  },
+  {
+    "english": "Williams favorite room was said",
+    "chinese": "据说威廉最喜爱的房间是"
+  },
+  {
+    "english": "Williams favorite room was said to",
+    "chinese": "据说威廉最喜爱的房间被认为是"
+  },
+  {
+    "english": "Williams favorite room was said to be",
+    "chinese": "据说威廉最喜爱的房间被认为是图书馆"
+  },
+  {
+    "english": "Williams favorite room was said to be the",
+    "chinese": "据说威廉最喜爱的房间是带有图书馆的"
+  },
+  {
+    "english": "Williams favorite room was said to be the library",
+    "chinese": "据说威廉最喜爱的房间是带有图书馆及其馆藏的"
+  },
+  {
+    "english": "Williams favorite room was said to be the library with",
+    "chinese": "据说威廉最喜爱的房间是带有图书馆及其馆藏的"
+  },
+  {
+    "english": "Williams favorite room was said to be the library with its",
+    "chinese": "据说威廉最喜爱的房间是带有馆藏超过"
+  },
+  {
+    "english": "Williams favorite room was said to be the library with its collections",
+    "chinese": "据说威廉最喜爱的房间是带有馆藏超过5000本的图书馆"
+  },
+  {
+    "english": "Williams favorite room was said to be the library with its collections of",
+    "chinese": "据说威廉最喜欢的房间是图书馆，那里收藏着各种书籍。"
+  },
+  {
+    "english": "Williams favorite room was said to be the library with its collections of more",
+    "chinese": "据说威廉最喜爱的房间是图书馆，那里收藏着更多……"
+  },
+  {
+    "english": "Williams favorite room was said to be the library with its collections of more than",
+    "chinese": "据说威廉最喜爱的房间是图书馆，那里收藏了超过"
+  },
+  {
+    "english": "Williams favorite room was said to be the library with its collections of more than 5000",
+    "chinese": "据说威廉最喜爱的房间是图书馆，那里有超过5000件藏书。"
+  },
+  {
+    "english": "Williams favorite room was said to be the library with its collections of more than 5000 books",
+    "chinese": "据说威廉最喜欢的房间是图书馆，那里有超过5000本书籍的收藏。"
+  },
+  {
+    "english": "ancient",
+    "chinese": "古代",
+    "soundmark": "/ˈeɪnʃənt/"
+  },
+  {
+    "english": "ancient Greek",
+    "chinese": "古希腊"
+  },
+  {
+    "english": "ancient Greek vases",
+    "chinese": "古希腊陶器"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and an",
+    "chinese": "以及一个"
+  },
+  {
+    "english": "and an antique",
+    "chinese": "以及一件古董"
+  },
+  {
+    "english": "and an antique Spanish",
+    "chinese": "以及一件西班牙古董"
+  },
+  {
+    "english": "and an antique Spanish ceiling",
+    "chinese": "以及一件西班牙古董天花板"
+  },
+  {
+    "english": "and an antique Spanish ceiling suspended",
+    "chinese": "以及一个由线悬挂的西班牙古董天花板"
+  },
+  {
+    "english": "and an antique Spanish ceiling suspended by",
+    "chinese": "以及一个由线悬挂的西班牙古董天花板"
+  },
+  {
+    "english": "and an antique Spanish ceiling suspended by cables",
+    "chinese": "以及由缆绳悬挂的古老西班牙式天花板"
+  },
+  {
+    "english": "so",
+    "chinese": "所以",
+    "soundmark": "/sˈoʊ/"
+  },
+  {
+    "english": "so it",
+    "chinese": "所以它会"
+  },
+  {
+    "english": "so it will",
+    "chinese": "所以它会影响"
+  },
+  {
+    "english": "so it will sway",
+    "chinese": "所以它会影响其中"
+  },
+  {
+    "english": "so it will sway in",
+    "chinese": "所以它会影响在……中"
+  },
+  {
+    "english": "so it will sway in the",
+    "chinese": "所以它会影响在事件中"
+  },
+  {
+    "english": "so it will sway in the event",
+    "chinese": "所以它会影响在发生……时"
+  },
+  {
+    "english": "so it will sway in the event of",
+    "chinese": "所以它会影响在发生地震时"
+  },
+  {
+    "english": "so it will sway in the event of an",
+    "chinese": "所以它会影响在地震时所有情况"
+  },
+  {
+    "english": "so it will sway in the event of an earthquake",
+    "chinese": "所以它会影响在地震时所有古董"
+  },
+  {
+    "english": "so it will sway in the event of an earthquake all",
+    "chinese": "所以它会影响在地震时所有古董家具"
+  },
+  {
+    "english": "so it will sway in the event of an earthquake all the",
+    "chinese": "因此它在地震时将会起作用"
+  },
+  {
+    "english": "so it will sway in the event of an earthquake all the antique",
+    "chinese": "因此它在地震时仍能保持稳固，所有古物都如此"
+  },
+  {
+    "english": "so it will sway in the event of an earthquake all the antique furnishings",
+    "chinese": "因此它在地震时会有作用（所有古董家具）"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and treasures",
+    "chinese": "以及宝藏"
+  },
+  {
+    "english": "and treasures are",
+    "chinese": "宝藏被固定住了"
+  },
+  {
+    "english": "and treasures are anchored",
+    "chinese": "宝藏被固定住，作为"
+  },
+  {
+    "english": "and treasures are anchored as",
+    "chinese": "宝藏被固定住，作为一种预防措施"
+  },
+  {
+    "english": "and treasures are anchored as a",
+    "chinese": "宝藏被固定住，作为一种预防措施，作为"
+  },
+  {
+    "english": "and treasures are anchored as a precaution",
+    "chinese": "宝藏被固定住，作为一种预防措施，作为这个"
+  },
+  {
+    "english": "and treasures are anchored as a precaution as",
+    "chinese": "宝藏被固定住，作为一种预防措施，作为这个，是"
+  },
+  {
+    "english": "and treasures are anchored as a precaution as this",
+    "chinese": "宝藏被固定住，作为一种预防措施，作为这个，是一个地震"
+  },
+  {
+    "english": "and treasures are anchored as a precaution as this is",
+    "chinese": "宝藏被固定住，作为一种预防措施，作为这个，是一个地震国家"
+  },
+  {
+    "english": "and treasures are anchored as a precaution as this is an",
+    "chinese": "作为预防措施，宝藏被固定起来，因为这是……"
+  },
+  {
+    "english": "and treasures are anchored as a precaution as this is an earthquake",
+    "chinese": "为了安全起见，宝藏被固定住了，因为这是一场地震"
+  },
+  {
+    "english": "and treasures are anchored as a precaution as this is an earthquake country",
+    "chinese": "由于这里是地震多发地区，宝藏被作为预防措施被固定起来。"
+  },
+  {
+    "english": "In",
+    "chinese": "在 1920年代",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In the",
+    "chinese": "在 1920年代期间"
+  },
+  {
+    "english": "In the 1920s",
+    "chinese": "在 1920年代至 1940年代"
+  },
+  {
+    "english": "In the 1920s to",
+    "chinese": "在20世纪20年代"
+  },
+  {
+    "english": "In the 1920s to 1940s",
+    "chinese": "在20世纪20年代到40年代"
+  },
+  {
+    "english": "William",
+    "chinese": "威廉",
+    "soundmark": "/wˈɪljəm/"
+  },
+  {
+    "english": "William lived",
+    "chinese": "威廉生活"
+  },
+  {
+    "english": "William lived part",
+    "chinese": "威廉部分时间生活"
+  },
+  {
+    "english": "William lived part time",
+    "chinese": "威廉在部分时间工作"
+  },
+  {
+    "english": "William lived part time at",
+    "chinese": "威廉在部分时间工作于"
+  },
+  {
+    "english": "William lived part time at the",
+    "chinese": "威廉在庄园部分时间生活"
+  },
+  {
+    "english": "William lived part time at the estate",
+    "chinese": "威廉在带有情妇的庄园部分时间生活"
+  },
+  {
+    "english": "William lived part time at the estate with",
+    "chinese": "威廉在庄园里部分时间居住。"
+  },
+  {
+    "english": "William lived part time at the estate with his",
+    "chinese": "威廉在庄园里部分时间与他的...一起生活。"
+  },
+  {
+    "english": "William lived part time at the estate with his mistress",
+    "chinese": "威廉与他的情妇一起在庄园里兼职生活"
+  },
+  {
+    "english": "Marion",
+    "chinese": "玛丽昂",
+    "soundmark": "/mˈɛːriːən/"
+  },
+  {
+    "english": "Marion Davies",
+    "chinese": "玛丽昂·戴维斯"
+  },
+  {
+    "english": "They",
+    "chinese": "他们",
+    "soundmark": "/ðˈeɪ/"
+  },
+  {
+    "english": "They entertained",
+    "chinese": "他们娱乐了"
+  },
+  {
+    "english": "They entertained to",
+    "chinese": "他们娱乐到"
+  },
+  {
+    "english": "They entertained to an",
+    "chinese": "他们娱乐到某种程度"
+  },
+  {
+    "english": "They entertained to an excessive",
+    "chinese": "他们娱乐到过度程度"
+  },
+  {
+    "english": "They entertained to an excessive extent",
+    "chinese": "他们娱乐过度了。"
+  },
+  {
+    "english": "To",
+    "chinese": "去往",
+    "soundmark": "/tə/"
+  },
+  {
+    "english": "To be",
+    "chinese": "将要成为"
+  },
+  {
+    "english": "To be invited",
+    "chinese": "被邀请"
+  },
+  {
+    "english": "To be invited to",
+    "chinese": "被邀请去"
+  },
+  {
+    "english": "To be invited to the",
+    "chinese": "被邀请去到"
+  },
+  {
+    "english": "To be invited to the castle",
+    "chinese": "被邀请去到城堡"
+  },
+  {
+    "english": "To be invited to the castle was",
+    "chinese": "被邀请去到城堡是"
+  },
+  {
+    "english": "To be invited to the castle was a",
+    "chinese": "被邀请去到城堡是一种"
+  },
+  {
+    "english": "To be invited to the castle was a privilege",
+    "chinese": "被邀请进入城堡是一种荣幸。"
+  },
+  {
+    "english": "Movie",
+    "chinese": "电影",
+    "soundmark": "/mˈuːviː/"
+  },
+  {
+    "english": "Movie stars",
+    "chinese": "电影明星，"
+  },
+  {
+    "english": "Movie stars politicians",
+    "chinese": "电影明星，政客，"
+  },
+  {
+    "english": "Movie stars politicians businessmen",
+    "chinese": "电影明星、政客、商界人士"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and even",
+    "chinese": "甚至"
+  },
+  {
+    "english": "and even royalty",
+    "chinese": "甚至版税"
+  },
+  {
+    "english": "and even royalty were",
+    "chinese": "甚至版税经常"
+  },
+  {
+    "english": "and even royalty were frequent",
+    "chinese": "甚至版税经常是贵宾"
+  },
+  {
+    "english": "and even royalty were frequent guests",
+    "chinese": "甚至王室成员也常来作客。"
+  },
+  {
+    "english": "Many",
+    "chinese": "许多",
+    "soundmark": "/mˈɛːniː/"
+  },
+  {
+    "english": "Many of",
+    "chinese": "许多这些"
+  },
+  {
+    "english": "Many of these",
+    "chinese": "这些客人中的许多"
+  },
+  {
+    "english": "Many of these guests",
+    "chinese": "这些客人中的许多"
+  },
+  {
+    "english": "including",
+    "chinese": "包括",
+    "soundmark": "/ɪnklˈuːdɪŋ/"
+  },
+  {
+    "english": "including a",
+    "chinese": "包括一个"
+  },
+  {
+    "english": "including a British",
+    "chinese": "包括一位英国贵族"
+  },
+  {
+    "english": "including a British lord",
+    "chinese": "包括一位英国贵族"
+  },
+  {
+    "english": "Sir",
+    "chinese": "先生",
+    "soundmark": "/sˈɜː/"
+  },
+  {
+    "english": "Sir Charles",
+    "chinese": "查尔斯先生"
+  },
+  {
+    "english": "Sir Charles Kingsford",
+    "chinese": "查尔斯·金斯福德先生"
+  },
+  {
+    "english": "Sir Charles Kingsford Smith",
+    "chinese": "查尔斯·金斯福德-史密斯爵士"
+  },
+  {
+    "english": "Amelia",
+    "chinese": "阿米莉亚",
+    "soundmark": "/əmˈiːljə/"
+  },
+  {
+    "english": "Amelia Earhart",
+    "chinese": "阿梅莉亚·埃尔哈特"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and Charles",
+    "chinese": "和查尔斯"
+  },
+  {
+    "english": "and Charles Lindbergh",
+    "chinese": "和查尔斯·林德伯格"
+  },
+  {
+    "english": "flew",
+    "chinese": "飞行",
+    "soundmark": "/flˈuː/"
+  },
+  {
+    "english": "flew to",
+    "chinese": "飞往"
+  },
+  {
+    "english": "flew to the",
+    "chinese": "飞往那里"
+  },
+  {
+    "english": "flew to the ranch",
+    "chinese": "飞往牧场"
+  },
+  {
+    "english": "landing",
+    "chinese": "降落",
+    "soundmark": "/lˈændɪŋ/"
+  },
+  {
+    "english": "landing on",
+    "chinese": "在……上降落"
+  },
+  {
+    "english": "landing on the",
+    "chinese": "在私人机场上降落"
+  },
+  {
+    "english": "landing on the private",
+    "chinese": "进入私人领域"
+  },
+  {
+    "english": "landing on the private airstrip",
+    "chinese": "降落在私人机场"
+  },
+  {
+    "english": "Life",
+    "chinese": "生活",
+    "soundmark": "/lˈaɪf/"
+  },
+  {
+    "english": "Life on",
+    "chinese": "在……上生活"
+  },
+  {
+    "english": "Life on the",
+    "chinese": "在山头上的生活"
+  },
+  {
+    "english": "Life on the hill",
+    "chinese": "在山头上的生活曾经"
+  },
+  {
+    "english": "Life on the hill was",
+    "chinese": "在山头上的生活从未"
+  },
+  {
+    "english": "Life on the hill was never",
+    "chinese": "在山头上的生活从未乏味"
+  },
+  {
+    "english": "Life on the hill was never dull",
+    "chinese": "“山丘”上的生活从来都不乏味。"
+  },
+  {
+    "english": "The",
+    "chinese": "那些访客",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The visitors",
+    "chinese": "那些访客留了下来"
+  },
+  {
+    "english": "The visitors stayed",
+    "chinese": "那些访客住在"
+  },
+  {
+    "english": "The visitors stayed in",
+    "chinese": "那些访客住在那里"
+  },
+  {
+    "english": "The visitors stayed in the",
+    "chinese": "那些访客住在主楼里"
+  },
+  {
+    "english": "The visitors stayed in the main",
+    "chinese": "那些访客住在主屋里"
+  },
+  {
+    "english": "The visitors stayed in the main house",
+    "chinese": "访客们住在主屋里"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or the",
+    "chinese": "或者那些小屋，"
+  },
+  {
+    "english": "or the cottages",
+    "chinese": "或者那些小屋，视情况而定"
+  },
+  {
+    "english": "or the cottages depending",
+    "chinese": "或者那些小屋，取决于它们的重要性"
+  },
+  {
+    "english": "or the cottages depending on",
+    "chinese": "或村舍，视情况而定"
+  },
+  {
+    "english": "or the cottages depending on their",
+    "chinese": "或那些小屋，取决于它们"
+  },
+  {
+    "english": "or the cottages depending on their prominence",
+    "chinese": "或那些小屋，取决于它们的显眼程度"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or their",
+    "chinese": "或者他们的"
+  },
+  {
+    "english": "or their intimacy",
+    "chinese": "或者他们的亲密关系"
+  },
+  {
+    "english": "or their intimacy with",
+    "chinese": "或者他们与……的亲密关系"
+  },
+  {
+    "english": "or their intimacy with the",
+    "chinese": "或者他们与家庭的亲密关系"
+  },
+  {
+    "english": "or their intimacy with the family",
+    "chinese": "或他们与家庭的亲密关系"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and were",
+    "chinese": "并且是"
+  },
+  {
+    "english": "and were free",
+    "chinese": "并且是自由的"
+  },
+  {
+    "english": "and were free to",
+    "chinese": "并且可以自由漫步"
+  },
+  {
+    "english": "and were free to roam",
+    "chinese": "并且可以自由在……中漫步"
+  },
+  {
+    "english": "and were free to roam the",
+    "chinese": "并且可以自由在园区里漫步"
+  },
+  {
+    "english": "and were free to roam the grounds",
+    "chinese": "并可以自由地在场地内走动"
+  },
+  {
+    "english": "go",
+    "chinese": "去骑马",
+    "soundmark": "/ɡˈoʊ/"
+  },
+  {
+    "english": "go riding",
+    "chinese": "去骑马活动"
+  },
+  {
+    "english": "go riding on",
+    "chinese": "依靠骑马活动"
+  },
+  {
+    "english": "go riding on their",
+    "chinese": "依靠他们的选择"
+  },
+  {
+    "english": "go riding on their choice",
+    "chinese": "依靠他们的选择决定"
+  },
+  {
+    "english": "go riding on their choice of",
+    "chinese": "依靠他们选择的马匹"
+  },
+  {
+    "english": "go riding on their choice of horses",
+    "chinese": "依靠他们从……选择的马匹"
+  },
+  {
+    "english": "go riding on their choice of horses from",
+    "chinese": "依靠他们从马厩中选择的马匹"
+  },
+  {
+    "english": "go riding on their choice of horses from the",
+    "chinese": "根据他们选择的马来出行"
+  },
+  {
+    "english": "go riding on their choice of horses from the stable",
+    "chinese": "取决于他们从马厩中选择的马匹"
+  },
+  {
+    "english": "swim",
+    "chinese": "游泳",
+    "soundmark": "/swˈɪm/"
+  },
+  {
+    "english": "swim in",
+    "chinese": "在……里游泳"
+  },
+  {
+    "english": "swim in the",
+    "chinese": "在泳池里游泳"
+  },
+  {
+    "english": "swim in the pools",
+    "chinese": "在泳池里游泳"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or play",
+    "chinese": "或者打球"
+  },
+  {
+    "english": "or play golf",
+    "chinese": "或者打高尔夫球"
+  },
+  {
+    "english": "or play golf on",
+    "chinese": "在……打高尔夫球"
+  },
+  {
+    "english": "or play golf on the",
+    "chinese": "在私人球场打高尔夫球"
+  },
+  {
+    "english": "or play golf on the private",
+    "chinese": "在私人球场上的高尔夫球"
+  },
+  {
+    "english": "or play golf on the private course",
+    "chinese": "在私人球场上的私人球场高尔夫球"
+  },
+  {
+    "english": "or play golf on the private course on",
+    "chinese": "在私人球场上的私人球场"
+  },
+  {
+    "english": "or play golf on the private course on the",
+    "chinese": "在该地产上的私人球场高尔夫球"
+  },
+  {
+    "english": "or play golf on the private course on the property",
+    "chinese": "或在物业内的私人球场打高尔夫球。"
+  },
+  {
+    "english": "Company",
+    "chinese": "公司",
+    "soundmark": "/kˈəmpəniː/"
+  },
+  {
+    "english": "Company was",
+    "chinese": "公司存在过"
+  },
+  {
+    "english": "Company was expected",
+    "chinese": "公司已到，"
+  },
+  {
+    "english": "however",
+    "chinese": "然而",
+    "soundmark": "/hˌaʊˈɛːvɜː/"
+  },
+  {
+    "english": "to",
+    "chinese": "去",
+    "soundmark": "/tə/"
+  },
+  {
+    "english": "to meet",
+    "chinese": "见面"
+  },
+  {
+    "english": "to meet in",
+    "chinese": "会面"
+  },
+  {
+    "english": "to meet in the",
+    "chinese": "见面"
+  },
+  {
+    "english": "to meet in the main",
+    "chinese": "在主要场合会面"
+  },
+  {
+    "english": "to meet in the main drawing",
+    "chinese": "在主要图纸上会面"
+  },
+  {
+    "english": "to meet in the main drawing room",
+    "chinese": "在主客厅会面"
+  },
+  {
+    "english": "to meet in the main drawing room at",
+    "chinese": "在主客厅见面"
+  },
+  {
+    "english": "to meet in the main drawing room at 7",
+    "chinese": "7点在主客厅见面"
+  },
+  {
+    "english": "to meet in the main drawing room at 7 30",
+    "chinese": "7:30在主客厅见面"
+  },
+  {
+    "english": "to meet in the main drawing room at 7 30 p",
+    "chinese": "7:30在主客厅见面"
+  },
+  {
+    "english": "m",
+    "chinese": "m.",
+    "soundmark": "/ˈɛːm/"
+  },
+  {
+    "english": "sharp",
+    "chinese": "尖锐的，",
+    "soundmark": "/ʃˈɑːrp/"
+  },
+  {
+    "english": "sharp principally",
+    "chinese": "尖锐的，主要地"
+  },
+  {
+    "english": "sharp principally to",
+    "chinese": "尖锐的，主要地为了……"
+  },
+  {
+    "english": "sharp principally to amuse",
+    "chinese": "尖锐的，主要地为了娱乐……"
+  },
+  {
+    "english": "sharp principally to amuse their",
+    "chinese": "尖锐的，主要地为了娱乐他们的……"
+  },
+  {
+    "english": "sharp principally to amuse their host",
+    "chinese": "尖锐的，主要是为了娱乐他们的主人。"
+  }
 ]

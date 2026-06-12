@@ -1,582 +1,890 @@
 [
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he claims",
-		"chinese": "他声称",
-		"soundmark": "/hˈiː/ /klˈeɪmz/"
-	},
-	{
-		"english": "he claims now",
-		"chinese": "他现在声称",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/"
-	},
-	{
-		"english": "he claims now that",
-		"chinese": "他现在声称",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/"
-	},
-	{
-		"english": "he claims now that he",
-		"chinese": "他现在声称自己",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/"
-	},
-	{
-		"english": "he claims now that he understood",
-		"chinese": "他现在声称自己明白了",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/"
-	},
-	{
-		"english": "he claims now that he understood very",
-		"chinese": "他现在声称自己非常理解",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/"
-	},
-	{
-		"english": "he claims now that he understood very little",
-		"chinese": "他现在声称自己几乎没懂什么",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/"
-	},
-	{
-		"english": "he claims now that he understood very little content",
-		"chinese": "他现在声称自己几乎没理解什么内容",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/"
-	},
-	{
-		"english": "he claims now that he understood very little content in",
-		"chinese": "他现在声称自己几乎没理解什么内容",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/"
-	},
-	{
-		"english": "he claims now that he understood very little content in the",
-		"chinese": "他现在声称自己几乎没理解什么内容",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "he claims now that he understood very little content in the lessons",
-		"chinese": "他现在声称自己对课程内容了解甚少",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/"
-	},
-	{
-		"english": "he claims now that he understood very little content in the lessons of",
-		"chinese": "他现在声称自己对课程内容了解甚少",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/"
-	},
-	{
-		"english": "he claims now that he understood very little content in the lessons of the",
-		"chinese": "他现在声称自己对课程内容了解甚少",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/ /ðiː/"
-	},
-	{
-		"english": "he claims now that he understood very little content in the lessons of the first",
-		"chinese": "他现在声称自己对第一次课程的内容几乎一无所知",
-		"soundmark": "/hˈiː/ /klˈeɪmz/ /nˈaʊ/ /ðət/ /hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/ /ðiː/ /fˈɜːst/"
-	},
-	{
-		"english": "he understood very little content in the lessons of the first few",
-		"chinese": "他对前几节课的内容了解得很少",
-		"soundmark": "/hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/ /ðiː/ /fˈɜːst/ /fjˈuː/"
-	},
-	{
-		"english": "he understood very little content in the lessons of the first few weeks",
-		"chinese": "在最初的几周里，他对课程的内容了解甚少",
-		"soundmark": "/hˈiː/ /ˌəndɜːstˈʊd/ /vˈɛːriː/ /lˈɪtəl/ /kəntˈɛːnt/ /ˈɪn/ /ðiː/ /lˈɛːsənz/ /əv/ /ðiː/ /fˈɜːst/ /fjˈuː/ /wˈiːks/"
-	},
-	{
-		"english": "however",
-		"chinese": "然而",
-		"soundmark": "/hˌaʊˈɛːvɜː/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he successfully",
-		"chinese": "他成功了",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/"
-	},
-	{
-		"english": "he successfully managed",
-		"chinese": "他成功管理了",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/"
-	},
-	{
-		"english": "he successfully managed to",
-		"chinese": "他成功地管理了",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/"
-	},
-	{
-		"english": "he successfully managed to give",
-		"chinese": "他成功地完成了任务",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/"
-	},
-	{
-		"english": "he successfully managed to give the",
-		"chinese": "他成功地完成了给予",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/"
-	},
-	{
-		"english": "he successfully managed to give the appropriate",
-		"chinese": "他成功地提供了适当的东西",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/"
-	},
-	{
-		"english": "he successfully managed to give the appropriate illusion",
-		"chinese": "他成功营造出了适当的假象",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/ /ɪlˈuːʒən/"
-	},
-	{
-		"english": "he successfully managed to give the appropriate illusion of",
-		"chinese": "他成功营造出了适当的假象",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/ /ɪlˈuːʒən/ /əv/"
-	},
-	{
-		"english": "he successfully managed to give the appropriate illusion of understanding",
-		"chinese": "他成功营造出了恰当的理解假象",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/ /ɪlˈuːʒən/ /əv/ /ˌəndɜːstˈændɪŋ/"
-	},
-	{
-		"english": "he successfully managed to give the appropriate illusion of understanding well",
-		"chinese": "他成功营造出了一种恰当的、仿佛理解得很好的假象",
-		"soundmark": "/hˈiː/ /səksˈɛːsfəliː/ /mˈænɪdʒd/ /tə/ /ɡˈɪv/ /ðiː/ /əprˈoʊpriːˌeɪt/ /ɪlˈuːʒən/ /əv/ /ˌəndɜːstˈændɪŋ/ /wˈɛːl/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he made",
-		"chinese": "他做了",
-		"soundmark": "/hˈiː/ /mˈeɪd/"
-	},
-	{
-		"english": "he made me",
-		"chinese": "他让我这样做了",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/"
-	},
-	{
-		"english": "he made me laugh",
-		"chinese": "他让我笑了",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/"
-	},
-	{
-		"english": "he made me laugh and",
-		"chinese": "他让我笑了",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/"
-	},
-	{
-		"english": "he made me laugh and his",
-		"chinese": "他让我笑了，而且他……",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/"
-	},
-	{
-		"english": "he made me laugh and his peering",
-		"chinese": "他让我笑了，还有他那专注的眼神",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/"
-	},
-	{
-		"english": "he made me laugh and his peering was",
-		"chinese": "他让我笑了，他的凝视很迷人",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/"
-	},
-	{
-		"english": "he made me laugh and his peering was also",
-		"chinese": "他让我笑了，他的凝视也……",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/"
-	},
-	{
-		"english": "he made me laugh and his peering was also delighted",
-		"chinese": "他让我笑了，他的凝视也令人愉悦",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/"
-	},
-	{
-		"english": "he made me laugh and his peering was also delighted in",
-		"chinese": "他让我笑了，他的凝视也令人愉悦",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/"
-	},
-	{
-		"english": "he made me laugh and his peering was also delighted in his",
-		"chinese": "他让我笑了，他的凝视也显得很开心",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/ /hɪz/"
-	},
-	{
-		"english": "he made me laugh and his peering was also delighted in his sense",
-		"chinese": "他让我笑了，他的凝视也显示出他的愉悦之情",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/ /hɪz/ /sˈɛːns/"
-	},
-	{
-		"english": "he made me laugh and his peering was also delighted in his sense of",
-		"chinese": "他让我笑了，他的凝视也充满了愉悦感。",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/ /hɪz/ /sˈɛːns/ /əv/"
-	},
-	{
-		"english": "he made me laugh and his peering was also delighted in his sense of humor",
-		"chinese": "他让我笑了，他的凝视也因幽默感而令人愉悦",
-		"soundmark": "/hˈiː/ /mˈeɪd/ /mˈiː/ /lˈæf/ /ˈænd/ /hɪz/ /pˈiːrɪŋ/ /wˈɔːz/ /ˈɔːlsoʊ/ /dɪlˈaɪtɪd/ /ˈɪn/ /hɪz/ /sˈɛːns/ /əv/ /hjˈuːmɜː/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he dressed",
-		"chinese": "他穿了衣服",
-		"soundmark": "/hˈiː/ /drˈɛːst/"
-	},
-	{
-		"english": "he dressed with",
-		"chinese": "他穿得很好",
-		"soundmark": "/hˈiː/ /drˈɛːst/ /wɪð/"
-	},
-	{
-		"english": "he dressed with attention",
-		"chinese": "他精心打扮",
-		"soundmark": "/hˈiː/ /drˈɛːst/ /wɪð/ /ətˈɛːnʃən/"
-	},
-	{
-		"english": "he dressed with attention to",
-		"chinese": "他精心打扮",
-		"soundmark": "/hˈiː/ /drˈɛːst/ /wɪð/ /ətˈɛːnʃən/ /tə/"
-	},
-	{
-		"english": "he dressed with attention to detail",
-		"chinese": "他注重细节地穿着打扮",
-		"soundmark": "/hˈiː/ /drˈɛːst/ /wɪð/ /ətˈɛːnʃən/ /tə/ /dˈiːteɪl/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and his",
-		"chinese": "和他的",
-		"soundmark": "/ˈænd/ /hɪz/"
-	},
-	{
-		"english": "and his neat",
-		"chinese": "和他的整洁",
-		"soundmark": "/ˈænd/ /hɪz/ /nˈiːt/"
-	},
-	{
-		"english": "and his neat appearance",
-		"chinese": "以及他整洁的外表",
-		"soundmark": "/ˈænd/ /hɪz/ /nˈiːt/ /əpˈɪrəns/"
-	},
-	{
-		"english": "whether",
-		"chinese": "是否",
-		"soundmark": "/hwˈɛːðɜː/"
-	},
-	{
-		"english": "whether in",
-		"chinese": "无论是在哪里",
-		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/"
-	},
-	{
-		"english": "whether in jeans",
-		"chinese": "无论穿牛仔裤与否",
-		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/ /dʒˈiːnz/"
-	},
-	{
-		"english": "whether in jeans or",
-		"chinese": "无论是牛仔裤还是其他",
-		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/ /dʒˈiːnz/ /ɜː/"
-	},
-	{
-		"english": "whether in jeans or current",
-		"chinese": "无论是牛仔裤还是现代风格",
-		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/ /dʒˈiːnz/ /ɜː/ /kˈɑːrənt/"
-	},
-	{
-		"english": "whether in jeans or current fashion",
-		"chinese": "无论是牛仔裤还是时尚服饰",
-		"soundmark": "/hwˈɛːðɜː/ /ˈɪn/ /dʒˈiːnz/ /ɜː/ /kˈɑːrənt/ /fˈæʃən/"
-	},
-	{
-		"english": "was",
-		"chinese": "是",
-		"soundmark": "/wˈɔːz/"
-	},
-	{
-		"english": "was distinct",
-		"chinese": "很独特",
-		"soundmark": "/wˈɔːz/ /dɪstˈɪŋkt/"
-	},
-	{
-		"english": "a",
-		"chinese": "一个",
-		"soundmark": "/ˈeɪ/"
-	},
-	{
-		"english": "a cool",
-		"chinese": "很酷",
-		"soundmark": "/ˈeɪ/ /kˈuːl/"
-	},
-	{
-		"english": "a cool guy",
-		"chinese": "一个酷 guy",
-		"soundmark": "/ˈeɪ/ /kˈuːl/ /ɡˈaɪ/"
-	},
-	{
-		"english": "there",
-		"chinese": "那里",
-		"soundmark": "/ðˈɛːr/"
-	},
-	{
-		"english": "there was",
-		"chinese": "有",
-		"soundmark": "/ðˈɛːr/ /wˈɔːz/"
-	},
-	{
-		"english": "there was always",
-		"chinese": "总是存在",
-		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/"
-	},
-	{
-		"english": "there was always something",
-		"chinese": "总有一些事情",
-		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/"
-	},
-	{
-		"english": "there was always something enchanting",
-		"chinese": "总有一些令人着迷的事物",
-		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/ /ɛːntʃˈænɪŋ/"
-	},
-	{
-		"english": "there was always something enchanting in",
-		"chinese": "总有一些令人着迷的东西",
-		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/ /ɛːntʃˈænɪŋ/ /ˈɪn/"
-	},
-	{
-		"english": "there was always something enchanting in his",
-		"chinese": "他身上总有一些迷人的东西",
-		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/ /ɛːntʃˈænɪŋ/ /ˈɪn/ /hɪz/"
-	},
-	{
-		"english": "there was always something enchanting in his smile",
-		"chinese": "他的笑容总有些迷人的地方",
-		"soundmark": "/ðˈɛːr/ /wˈɔːz/ /ˈɔːlwiːz/ /sˈəmθɪŋ/ /ɛːntʃˈænɪŋ/ /ˈɪn/ /hɪz/ /smˈaɪl/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he was",
-		"chinese": "他",
-		"soundmark": "/hˈiː/ /wˈɔːz/"
-	},
-	{
-		"english": "he was charming",
-		"chinese": "他很迷人",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/"
-	},
-	{
-		"english": "he was charming and",
-		"chinese": "他很迷人",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/"
-	},
-	{
-		"english": "he was charming and handsome",
-		"chinese": "他既迷人又英俊",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/"
-	},
-	{
-		"english": "he was charming and handsome and",
-		"chinese": "他迷人又英俊",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/ /ˈænd/"
-	},
-	{
-		"english": "he was charming and handsome and he",
-		"chinese": "他很迷人且英俊，他",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/ /ˈænd/ /hˈiː/"
-	},
-	{
-		"english": "he was charming and handsome and he knew",
-		"chinese": "他迷人又英俊，而且他很了解",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/ /ˈænd/ /hˈiː/ /njˈuː/"
-	},
-	{
-		"english": "he was charming and handsome and he knew it",
-		"chinese": "他迷人又英俊，而且他自己也知道这一点",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /tʃˈɑːrmɪŋ/ /ˈænd/ /hˈænsəm/ /ˈænd/ /hˈiː/ /njˈuː/ /ɪt/"
-	},
-	{
-		"english": "moreover",
-		"chinese": "此外",
-		"soundmark": "/mɔːrˈoʊvɜː/"
-	},
-	{
-		"english": "moreover he",
-		"chinese": "此外他",
-		"soundmark": "/mɔːrˈoʊvɜː/ /hˈiː/"
-	},
-	{
-		"english": "moreover he was",
-		"chinese": "此外他还有...",
-		"soundmark": "/mɔːrˈoʊvɜː/ /hˈiː/ /wˈɔːz/"
-	},
-	{
-		"english": "moreover he was a",
-		"chinese": "此外他还是一个",
-		"soundmark": "/mɔːrˈoʊvɜː/ /hˈiː/ /wˈɔːz/ /ˈeɪ/"
-	},
-	{
-		"english": "moreover he was a gentleman",
-		"chinese": "此外，他还是一位绅士",
-		"soundmark": "/mɔːrˈoʊvɜː/ /hˈiː/ /wˈɔːz/ /ˈeɪ/ /dʒˈɛːnəlmən/"
-	},
-	{
-		"english": "his",
-		"chinese": "他的",
-		"soundmark": "/hɪz/"
-	},
-	{
-		"english": "his eyes",
-		"chinese": "他的眼睛",
-		"soundmark": "/hɪz/ /ˈaɪz/"
-	},
-	{
-		"english": "his eyes revealed",
-		"chinese": "他的眼睛暴露了",
-		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/"
-	},
-	{
-		"english": "his eyes revealed so",
-		"chinese": "他的眼睛如此显现",
-		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/"
-	},
-	{
-		"english": "his eyes revealed so much",
-		"chinese": "他的眼睛透露出太多东西",
-		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/"
-	},
-	{
-		"english": "his eyes revealed so much when",
-		"chinese": "他的眼睛透露出如此多东西时",
-		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/"
-	},
-	{
-		"english": "his eyes revealed so much when they",
-		"chinese": "他的眼睛在闪烁时透露出太多信息",
-		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/ /ðˈeɪ/"
-	},
-	{
-		"english": "his eyes revealed so much when they crinkled",
-		"chinese": "当他的眼睛眯起来时，透露出了许多东西",
-		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/ /ðˈeɪ/"
-	},
-	{
-		"english": "his eyes revealed so much when they crinkled with",
-		"chinese": "当他的眼睛因笑而皱起时，透露出了许多东西",
-		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/ /ðˈeɪ/ /wɪð/"
-	},
-	{
-		"english": "his eyes revealed so much when they crinkled with laughter",
-		"chinese": "他的眼睛在笑得眯起来时透露出许多信息",
-		"soundmark": "/hɪz/ /ˈaɪz/ /riːvˈiːld/ /sˈoʊ/ /mˈətʃ/ /hwˈɪn/ /ðˈeɪ/ /wɪð/ /lˈæftɜː/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the mask",
-		"chinese": "面具",
-		"soundmark": "/ðiː/ /mˈæsk/"
-	},
-	{
-		"english": "the mask removed",
-		"chinese": "面具被摘下",
-		"soundmark": "/ðiː/ /mˈæsk/ /riːmˈuːvd/"
-	},
-	{
-		"english": "or",
-		"chinese": "或",
-		"soundmark": "/ɜː/"
-	},
-	{
-		"english": "or conversely",
-		"chinese": "或相反",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/"
-	},
-	{
-		"english": "or conversely remained",
-		"chinese": "或相反保持不变",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/"
-	},
-	{
-		"english": "or conversely remained inscrutable",
-		"chinese": "或相反，始终难以捉摸",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/"
-	},
-	{
-		"english": "or conversely remained inscrutable like",
-		"chinese": "或者相反，则依然难以捉摸",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/"
-	},
-	{
-		"english": "or conversely remained inscrutable like still",
-		"chinese": "或者相反，如静止般难以捉摸",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/"
-	},
-	{
-		"english": "or conversely remained inscrutable like still pools",
-		"chinese": "或者相反，像静止的池塘一样难以捉摸",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/ /pˈuːlz/"
-	},
-	{
-		"english": "or conversely remained inscrutable like still pools of",
-		"chinese": "或者相反，像静止的池塘一样难以捉摸",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/ /pˈuːlz/ /əv/"
-	},
-	{
-		"english": "or conversely remained inscrutable like still pools of liquid",
-		"chinese": "或者相反，像静止的液体池一样难以捉摸",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/ /pˈuːlz/ /əv/ /lˈɪkwɪd/"
-	},
-	{
-		"english": "or conversely remained inscrutable like still pools of liquid chocolate",
-		"chinese": "或者相反，像静止的巧克力液池一样难以捉摸",
-		"soundmark": "/ɜː/ /kˈɑːnvɜːsliː/ /riːmˈeɪnd/ /ɪnskrˈuːtəbəl/ /lˈaɪk/ /stˈɪl/ /pˈuːlz/ /əv/ /lˈɪkwɪd/ /tʃˈɔːklət/"
-	},
-	{
-		"english": "containing",
-		"chinese": "包含",
-		"soundmark": "/kəntˈeɪnɪŋ/"
-	},
-	{
-		"english": "containing only",
-		"chinese": "仅包含",
-		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/"
-	},
-	{
-		"english": "containing only a",
-		"chinese": "仅包含一个",
-		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/ /ˈeɪ/"
-	},
-	{
-		"english": "containing only a hint",
-		"chinese": "仅含一丝暗示",
-		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/ /ˈeɪ/ /hˈɪnt/"
-	},
-	{
-		"english": "containing only a hint of",
-		"chinese": "仅含有一丝",
-		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/ /ˈeɪ/ /hˈɪnt/ /əv/"
-	},
-	{
-		"english": "containing only a hint of belief",
-		"chinese": "仅带有一丝信仰",
-		"soundmark": "/kəntˈeɪnɪŋ/ /ˈoʊnliː/ /ˈeɪ/ /hˈɪnt/ /əv/ /bɪlˈiːf/"
-	}
+  {
+    "english": "One",
+    "chinese": "一天",
+    "soundmark": "/hwˈən/"
+  },
+  {
+    "english": "One Saturday",
+    "chinese": "一个星期六"
+  },
+  {
+    "english": "One Saturday evening",
+    "chinese": "一个星期六的晚上"
+  },
+  {
+    "english": "One Saturday evening a",
+    "chinese": "一个星期六的晚上，一群人"
+  },
+  {
+    "english": "One Saturday evening a gang",
+    "chinese": "一个星期六的晚上，一群孩子"
+  },
+  {
+    "english": "One Saturday evening a gang of",
+    "chinese": "一个星期六的晚上，一群孩子聚集在一起"
+  },
+  {
+    "english": "One Saturday evening a gang of kids",
+    "chinese": "一个星期六的晚上，一群孩子挤在一起"
+  },
+  {
+    "english": "One Saturday evening a gang of kids piled",
+    "chinese": "一个星期六的晚上，一群孩子挤进一辆出租车"
+  },
+  {
+    "english": "One Saturday evening a gang of kids piled into",
+    "chinese": "一个星期六的晚上，一群孩子挤了进去"
+  },
+  {
+    "english": "One Saturday evening a gang of kids piled into a",
+    "chinese": "一个星期六的晚上，一群孩子挤进了一辆"
+  },
+  {
+    "english": "One Saturday evening a gang of kids piled into a taxi",
+    "chinese": "一个周六晚上，一群孩子挤进了一辆出租车"
+  },
+  {
+    "english": "heading",
+    "chinese": "标题",
+    "soundmark": "/hˈɛːdɪŋ/"
+  },
+  {
+    "english": "heading off",
+    "chinese": "偏离方向"
+  },
+  {
+    "english": "heading off for",
+    "chinese": "为……偏离方向"
+  },
+  {
+    "english": "heading off for a",
+    "chinese": "为一次……偏离方向"
+  },
+  {
+    "english": "heading off for a barbecue",
+    "chinese": "为烧烤偏离方向"
+  },
+  {
+    "english": "heading off for a barbecue on",
+    "chinese": "在……为烧烤偏离方向"
+  },
+  {
+    "english": "heading off for a barbecue on the",
+    "chinese": "在海滩上……为烧烤偏离方向"
+  },
+  {
+    "english": "heading off for a barbecue on the beach",
+    "chinese": "去海滩上烧烤。"
+  },
+  {
+    "english": "Some",
+    "chinese": "有些",
+    "soundmark": "/sˈəm/"
+  },
+  {
+    "english": "Some of",
+    "chinese": "一些"
+  },
+  {
+    "english": "Some of the",
+    "chinese": "一些女孩"
+  },
+  {
+    "english": "Some of the girls",
+    "chinese": "一些女孩决定"
+  },
+  {
+    "english": "Some of the girls decided",
+    "chinese": "一些女孩决定去走"
+  },
+  {
+    "english": "Some of the girls decided to",
+    "chinese": "一些女孩决定沿着……走"
+  },
+  {
+    "english": "Some of the girls decided to walk",
+    "chinese": "一些女孩决定沿着海滩走"
+  },
+  {
+    "english": "Some of the girls decided to walk along",
+    "chinese": "一些女孩决定步行前往"
+  },
+  {
+    "english": "Some of the girls decided to walk along the",
+    "chinese": "一些女孩决定沿着……行走"
+  },
+  {
+    "english": "Some of the girls decided to walk along the beach",
+    "chinese": "一些女孩决定在海滩上散步。"
+  },
+  {
+    "english": "Megan",
+    "chinese": "梅根",
+    "soundmark": "/mˈeɪɡən/"
+  },
+  {
+    "english": "Megan joined",
+    "chinese": "梅根加入了"
+  },
+  {
+    "english": "Megan joined them",
+    "chinese": "梅根加入了他们，"
+  },
+  {
+    "english": "Megan joined them lagging",
+    "chinese": "梅根加入了他们，进度较慢"
+  },
+  {
+    "english": "Megan joined them lagging slightly",
+    "chinese": "梅根加入了他们，稍微落后一点"
+  },
+  {
+    "english": "Megan joined them lagging slightly behind",
+    "chinese": "梅根加入了他们，但稍显落后。"
+  },
+  {
+    "english": "She",
+    "chinese": "她",
+    "soundmark": "/ʃˈiː/"
+  },
+  {
+    "english": "She knew",
+    "chinese": "她知道"
+  },
+  {
+    "english": "She knew she",
+    "chinese": "她知道她"
+  },
+  {
+    "english": "She knew she ought",
+    "chinese": "她知道她应该"
+  },
+  {
+    "english": "She knew she ought to",
+    "chinese": "她知道她应该赶紧"
+  },
+  {
+    "english": "She knew she ought to hurry",
+    "chinese": "她知道她应该赶紧去"
+  },
+  {
+    "english": "She knew she ought to hurry to",
+    "chinese": "她知道她应该赶紧去抓住"
+  },
+  {
+    "english": "She knew she ought to hurry to catch",
+    "chinese": "她知道她应该赶紧去赶上"
+  },
+  {
+    "english": "She knew she ought to hurry to catch up",
+    "chinese": "她知道应该赶紧赶上"
+  },
+  {
+    "english": "but",
+    "chinese": "但",
+    "soundmark": "/bˈət/"
+  },
+  {
+    "english": "but the",
+    "chinese": "但那湿润的..."
+  },
+  {
+    "english": "but the moist",
+    "chinese": "但那湿润的沙子"
+  },
+  {
+    "english": "but the moist sand",
+    "chinese": "那湿润的沙子让人感觉..."
+  },
+  {
+    "english": "but the moist sand felt",
+    "chinese": "那湿润的沙子让人感觉很好"
+  },
+  {
+    "english": "but the moist sand felt good",
+    "chinese": "那湿润的沙子在她下方让人感觉很好"
+  },
+  {
+    "english": "but the moist sand felt good under",
+    "chinese": "那湿润的沙子在她的脚下让人感觉很好"
+  },
+  {
+    "english": "but the moist sand felt good under her",
+    "chinese": "但湿润的沙子在她身上感觉很好"
+  },
+  {
+    "english": "but the moist sand felt good under her feet",
+    "chinese": "但湿润的沙子在她的脚下感觉很舒服。"
+  },
+  {
+    "english": "Water",
+    "chinese": "水",
+    "soundmark": "/wˈɔːtɜː/"
+  },
+  {
+    "english": "Water lapped",
+    "chinese": "水拍打着"
+  },
+  {
+    "english": "Water lapped at",
+    "chinese": "水拍打着她的脚"
+  },
+  {
+    "english": "Water lapped at her",
+    "chinese": "水拍打着她的脚趾"
+  },
+  {
+    "english": "Water lapped at her toes",
+    "chinese": "水拍打着她的脚趾，海潮"
+  },
+  {
+    "english": "Water lapped at her toes the",
+    "chinese": "水拍打着她的脚趾，海潮来了"
+  },
+  {
+    "english": "Water lapped at her toes the tide",
+    "chinese": "水拍打着她的脚趾，海潮正在涌来"
+  },
+  {
+    "english": "Water lapped at her toes the tide was",
+    "chinese": "潮水拍打着她的脚趾"
+  },
+  {
+    "english": "Water lapped at her toes the tide was coming",
+    "chinese": "潮水涌来，水轻拂着她的脚趾"
+  },
+  {
+    "english": "Water lapped at her toes the tide was coming in",
+    "chinese": "水轻拂着她的脚趾；潮水正在涌来。"
+  },
+  {
+    "english": "The",
+    "chinese": "那道",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The violet",
+    "chinese": "紫色的"
+  },
+  {
+    "english": "The violet light",
+    "chinese": "紫色的光"
+  },
+  {
+    "english": "The violet light of",
+    "chinese": "黄昏的紫色光"
+  },
+  {
+    "english": "The violet light of dusk",
+    "chinese": "黄昏的紫色光开始"
+  },
+  {
+    "english": "The violet light of dusk began",
+    "chinese": "黄昏的紫色光开始变暗"
+  },
+  {
+    "english": "The violet light of dusk began to",
+    "chinese": "黄昏的紫色光开始使天空变暗"
+  },
+  {
+    "english": "The violet light of dusk began to darken",
+    "chinese": "黄昏的紫光开始变暗"
+  },
+  {
+    "english": "The violet light of dusk began to darken the",
+    "chinese": "黄昏的紫光开始变暗"
+  },
+  {
+    "english": "The violet light of dusk began to darken the sky",
+    "chinese": "黄昏的紫光开始使天空变暗。"
+  },
+  {
+    "english": "In",
+    "chinese": "在",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In the",
+    "chinese": "在日益加深的黑暗中"
+  },
+  {
+    "english": "In the growing",
+    "chinese": "在日益加深的黑暗中有一辆"
+  },
+  {
+    "english": "In the growing darkness",
+    "chinese": "在日益加深的黑暗中有一辆面包车"
+  },
+  {
+    "english": "In the growing darkness a",
+    "chinese": "在日益加深的黑暗中有一辆面包车驶来"
+  },
+  {
+    "english": "In the growing darkness a van",
+    "chinese": "在日益加深的黑暗中有一辆面包车跟在她旁边驶来"
+  },
+  {
+    "english": "In the growing darkness a van pulled",
+    "chinese": "在逐渐变暗的黑暗中，一辆货车驶来"
+  },
+  {
+    "english": "In the growing darkness a van pulled alongside",
+    "chinese": "在逐渐变暗的黑暗中，一辆货车跟了上来"
+  },
+  {
+    "english": "In the growing darkness a van pulled alongside her",
+    "chinese": "在逐渐变暗的黑暗中，一辆货车跟在她旁边"
+  },
+  {
+    "english": "stopping",
+    "chinese": "停止",
+    "soundmark": "/stˈɑːpɪŋ/"
+  },
+  {
+    "english": "stopping with",
+    "chinese": "以...停止"
+  },
+  {
+    "english": "stopping with a",
+    "chinese": "带...停止"
+  },
+  {
+    "english": "stopping with a squeal",
+    "chinese": "带尖叫停止"
+  },
+  {
+    "english": "stopping with a squeal of",
+    "chinese": "伴随刹车尖叫停止"
+  },
+  {
+    "english": "stopping with a squeal of brakes",
+    "chinese": "以刹车声停止。"
+  },
+  {
+    "english": "Before",
+    "chinese": "之前",
+    "soundmark": "/bˌiːfˈɔːr/"
+  },
+  {
+    "english": "Before she",
+    "chinese": "在她之前"
+  },
+  {
+    "english": "Before she knew",
+    "chinese": "在她知道之前"
+  },
+  {
+    "english": "Before she knew what",
+    "chinese": "在她不知道是什么之前"
+  },
+  {
+    "english": "Before she knew what was",
+    "chinese": "在她不知道发生了什么之前"
+  },
+  {
+    "english": "Before she knew what was happening",
+    "chinese": "在她不知道正在发生什么之前"
+  },
+  {
+    "english": "Before she knew what was happening two",
+    "chinese": "在她不知道正在发生第二件事之前"
+  },
+  {
+    "english": "Before she knew what was happening two masked",
+    "chinese": "在她不知道有两名戴面具的人正在发生什么之前"
+  },
+  {
+    "english": "Before she knew what was happening two masked men",
+    "chinese": "在她不知道有两名戴面具的人正在发生什么之前"
+  },
+  {
+    "english": "Before she knew what was happening two masked men leapt",
+    "chinese": "在她不知道有两名戴面具的人跳了出去之前"
+  },
+  {
+    "english": "Before she knew what was happening two masked men leapt out of",
+    "chinese": "在她不知道有两名戴面具的人从……跳了出去之前"
+  },
+  {
+    "english": "Before she knew what was happening two masked men leapt out of the",
+    "chinese": "在她不知道有两名戴面具的人从车里跳了出去之前"
+  },
+  {
+    "english": "Before she knew what was happening two masked men leapt out of the car",
+    "chinese": "在她还没意识到发生了什么之前，两个戴面具的男人从车里跳了出来"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and began",
+    "chinese": "并且开始"
+  },
+  {
+    "english": "and began to",
+    "chinese": "并且开始追逐"
+  },
+  {
+    "english": "and began to chase",
+    "chinese": "并且开始追逐她，"
+  },
+  {
+    "english": "and began to chase her",
+    "chinese": "并且开始追逐她，抓住她"
+  },
+  {
+    "english": "and began to chase her grabbing",
+    "chinese": "并开始追赶她，抓住她"
+  },
+  {
+    "english": "and began to chase her grabbing her",
+    "chinese": "并开始追赶她，抓住她"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and finally",
+    "chinese": "最后"
+  },
+  {
+    "english": "and finally throwing",
+    "chinese": "最后将她扔掉"
+  },
+  {
+    "english": "and finally throwing her",
+    "chinese": "最后将她扔向"
+  },
+  {
+    "english": "and finally throwing her to",
+    "chinese": "最后将她扔到地上"
+  },
+  {
+    "english": "and finally throwing her to the",
+    "chinese": "最后把她扔了出去"
+  },
+  {
+    "english": "and finally throwing her to the ground",
+    "chinese": "最终将她打倒在地。"
+  },
+  {
+    "english": "The",
+    "chinese": "整体攻击",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The gross",
+    "chinese": "总额"
+  },
+  {
+    "english": "The gross attack",
+    "chinese": "总攻击量"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that followed",
+    "chinese": "随后"
+  },
+  {
+    "english": "that followed was",
+    "chinese": "随后是"
+  },
+  {
+    "english": "that followed was brutal",
+    "chinese": "接下来十分残酷"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and unexplainable",
+    "chinese": "且无法解释。"
+  },
+  {
+    "english": "Initially",
+    "chinese": "最初",
+    "soundmark": "/ɪnˈɪʃəliː/"
+  },
+  {
+    "english": "Initially Megan",
+    "chinese": "最初梅根"
+  },
+  {
+    "english": "Initially Megan tried",
+    "chinese": "最初梅根尝试了"
+  },
+  {
+    "english": "Initially Megan tried to",
+    "chinese": "最初梅根试图抵抗"
+  },
+  {
+    "english": "Initially Megan tried to fight",
+    "chinese": "最初梅根试图击退"
+  },
+  {
+    "english": "Initially Megan tried to fight off",
+    "chinese": "最初梅根试图击退她的敌人"
+  },
+  {
+    "english": "Initially Megan tried to fight off her",
+    "chinese": "最初梅根试图通过爪子击退她的敌人"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers",
+    "chinese": "最初梅根试图通过爪子抓挠来击退她的敌人"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers by",
+    "chinese": "最初梅根试图通过爪子抓挠来击退她的攻击者"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers by clawing",
+    "chinese": "最初梅根试图通过爪子抓挠他们的脸来击退她的攻击者"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers by clawing at",
+    "chinese": "最初梅根试图通过用她的指甲抓挠他们的脸来击退她的攻击者"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers by clawing at their",
+    "chinese": "起初，梅根试图通过抓咬攻击者来抵抗。"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers by clawing at their faces",
+    "chinese": "起初，梅根试图通过抓挠攻击者的脸来抵抗他们。"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers by clawing at their faces with",
+    "chinese": "起初，梅根试图用爪子抓对方的脸来抵抗攻击者。"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers by clawing at their faces with her",
+    "chinese": "起初，梅根试图用爪子抓对方的脸来抵抗攻击者。"
+  },
+  {
+    "english": "Initially Megan tried to fight off her attackers by clawing at their faces with her nails",
+    "chinese": "起初，梅根试图用指甲抓伤袭击者的脸来抵抗他们。"
+  },
+  {
+    "english": "Using",
+    "chinese": "使用",
+    "soundmark": "/jˈuːzɪŋ/"
+  },
+  {
+    "english": "Using a",
+    "chinese": "使用一个"
+  },
+  {
+    "english": "Using a coil",
+    "chinese": "使用一个线圈"
+  },
+  {
+    "english": "Using a coil of",
+    "chinese": "使用一圈线圈"
+  },
+  {
+    "english": "Using a coil of rope",
+    "chinese": "使用一圈绳子"
+  },
+  {
+    "english": "Using a coil of rope to",
+    "chinese": "使用一圈绳子来"
+  },
+  {
+    "english": "Using a coil of rope to bind",
+    "chinese": "使用一圈绳子来捆绑"
+  },
+  {
+    "english": "Using a coil of rope to bind her",
+    "chinese": "使用一圈绳子来捆绑她"
+  },
+  {
+    "english": "Using a coil of rope to bind her hands",
+    "chinese": "用一根绳子圈绑住她的手"
+  },
+  {
+    "english": "the",
+    "chinese": "那个",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "the men",
+    "chinese": "那些人"
+  },
+  {
+    "english": "the men were",
+    "chinese": "那些人曾是"
+  },
+  {
+    "english": "the men were free",
+    "chinese": "那些人曾是自由的"
+  },
+  {
+    "english": "the men were free to",
+    "chinese": "那些人有权继续行动"
+  },
+  {
+    "english": "the men were free to proceed",
+    "chinese": "那些人可以继续行动。"
+  },
+  {
+    "english": "First",
+    "chinese": "第一",
+    "soundmark": "/fˈɜːst/"
+  },
+  {
+    "english": "First a",
+    "chinese": "首先，一个拳头"
+  },
+  {
+    "english": "First a fist",
+    "chinese": "首先，一个拳头击碎了她"
+  },
+  {
+    "english": "First a fist broke",
+    "chinese": "首先，一个拳头击碎了她的上颚"
+  },
+  {
+    "english": "First a fist broke her",
+    "chinese": "首先，一个拳头击碎了她的上颚，导致她失去意识"
+  },
+  {
+    "english": "First a fist broke her upper",
+    "chinese": "首先一拳击碎了她的上体"
+  },
+  {
+    "english": "First a fist broke her upper jaw",
+    "chinese": "首先一拳打碎了她的上颌"
+  },
+  {
+    "english": "First a fist broke her upper jaw leaving",
+    "chinese": "首先一拳击碎了她的上颌，导致……"
+  },
+  {
+    "english": "First a fist broke her upper jaw leaving her",
+    "chinese": "首先一拳击碎了她的上颌，导致她……"
+  },
+  {
+    "english": "First a fist broke her upper jaw leaving her unconscious",
+    "chinese": "首先，一拳击碎了她的上颌，导致她失去意识。"
+  },
+  {
+    "english": "Then",
+    "chinese": "然后",
+    "soundmark": "/ðˈɛːn/"
+  },
+  {
+    "english": "Then the",
+    "chinese": "然后那些小混混们"
+  },
+  {
+    "english": "Then the hoodlums",
+    "chinese": "然后那些小混混们使用了"
+  },
+  {
+    "english": "Then the hoodlums used",
+    "chinese": "然后那些小混混们使用了一根金属棒"
+  },
+  {
+    "english": "Then the hoodlums used a",
+    "chinese": "然后那些小混混们使用一根金属棒来"
+  },
+  {
+    "english": "Then the hoodlums used a metal",
+    "chinese": "然后那些小混混们使用金属棒来压碎"
+  },
+  {
+    "english": "Then the hoodlums used a metal rod",
+    "chinese": "然后那些小混混们使用金属棒来压碎梅根的"
+  },
+  {
+    "english": "Then the hoodlums used a metal rod to",
+    "chinese": "然后那些小混混们使用金属棒来压碎梅根的头骨"
+  },
+  {
+    "english": "Then the hoodlums used a metal rod to crush",
+    "chinese": "然后那些小混混用金属棒压碎"
+  },
+  {
+    "english": "Then the hoodlums used a metal rod to crush Megans",
+    "chinese": "然后那些小混混用金属棒压碎了梅根"
+  },
+  {
+    "english": "Then the hoodlums used a metal rod to crush Megans skull",
+    "chinese": "然后那些混混用金属棒砸碎了梅根的头骨"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and finally",
+    "chinese": "最后"
+  },
+  {
+    "english": "and finally a",
+    "chinese": "最后，一把"
+  },
+  {
+    "english": "and finally a knife",
+    "chinese": "最后，一把刀"
+  },
+  {
+    "english": "and finally a knife blade",
+    "chinese": "最后，刀刃刺入"
+  },
+  {
+    "english": "and finally a knife blade penetrated",
+    "chinese": "最后，刀刃刺入了她的身体"
+  },
+  {
+    "english": "and finally a knife blade penetrated her",
+    "chinese": "最后，刀刃刺入了她的颈部"
+  },
+  {
+    "english": "and finally a knife blade penetrated her neck",
+    "chinese": "最后，刀刃刺入了她的颈部，造成穿孔"
+  },
+  {
+    "english": "and finally a knife blade penetrated her neck piercing",
+    "chinese": "最后，刀刃刺入了她的颈部，刺穿了动脉"
+  },
+  {
+    "english": "and finally a knife blade penetrated her neck piercing an",
+    "chinese": "最终一把刀刃刺入了她的颈部，造成了..."
+  },
+  {
+    "english": "and finally a knife blade penetrated her neck piercing an artery",
+    "chinese": "最终，一把刀刃刺入了她的颈部，刺穿了动脉。"
+  },
+  {
+    "english": "After",
+    "chinese": "在……之后",
+    "soundmark": "/ˈæftɜː/"
+  },
+  {
+    "english": "After the",
+    "chinese": "在……之后"
+  },
+  {
+    "english": "After the crude",
+    "chinese": "在那次粗劣的行为之后"
+  },
+  {
+    "english": "After the crude act",
+    "chinese": "在那次粗劣的行为之后"
+  },
+  {
+    "english": "After the crude act was",
+    "chinese": "在那次粗劣的行为之后"
+  },
+  {
+    "english": "After the crude act was completed",
+    "chinese": "在那次粗劣的行为完成之后"
+  },
+  {
+    "english": "After the crude act was completed her",
+    "chinese": "在那次粗劣的行为完成之后她的"
+  },
+  {
+    "english": "After the crude act was completed her body",
+    "chinese": "在那次粗劣的行为完成之后她的身体"
+  },
+  {
+    "english": "After the crude act was completed her body was",
+    "chinese": "在那次粗劣的行为完成之后她的身体被"
+  },
+  {
+    "english": "After the crude act was completed her body was bundled",
+    "chinese": "在那次粗劣的行为完成之后她的身体被捆起"
+  },
+  {
+    "english": "After the crude act was completed her body was bundled into",
+    "chinese": "在那次粗劣的行为完成之后她的身体被捆进"
+  },
+  {
+    "english": "After the crude act was completed her body was bundled into the",
+    "chinese": "在那次粗劣的行为完成之后她的身体被捆进里面"
+  },
+  {
+    "english": "After the crude act was completed her body was bundled into the back",
+    "chinese": "在那次粗劣的行为完成之后她的身体被捆进后面"
+  },
+  {
+    "english": "After the crude act was completed her body was bundled into the back of",
+    "chinese": "在那次粗劣的行为完成之后她的身体被捆进后面的位置"
+  },
+  {
+    "english": "After the crude act was completed her body was bundled into the back of a",
+    "chinese": "在那次粗劣的行为完成之后她的身体被捆进后面的车厢里"
+  },
+  {
+    "english": "After the crude act was completed her body was bundled into the back of a cab",
+    "chinese": "当那粗俗行为完成后，她的身体被塞进出租车后座里"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and discarded",
+    "chinese": "并且被丢弃"
+  },
+  {
+    "english": "and discarded in",
+    "chinese": "在……中被丢弃"
+  },
+  {
+    "english": "and discarded in a",
+    "chinese": "在一条沟渠中被丢弃"
+  },
+  {
+    "english": "and discarded in a ditch",
+    "chinese": "在一条偏僻的沟渠中被丢弃"
+  },
+  {
+    "english": "and discarded in a ditch in",
+    "chinese": "在一条孤立地区的沟渠中被丢弃"
+  },
+  {
+    "english": "and discarded in a ditch in an",
+    "chinese": "在远离的孤立地区的一条沟渠中被丢弃"
+  },
+  {
+    "english": "and discarded in a ditch in an isolated",
+    "chinese": "在远离海滩的孤立地区的一条沟渠中被丢弃"
+  },
+  {
+    "english": "and discarded in a ditch in an isolated district",
+    "chinese": "并被丢弃在一个偏僻地区的沟渠里"
+  },
+  {
+    "english": "and discarded in a ditch in an isolated district far",
+    "chinese": "并被丢弃在偏远地区的沟渠中"
+  },
+  {
+    "english": "and discarded in a ditch in an isolated district far from",
+    "chinese": "并被丢弃在远离的偏远地区的一条沟渠中"
+  },
+  {
+    "english": "and discarded in a ditch in an isolated district far from the",
+    "chinese": "并被丢弃在远离该地区的偏远地区的沟渠中"
+  },
+  {
+    "english": "and discarded in a ditch in an isolated district far from the beach",
+    "chinese": "被丢弃在远离海滩的偏远地区的沟渠里。"
+  }
 ]

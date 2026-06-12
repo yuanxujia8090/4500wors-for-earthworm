@@ -1,1022 +1,918 @@
 [
-	{
-		"english": "even the lavatories were",
-		"chinese": "甚至厕所也",
-		"soundmark": "/ˈiːvɪn/ /ðiː/ /lˈævətˌɔːriːz/ /wˈɜː/"
-	},
-	{
-		"english": "even the lavatories were specially",
-		"chinese": "甚至厕所也是特制的",
-		"soundmark": "/ˈiːvɪn/ /ðiː/ /lˈævətˌɔːriːz/ /wˈɜː/ /spˈɛːʃliː/"
-	},
-	{
-		"english": "even the lavatories were specially equipped",
-		"chinese": "甚至厕所也配备了特殊设施",
-		"soundmark": "/ˈiːvɪn/ /ðiː/ /lˈævətˌɔːriːz/ /wˈɜː/ /spˈɛːʃliː/ /ɪkwˈɪpt/"
-	},
-	{
-		"english": "william",
-		"chinese": "威廉",
-		"soundmark": "/wˈɪljəm/"
-	},
-	{
-		"english": "william s",
-		"chinese": "威廉·S",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/"
-	},
-	{
-		"english": "william s favorite",
-		"chinese": "威廉最喜爱的",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/"
-	},
-	{
-		"english": "william s favorite room",
-		"chinese": "威廉最喜欢的房间",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/"
-	},
-	{
-		"english": "william s favorite room was",
-		"chinese": "威廉最喜欢的房间是",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/"
-	},
-	{
-		"english": "william s favorite room was said",
-		"chinese": "威廉最喜欢的房间被提及了",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/"
-	},
-	{
-		"english": "william s favorite room was said to",
-		"chinese": "据说威廉最喜欢的房间是",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/"
-	},
-	{
-		"english": "william s favorite room was said to be",
-		"chinese": "威廉最喜欢的房间据说是",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/ /biː/"
-	},
-	{
-		"english": "william s favorite room was said to be the",
-		"chinese": "据说威廉最喜欢的房间是",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/"
-	},
-	{
-		"english": "william s favorite room was said to be the library",
-		"chinese": "威廉最喜欢的房间据说是图书馆",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/ /lˈaɪbrˌɛːriː/"
-	},
-	{
-		"english": "william s favorite room was said to be the library with",
-		"chinese": "据说威廉最喜欢的房间是图书馆。",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/ /lˈaɪbrˌɛːriː/ /wɪð/"
-	},
-	{
-		"english": "william s favorite room was said to be the library with its",
-		"chinese": "威廉最喜欢的房间据说是图书馆，那里有……",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/ /lˈaɪbrˌɛːriː/ /wɪð/ /ɪts/"
-	},
-	{
-		"english": "william s favorite room was said to be the library with its collections",
-		"chinese": "威廉最喜欢的房间据说是图书馆，那里有丰富的藏书",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/ /lˈaɪbrˌɛːriː/ /wɪð/ /ɪts/ /kəlˈɛːkʃənz/"
-	},
-	{
-		"english": "william s favorite room was said to be the library with its collections of",
-		"chinese": "据说威廉最喜欢的房间是图书馆，那里有丰富的藏书。",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/ /lˈaɪbrˌɛːriː/ /wɪð/ /ɪts/ /kəlˈɛːkʃənz/ /əv/"
-	},
-	{
-		"english": "william s favorite room was said to be the library with its collections of more",
-		"chinese": "据说威廉最喜欢的房间是图书馆，那里有丰富的藏书。",
-		"soundmark": "/wˈɪljəm/ /ˈɛːs/ /fˈeɪvrət/ /rˈuːm/ /wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/ /lˈaɪbrˌɛːriː/ /wɪð/ /ɪts/ /kəlˈɛːkʃənz/ /əv/ /mˈɔːr/"
-	},
-	{
-		"english": "was said to be the library with its collections of more than",
-		"chinese": "据说这是一家拥有超过……的藏书的图书馆",
-		"soundmark": "/wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/ /lˈaɪbrˌɛːriː/ /wɪð/ /ɪts/ /kəlˈɛːkʃənz/ /əv/ /mˈɔːr/ /ðən/"
-	},
-	{
-		"english": "was said to be the library with its collections of more than books",
-		"chinese": "据说这是一家拥有超过书籍藏书的图书馆",
-		"soundmark": "/wˈɔːz/ /sˈɛːd/ /tə/ /biː/ /ðiː/ /lˈaɪbrˌɛːriː/ /wɪð/ /ɪts/ /kəlˈɛːkʃənz/ /əv/ /mˈɔːr/ /ðən/ /bˈʊks/"
-	},
-	{
-		"english": "ancient",
-		"chinese": "古老",
-		"soundmark": "/ˈeɪnʃənt/"
-	},
-	{
-		"english": "ancient greek",
-		"chinese": "古希腊",
-		"soundmark": "/ˈeɪnʃənt/ /ɡrˈiːk/"
-	},
-	{
-		"english": "ancient greek vases",
-		"chinese": "古希腊陶器",
-		"soundmark": "/ˈeɪnʃənt/ /ɡrˈiːk/ /vˈɑːzɪz/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and an",
-		"chinese": "和一个",
-		"soundmark": "/ˈænd/ /ən/"
-	},
-	{
-		"english": "and an antique",
-		"chinese": "以及一件古董",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/"
-	},
-	{
-		"english": "and an antique spanish",
-		"chinese": "以及一件古董西班牙制品",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/"
-	},
-	{
-		"english": "and an antique spanish ceiling",
-		"chinese": "以及一件古老的西班牙天花板",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended",
-		"chinese": "以及一个悬挂的古老西班牙天花板",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by",
-		"chinese": "以及一个由悬挂的西班牙古董天花板",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by cables",
-		"chinese": "以及由缆绳悬挂的古老西班牙天花板",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by cables so",
-		"chinese": "以及由缆绳悬挂的古老西班牙式天花板",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by cables so it",
-		"chinese": "以及一个由缆绳悬挂的古老西班牙式天花板",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by cables so it will",
-		"chinese": "以及一个由缆绳悬挂的古老西班牙式天花板",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by cables so it will sway",
-		"chinese": "以及一个由缆绳悬挂的古老西班牙式天花板，会随之摇晃",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by cables so it will sway in",
-		"chinese": "以及一个由缆绳悬挂的古老西班牙式天花板，因此会摇晃",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by cables so it will sway in the",
-		"chinese": "以及一个由缆绳悬挂的古老西班牙式天花板，因此会摇晃起来",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "and an antique spanish ceiling suspended by cables so it will sway in the event",
-		"chinese": "以及一个由缆绳悬挂的古老西班牙式天花板，因此会在有风时摇晃",
-		"soundmark": "/ˈænd/ /ən/ /æntˈiːk/ /spˈænɪʃ/ /sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/"
-	},
-	{
-		"english": "ceiling suspended by cables so it will sway in the event of",
-		"chinese": "天花板由缆绳支撑，因此在……情况下会摇晃",
-		"soundmark": "/sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/"
-	},
-	{
-		"english": "ceiling suspended by cables so it will sway in the event of an",
-		"chinese": "天花板由缆绳支撑，因此在发生……时会产生摇晃",
-		"soundmark": "/sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/"
-	},
-	{
-		"english": "ceiling suspended by cables so it will sway in the event of an earthquake",
-		"chinese": "天花板由缆绳支撑，因此在地震时会摇晃",
-		"soundmark": "/sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/"
-	},
-	{
-		"english": "ceiling suspended by cables so it will sway in the event of an earthquake all",
-		"chinese": "天花板由缆绳支撑，因此在地震时会摇晃",
-		"soundmark": "/sˈiːlɪŋ/ /səspˈɛːndɪd/ /bˈaɪ/ /kˈeɪbəlz/ /sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/"
-	},
-	{
-		"english": "so it will sway in the event of an earthquake all the",
-		"chinese": "因此它在地震时将会起作用",
-		"soundmark": "/sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/"
-	},
-	{
-		"english": "so it will sway in the event of an earthquake all the antique",
-		"chinese": "因此它在地震时仍能保持稳固，所有古物都如此",
-		"soundmark": "/sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/"
-	},
-	{
-		"english": "so it will sway in the event of an earthquake all the antique furnishings",
-		"chinese": "因此它在地震时仍能保持稳定，所有古董家具都不会损坏",
-		"soundmark": "/sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/"
-	},
-	{
-		"english": "so it will sway in the event of an earthquake all the antique furnishings and",
-		"chinese": "因此它在地震时也会发生位移，所有古董家具都会……",
-		"soundmark": "/sˈoʊ/ /ɪt/ /wəl/ /swˈeɪ/ /ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/"
-	},
-	{
-		"english": "in the event of an earthquake all the antique furnishings and treasures",
-		"chinese": "发生地震时，所有的古董家具和珍宝",
-		"soundmark": "/ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/"
-	},
-	{
-		"english": "in the event of an earthquake all the antique furnishings and treasures are",
-		"chinese": "发生地震时，所有的古董家具和珍宝都会",
-		"soundmark": "/ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/"
-	},
-	{
-		"english": "in the event of an earthquake all the antique furnishings and treasures are anchored",
-		"chinese": "发生地震时，所有古董家具和珍宝都会被固定住",
-		"soundmark": "/ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/"
-	},
-	{
-		"english": "in the event of an earthquake all the antique furnishings and treasures are anchored as",
-		"chinese": "发生地震时，所有古董家具和珍宝都会被固定住",
-		"soundmark": "/ˈɪn/ /ðiː/ /iːvˈɛːnt/ /əv/ /ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/"
-	},
-	{
-		"english": "an earthquake all the antique furnishings and treasures are anchored as a",
-		"chinese": "一场地震，所有的古董家具和珍宝都被固定住了",
-		"soundmark": "/ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/ /ˈeɪ/"
-	},
-	{
-		"english": "an earthquake all the antique furnishings and treasures are anchored as a precaution",
-		"chinese": "一场地震导致所有古董家具和珍宝都被固定起来以作防范",
-		"soundmark": "/ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/ /ˈeɪ/ /priːkˈɔːʃən/"
-	},
-	{
-		"english": "an earthquake all the antique furnishings and treasures are anchored as a precaution as",
-		"chinese": "一场地震，所有古董家具和珍宝都被固定起来作为预防措施",
-		"soundmark": "/ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/ /ˈeɪ/ /priːkˈɔːʃən/ /ˈɛːz/"
-	},
-	{
-		"english": "an earthquake all the antique furnishings and treasures are anchored as a precaution as this",
-		"chinese": "一场地震，为了安全起见，所有古董家具和珍宝都被固定住了",
-		"soundmark": "/ən/ /ˈɜːθkwˌeɪk/ /ˈɔːl/ /ðiː/ /æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/ /ˈeɪ/ /priːkˈɔːʃən/ /ˈɛːz/ /ðɪs/"
-	},
-	{
-		"english": "antique furnishings and treasures are anchored as a precaution as this is",
-		"chinese": "古老的家具和珍宝被作为预防措施固定起来，因为……",
-		"soundmark": "/æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/ /ˈeɪ/ /priːkˈɔːʃən/ /ˈɛːz/ /ðɪs/ /ɪz/"
-	},
-	{
-		"english": "antique furnishings and treasures are anchored as a precaution as this is an",
-		"chinese": "古老的装饰品和珍宝被作为预防措施固定起来，因为这是",
-		"soundmark": "/æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/ /ˈeɪ/ /priːkˈɔːʃən/ /ˈɛːz/ /ðɪs/ /ɪz/ /ən/"
-	},
-	{
-		"english": "antique furnishings and treasures are anchored as a precaution as this is an earthquake",
-		"chinese": "作为预防措施，古老的家具和珍宝被固定起来，因为这里正在发生地震",
-		"soundmark": "/æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/ /ˈeɪ/ /priːkˈɔːʃən/ /ˈɛːz/ /ðɪs/ /ɪz/ /ən/ /ˈɜːθkwˌeɪk/"
-	},
-	{
-		"english": "antique furnishings and treasures are anchored as a precaution as this is an earthquake country",
-		"chinese": "作为预防措施，古老的家具和珍宝被妥善保管，因为这里属于地震多发地区",
-		"soundmark": "/æntˈiːk/ /fˈɜːnɪʃɪŋz/ /ˈænd/ /trˈɛːʒɜːz/ /ɜː/ /ˈæŋkɜːd/ /ˈɛːz/ /ˈeɪ/ /priːkˈɔːʃən/ /ˈɛːz/ /ðɪs/ /ɪz/ /ən/ /ˈɜːθkwˌeɪk/ /kˈəntriː/"
-	},
-	{
-		"english": "in",
-		"chinese": "在",
-		"soundmark": "/ˈɪn/"
-	},
-	{
-		"english": "in the",
-		"chinese": "在……中",
-		"soundmark": "/ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "in the s",
-		"chinese": "在s中",
-		"soundmark": "/ˈɪn/ /ðiː/ /ˈɛːs/"
-	},
-	{
-		"english": "in the s to",
-		"chinese": "在S中",
-		"soundmark": "/ˈɪn/ /ðiː/ /ˈɛːs/ /tə/"
-	},
-	{
-		"english": "in the s to s",
-		"chinese": "在S到S之间",
-		"soundmark": "/ˈɪn/ /ðiː/ /ˈɛːs/ /tə/ /ˈɛːs/"
-	},
-	{
-		"english": "william",
-		"chinese": "威廉",
-		"soundmark": "/wˈɪljəm/"
-	},
-	{
-		"english": "william lived",
-		"chinese": "威廉生活着",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/"
-	},
-	{
-		"english": "william lived part",
-		"chinese": "威廉部分活着",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/ /pˈɑːrt/"
-	},
-	{
-		"english": "william lived part time",
-		"chinese": "威廉兼职生活",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/ /pˈɑːrt/ /tˈaɪm/"
-	},
-	{
-		"english": "william lived part time at",
-		"chinese": "威廉部分时间住在……",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/ /pˈɑːrt/ /tˈaɪm/ /ˈæt/"
-	},
-	{
-		"english": "william lived part time at the",
-		"chinese": "威廉部分时间住在……",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/ /pˈɑːrt/ /tˈaɪm/ /ˈæt/ /ðiː/"
-	},
-	{
-		"english": "william lived part time at the estate",
-		"chinese": "威廉在庄园里兼职生活",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/ /pˈɑːrt/ /tˈaɪm/ /ˈæt/ /ðiː/ /ɪstˈeɪt/"
-	},
-	{
-		"english": "william lived part time at the estate with",
-		"chinese": "威廉在庄园里兼职居住",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/ /pˈɑːrt/ /tˈaɪm/ /ˈæt/ /ðiː/ /ɪstˈeɪt/ /wɪð/"
-	},
-	{
-		"english": "william lived part time at the estate with his",
-		"chinese": "威廉在庄园里兼职居住，与他的……一起。",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/ /pˈɑːrt/ /tˈaɪm/ /ˈæt/ /ðiː/ /ɪstˈeɪt/ /wɪð/ /hɪz/"
-	},
-	{
-		"english": "william lived part time at the estate with his mistress",
-		"chinese": "威廉与他的情妇在庄园里兼职生活",
-		"soundmark": "/wˈɪljəm/ /lˈɪvd/ /pˈɑːrt/ /tˈaɪm/ /ˈæt/ /ðiː/ /ɪstˈeɪt/ /wɪð/ /hɪz/ /mˈɪstrəs/"
-	},
-	{
-		"english": "marion",
-		"chinese": "玛丽昂",
-		"soundmark": "/mˈɛːriːən/"
-	},
-	{
-		"english": "marion davies",
-		"chinese": "马里恩·戴维斯",
-		"soundmark": "/mˈɛːriːən/ /dˈeɪviːz/"
-	},
-	{
-		"english": "they",
-		"chinese": "他们",
-		"soundmark": "/ðˈeɪ/"
-	},
-	{
-		"english": "they entertained",
-		"chinese": "他们娱乐了",
-		"soundmark": "/ðˈeɪ/ /ˌɛːnɜːtˈeɪnd/"
-	},
-	{
-		"english": "they entertained to",
-		"chinese": "他们娱乐了",
-		"soundmark": "/ðˈeɪ/ /ˌɛːnɜːtˈeɪnd/ /tə/"
-	},
-	{
-		"english": "they entertained to an",
-		"chinese": "他们娱乐得很好",
-		"soundmark": "/ðˈeɪ/ /ˌɛːnɜːtˈeɪnd/ /tə/ /ən/"
-	},
-	{
-		"english": "they entertained to an excessive",
-		"chinese": "他们过度娱乐了",
-		"soundmark": "/ðˈeɪ/ /ˌɛːnɜːtˈeɪnd/ /tə/ /ən/ /ɪksˈɛːsɪv/"
-	},
-	{
-		"english": "they entertained to an excessive extent",
-		"chinese": "他们娱乐过度了",
-		"soundmark": "/ðˈeɪ/ /ˌɛːnɜːtˈeɪnd/ /tə/ /ən/ /ɪksˈɛːsɪv/ /ɪkstˈɛːnt/"
-	},
-	{
-		"english": "to",
-		"chinese": "为了",
-		"soundmark": "/tə/"
-	},
-	{
-		"english": "to be",
-		"chinese": "要成为",
-		"soundmark": "/tə/ /biː/"
-	},
-	{
-		"english": "to be invited",
-		"chinese": "被邀请",
-		"soundmark": "/tə/ /biː/ /ɪnvˈaɪtɪd/"
-	},
-	{
-		"english": "to be invited to",
-		"chinese": "被邀请",
-		"soundmark": "/tə/ /biː/ /ɪnvˈaɪtɪd/ /tə/"
-	},
-	{
-		"english": "to be invited to the",
-		"chinese": "被邀请参加",
-		"soundmark": "/tə/ /biː/ /ɪnvˈaɪtɪd/ /tə/ /ðiː/"
-	},
-	{
-		"english": "to be invited to the castle",
-		"chinese": "被邀请前往城堡",
-		"soundmark": "/tə/ /biː/ /ɪnvˈaɪtɪd/ /tə/ /ðiː/ /kˈæsəl/"
-	},
-	{
-		"english": "to be invited to the castle was",
-		"chinese": "被邀请进入城堡",
-		"soundmark": "/tə/ /biː/ /ɪnvˈaɪtɪd/ /tə/ /ðiː/ /kˈæsəl/ /wˈɔːz/"
-	},
-	{
-		"english": "to be invited to the castle was a",
-		"chinese": "被邀请进入城堡是一种",
-		"soundmark": "/tə/ /biː/ /ɪnvˈaɪtɪd/ /tə/ /ðiː/ /kˈæsəl/ /wˈɔːz/ /ˈeɪ/"
-	},
-	{
-		"english": "to be invited to the castle was a privilege",
-		"chinese": "被邀请进入城堡是一种荣幸",
-		"soundmark": "/tə/ /biː/ /ɪnvˈaɪtɪd/ /tə/ /ðiː/ /kˈæsəl/ /wˈɔːz/ /ˈeɪ/ /prˈɪvɪlɪdʒ/"
-	},
-	{
-		"english": "movie",
-		"chinese": "电影",
-		"soundmark": "/mˈuːviː/"
-	},
-	{
-		"english": "movie stars",
-		"chinese": "电影明星",
-		"soundmark": "/mˈuːviː/ /stˈɑːrz/"
-	},
-	{
-		"english": "politicians",
-		"chinese": "政治家",
-		"soundmark": "/pˌɑːlətˈɪʃənz/"
-	},
-	{
-		"english": "businessmen",
-		"chinese": "商人",
-		"soundmark": "/bˈɪznɪsmˌɛːn/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and even",
-		"chinese": "甚至",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/"
-	},
-	{
-		"english": "and even royalty",
-		"chinese": "甚至版税",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/ /rˈɔɪəltiː/"
-	},
-	{
-		"english": "and even royalty were",
-		"chinese": "甚至版税也是如此",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/ /rˈɔɪəltiː/ /wˈɜː/"
-	},
-	{
-		"english": "and even royalty were frequent",
-		"chinese": "甚至版税也经常有",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/ /rˈɔɪəltiː/ /wˈɜː/ /frˈiːkwˌɛːnt/"
-	},
-	{
-		"english": "and even royalty were frequent guests",
-		"chinese": "甚至王室成员也是常客",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/ /rˈɔɪəltiː/ /wˈɜː/ /frˈiːkwˌɛːnt/ /ɡˈɛːs/"
-	},
-	{
-		"english": "many",
-		"chinese": "许多",
-		"soundmark": "/mˈɛːniː/"
-	},
-	{
-		"english": "many of",
-		"chinese": "许多",
-		"soundmark": "/mˈɛːniː/ /əv/"
-	},
-	{
-		"english": "many of these",
-		"chinese": "这些中的许多",
-		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/"
-	},
-	{
-		"english": "many of these guests",
-		"chinese": "这些客人中的许多",
-		"soundmark": "/mˈɛːniː/ /əv/ /ðˈiːz/ /ɡˈɛːs/"
-	},
-	{
-		"english": "including",
-		"chinese": "包括",
-		"soundmark": "/ɪnklˈuːdɪŋ/"
-	},
-	{
-		"english": "including a",
-		"chinese": "包括一个",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /ˈeɪ/"
-	},
-	{
-		"english": "including a british",
-		"chinese": "包括英国部分",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /ˈeɪ/ /brˈɪtɪʃ/"
-	},
-	{
-		"english": "including a british lord",
-		"chinese": "包括一位英国贵族",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /ˈeɪ/ /brˈɪtɪʃ/ /lˈɔːrd/"
-	},
-	{
-		"english": "sir",
-		"chinese": "先生",
-		"soundmark": "/sˈɜː/"
-	},
-	{
-		"english": "sir charles",
-		"chinese": "查尔斯先生",
-		"soundmark": "/sˈɜː/ /tʃˈɑːrəlz/"
-	},
-	{
-		"english": "sir charles kingsford",
-		"chinese": "查尔斯·金克斯福德先生",
-		"soundmark": "/sˈɜː/ /tʃˈɑːrəlz/ /kˈɪŋsfɜːd/"
-	},
-	{
-		"english": "sir charles kingsford smith",
-		"chinese": "查尔斯·金克斯福德·史密斯先生",
-		"soundmark": "/sˈɜː/ /tʃˈɑːrəlz/ /kˈɪŋsfɜːd/ /smˈɪθ/"
-	},
-	{
-		"english": "amelia",
-		"chinese": "阿梅莉亚",
-		"soundmark": "/əmˈiːljə/"
-	},
-	{
-		"english": "amelia earhart",
-		"chinese": "艾米莉亚·厄哈特",
-		"soundmark": "/əmˈiːljə/ /ˈɛːrhɑːrt/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and charles",
-		"chinese": "和查尔斯",
-		"soundmark": "/ˈænd/ /tʃˈɑːrəlz/"
-	},
-	{
-		"english": "and charles lindbergh",
-		"chinese": "和查尔斯·林德伯格",
-		"soundmark": "/ˈænd/ /tʃˈɑːrəlz/ /lˈɪndbɜːɡ/"
-	},
-	{
-		"english": "flew",
-		"chinese": "飞行",
-		"soundmark": "/flˈuː/"
-	},
-	{
-		"english": "flew to",
-		"chinese": "飞向",
-		"soundmark": "/flˈuː/ /tə/"
-	},
-	{
-		"english": "flew to the",
-		"chinese": "飞向",
-		"soundmark": "/flˈuː/ /tə/ /ðiː/"
-	},
-	{
-		"english": "flew to the ranch",
-		"chinese": "飞往牧场",
-		"soundmark": "/flˈuː/ /tə/ /ðiː/ /rˈæntʃ/"
-	},
-	{
-		"english": "landing",
-		"chinese": "着陆",
-		"soundmark": "/lˈændɪŋ/"
-	},
-	{
-		"english": "landing on",
-		"chinese": "着陆",
-		"soundmark": "/lˈændɪŋ/ /ˈɔːn/"
-	},
-	{
-		"english": "landing on the",
-		"chinese": "着陆",
-		"soundmark": "/lˈændɪŋ/ /ˈɔːn/ /ðiː/"
-	},
-	{
-		"english": "landing on the private",
-		"chinese": "进入私人领域",
-		"soundmark": "/lˈændɪŋ/ /ˈɔːn/ /ðiː/ /prˈaɪvət/"
-	},
-	{
-		"english": "landing on the private airstrip",
-		"chinese": "降落在私人机场",
-		"soundmark": "/lˈændɪŋ/ /ˈɔːn/ /ðiː/ /prˈaɪvət/ /ˈɛːrstrˌɪp/"
-	},
-	{
-		"english": "life",
-		"chinese": "生活",
-		"soundmark": "/lˈaɪf/"
-	},
-	{
-		"english": "life on",
-		"chinese": "生命",
-		"soundmark": "/lˈaɪf/ /ˈɔːn/"
-	},
-	{
-		"english": "life on the",
-		"chinese": "地球上的生命",
-		"soundmark": "/lˈaɪf/ /ˈɔːn/ /ðiː/"
-	},
-	{
-		"english": "life on the hill",
-		"chinese": "山上的生活",
-		"soundmark": "/lˈaɪf/ /ˈɔːn/ /ðiː/ /hˈɪl/"
-	},
-	{
-		"english": "life on the hill was",
-		"chinese": "山上的生活",
-		"soundmark": "/lˈaɪf/ /ˈɔːn/ /ðiː/ /hˈɪl/ /wˈɔːz/"
-	},
-	{
-		"english": "life on the hill was never",
-		"chinese": "山上的生活从来都不是",
-		"soundmark": "/lˈaɪf/ /ˈɔːn/ /ðiː/ /hˈɪl/ /wˈɔːz/ /nˈɛːvɜː/"
-	},
-	{
-		"english": "life on the hill was never dull",
-		"chinese": "山上的生活从来都不乏味",
-		"soundmark": "/lˈaɪf/ /ˈɔːn/ /ðiː/ /hˈɪl/ /wˈɔːz/ /nˈɛːvɜː/ /dˈəl/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the visitors",
-		"chinese": "访客",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/"
-	},
-	{
-		"english": "the visitors stayed",
-		"chinese": "访客留了下来",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/ /stˈeɪd/"
-	},
-	{
-		"english": "the visitors stayed in",
-		"chinese": "游客们留了下来",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/ /stˈeɪd/ /ˈɪn/"
-	},
-	{
-		"english": "the visitors stayed in the",
-		"chinese": "游客们留在了那里",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/ /stˈeɪd/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "the visitors stayed in the main",
-		"chinese": "游客们住在主楼里",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/ /stˈeɪd/ /ˈɪn/ /ðiː/ /mˈeɪn/"
-	},
-	{
-		"english": "the visitors stayed in the main house",
-		"chinese": "游客们住在主屋里",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/ /stˈeɪd/ /ˈɪn/ /ðiː/ /mˈeɪn/ /hˈaʊs/"
-	},
-	{
-		"english": "the visitors stayed in the main house or",
-		"chinese": "访客们住在主屋里或",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/ /stˈeɪd/ /ˈɪn/ /ðiː/ /mˈeɪn/ /hˈaʊs/ /ɜː/"
-	},
-	{
-		"english": "the visitors stayed in the main house or the",
-		"chinese": "访客们住在主屋或……",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/ /stˈeɪd/ /ˈɪn/ /ðiː/ /mˈeɪn/ /hˈaʊs/ /ɜː/ /ðiː/"
-	},
-	{
-		"english": "the visitors stayed in the main house or the cottages",
-		"chinese": "游客们住在主屋或小屋里",
-		"soundmark": "/ðiː/ /vˈɪzɪtɜːz/ /stˈeɪd/ /ˈɪn/ /ðiː/ /mˈeɪn/ /hˈaʊs/ /ɜː/ /ðiː/ /kˈɑːtɪdʒɪz/"
-	},
-	{
-		"english": "depending",
-		"chinese": "取决于",
-		"soundmark": "/dɪpˈɛːndɪŋ/"
-	},
-	{
-		"english": "depending on",
-		"chinese": "取决于",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/"
-	},
-	{
-		"english": "depending on their",
-		"chinese": "取决于它们",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/"
-	},
-	{
-		"english": "depending on their prominence",
-		"chinese": "取决于它们的重要性",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/"
-	},
-	{
-		"english": "depending on their prominence or",
-		"chinese": "取决于它们的重要性或",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/"
-	},
-	{
-		"english": "depending on their prominence or their",
-		"chinese": "取决于它们的重要性或它们的",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy",
-		"chinese": "取决于它们的重要性或亲密程度",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy with",
-		"chinese": "取决于它们的重要性或与它们的亲密程度",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy with the",
-		"chinese": "取决于它们的重要性或与某人的亲密程度",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy with the family",
-		"chinese": "取决于他们的地位或与家庭的亲密程度",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/ /fˈæmliː/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy with the family and",
-		"chinese": "取决于他们的地位或与家庭的亲密程度",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/ /fˈæmliː/ /ˈænd/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy with the family and were",
-		"chinese": "取决于他们的地位或与家庭的亲密程度",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/ /fˈæmliː/ /ˈænd/ /wˈɜː/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy with the family and were free",
-		"chinese": "取决于他们的地位或与家庭的亲密程度，且是自由的",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/ /fˈæmliː/ /ˈænd/ /wˈɜː/ /frˈiː/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy with the family and were free to",
-		"chinese": "取决于他们的地位或与家庭的亲密程度，他们可以自由地",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/ /fˈæmliː/ /ˈænd/ /wˈɜː/ /frˈiː/ /tə/"
-	},
-	{
-		"english": "depending on their prominence or their intimacy with the family and were free to roam",
-		"chinese": "取决于他们的地位或与家庭的亲密程度，他们可以自由活动",
-		"soundmark": "/dɪpˈɛːndɪŋ/ /ˈɔːn/ /ðˈɛːr/ /prˈɑːmənəns/ /ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/ /fˈæmliː/ /ˈænd/ /wˈɜː/ /frˈiː/ /tə/ /rˈoʊm/"
-	},
-	{
-		"english": "or their intimacy with the family and were free to roam the",
-		"chinese": "或者他们与家庭的亲密关系，可以自由活动",
-		"soundmark": "/ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/ /fˈæmliː/ /ˈænd/ /wˈɜː/ /frˈiː/ /tə/ /rˈoʊm/ /ðiː/"
-	},
-	{
-		"english": "or their intimacy with the family and were free to roam the grounds",
-		"chinese": "或者他们与家庭的亲密关系，可以自由地在园区内活动",
-		"soundmark": "/ɜː/ /ðˈɛːr/ /ˈɪntəməsiː/ /wɪð/ /ðiː/ /fˈæmliː/ /ˈænd/ /wˈɜː/ /frˈiː/ /tə/ /rˈoʊm/ /ðiː/ /ɡrˈaʊnz/"
-	},
-	{
-		"english": "go",
-		"chinese": "去",
-		"soundmark": "/ɡˈoʊ/"
-	},
-	{
-		"english": "go riding",
-		"chinese": "去骑马",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/"
-	},
-	{
-		"english": "go riding on",
-		"chinese": "骑着去",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/ /ˈɔːn/"
-	},
-	{
-		"english": "go riding on their",
-		"chinese": "依靠他们行事",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/ /ˈɔːn/ /ðˈɛːr/"
-	},
-	{
-		"english": "go riding on their choice",
-		"chinese": "取决于他们的选择",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/ /ˈɔːn/ /ðˈɛːr/ /tʃˈɔɪs/"
-	},
-	{
-		"english": "go riding on their choice of",
-		"chinese": "取决于他们的选择",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/ /ˈɔːn/ /ðˈɛːr/ /tʃˈɔɪs/ /əv/"
-	},
-	{
-		"english": "go riding on their choice of horses",
-		"chinese": "取决于他们选择的马",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/ /ˈɔːn/ /ðˈɛːr/ /tʃˈɔɪs/ /əv/ /hˈɔːrsɪz/"
-	},
-	{
-		"english": "go riding on their choice of horses from",
-		"chinese": "根据他们选择的马来出行",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/ /ˈɔːn/ /ðˈɛːr/ /tʃˈɔɪs/ /əv/ /hˈɔːrsɪz/ /fɜːm/"
-	},
-	{
-		"english": "go riding on their choice of horses from the",
-		"chinese": "根据他们选择的马来出行",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/ /ˈɔːn/ /ðˈɛːr/ /tʃˈɔɪs/ /əv/ /hˈɔːrsɪz/ /fɜːm/ /ðiː/"
-	},
-	{
-		"english": "go riding on their choice of horses from the stable",
-		"chinese": "取决于他们从马厩中选择的马匹",
-		"soundmark": "/ɡˈoʊ/ /rˈaɪdɪŋ/ /ˈɔːn/ /ðˈɛːr/ /tʃˈɔɪs/ /əv/ /hˈɔːrsɪz/ /fɜːm/ /ðiː/ /stˈeɪbəl/"
-	},
-	{
-		"english": "swim",
-		"chinese": "游泳",
-		"soundmark": "/swˈɪm/"
-	},
-	{
-		"english": "swim in",
-		"chinese": "游泳",
-		"soundmark": "/swˈɪm/ /ˈɪn/"
-	},
-	{
-		"english": "swim in the",
-		"chinese": "在水中游泳",
-		"soundmark": "/swˈɪm/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "swim in the pools",
-		"chinese": "在泳池里游泳",
-		"soundmark": "/swˈɪm/ /ˈɪn/ /ðiː/ /pˈuːlz/"
-	},
-	{
-		"english": "or",
-		"chinese": "或",
-		"soundmark": "/ɜː/"
-	},
-	{
-		"english": "or play",
-		"chinese": "或玩耍",
-		"soundmark": "/ɜː/ /plˈeɪ/"
-	},
-	{
-		"english": "or play golf",
-		"chinese": "或打高尔夫球",
-		"soundmark": "/ɜː/ /plˈeɪ/ /ɡˈɔːlf/"
-	},
-	{
-		"english": "or play golf on",
-		"chinese": "或者打高尔夫球",
-		"soundmark": "/ɜː/ /plˈeɪ/ /ɡˈɔːlf/ /ˈɔːn/"
-	},
-	{
-		"english": "or play golf on the",
-		"chinese": "或者去打高尔夫球",
-		"soundmark": "/ɜː/ /plˈeɪ/ /ɡˈɔːlf/ /ˈɔːn/ /ðiː/"
-	},
-	{
-		"english": "or play golf on the private",
-		"chinese": "或者在私人场地打高尔夫球",
-		"soundmark": "/ɜː/ /plˈeɪ/ /ɡˈɔːlf/ /ˈɔːn/ /ðiː/ /prˈaɪvət/"
-	},
-	{
-		"english": "or play golf on the private course",
-		"chinese": "或在私人球场打高尔夫球",
-		"soundmark": "/ɜː/ /plˈeɪ/ /ɡˈɔːlf/ /ˈɔːn/ /ðiː/ /prˈaɪvət/ /kˈɔːrs/"
-	},
-	{
-		"english": "or play golf on the private course on",
-		"chinese": "或者在私人球场打高尔夫球",
-		"soundmark": "/ɜː/ /plˈeɪ/ /ɡˈɔːlf/ /ˈɔːn/ /ðiː/ /prˈaɪvət/ /kˈɔːrs/ /ˈɔːn/"
-	},
-	{
-		"english": "or play golf on the private course on the",
-		"chinese": "或者在私人球场打高尔夫球",
-		"soundmark": "/ɜː/ /plˈeɪ/ /ɡˈɔːlf/ /ˈɔːn/ /ðiː/ /prˈaɪvət/ /kˈɔːrs/ /ˈɔːn/ /ðiː/"
-	},
-	{
-		"english": "or play golf on the private course on the property",
-		"chinese": "或在该地产的私人球场打高尔夫球",
-		"soundmark": "/ɜː/ /plˈeɪ/ /ɡˈɔːlf/ /ˈɔːn/ /ðiː/ /prˈaɪvət/ /kˈɔːrs/ /ˈɔːn/ /ðiː/ /prˈɑːpɜːtiː/"
-	},
-	{
-		"english": "company",
-		"chinese": "公司",
-		"soundmark": "/kˈəmpəniː/"
-	},
-	{
-		"english": "company was",
-		"chinese": "公司是",
-		"soundmark": "/kˈəmpəniː/ /wˈɔːz/"
-	},
-	{
-		"english": "company was expected",
-		"chinese": "公司被期待",
-		"soundmark": "/kˈəmpəniː/ /wˈɔːz/ /ɪkspˈɛːktɪd/"
-	},
-	{
-		"english": "however",
-		"chinese": "然而",
-		"soundmark": "/hˌaʊˈɛːvɜː/"
-	},
-	{
-		"english": "to",
-		"chinese": "为了",
-		"soundmark": "/tə/"
-	},
-	{
-		"english": "to meet",
-		"chinese": "见面",
-		"soundmark": "/tə/ /mˈiːt/"
-	},
-	{
-		"english": "to meet in",
-		"chinese": "会面",
-		"soundmark": "/tə/ /mˈiːt/ /ˈɪn/"
-	},
-	{
-		"english": "to meet in the",
-		"chinese": "见面",
-		"soundmark": "/tə/ /mˈiːt/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "to meet in the main",
-		"chinese": "在主要场合会面",
-		"soundmark": "/tə/ /mˈiːt/ /ˈɪn/ /ðiː/ /mˈeɪn/"
-	},
-	{
-		"english": "to meet in the main drawing",
-		"chinese": "在主要图纸上会面",
-		"soundmark": "/tə/ /mˈiːt/ /ˈɪn/ /ðiː/ /mˈeɪn/ /drˈɔːɪŋ/"
-	},
-	{
-		"english": "to meet in the main drawing room",
-		"chinese": "在主客厅会面",
-		"soundmark": "/tə/ /mˈiːt/ /ˈɪn/ /ðiː/ /mˈeɪn/ /drˈɔːɪŋ/ /rˈuːm/"
-	},
-	{
-		"english": "to meet in the main drawing room at",
-		"chinese": "在主客厅见面",
-		"soundmark": "/tə/ /mˈiːt/ /ˈɪn/ /ðiː/ /mˈeɪn/ /drˈɔːɪŋ/ /rˈuːm/ /ˈæt/"
-	},
-	{
-		"english": "to meet in the main drawing room at p",
-		"chinese": "在主客厅见面",
-		"soundmark": "/tə/ /mˈiːt/ /ˈɪn/ /ðiː/ /mˈeɪn/ /drˈɔːɪŋ/ /rˈuːm/ /ˈæt/ /pˈiː/"
-	},
-	{
-		"english": "m",
-		"chinese": "m",
-		"soundmark": "/ˈɛːm/"
-	},
-	{
-		"english": "sharp",
-		"chinese": "锋利",
-		"soundmark": "/ʃˈɑːrp/"
-	},
-	{
-		"english": "sharp principally",
-		"chinese": "sharp 主要",
-		"soundmark": "/ʃˈɑːrp/ /prˈɪnsɪpliː/"
-	},
-	{
-		"english": "sharp principally to",
-		"chinese": "主要地",
-		"soundmark": "/ʃˈɑːrp/ /prˈɪnsɪpliː/ /tə/"
-	},
-	{
-		"english": "sharp principally to amuse",
-		"chinese": "主要为了娱乐",
-		"soundmark": "/ʃˈɑːrp/ /prˈɪnsɪpliː/ /tə/ /əmjˈuːz/"
-	},
-	{
-		"english": "sharp principally to amuse their",
-		"chinese": "主要为了娱乐他们",
-		"soundmark": "/ʃˈɑːrp/ /prˈɪnsɪpliː/ /tə/ /əmjˈuːz/ /ðˈɛːr/"
-	},
-	{
-		"english": "sharp principally to amuse their host",
-		"chinese": "主要为了娱乐他们的主人",
-		"soundmark": "/ʃˈɑːrp/ /prˈɪnsɪpliː/ /tə/ /əmjˈuːz/ /ðˈɛːr/ /hˈoʊst/"
-	}
+  {
+    "english": "The",
+    "chinese": "英国",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The British",
+    "chinese": "英国人"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and Chinese",
+    "chinese": "以及中国"
+  },
+  {
+    "english": "and Chinese signed",
+    "chinese": "中国签署了"
+  },
+  {
+    "english": "and Chinese signed the",
+    "chinese": "中国签署了该条约"
+  },
+  {
+    "english": "and Chinese signed the Treaty",
+    "chinese": "中国签署了《条约》"
+  },
+  {
+    "english": "and Chinese signed the Treaty of",
+    "chinese": "中国签署了《南京条约》"
+  },
+  {
+    "english": "and Chinese signed the Treaty of Nanking",
+    "chinese": "中国于1842年签署了《南京条约》"
+  },
+  {
+    "english": "and Chinese signed the Treaty of Nanking in",
+    "chinese": "中国人在南京条约上签了字"
+  },
+  {
+    "english": "and Chinese signed the Treaty of Nanking in 1842",
+    "chinese": "中国人在1842年签署了《南京条约》"
+  },
+  {
+    "english": "each",
+    "chinese": "每个",
+    "soundmark": "/ˈiːtʃ/"
+  },
+  {
+    "english": "each providing",
+    "chinese": "每个提供"
+  },
+  {
+    "english": "each providing their",
+    "chinese": "每个提供他们各自的"
+  },
+  {
+    "english": "each providing their respective",
+    "chinese": "每个提供他们各自的主题"
+  },
+  {
+    "english": "each providing their respective subjects",
+    "chinese": "每个提供他们各自的主题并"
+  },
+  {
+    "english": "each providing their respective subjects with",
+    "chinese": "每个提供他们各自的主题并拥有"
+  },
+  {
+    "english": "each providing their respective subjects with the",
+    "chinese": "每个提供他们各自的主题并拥有权利"
+  },
+  {
+    "english": "each providing their respective subjects with the right",
+    "chinese": "每个提供他们各自的主题并拥有受益权"
+  },
+  {
+    "english": "each providing their respective subjects with the right to",
+    "chinese": "每个提供他们各自的主题并拥有从…受益的权利"
+  },
+  {
+    "english": "each providing their respective subjects with the right to benefit",
+    "chinese": "每个提供他们各自的主题并拥有从完全保障中受益的权利"
+  },
+  {
+    "english": "each providing their respective subjects with the right to benefit from",
+    "chinese": "各自为各自的主题提供受益的权利"
+  },
+  {
+    "english": "each providing their respective subjects with the right to benefit from full",
+    "chinese": "各自为各自的受试者提供享受全部权益的权利"
+  },
+  {
+    "english": "each providing their respective subjects with the right to benefit from full security",
+    "chinese": "各自为各自的受试者提供享受完全保障的权利"
+  },
+  {
+    "english": "and",
+    "chinese": "以及",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and protection",
+    "chinese": "以及保护"
+  },
+  {
+    "english": "and protection for",
+    "chinese": "以及保护"
+  },
+  {
+    "english": "and protection for their",
+    "chinese": "以及对其的保护"
+  },
+  {
+    "english": "and protection for their persons",
+    "chinese": "以及对其人身的保护"
+  },
+  {
+    "english": "and",
+    "chinese": "以及",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and property",
+    "chinese": "以及财产"
+  },
+  {
+    "english": "and property within",
+    "chinese": "彼此之间的财产"
+  },
+  {
+    "english": "and property within each",
+    "chinese": "彼此之间各自范围内的财产"
+  },
+  {
+    "english": "and property within each others",
+    "chinese": "以及彼此之间的财产"
+  },
+  {
+    "english": "and property within each others boundaries",
+    "chinese": "以及彼此边界内的财产。"
+  },
+  {
+    "english": "Even",
+    "chinese": "甚至",
+    "soundmark": "/ˈiːvɪn/"
+  },
+  {
+    "english": "though",
+    "chinese": "尽管",
+    "soundmark": "/ðˈoʊ/"
+  },
+  {
+    "english": "though China",
+    "chinese": "尽管中国"
+  },
+  {
+    "english": "though China did",
+    "chinese": "尽管中国确实做了"
+  },
+  {
+    "english": "though China did not",
+    "chinese": "尽管中国没有做"
+  },
+  {
+    "english": "though China did not openly",
+    "chinese": "尽管中国没有公开允许"
+  },
+  {
+    "english": "though China did not openly allow",
+    "chinese": "尽管中国没有公开允许移民"
+  },
+  {
+    "english": "though China did not openly allow emigration",
+    "chinese": "尽管中国并未公开允许移民"
+  },
+  {
+    "english": "in",
+    "chinese": "在",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "in 1860",
+    "chinese": "1860年"
+  },
+  {
+    "english": "in 1860 a",
+    "chinese": "1860年一项"
+  },
+  {
+    "english": "in 1860 a law",
+    "chinese": "1860年一项法律"
+  },
+  {
+    "english": "in 1860 a law was",
+    "chinese": "1860年一项法律被"
+  },
+  {
+    "english": "in 1860 a law was passed",
+    "chinese": "1860年通过了一项法律"
+  },
+  {
+    "english": "which",
+    "chinese": "哪个",
+    "soundmark": "/hwˈɪtʃ/"
+  },
+  {
+    "english": "which stated",
+    "chinese": "其中指出"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that Chinese",
+    "chinese": "那个中国人"
+  },
+  {
+    "english": "seeking",
+    "chinese": "寻找",
+    "soundmark": "/sˈiːkɪŋ/"
+  },
+  {
+    "english": "seeking to",
+    "chinese": "试图寻求"
+  },
+  {
+    "english": "seeking to work",
+    "chinese": "试图工作"
+  },
+  {
+    "english": "seeking to work in",
+    "chinese": "希望在……工作"
+  },
+  {
+    "english": "seeking to work in the",
+    "chinese": "希望在……领域工作"
+  },
+  {
+    "english": "seeking to work in the British",
+    "chinese": "希望在英国工作"
+  },
+  {
+    "english": "seeking to work in the British Colonies",
+    "chinese": "寻求在英国殖民地工作"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or other",
+    "chinese": "或者其他地方，"
+  },
+  {
+    "english": "or other places",
+    "chinese": "或者其他地方，曾经"
+  },
+  {
+    "english": "or other places were",
+    "chinese": "或者其他地方，当时处于自由状态"
+  },
+  {
+    "english": "or other places were at",
+    "chinese": "或者其他地方，有自由去做"
+  },
+  {
+    "english": "or other places were at liberty",
+    "chinese": "或其他地方，都可以自由行事"
+  },
+  {
+    "english": "or other places were at liberty to",
+    "chinese": "或其他地方，可以自由做"
+  },
+  {
+    "english": "or other places were at liberty to do",
+    "chinese": "或其他地方，可以随意做"
+  },
+  {
+    "english": "so",
+    "chinese": "所以。",
+    "soundmark": "/sˈoʊ/"
+  },
+  {
+    "english": "They",
+    "chinese": "他们",
+    "soundmark": "/ðˈeɪ/"
+  },
+  {
+    "english": "They had",
+    "chinese": "他们曾经有"
+  },
+  {
+    "english": "They had only",
+    "chinese": "他们只有"
+  },
+  {
+    "english": "They had only to",
+    "chinese": "他们只有需要"
+  },
+  {
+    "english": "They had only to ship",
+    "chinese": "他们只有需要发货"
+  },
+  {
+    "english": "They had only to ship themselves",
+    "chinese": "他们只需自行运输即可"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and their",
+    "chinese": "以及他们的"
+  },
+  {
+    "english": "and their families",
+    "chinese": "以及他们的家人"
+  },
+  {
+    "english": "and their families on",
+    "chinese": "以及他们船上的家人"
+  },
+  {
+    "english": "and their families on board",
+    "chinese": "以及他们任何英国船只上的家人"
+  },
+  {
+    "english": "and their families on board any",
+    "chinese": "以及他们任何英国船只上的家人"
+  },
+  {
+    "english": "and their families on board any British",
+    "chinese": "以及他们任何英国船只上的家人"
+  },
+  {
+    "english": "and their families on board any British vessel",
+    "chinese": "以及他们任何英国船只上的家人，位于任何地方"
+  },
+  {
+    "english": "and their families on board any British vessel at",
+    "chinese": "以及他们任何英国船只上的家人，位于任何英国港口"
+  },
+  {
+    "english": "and their families on board any British vessel at any",
+    "chinese": "以及他们任何英国船只上的家人，位于任何英国港口中的任何地方"
+  },
+  {
+    "english": "and their families on board any British vessel at any of",
+    "chinese": "以及他们任何英国船只上的家人，位于任何开放港口中的任何地方"
+  },
+  {
+    "english": "and their families on board any British vessel at any of the",
+    "chinese": "以及他们任何英国船只上的家人，位于中国任何开放港口中的任何地方"
+  },
+  {
+    "english": "and their families on board any British vessel at any of the open",
+    "chinese": "以及他们随行的家人，在任何英国船只上，在任何开放海域"
+  },
+  {
+    "english": "and their families on board any British vessel at any of the open ports",
+    "chinese": "以及他们随行的家人，在任何英国船只上，在任何开放港口"
+  },
+  {
+    "english": "and their families on board any British vessel at any of the open ports in",
+    "chinese": "以及他们随行的家人，在任何英国船只上，在任何开放港口"
+  },
+  {
+    "english": "and their families on board any British vessel at any of the open ports in China",
+    "chinese": "以及他们在中国任何开放港口上的任何英国船只上的家人。"
+  },
+  {
+    "english": "In",
+    "chinese": "1868年",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In 1868",
+    "chinese": "1868年"
+  },
+  {
+    "english": "another",
+    "chinese": "另一项",
+    "soundmark": "/ənˈəðɜː/"
+  },
+  {
+    "english": "another treaty",
+    "chinese": "另一项条约"
+  },
+  {
+    "english": "this",
+    "chinese": "这个",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "english": "this one",
+    "chinese": "这个"
+  },
+  {
+    "english": "this one with",
+    "chinese": "带有这个的"
+  },
+  {
+    "english": "this one with the",
+    "chinese": "带有美国的这个"
+  },
+  {
+    "english": "this one with the United",
+    "chinese": "带有美国的这个"
+  },
+  {
+    "english": "this one with the United States",
+    "chinese": "这个与美国有关的"
+  },
+  {
+    "english": "gave",
+    "chinese": "给予",
+    "soundmark": "/ɡˈeɪv/"
+  },
+  {
+    "english": "gave the",
+    "chinese": "给予那个"
+  },
+  {
+    "english": "gave the Chinese",
+    "chinese": "给予中国人"
+  },
+  {
+    "english": "gave the Chinese the",
+    "chinese": "给予中国人权利"
+  },
+  {
+    "english": "gave the Chinese the right",
+    "chinese": "给予中国人权利来"
+  },
+  {
+    "english": "gave the Chinese the right to",
+    "chinese": "给予中国人权利去改变"
+  },
+  {
+    "english": "gave the Chinese the right to change",
+    "chinese": "给予中国人权利去改变他们的"
+  },
+  {
+    "english": "gave the Chinese the right to change their",
+    "chinese": "给予中国人权利去改变他们的家园"
+  },
+  {
+    "english": "gave the Chinese the right to change their home",
+    "chinese": "赋予中国人改变家园的权利"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and loyalty",
+    "chinese": "以及忠诚"
+  },
+  {
+    "english": "and loyalty from",
+    "chinese": "来自某人的忠诚"
+  },
+  {
+    "english": "and loyalty from one",
+    "chinese": "来自一个国家的忠诚"
+  },
+  {
+    "english": "and loyalty from one country",
+    "chinese": "从一个国家对另一个国家的忠诚"
+  },
+  {
+    "english": "and loyalty from one country to",
+    "chinese": "从一个国家对另一个国家为了…的忠诚"
+  },
+  {
+    "english": "and loyalty from one country to another",
+    "chinese": "从一个国家对另一个国家为了…的忠诚"
+  },
+  {
+    "english": "and loyalty from one country to another for",
+    "chinese": "从一个国家对另一个国家为了特定目的的忠诚"
+  },
+  {
+    "english": "and loyalty from one country to another for the",
+    "chinese": "从一个国家对另一个国家为了特定目的的忠诚"
+  },
+  {
+    "english": "and loyalty from one country to another for the purposes",
+    "chinese": "以及出于这些目的而一国对另一国的忠诚"
+  },
+  {
+    "english": "and loyalty from one country to another for the purposes of",
+    "chinese": "为了特定目的，一国对另一国的忠诚"
+  },
+  {
+    "english": "and loyalty from one country to another for the purposes of curiosity",
+    "chinese": "出于好奇，一个国家对另一个国家的忠诚"
+  },
+  {
+    "english": "of",
+    "chinese": "关于",
+    "soundmark": "/əv/"
+  },
+  {
+    "english": "of trade",
+    "chinese": "贸易"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or as",
+    "chinese": "或者作为"
+  },
+  {
+    "english": "or as permanent",
+    "chinese": "或者作为永久居民"
+  },
+  {
+    "english": "or as permanent residents",
+    "chinese": "或作为永久居民"
+  },
+  {
+    "english": "thereby",
+    "chinese": "因此",
+    "soundmark": "/ðˈɛːrbˈaɪ/"
+  },
+  {
+    "english": "thereby opening",
+    "chinese": "因此打开"
+  },
+  {
+    "english": "thereby opening the",
+    "chinese": "因此打开大门"
+  },
+  {
+    "english": "thereby opening the gates",
+    "chinese": "因此为移民打开大门"
+  },
+  {
+    "english": "thereby opening the gates for",
+    "chinese": "因此为从中国移民打开大门"
+  },
+  {
+    "english": "thereby opening the gates for emigration",
+    "chinese": "从而为移民开放大门"
+  },
+  {
+    "english": "thereby opening the gates for emigration from",
+    "chinese": "从而为移民开放了通道"
+  },
+  {
+    "english": "thereby opening the gates for emigration from China",
+    "chinese": "从而为从中国移民打开大门。"
+  },
+  {
+    "english": "The",
+    "chinese": "黄金热潮",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The gold",
+    "chinese": "黄金热潮时期"
+  },
+  {
+    "english": "The gold boom",
+    "chinese": "英国地区的黄金热潮"
+  },
+  {
+    "english": "The gold boom in",
+    "chinese": "不列颠哥伦比亚省的黄金热潮"
+  },
+  {
+    "english": "The gold boom in British",
+    "chinese": "1850年代不列颠哥伦比亚省的黄金热潮"
+  },
+  {
+    "english": "The gold boom in British Columbia",
+    "chinese": "1850年代不列颠哥伦比亚省的黄金热潮是..."
+  },
+  {
+    "english": "The gold boom in British Columbia in",
+    "chinese": "1850年代不列颠哥伦比亚省的黄金热潮是中国的开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the",
+    "chinese": "1850年代不列颠哥伦比亚省的黄金热潮是中国的移民开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s",
+    "chinese": "1850年代不列颠哥伦比亚省的黄金热潮是来自中国的移民开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was",
+    "chinese": "1850年代不列颠哥伦比亚省的黄金热潮是来自美国的移民开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the",
+    "chinese": "1850年代不列颠哥伦比亚省的黄金热潮是来自美国移民进入加拿大的开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金繁荣就是开端"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning of",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金繁荣标志着……的开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning of Chinese",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金热潮是华人的开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning of Chinese immigration",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金热潮标志着中国移民的开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning of Chinese immigration from",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金热潮标志着中国移民的开始"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning of Chinese immigration from the",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金热潮标志着来自中国的移民开始涌入。"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning of Chinese immigration from the US",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金热潮，标志着来自美国的中国移民的到来"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning of Chinese immigration from the US into",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金热潮标志着来自美国的中国移民开始涌入"
+  },
+  {
+    "english": "The gold boom in British Columbia in the 1850s was the beginning of Chinese immigration from the US into Canada",
+    "chinese": "19世纪50年代不列颠哥伦比亚省的黄金繁荣，标志着来自美国的中国移民开始涌入加拿大。"
+  },
+  {
+    "english": "Many",
+    "chinese": "许多",
+    "soundmark": "/mˈɛːniː/"
+  },
+  {
+    "english": "Many of",
+    "chinese": "许多这些"
+  },
+  {
+    "english": "Many of these",
+    "chinese": "这些早期的人"
+  },
+  {
+    "english": "Many of these early",
+    "chinese": "这些早期移民中的许多"
+  },
+  {
+    "english": "Many of these early immigrants",
+    "chinese": "这些早期移民中的许多乘船出发"
+  },
+  {
+    "english": "Many of these early immigrants sailed",
+    "chinese": "这些早期移民中的许多从福建出发"
+  },
+  {
+    "english": "Many of these early immigrants sailed from",
+    "chinese": "许多这些早期移民从……出发航行"
+  },
+  {
+    "english": "Many of these early immigrants sailed from Fujian",
+    "chinese": "许多这些早期移民从福建出发航行"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and Guangdong",
+    "chinese": "和广东"
+  },
+  {
+    "english": "and Guangdong provinces",
+    "chinese": "和广东各省"
+  },
+  {
+    "english": "and Guangdong provinces to",
+    "chinese": "和广东各省前往"
+  },
+  {
+    "english": "and Guangdong provinces to San",
+    "chinese": "和广东各省前往旧金山"
+  },
+  {
+    "english": "and Guangdong provinces to San Francisco",
+    "chinese": "以及广东省到旧金山"
+  },
+  {
+    "english": "When",
+    "chinese": "当他们听到时",
+    "soundmark": "/hwˈɪn/"
+  },
+  {
+    "english": "When they",
+    "chinese": "当他们得知时"
+  },
+  {
+    "english": "When they heard",
+    "chinese": "当他们听说有黄金时"
+  },
+  {
+    "english": "When they heard of",
+    "chinese": "当他们听说有黄金发现时"
+  },
+  {
+    "english": "When they heard of the",
+    "chinese": "当他们听说在英属地区有黄金发现时"
+  },
+  {
+    "english": "When they heard of the gold",
+    "chinese": "当他们听说在不列颠哥伦比亚省有黄金发现时"
+  },
+  {
+    "english": "When they heard of the gold discoveries",
+    "chinese": "当他们听到关于黄金发现的消息时"
+  },
+  {
+    "english": "When they heard of the gold discoveries in",
+    "chinese": "当他们听到关于黄金发现的消息时"
+  },
+  {
+    "english": "When they heard of the gold discoveries in British",
+    "chinese": "当他们听到英国有黄金发现的消息时"
+  },
+  {
+    "english": "When they heard of the gold discoveries in British Columbia",
+    "chinese": "当他们听到不列颠哥伦比亚省有黄金发现的消息时"
+  },
+  {
+    "english": "many",
+    "chinese": "许多",
+    "soundmark": "/mˈɛːniː/"
+  },
+  {
+    "english": "many crossed",
+    "chinese": "许多穿越了"
+  },
+  {
+    "english": "many crossed the",
+    "chinese": "许多穿越了边界"
+  },
+  {
+    "english": "many crossed the border",
+    "chinese": "许多穿越了边界进入"
+  },
+  {
+    "english": "many crossed the border into",
+    "chinese": "许多穿越了边界进入加拿大"
+  },
+  {
+    "english": "many crossed the border into Canada",
+    "chinese": "许多穿越了边界进入加拿大通过"
+  },
+  {
+    "english": "many crossed the border into Canada by",
+    "chinese": "许多穿越了边界进入加拿大通过陆路移动"
+  },
+  {
+    "english": "many crossed the border into Canada by moving",
+    "chinese": "许多穿越了边界进入加拿大通过陆路移动穿越俄勒冈州"
+  },
+  {
+    "english": "many crossed the border into Canada by moving overland",
+    "chinese": "许多人通过陆路穿越边界进入加拿大"
+  },
+  {
+    "english": "many crossed the border into Canada by moving overland through",
+    "chinese": "许多人通过陆路穿越边界进入加拿大"
+  },
+  {
+    "english": "many crossed the border into Canada by moving overland through Oregon",
+    "chinese": "许多人通过穿越俄勒冈州徒步跨越边界进入加拿大"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or arriving",
+    "chinese": "或者即将到达"
+  },
+  {
+    "english": "or arriving by",
+    "chinese": "或者通过……到达"
+  },
+  {
+    "english": "or arriving by sea",
+    "chinese": "或者通过海路到达"
+  },
+  {
+    "english": "or arriving by sea in",
+    "chinese": "或者通过海路在……到达"
+  },
+  {
+    "english": "or arriving by sea in Victoria",
+    "chinese": "或通过海路抵达维多利亚。"
+  },
+  {
+    "english": "When",
+    "chinese": "当……时",
+    "soundmark": "/hwˈɪn/"
+  },
+  {
+    "english": "When the",
+    "chinese": "当……的时候"
+  },
+  {
+    "english": "When the gold",
+    "chinese": "当黄金……时"
+  },
+  {
+    "english": "When the gold deposits",
+    "chinese": "当黄金矿藏……时"
+  },
+  {
+    "english": "When the gold deposits were",
+    "chinese": "当黄金矿藏已经……时"
+  },
+  {
+    "english": "When the gold deposits were depleted",
+    "chinese": "当金矿资源耗尽时"
+  },
+  {
+    "english": "these",
+    "chinese": "这些",
+    "soundmark": "/ðˈiːz/"
+  },
+  {
+    "english": "these early",
+    "chinese": "这些早期"
+  },
+  {
+    "english": "these early settlers",
+    "chinese": "这些早期定居者"
+  },
+  {
+    "english": "these early settlers stayed",
+    "chinese": "这些早期定居者留了下来"
+  },
+  {
+    "english": "moving",
+    "chinese": "搬入",
+    "soundmark": "/mˈuːvɪŋ/"
+  },
+  {
+    "english": "moving into",
+    "chinese": "搬入新居"
+  },
+  {
+    "english": "moving into occupations",
+    "chinese": "从事职业"
+  },
+  {
+    "english": "moving into occupations like",
+    "chinese": "从事如园艺这样的职业"
+  },
+  {
+    "english": "moving into occupations like gardening",
+    "chinese": "从事园艺这样的职业"
+  },
+  {
+    "english": "farming",
+    "chinese": "农业",
+    "soundmark": "/fˈɑːrmɪŋ/"
+  },
+  {
+    "english": "domestic",
+    "chinese": "家庭服务",
+    "soundmark": "/dəmˈɛːstɪk/"
+  },
+  {
+    "english": "domestic service",
+    "chinese": "家政服务"
+  },
+  {
+    "english": "road",
+    "chinese": "道路",
+    "soundmark": "/rˈoʊd/"
+  },
+  {
+    "english": "road construction",
+    "chinese": "道路建设"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and railway",
+    "chinese": "和铁路"
+  },
+  {
+    "english": "and railway building",
+    "chinese": "以及铁路建设。"
+  }
 ]

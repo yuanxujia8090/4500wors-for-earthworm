@@ -1,487 +1,836 @@
 [
-	{
-		"english": "la",
-		"chinese": "la",
-		"soundmark": "/lˈɑː/"
-	},
-	{
-		"english": "la cuesta",
-		"chinese": "山坡",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/"
-	},
-	{
-		"english": "la cuesta encantada",
-		"chinese": "魔法山丘",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/"
-	},
-	{
-		"english": "la cuesta encantada the",
-		"chinese": "魔法山丘",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted",
-		"chinese": "魔法山丘",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle",
-		"chinese": "魔法城堡",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is",
-		"chinese": "魔法城堡",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is one",
-		"chinese": "魔法城堡是其中之一",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is one of",
-		"chinese": "魔法城堡是其中之一",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is one of the",
-		"chinese": "魔法城堡是其中之一",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is one of the most",
-		"chinese": "魔法城堡是其中最著名的之一",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is one of the most remarkable",
-		"chinese": "魔法城堡是最令人惊叹的之一",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is one of the most remarkable displays",
-		"chinese": "魔法城堡是最令人惊叹的景观之一",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/ /dɪsplˈeɪz/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is one of the most remarkable displays of",
-		"chinese": "魔法城堡是最引人注目的景象之一",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/ /dɪsplˈeɪz/ /əv/"
-	},
-	{
-		"english": "la cuesta encantada the enchanted castle is one of the most remarkable displays of power",
-		"chinese": "魔法城堡是权力最显著的体现之一",
-		"soundmark": "/lˈɑː/ /kwˈɛːstə/ /ðiː/ /ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/ /dɪsplˈeɪz/ /əv/ /pˈaʊɜː/"
-	},
-	{
-		"english": "enchanted castle is one of the most remarkable displays of power and",
-		"chinese": "被施魔的城堡是展现力量最引人注目的实例之一",
-		"soundmark": "/ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/ /dɪsplˈeɪz/ /əv/ /pˈaʊɜː/ /ˈænd/"
-	},
-	{
-		"english": "enchanted castle is one of the most remarkable displays of power and passion",
-		"chinese": "魔法城堡是权力与激情最令人惊叹的展现之一",
-		"soundmark": "/ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/ /dɪsplˈeɪz/ /əv/ /pˈaʊɜː/ /ˈænd/ /pˈæʃən/"
-	},
-	{
-		"english": "enchanted castle is one of the most remarkable displays of power and passion in",
-		"chinese": "魔法城堡是权力与激情最令人惊叹的展现之一",
-		"soundmark": "/ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/ /dɪsplˈeɪz/ /əv/ /pˈaʊɜː/ /ˈænd/ /pˈæʃən/ /ˈɪn/"
-	},
-	{
-		"english": "enchanted castle is one of the most remarkable displays of power and passion in the",
-		"chinese": "魔法城堡是权力与激情最令人惊叹的展现之一",
-		"soundmark": "/ɛːntʃˈænɪd/ /kˈæsəl/ /ɪz/ /hwˈən/ /əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/ /dɪsplˈeɪz/ /əv/ /pˈaʊɜː/ /ˈænd/ /pˈæʃən/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "of the most remarkable displays of power and passion in the world",
-		"chinese": "世界上最引人注目的力量与激情展现",
-		"soundmark": "/əv/ /ðiː/ /mˈoʊs/ /riːmˈɑːrkəbəl/ /dɪsplˈeɪz/ /əv/ /pˈaʊɜː/ /ˈænd/ /pˈæʃən/ /ˈɪn/ /ðiː/ /wˈɜːld/"
-	},
-	{
-		"english": "this",
-		"chinese": "这个",
-		"soundmark": "/ðɪs/"
-	},
-	{
-		"english": "this marvelous",
-		"chinese": "这奇妙的",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/"
-	},
-	{
-		"english": "this marvelous tourist",
-		"chinese": "这个奇妙的旅游胜地",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/"
-	},
-	{
-		"english": "this marvelous tourist site",
-		"chinese": "这个奇妙的旅游景点",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/"
-	},
-	{
-		"english": "this marvelous tourist site now",
-		"chinese": "这个奇妙的旅游景点现在",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/"
-	},
-	{
-		"english": "this marvelous tourist site now known",
-		"chinese": "这个著名的旅游景点现在被称为",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/"
-	},
-	{
-		"english": "this marvelous tourist site now known as",
-		"chinese": "这个著名的旅游景点现在被称为",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/"
-	},
-	{
-		"english": "this marvelous tourist site now known as hearst",
-		"chinese": "这个著名的旅游景点现在被称为赫斯特",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/"
-	},
-	{
-		"english": "this marvelous tourist site now known as hearst san",
-		"chinese": "这个著名的旅游景点现在被称为赫斯特圣地",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/"
-	},
-	{
-		"english": "this marvelous tourist site now known as hearst san simeon",
-		"chinese": "这个著名的旅游景点现在被称为赫斯特·圣西蒙",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/"
-	},
-	{
-		"english": "this marvelous tourist site now known as hearst san simeon state",
-		"chinese": "这个著名的旅游景点现在被称为赫斯特·森·西蒙州立公园",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/"
-	},
-	{
-		"english": "this marvelous tourist site now known as hearst san simeon state historical",
-		"chinese": "这个著名的旅游景点现在被称为赫斯特·西蒙州历史遗址",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/ /hɪstˈɔːrɪkəl/"
-	},
-	{
-		"english": "this marvelous tourist site now known as hearst san simeon state historical monument",
-		"chinese": "这个著名的旅游景点现在被称为赫斯特·西蒙州历史遗迹。",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/ /hɪstˈɔːrɪkəl/ /mˈɑːnjəmənt/"
-	},
-	{
-		"english": "this marvelous tourist site now known as hearst san simeon state historical monument is",
-		"chinese": "这个著名的旅游景点现在被称为赫斯特·西蒙州历史遗迹。",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/ /hɪstˈɔːrɪkəl/ /mˈɑːnjəmənt/ /ɪz/"
-	},
-	{
-		"english": "this marvelous tourist site now known as hearst san simeon state historical monument is better",
-		"chinese": "这个著名的旅游景点，现在被称为赫斯特·西蒙州历史遗迹，现在状况更好了",
-		"soundmark": "/ðɪs/ /mˈɑːrvələs/ /tˈʊrɪst/ /sˈaɪt/ /nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/ /hɪstˈɔːrɪkəl/ /mˈɑːnjəmənt/ /ɪz/ /bˈɛːtɜː/"
-	},
-	{
-		"english": "now known as hearst san simeon state historical monument is better known",
-		"chinese": "现在被称为赫斯特·桑·西蒙州历史纪念碑，它更为人所知",
-		"soundmark": "/nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/ /hɪstˈɔːrɪkəl/ /mˈɑːnjəmənt/ /ɪz/ /bˈɛːtɜː/ /nˈoʊn/"
-	},
-	{
-		"english": "now known as hearst san simeon state historical monument is better known as",
-		"chinese": "现在被称为赫斯特·桑·西蒙州历史纪念碑，它更著名的名字是",
-		"soundmark": "/nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/ /hɪstˈɔːrɪkəl/ /mˈɑːnjəmənt/ /ɪz/ /bˈɛːtɜː/ /nˈoʊn/ /ˈɛːz/"
-	},
-	{
-		"english": "now known as hearst san simeon state historical monument is better known as hearst",
-		"chinese": "现在被称为赫斯特·圣西蒙州历史纪念碑，更常见的名字是赫斯特",
-		"soundmark": "/nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/ /hɪstˈɔːrɪkəl/ /mˈɑːnjəmənt/ /ɪz/ /bˈɛːtɜː/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/"
-	},
-	{
-		"english": "now known as hearst san simeon state historical monument is better known as hearst castle",
-		"chinese": "现在被称为赫斯特·圣西蒙州历史遗迹，它更著名的名字是赫斯特城堡",
-		"soundmark": "/nˈaʊ/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /sˈæn/ /sˈɪmiːən/ /stˈeɪt/ /hɪstˈɔːrɪkəl/ /mˈɑːnjəmənt/ /ɪz/ /bˈɛːtɜː/ /nˈoʊn/ /ˈɛːz/ /hˈɜːst/ /kˈæsəl/"
-	},
-	{
-		"english": "it",
-		"chinese": "它",
-		"soundmark": "/ɪt/"
-	},
-	{
-		"english": "it is",
-		"chinese": "就是",
-		"soundmark": "/ɪt/ /ɪz/"
-	},
-	{
-		"english": "it is located",
-		"chinese": "它位于",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/"
-	},
-	{
-		"english": "it is located six",
-		"chinese": "它位于六处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/"
-	},
-	{
-		"english": "it is located six hours",
-		"chinese": "它位于六小时路程处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/"
-	},
-	{
-		"english": "it is located six hours south",
-		"chinese": "它位于南面六小时处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/"
-	},
-	{
-		"english": "it is located six hours south of",
-		"chinese": "它位于南面六小时处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/"
-	},
-	{
-		"english": "it is located six hours south of san",
-		"chinese": "它位于圣城南面六小时处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/"
-	},
-	{
-		"english": "it is located six hours south of san francisco",
-		"chinese": "它位于旧金山南面六小时处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/ /frænsˈɪskoʊ/"
-	},
-	{
-		"english": "it is located six hours south of san francisco and",
-		"chinese": "它位于旧金山南面六小时处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/ /frænsˈɪskoʊ/ /ˈænd/"
-	},
-	{
-		"english": "it is located six hours south of san francisco and five",
-		"chinese": "它位于旧金山南面六小时处，五……",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/ /frænsˈɪskoʊ/ /ˈænd/ /fˈaɪv/"
-	},
-	{
-		"english": "it is located six hours south of san francisco and five hours",
-		"chinese": "它位于旧金山南边六小时处，五小时……",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/ /frænsˈɪskoʊ/ /ˈænd/ /fˈaɪv/ /ˈaʊrz/"
-	},
-	{
-		"english": "it is located six hours south of san francisco and five hours north",
-		"chinese": "它位于旧金山南边六小时处，北边五小时处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/ /frænsˈɪskoʊ/ /ˈænd/ /fˈaɪv/ /ˈaʊrz/ /nˈɔːrθ/"
-	},
-	{
-		"english": "it is located six hours south of san francisco and five hours north of",
-		"chinese": "它位于旧金山南边六小时处，北边五小时处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/ /frænsˈɪskoʊ/ /ˈænd/ /fˈaɪv/ /ˈaʊrz/ /nˈɔːrθ/ /əv/"
-	},
-	{
-		"english": "it is located six hours south of san francisco and five hours north of los",
-		"chinese": "它位于旧金山南边六小时处，洛斯北边五小时处",
-		"soundmark": "/ɪt/ /ɪz/ /lˈoʊkˌeɪd/ /sˈɪks/ /ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/ /frænsˈɪskoʊ/ /ˈænd/ /fˈaɪv/ /ˈaʊrz/ /nˈɔːrθ/ /əv/ /lˈɔːs/"
-	},
-	{
-		"english": "hours south of san francisco and five hours north of los angeles",
-		"chinese": "旧金山南边几小时，洛杉矶北边五小时",
-		"soundmark": "/ˈaʊrz/ /sˈaʊθ/ /əv/ /sˈæn/ /frænsˈɪskoʊ/ /ˈænd/ /fˈaɪv/ /ˈaʊrz/ /nˈɔːrθ/ /əv/ /lˈɔːs/ /ˈændʒəlɪs/"
-	},
-	{
-		"english": "sheltered",
-		"chinese": "庇护",
-		"soundmark": "/ʃˈɛːltɜːd/"
-	},
-	{
-		"english": "sheltered by",
-		"chinese": "得到保护",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/"
-	},
-	{
-		"english": "sheltered by the",
-		"chinese": "有庇护的",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/ /ðiː/"
-	},
-	{
-		"english": "sheltered by the mountains",
-		"chinese": "被山峦庇护",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/ /ðiː/ /mˈaʊntənz/"
-	},
-	{
-		"english": "sheltered by the mountains in",
-		"chinese": "被山峦庇护着",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/ /ðiː/ /mˈaʊntənz/ /ˈɪn/"
-	},
-	{
-		"english": "sheltered by the mountains in northern",
-		"chinese": "被北方山脉庇护着",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/ /ðiː/ /mˈaʊntənz/ /ˈɪn/ /nˈɔːrðɜːn/"
-	},
-	{
-		"english": "sheltered by the mountains in northern san",
-		"chinese": "北部山区为山所庇护",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/ /ðiː/ /mˈaʊntənz/ /ˈɪn/ /nˈɔːrðɜːn/ /sˈæn/"
-	},
-	{
-		"english": "sheltered by the mountains in northern san luis",
-		"chinese": "被北方山脉环绕",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/ /ðiː/ /mˈaʊntənz/ /ˈɪn/ /nˈɔːrðɜːn/ /sˈæn/ /luːˈiːs/"
-	},
-	{
-		"english": "sheltered by the mountains in northern san luis obispo",
-		"chinese": "被北部圣路易斯奥比斯波的山脉所庇护",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/ /ðiː/ /mˈaʊntənz/ /ˈɪn/ /nˈɔːrðɜːn/ /sˈæn/ /luːˈiːs/ /oʊbˈɪspoʊ/"
-	},
-	{
-		"english": "sheltered by the mountains in northern san luis obispo county",
-		"chinese": "位于圣路易斯奥比斯波县北部的山丘庇护下",
-		"soundmark": "/ʃˈɛːltɜːd/ /bˈaɪ/ /ðiː/ /mˈaʊntənz/ /ˈɪn/ /nˈɔːrðɜːn/ /sˈæn/ /luːˈiːs/ /oʊbˈɪspoʊ/ /kˈaʊniː/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the complex",
-		"chinese": "复杂事物",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/"
-	},
-	{
-		"english": "the complex of",
-		"chinese": "综合体",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /əv/"
-	},
-	{
-		"english": "the complex of rooms",
-		"chinese": "房间群",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /əv/ /rˈuːmz/"
-	},
-	{
-		"english": "the complex of rooms and",
-		"chinese": "房间群",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /əv/ /rˈuːmz/ /ˈænd/"
-	},
-	{
-		"english": "the complex of rooms and acres",
-		"chinese": "众多房间和大片土地",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /əv/ /rˈuːmz/ /ˈænd/ /ˈeɪkɜːz/"
-	},
-	{
-		"english": "the complex of rooms and acres of",
-		"chinese": "房间和大片土地的组合",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /əv/ /rˈuːmz/ /ˈænd/ /ˈeɪkɜːz/ /əv/"
-	},
-	{
-		"english": "the complex of rooms and acres of gardens",
-		"chinese": "由众多房间和大片花园构成的建筑群",
-		"soundmark": "/ðiː/ /kəmplˈɛːks/ /əv/ /rˈuːmz/ /ˈænd/ /ˈeɪkɜːz/ /əv/ /ɡˈɑːrdənz/"
-	},
-	{
-		"english": "terraces",
-		"chinese": "梯田",
-		"soundmark": "/tˈɛːrəsɪz/"
-	},
-	{
-		"english": "pools",
-		"chinese": "泳池",
-		"soundmark": "/pˈuːlz/"
-	},
-	{
-		"english": "fountains",
-		"chinese": "喷泉",
-		"soundmark": "/fˈaʊntənz/"
-	},
-	{
-		"english": "fountains and",
-		"chinese": "喷泉和",
-		"soundmark": "/fˈaʊntənz/ /ˈænd/"
-	},
-	{
-		"english": "fountains and footpaths",
-		"chinese": "喷泉和步道",
-		"soundmark": "/fˈaʊntənz/ /ˈænd/ /fˈʊtpˌæθ/"
-	},
-	{
-		"english": "fountains and footpaths draws",
-		"chinese": "喷泉和步道吸引人",
-		"soundmark": "/fˈaʊntənz/ /ˈænd/ /fˈʊtpˌæθ/ /drˈɔːz/"
-	},
-	{
-		"english": "fountains and footpaths draws approximately",
-		"chinese": "喷泉和步道共有约……个",
-		"soundmark": "/fˈaʊntənz/ /ˈænd/ /fˈʊtpˌæθ/ /drˈɔːz/ /əprˈɑːksəmətliː/"
-	},
-	{
-		"english": "fountains and footpaths draws approximately visitors",
-		"chinese": "喷泉和步道吸引了大约的游客",
-		"soundmark": "/fˈaʊntənz/ /ˈænd/ /fˈʊtpˌæθ/ /drˈɔːz/ /əprˈɑːksəmətliː/ /vˈɪzɪtɜːz/"
-	},
-	{
-		"english": "fountains and footpaths draws approximately visitors annually",
-		"chinese": "喷泉和步道每年约吸引游客",
-		"soundmark": "/fˈaʊntənz/ /ˈænd/ /fˈʊtpˌæθ/ /drˈɔːz/ /əprˈɑːksəmətliː/ /vˈɪzɪtɜːz/ /ˈænjuːəliː/"
-	},
-	{
-		"english": "to",
-		"chinese": "为了",
-		"soundmark": "/tə/"
-	},
-	{
-		"english": "to understand",
-		"chinese": "理解",
-		"soundmark": "/tə/ /ˌəndɜːstˈænd/"
-	},
-	{
-		"english": "to understand the",
-		"chinese": "理解",
-		"soundmark": "/tə/ /ˌəndɜːstˈænd/ /ðiː/"
-	},
-	{
-		"english": "to understand the castle",
-		"chinese": "理解这座城堡",
-		"soundmark": "/tə/ /ˌəndɜːstˈænd/ /ðiː/ /kˈæsəl/"
-	},
-	{
-		"english": "you",
-		"chinese": "你",
-		"soundmark": "/jˈuː/"
-	},
-	{
-		"english": "you have",
-		"chinese": "你拥有",
-		"soundmark": "/jˈuː/ /hˈæv/"
-	},
-	{
-		"english": "you have to",
-		"chinese": "你必须",
-		"soundmark": "/jˈuː/ /hˈæv/ /tə/"
-	},
-	{
-		"english": "you have to understand",
-		"chinese": "你必须理解",
-		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/"
-	},
-	{
-		"english": "you have to understand the",
-		"chinese": "你必须理解",
-		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/"
-	},
-	{
-		"english": "you have to understand the man",
-		"chinese": "你必须了解这个人",
-		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /mˈæn/"
-	},
-	{
-		"english": "you have to understand the man who",
-		"chinese": "你必须了解那个人",
-		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /mˈæn/ /hˈuː/"
-	},
-	{
-		"english": "you have to understand the man who built",
-		"chinese": "你必须理解那个建造者",
-		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /mˈæn/ /hˈuː/ /bˈɪlt/"
-	},
-	{
-		"english": "you have to understand the man who built it",
-		"chinese": "你必须了解建造它的人",
-		"soundmark": "/jˈuː/ /hˈæv/ /tə/ /ˌəndɜːstˈænd/ /ðiː/ /mˈæn/ /hˈuː/ /bˈɪlt/ /ɪt/"
-	},
-	{
-		"english": "william",
-		"chinese": "威廉",
-		"soundmark": "/wˈɪljəm/"
-	},
-	{
-		"english": "william randolph",
-		"chinese": "威廉·兰多夫",
-		"soundmark": "/wˈɪljəm/ /rˈændɑːlf/"
-	}
+  {
+    "english": "La",
+    "chinese": "拉·库埃斯塔",
+    "soundmark": "/lˈɑː/"
+  },
+  {
+    "english": "La Cuesta",
+    "chinese": "拉·库埃斯塔·恩坎塔达"
+  },
+  {
+    "english": "La Cuesta Encantada",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE"
+  },
+  {
+    "english": "La Cuesta Encantada The",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻城堡"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻城堡就是"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻城堡是其中之一"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is one",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻城堡是其中之一"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is one of",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻城堡是其中最…的"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is one of the",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻城堡是其中最值得注意的"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is one of the most",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻城堡是其中最值得注意的展示"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is one of the most remarkable",
+    "chinese": "拉·库埃斯塔·恩坎塔达·THE·魔幻城堡是其中最值得注意的力量展示"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is one of the most remarkable displays",
+    "chinese": "La Cuesta Encantada 魔法城堡是最引人注目的景观之一"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is one of the most remarkable displays of",
+    "chinese": "La Cuesta Encantada 魔法城堡是最令人惊叹的景观之一"
+  },
+  {
+    "english": "La Cuesta Encantada The Enchanted Castle is one of the most remarkable displays of power",
+    "chinese": "La Cuesta Encantada（魔法城堡）是最令人惊叹的力量展现之一"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and passion",
+    "chinese": "以及激情"
+  },
+  {
+    "english": "and passion in",
+    "chinese": "以及存在于……的激情"
+  },
+  {
+    "english": "and passion in the",
+    "chinese": "以及存在于世界中的激情"
+  },
+  {
+    "english": "and passion in the world",
+    "chinese": "以及世间的激情。"
+  },
+  {
+    "english": "This",
+    "chinese": "这个",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "english": "This marvelous",
+    "chinese": "这个令人惊叹的"
+  },
+  {
+    "english": "This marvelous tourist",
+    "chinese": "这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site",
+    "chinese": "现在这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site now",
+    "chinese": "现在已知名的这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site now known",
+    "chinese": "现在被称为这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site now known as",
+    "chinese": "现在被称为赫斯特的这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst",
+    "chinese": "现在被称为赫斯特圣的这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San",
+    "chinese": "现在被称为赫斯特圣西蒙的这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon",
+    "chinese": "现在被称为赫斯特圣西蒙州立的这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State",
+    "chinese": "现在被称为赫斯特圣西蒙州立历史遗迹的这个令人惊叹的旅游景点"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State Historical",
+    "chinese": "现在被称为赫斯特圣西蒙州立历史遗迹的这个令人惊叹的旅游景点更出色"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State Historical Monument",
+    "chinese": "现在被称为赫斯特圣西蒙州立历史遗迹的这个令人惊叹的旅游景点更为人所知"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State Historical Monument is",
+    "chinese": "现在被称为赫斯特圣西蒙州立历史遗迹的这个令人惊叹的旅游景点更为人所知名为"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State Historical Monument is better",
+    "chinese": "现在被称为赫斯特圣西蒙州立历史遗迹的这个令人惊叹的旅游景点更为人所知名为赫斯特"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State Historical Monument is better known",
+    "chinese": "现在被称为赫斯特圣西蒙州立历史遗迹的这个令人惊叹的旅游景点更为人所知名为赫斯特城堡"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State Historical Monument is better known as",
+    "chinese": "这个奇妙的旅游景点现在被称为赫斯特圣西蒙州立历史遗迹，更为人熟知的是"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State Historical Monument is better known as Hearst",
+    "chinese": "这个奇妙的旅游景点现在被称为赫斯特圣西蒙州历史纪念碑，更常见的名字是赫斯特"
+  },
+  {
+    "english": "This marvelous tourist site now known as Hearst San Simeon State Historical Monument is better known as Hearst Castle",
+    "chinese": "这个奇妙的旅游景点现在被称为赫斯特圣西蒙州立历史遗迹，更常被称为赫斯特城堡。"
+  },
+  {
+    "english": "It",
+    "chinese": "它",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "english": "It is",
+    "chinese": "它位于"
+  },
+  {
+    "english": "It is located",
+    "chinese": "它位于六小时"
+  },
+  {
+    "english": "It is located six",
+    "chinese": "它位于六小时南方"
+  },
+  {
+    "english": "It is located six hours",
+    "chinese": "它位于六小时南方于"
+  },
+  {
+    "english": "It is located six hours south",
+    "chinese": "它位于六小时南方于圣地"
+  },
+  {
+    "english": "It is located six hours south of",
+    "chinese": "它位于六小时南方于旧金山"
+  },
+  {
+    "english": "It is located six hours south of San",
+    "chinese": "它位于圣城南面六小时处"
+  },
+  {
+    "english": "It is located six hours south of San Francisco",
+    "chinese": "它位于旧金山南面六小时处"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and five",
+    "chinese": "并且五小时"
+  },
+  {
+    "english": "and five hours",
+    "chinese": "并且五小时向北"
+  },
+  {
+    "english": "and five hours north",
+    "chinese": "在洛杉矶以北五小时"
+  },
+  {
+    "english": "and five hours north of",
+    "chinese": "洛杉矶以北五小时"
+  },
+  {
+    "english": "and five hours north of Los",
+    "chinese": "位于洛杉矶以北五小时处"
+  },
+  {
+    "english": "and five hours north of Los Angeles",
+    "chinese": "位于洛杉矶以北五小时处。"
+  },
+  {
+    "english": "Sheltered",
+    "chinese": "有遮蔽的",
+    "soundmark": "/ʃˈɛːltɜːd/"
+  },
+  {
+    "english": "Sheltered by",
+    "chinese": "被……遮蔽的"
+  },
+  {
+    "english": "Sheltered by the",
+    "chinese": "被山脉遮蔽的"
+  },
+  {
+    "english": "Sheltered by the mountains",
+    "chinese": "被北部山脉遮蔽的"
+  },
+  {
+    "english": "Sheltered by the mountains in",
+    "chinese": "被北部山脉遮蔽的圣地"
+  },
+  {
+    "english": "Sheltered by the mountains in northern",
+    "chinese": "被北部山脉遮蔽的圣路易斯地区"
+  },
+  {
+    "english": "Sheltered by the mountains in northern San",
+    "chinese": "被北部山脉遮蔽的圣路易斯奥比斯波市"
+  },
+  {
+    "english": "Sheltered by the mountains in northern San Luis",
+    "chinese": "被北部山脉遮蔽的圣路易斯奥比斯波县"
+  },
+  {
+    "english": "Sheltered by the mountains in northern San Luis Obispo",
+    "chinese": "在圣路易斯奥比斯波北部的山脉庇护下"
+  },
+  {
+    "english": "Sheltered by the mountains in northern San Luis Obispo County",
+    "chinese": "位于圣路易斯奥比斯波县北部的山脉庇护下"
+  },
+  {
+    "english": "the",
+    "chinese": "那个建筑群",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "the complex",
+    "chinese": "165间房间的那个建筑群"
+  },
+  {
+    "english": "the complex of",
+    "chinese": "综合体"
+  },
+  {
+    "english": "the complex of 165",
+    "chinese": "165号建筑群"
+  },
+  {
+    "english": "the complex of 165 rooms",
+    "chinese": "包含165间房间的建筑群"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and 127",
+    "chinese": "并且 127"
+  },
+  {
+    "english": "and 127 acres",
+    "chinese": "并且 127 英亩"
+  },
+  {
+    "english": "and 127 acres of",
+    "chinese": "并且 127 英亩的"
+  },
+  {
+    "english": "and 127 acres of gardens",
+    "chinese": "并且 127 英亩的花园，"
+  },
+  {
+    "english": "and 127 acres of gardens terraces",
+    "chinese": "并且 127 英亩的花园、梯田，"
+  },
+  {
+    "english": "and 127 acres of gardens terraces pools",
+    "chinese": "并且 127 英亩的花园、梯田、泳池，"
+  },
+  {
+    "english": "and 127 acres of gardens terraces pools fountains",
+    "chinese": "以及127英亩的花园、梯田、泳池和喷泉"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and footpaths",
+    "chinese": "以及步道"
+  },
+  {
+    "english": "and footpaths draws",
+    "chinese": "步道吸引的游客数量"
+  },
+  {
+    "english": "and footpaths draws approximately",
+    "chinese": "步道大约吸引约 800000 名游客"
+  },
+  {
+    "english": "and footpaths draws approximately 800000",
+    "chinese": "步道每年大约吸引约 800000 名游客"
+  },
+  {
+    "english": "and footpaths draws approximately 800000 visitors",
+    "chinese": "这些步道吸引了大约800000名游客"
+  },
+  {
+    "english": "and footpaths draws approximately 800000 visitors annually",
+    "chinese": "这条步道每年吸引约800000名游客。"
+  },
+  {
+    "english": "To",
+    "chinese": "去",
+    "soundmark": "/tə/"
+  },
+  {
+    "english": "To understand",
+    "chinese": "去理解"
+  },
+  {
+    "english": "To understand the",
+    "chinese": "去理解那座城堡"
+  },
+  {
+    "english": "To understand the castle",
+    "chinese": "了解这座城堡"
+  },
+  {
+    "english": "you",
+    "chinese": "你",
+    "soundmark": "/jˈuː/"
+  },
+  {
+    "english": "you have",
+    "chinese": "你拥有"
+  },
+  {
+    "english": "you have to",
+    "chinese": "你必须理解"
+  },
+  {
+    "english": "you have to understand",
+    "chinese": "你必须理解那个人"
+  },
+  {
+    "english": "you have to understand the",
+    "chinese": "你必须理解"
+  },
+  {
+    "english": "you have to understand the man",
+    "chinese": "你必须了解这个人"
+  },
+  {
+    "english": "who",
+    "chinese": "谁",
+    "soundmark": "/hˈuː/"
+  },
+  {
+    "english": "who built",
+    "chinese": "谁建造了它"
+  },
+  {
+    "english": "who built it",
+    "chinese": "谁建造了它，威廉"
+  },
+  {
+    "english": "who built it William",
+    "chinese": "谁建造了它，威廉·兰多夫"
+  },
+  {
+    "english": "who built it William Randolph",
+    "chinese": "谁建造了它，威廉·兰多夫·赫斯特"
+  },
+  {
+    "english": "who built it William Randolph Hearst",
+    "chinese": "建造者是威廉·兰道夫·赫斯特。"
+  },
+  {
+    "english": "And",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "And to",
+    "chinese": "并且为了"
+  },
+  {
+    "english": "And to understand",
+    "chinese": "为了理解"
+  },
+  {
+    "english": "And to understand the",
+    "chinese": "为了理解那个人"
+  },
+  {
+    "english": "And to understand the man",
+    "chinese": "以及理解这个人"
+  },
+  {
+    "english": "you",
+    "chinese": "你",
+    "soundmark": "/jˈuː/"
+  },
+  {
+    "english": "you have",
+    "chinese": "你拥有"
+  },
+  {
+    "english": "you have to",
+    "chinese": "你必须理解"
+  },
+  {
+    "english": "you have to understand",
+    "chinese": "你必须理解那片土地"
+  },
+  {
+    "english": "you have to understand the",
+    "chinese": "你必须理解那片土地上的情况"
+  },
+  {
+    "english": "you have to understand the land",
+    "chinese": "你必须了解这片土地"
+  },
+  {
+    "english": "you have to understand the land upon",
+    "chinese": "你必须了解这片土地的情况"
+  },
+  {
+    "english": "which",
+    "chinese": "那个",
+    "soundmark": "/hwˈɪtʃ/"
+  },
+  {
+    "english": "which he",
+    "chinese": "那个他"
+  },
+  {
+    "english": "which he built",
+    "chinese": "那个他建造的"
+  },
+  {
+    "english": "which he built his",
+    "chinese": "那个他构建的"
+  },
+  {
+    "english": "which he built his dream",
+    "chinese": "他在此构建了他的梦想。"
+  },
+  {
+    "english": "Born",
+    "chinese": "出生",
+    "soundmark": "/bˈɔːrn/"
+  },
+  {
+    "english": "Born on",
+    "chinese": "出生日期"
+  },
+  {
+    "english": "Born on April",
+    "chinese": "4月出生"
+  },
+  {
+    "english": "Born on April 29",
+    "chinese": "出生于4月29日"
+  },
+  {
+    "english": "1863",
+    "chinese": "1863"
+  },
+  {
+    "english": "William",
+    "chinese": "威廉",
+    "soundmark": "/wˈɪljəm/"
+  },
+  {
+    "english": "William Randolph",
+    "chinese": "威廉·伦道夫"
+  },
+  {
+    "english": "William Randolph Hearst",
+    "chinese": "威廉·伦道夫·赫斯特"
+  },
+  {
+    "english": "William Randolph Hearst was",
+    "chinese": "威廉·伦道夫·赫斯特是"
+  },
+  {
+    "english": "William Randolph Hearst was the",
+    "chinese": "威廉·伦道夫·赫斯特是唯一的"
+  },
+  {
+    "english": "William Randolph Hearst was the only",
+    "chinese": "威廉·伦道夫·赫斯特是唯一的孩子"
+  },
+  {
+    "english": "William Randolph Hearst was the only child",
+    "chinese": "威廉·伦道夫·赫斯特是乔治·赫斯特家的唯一孩子"
+  },
+  {
+    "english": "William Randolph Hearst was the only child of",
+    "chinese": "威廉·兰道夫·赫斯特是独生子。"
+  },
+  {
+    "english": "William Randolph Hearst was the only child of George",
+    "chinese": "威廉·兰道夫·赫斯特是乔治唯一的孩子"
+  },
+  {
+    "english": "William Randolph Hearst was the only child of George Hearst",
+    "chinese": "威廉·伦道夫·赫斯特是乔治·赫斯特唯一的儿子"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and his",
+    "chinese": "以及他的"
+  },
+  {
+    "english": "and his wife",
+    "chinese": "以及他的妻子，"
+  },
+  {
+    "english": "and his wife Phoebe",
+    "chinese": "和他的妻子菲比。"
+  },
+  {
+    "english": "George",
+    "chinese": "乔治",
+    "soundmark": "/dʒˈɔːrdʒ/"
+  },
+  {
+    "english": "George was",
+    "chinese": "乔治是"
+  },
+  {
+    "english": "George was a",
+    "chinese": "乔治是一位百万富翁"
+  },
+  {
+    "english": "George was a multimillionaire",
+    "chinese": "乔治是位亿万富翁"
+  },
+  {
+    "english": "who",
+    "chinese": "谁",
+    "soundmark": "/hˈuː/"
+  },
+  {
+    "english": "who amassed",
+    "chinese": "谁积累了"
+  },
+  {
+    "english": "who amassed his",
+    "chinese": "谁通过合伙关系积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune",
+    "chinese": "谁通过合伙关系积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through",
+    "chinese": "谁通过合伙关系在……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships",
+    "chinese": "谁通过合伙关系在三个……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in",
+    "chinese": "谁通过合伙关系在三个……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three",
+    "chinese": "谁通过合伙关系在三个……的……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three of",
+    "chinese": "谁通过合伙关系在三个……的……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three of the",
+    "chinese": "谁通过合伙关系在三个……的……的……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three of the ever",
+    "chinese": "谁通过合伙关系在三个……的……的……的……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three of the ever largest",
+    "chinese": "谁通过合伙关系在三个……的……的……的……的……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three of the ever largest mining",
+    "chinese": "谁通过合伙关系在三个……的……的……的……的……的……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three of the ever largest mining discoveries",
+    "chinese": "谁通过合伙关系在三个……的……的……的……的……的……的……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three of the ever largest mining discoveries of",
+    "chinese": "谁通过合伙关系在三个……的……的……的……的……的……的……的……积累了他的财富"
+  },
+  {
+    "english": "who amassed his fortune through partnerships in three of the ever largest mining discoveries of copper",
+    "chinese": "通过参与三处最大的铜矿发现项目而积累财富的人"
+  },
+  {
+    "english": "silver",
+    "chinese": "银色",
+    "soundmark": "/sˈɪlvɜː/"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and gold",
+    "chinese": "和黄金"
+  },
+  {
+    "english": "and gold ores",
+    "chinese": "以及金矿石。"
+  },
+  {
+    "english": "In",
+    "chinese": "1865年",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In 1865",
+    "chinese": "1865年"
+  },
+  {
+    "english": "George",
+    "chinese": "乔治",
+    "soundmark": "/dʒˈɔːrdʒ/"
+  },
+  {
+    "english": "George began",
+    "chinese": "乔治开始"
+  },
+  {
+    "english": "George began to",
+    "chinese": "乔治开始积累"
+  },
+  {
+    "english": "George began to accumulate",
+    "chinese": "乔治开始积累包裹"
+  },
+  {
+    "english": "George began to accumulate parcels",
+    "chinese": "乔治开始积累土地包裹"
+  },
+  {
+    "english": "George began to accumulate parcels of",
+    "chinese": "乔治通过获得来积累土地包裹"
+  },
+  {
+    "english": "George began to accumulate parcels of land",
+    "chinese": "乔治通过获得获得46000块土地包裹"
+  },
+  {
+    "english": "George began to accumulate parcels of land by",
+    "chinese": "乔治通过获得获得46000英亩土地包裹"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining",
+    "chinese": "乔治通过获得获得46000英亩的皮埃德拉土地包裹"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000",
+    "chinese": "乔治通过获得获得46000英亩的皮埃德拉布兰科土地包裹"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres",
+    "chinese": "乔治通过获得获得46000英亩的皮埃德拉布兰科牧场土地包裹"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of",
+    "chinese": "乔治通过获得获得46000英亩的皮埃德拉布兰科牧场土地包裹，位于加利福尼亚州"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of the",
+    "chinese": "乔治通过获得获得46000英亩的皮埃德拉布兰科牧场土地包裹，位于加利福尼亚州中部"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of the Piedra",
+    "chinese": "乔治通过获得获得46000英亩的皮埃德拉布兰科牧场土地包裹，位于加利福尼亚州中部海岸"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of the Piedra Blanco",
+    "chinese": "乔治通过获得46,000英亩的皮埃德拉布兰科土地，开始积累大量土地。"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of the Piedra Blanco Ranch",
+    "chinese": "乔治通过获得皮埃德拉布兰科牧场中的46000英亩土地，开始积累大量土地。"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of the Piedra Blanco Ranch on",
+    "chinese": "乔治通过获得皮埃德拉布兰科牧场中的46000英亩土地，开始积累大量土地。"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of the Piedra Blanco Ranch on Californias",
+    "chinese": "乔治通过获得加利福尼亚州皮埃德拉布兰科牧场中的46000英亩土地，开始积累大量土地。"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of the Piedra Blanco Ranch on Californias Central",
+    "chinese": "乔治通过获得加利福尼亚州中部皮德拉布兰科牧场中的46000英亩土地，开始积累土地资产。"
+  },
+  {
+    "english": "George began to accumulate parcels of land by obtaining 46000 acres of the Piedra Blanco Ranch on Californias Central Coast",
+    "chinese": "乔治通过获得加利福尼亚州中部海岸的皮埃德拉布兰科牧场46000英亩土地，开始积累大量土地。"
+  },
+  {
+    "english": "There",
+    "chinese": "那里",
+    "soundmark": "/ðˈɛːr/"
+  },
+  {
+    "english": "There he",
+    "chinese": "那里他"
+  },
+  {
+    "english": "There he began",
+    "chinese": "那里他开始"
+  },
+  {
+    "english": "There he began a",
+    "chinese": "那里他开始了一项"
+  },
+  {
+    "english": "There he began a successful",
+    "chinese": "那里他开始了一项成功的"
+  },
+  {
+    "english": "There he began a successful cattle",
+    "chinese": "那里他开始了一项成功的养牛业"
+  },
+  {
+    "english": "There he began a successful cattle ranch",
+    "chinese": "在那里，他开始经营一家成功的牛场"
+  },
+  {
+    "english": "eventually",
+    "chinese": "最终",
+    "soundmark": "/iːvˈɛːnʃəliː/"
+  },
+  {
+    "english": "eventually enlarging",
+    "chinese": "最终扩大它"
+  },
+  {
+    "english": "eventually enlarging it",
+    "chinese": "最终将其扩大至"
+  },
+  {
+    "english": "eventually enlarging it to",
+    "chinese": "最终将其扩大至250000"
+  },
+  {
+    "english": "eventually enlarging it to 250000",
+    "chinese": "最终将其扩大至250000英亩"
+  },
+  {
+    "english": "eventually enlarging it to 250000 acres",
+    "chinese": "最终将其扩大至延伸达250000英亩的区域"
+  },
+  {
+    "english": "eventually enlarging it to 250000 acres stretching",
+    "chinese": "最终将其扩大至延伸达50的250000英亩区域"
+  },
+  {
+    "english": "eventually enlarging it to 250000 acres stretching 50",
+    "chinese": "最终将其扩大至延伸达50英里的250000英亩区域"
+  },
+  {
+    "english": "eventually enlarging it to 250000 acres stretching 50 miles",
+    "chinese": "最终将其扩大至沿线延伸达50英里的250000英亩区域"
+  },
+  {
+    "english": "eventually enlarging it to 250000 acres stretching 50 miles along",
+    "chinese": "最终将其扩大至沿海岸线延伸达50英里的250000英亩区域"
+  },
+  {
+    "english": "eventually enlarging it to 250000 acres stretching 50 miles along the",
+    "chinese": "最终将其扩大至250000英亩，沿线延伸50英里"
+  },
+  {
+    "english": "eventually enlarging it to 250000 acres stretching 50 miles along the coast",
+    "chinese": "最终将其扩大至250000英亩，沿海岸延伸50英里。"
+  }
 ]

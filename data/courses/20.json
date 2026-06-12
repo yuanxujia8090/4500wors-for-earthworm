@@ -1,957 +1,858 @@
 [
-	{
-		"english": "the delegates submitted a draft of an",
-		"chinese": "代表们提交了一份草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/"
-	},
-	{
-		"english": "the delegates submitted a draft of an agreement",
-		"chinese": "代表们提交了一份协议草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/"
-	},
-	{
-		"english": "the delegates submitted a draft of an agreement for",
-		"chinese": "代表们提交了一份协议草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/ /frɜː/"
-	},
-	{
-		"english": "the delegates submitted a draft of an agreement for the",
-		"chinese": "代表们提交了一份协议草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/ /frɜː/ /ðiː/"
-	},
-	{
-		"english": "the delegates submitted a draft of an agreement for the formation",
-		"chinese": "代表们提交了一份关于组建的协议草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/ /frɜː/ /ðiː/ /fɔːrmˈeɪʃən/"
-	},
-	{
-		"english": "the delegates submitted a draft of an agreement for the formation of",
-		"chinese": "代表们提交了一份关于组建协议的草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/ /frɜː/ /ðiː/ /fɔːrmˈeɪʃən/ /əv/"
-	},
-	{
-		"english": "the delegates submitted a draft of an agreement for the formation of the",
-		"chinese": "代表们提交了一份关于成立该组织的协议草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/ /frɜː/ /ðiː/ /fɔːrmˈeɪʃən/ /əv/ /ðiː/"
-	},
-	{
-		"english": "the delegates submitted a draft of an agreement for the formation of the dominion",
-		"chinese": "代表们提交了一份关于建立统治地的协议草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/ /frɜː/ /ðiː/ /fɔːrmˈeɪʃən/ /əv/ /ðiː/ /dəmˈɪnjən/"
-	},
-	{
-		"english": "the delegates submitted a draft of an agreement for the formation of the dominion of",
-		"chinese": "代表们提交了一份关于建立统治区的协议草案",
-		"soundmark": "/ðiː/ /dˈɛːləɡəts/ /səbmˈɪtəd/ /ˈeɪ/ /drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/ /frɜː/ /ðiː/ /fɔːrmˈeɪʃən/ /əv/ /ðiː/ /dəmˈɪnjən/ /əv/"
-	},
-	{
-		"english": "draft of an agreement for the formation of the dominion of canada",
-		"chinese": "关于建立加拿大自治领的协议草案",
-		"soundmark": "/drˈæft/ /əv/ /ən/ /əɡrˈiːmənt/ /frɜː/ /ðiː/ /fɔːrmˈeɪʃən/ /əv/ /ðiː/ /dəmˈɪnjən/ /əv/ /kˈænədə/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the bulk",
-		"chinese": "大部分",
-		"soundmark": "/ðiː/ /bˈəlk/"
-	},
-	{
-		"english": "the bulk of",
-		"chinese": "大部分",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/"
-	},
-	{
-		"english": "the bulk of the",
-		"chinese": "大部分",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/"
-	},
-	{
-		"english": "the bulk of the work",
-		"chinese": "大部分工作",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/"
-	},
-	{
-		"english": "the bulk of the work had",
-		"chinese": "大部分工作已经完成",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/"
-	},
-	{
-		"english": "the bulk of the work had been",
-		"chinese": "大部分工作已经完成",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/"
-	},
-	{
-		"english": "the bulk of the work had been done",
-		"chinese": "大部分工作已经完成",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/"
-	},
-	{
-		"english": "the bulk of the work had been done by",
-		"chinese": "大部分工作已经完成",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/"
-	},
-	{
-		"english": "the bulk of the work had been done by a",
-		"chinese": "大部分工作已经由某人完成。",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/ /ˈeɪ/"
-	},
-	{
-		"english": "the bulk of the work had been done by a group",
-		"chinese": "大部分工作是由一个团队完成的",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/ /ˈeɪ/ /ɡrˈuːp/"
-	},
-	{
-		"english": "the bulk of the work had been done by a group of",
-		"chinese": "大部分工作是由一个团队完成的",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/ /ˈeɪ/ /ɡrˈuːp/ /əv/"
-	},
-	{
-		"english": "the bulk of the work had been done by a group of men",
-		"chinese": "大部分工作是由一群人完成的",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/ /ˈeɪ/ /ɡrˈuːp/ /əv/ /mˈɛːn/"
-	},
-	{
-		"english": "the bulk of the work had been done by a group of men of",
-		"chinese": "大部分工作是由一群人完成的",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/ /ˈeɪ/ /ɡrˈuːp/ /əv/ /mˈɛːn/ /əv/"
-	},
-	{
-		"english": "the bulk of the work had been done by a group of men of seemingly",
-		"chinese": "大部分工作是由一群看似",
-		"soundmark": "/ðiː/ /bˈəlk/ /əv/ /ðiː/ /wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/ /ˈeɪ/ /ɡrˈuːp/ /əv/ /mˈɛːn/ /əv/ /sˈiːmɪŋliː/"
-	},
-	{
-		"english": "work had been done by a group of men of seemingly high",
-		"chinese": "这项工作是由一群看似高贵的男子完成的",
-		"soundmark": "/wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/ /ˈeɪ/ /ɡrˈuːp/ /əv/ /mˈɛːn/ /əv/ /sˈiːmɪŋliː/ /hˈaɪ/"
-	},
-	{
-		"english": "work had been done by a group of men of seemingly high virtue",
-		"chinese": "这项工作是由一群看似品德高尚的人完成的",
-		"soundmark": "/wˈɜːk/ /hˈæd/ /bɪn/ /dˈən/ /bˈaɪ/ /ˈeɪ/ /ɡrˈuːp/ /əv/ /mˈɛːn/ /əv/ /sˈiːmɪŋliː/ /hˈaɪ/ /vˈɜːtʃuː/"
-	},
-	{
-		"english": "who",
-		"chinese": "谁",
-		"soundmark": "/hˈuː/"
-	},
-	{
-		"english": "who became",
-		"chinese": "谁成为了",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/"
-	},
-	{
-		"english": "who became known",
-		"chinese": "变得有名",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/ /nˈoʊn/"
-	},
-	{
-		"english": "who became known in",
-		"chinese": "谁变得出名了",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/ /nˈoʊn/ /ˈɪn/"
-	},
-	{
-		"english": "who became known in history",
-		"chinese": "在历史上广为人知的人",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/ /nˈoʊn/ /ˈɪn/ /hˈɪstriː/"
-	},
-	{
-		"english": "who became known in history as",
-		"chinese": "在历史上被称为",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/ /nˈoʊn/ /ˈɪn/ /hˈɪstriː/ /ˈɛːz/"
-	},
-	{
-		"english": "who became known in history as the",
-		"chinese": "在历史上被称为……的人",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/ /nˈoʊn/ /ˈɪn/ /hˈɪstriː/ /ˈɛːz/ /ðiː/"
-	},
-	{
-		"english": "who became known in history as the fathers",
-		"chinese": "在历史上被称为之父的人",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/ /nˈoʊn/ /ˈɪn/ /hˈɪstriː/ /ˈɛːz/ /ðiː/ /fˈɑːðɜːz/"
-	},
-	{
-		"english": "who became known in history as the fathers of",
-		"chinese": "在历史上被称为之父的人",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/ /nˈoʊn/ /ˈɪn/ /hˈɪstriː/ /ˈɛːz/ /ðiː/ /fˈɑːðɜːz/ /əv/"
-	},
-	{
-		"english": "who became known in history as the fathers of confederation",
-		"chinese": "在历史上被称为邦联的奠基人",
-		"soundmark": "/hˈuː/ /biːkˈeɪm/ /nˈoʊn/ /ˈɪn/ /hˈɪstriː/ /ˈɛːz/ /ðiː/ /fˈɑːðɜːz/ /əv/ /kənfˌɛːdɜːˈeɪʃən/"
-	},
-	{
-		"english": "united",
-		"chinese": "联合",
-		"soundmark": "/juːnˈaɪtɪd/"
-	},
-	{
-		"english": "united canada",
-		"chinese": "联合加拿大",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/"
-	},
-	{
-		"english": "united canada was",
-		"chinese": "联合加拿大",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/"
-	},
-	{
-		"english": "united canada was divided",
-		"chinese": "加拿大联合王国被分裂了",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/ /dɪvˈaɪdəd/"
-	},
-	{
-		"english": "united canada was divided into",
-		"chinese": "加拿大联合王国被分为",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/"
-	},
-	{
-		"english": "united canada was divided into the",
-		"chinese": "加拿大联合王国被分为多个部分",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /ðiː/"
-	},
-	{
-		"english": "united canada was divided into the provinces",
-		"chinese": "加拿大联合王国被划分为各个省份",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /ðiː/ /prˈɑːvənsəz/"
-	},
-	{
-		"english": "united canada was divided into the provinces of",
-		"chinese": "加拿大联合王国被划分为各省份",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /ðiː/ /prˈɑːvənsəz/ /əv/"
-	},
-	{
-		"english": "united canada was divided into the provinces of ontario",
-		"chinese": "加拿大联合王国被划分为安大略省等省份",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /ðiː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/"
-	},
-	{
-		"english": "united canada was divided into the provinces of ontario and",
-		"chinese": "加拿大联合王国被划分为安大略省和",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /ðiː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/"
-	},
-	{
-		"english": "united canada was divided into the provinces of ontario and quebec",
-		"chinese": "加拿大联合王国被划分为安大略省和魁北克省",
-		"soundmark": "/juːnˈaɪtɪd/ /kˈænədə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /ðiː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/"
-	},
-	{
-		"english": "some",
-		"chinese": "一些",
-		"soundmark": "/sˈəm/"
-	},
-	{
-		"english": "some allowances",
-		"chinese": "一些补贴",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/"
-	},
-	{
-		"english": "some allowances were",
-		"chinese": "一些补贴已经存在",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/"
-	},
-	{
-		"english": "some allowances were given",
-		"chinese": "一些补贴被给予了",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/"
-	},
-	{
-		"english": "some allowances were given to",
-		"chinese": "一些补贴被给予了",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/"
-	},
-	{
-		"english": "some allowances were given to quebec",
-		"chinese": "一些补贴给了魁北克",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/"
-	},
-	{
-		"english": "some allowances were given to quebec because",
-		"chinese": "因为魁北克，所以给予了一些补贴",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/"
-	},
-	{
-		"english": "some allowances were given to quebec because it",
-		"chinese": "因为魁北克，所以给予了一些补贴。",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/"
-	},
-	{
-		"english": "some allowances were given to quebec because it was",
-		"chinese": "因为魁北克，所以给予了一些补贴。",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/"
-	},
-	{
-		"english": "some allowances were given to quebec because it was a",
-		"chinese": "因为魁北克是，所以给予了一些补贴。",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/"
-	},
-	{
-		"english": "some allowances were given to quebec because it was a predominantly",
-		"chinese": "对魁北克给予了一些补贴，因为那里主要是",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/"
-	},
-	{
-		"english": "some allowances were given to quebec because it was a predominantly french",
-		"chinese": "由于魁北克以法语为主，因此得到了一些特殊待遇",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/ /frˈɛːntʃ/"
-	},
-	{
-		"english": "some allowances were given to quebec because it was a predominantly french speaking",
-		"chinese": "对魁北克给予了一些补贴，因为那里以法语为主",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/ /frˈɛːntʃ/ /spˈiːkɪŋ/"
-	},
-	{
-		"english": "some allowances were given to quebec because it was a predominantly french speaking catholic",
-		"chinese": "由于魁北克以法语为主且是天主教地区，因此得到了一些特殊待遇",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/ /frˈɛːntʃ/ /spˈiːkɪŋ/ /kˈæθlɪk/"
-	},
-	{
-		"english": "some allowances were given to quebec because it was a predominantly french speaking catholic province",
-		"chinese": "对魁北克给予了一些补贴，因为那里主要是法语的天主教省份",
-		"soundmark": "/sˈəm/ /əlˈaʊənsɪz/ /wˈɜː/ /ɡˈɪvɪn/ /tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/ /frˈɛːntʃ/ /spˈiːkɪŋ/ /kˈæθlɪk/ /prˈɑːvɪns/"
-	},
-	{
-		"english": "to quebec because it was a predominantly french speaking catholic province and",
-		"chinese": "去魁北克，因为那里是一个以法语为主的天主教省份",
-		"soundmark": "/tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/ /frˈɛːntʃ/ /spˈiːkɪŋ/ /kˈæθlɪk/ /prˈɑːvɪns/ /ˈænd/"
-	},
-	{
-		"english": "to quebec because it was a predominantly french speaking catholic province and had",
-		"chinese": "去魁北克，因为那里是一个以法语为主的天主教省份",
-		"soundmark": "/tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/ /frˈɛːntʃ/ /spˈiːkɪŋ/ /kˈæθlɪk/ /prˈɑːvɪns/ /ˈænd/ /hˈæd/"
-	},
-	{
-		"english": "to quebec because it was a predominantly french speaking catholic province and had special",
-		"chinese": "去魁北克，因为那里是一个以法语为主的天主教省份，并且有特殊之处",
-		"soundmark": "/tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/ /frˈɛːntʃ/ /spˈiːkɪŋ/ /kˈæθlɪk/ /prˈɑːvɪns/ /ˈænd/ /hˈæd/ /spˈɛːʃəl/"
-	},
-	{
-		"english": "to quebec because it was a predominantly french speaking catholic province and had special needs",
-		"chinese": "去魁北克，因为那里主要是法语区的天主教省份，存在特殊需求",
-		"soundmark": "/tə/ /kwəbˈɛːk/ /bɪkəz/ /ɪt/ /wˈɔːz/ /ˈeɪ/ /prɪdˈɑːmənəntliː/ /frˈɛːntʃ/ /spˈiːkɪŋ/ /kˈæθlɪk/ /prˈɑːvɪns/ /ˈænd/ /hˈæd/ /spˈɛːʃəl/ /nˈiːdz/"
-	},
-	{
-		"english": "unlike",
-		"chinese": "与……不同",
-		"soundmark": "/ənlˈaɪk/"
-	},
-	{
-		"english": "unlike other",
-		"chinese": "与其他不同",
-		"soundmark": "/ənlˈaɪk/ /ˈəðɜː/"
-	},
-	{
-		"english": "unlike other provinces",
-		"chinese": "与其他省份不同",
-		"soundmark": "/ənlˈaɪk/ /ˈəðɜː/ /prˈɑːvənsəz/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the colony",
-		"chinese": "殖民地",
-		"soundmark": "/ðiː/ /kˈɑːləniː/"
-	},
-	{
-		"english": "the colony of",
-		"chinese": "殖民地",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/"
-	},
-	{
-		"english": "the colony of nova",
-		"chinese": "诺瓦殖民地",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/"
-	},
-	{
-		"english": "the colony of nova scotia",
-		"chinese": "新斯科舍省殖民地",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/"
-	},
-	{
-		"english": "the colony of nova scotia was",
-		"chinese": "新斯科舍省殖民地",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/ /wˈɔːz/"
-	},
-	{
-		"english": "the colony of nova scotia was divided",
-		"chinese": "新斯科舍殖民地被分割了",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/ /wˈɔːz/ /dɪvˈaɪdəd/"
-	},
-	{
-		"english": "the colony of nova scotia was divided into",
-		"chinese": "新斯科舍殖民地被划分为",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/"
-	},
-	{
-		"english": "the colony of nova scotia was divided into nova",
-		"chinese": "新斯科舍殖民地被划分为新省",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /nˈoʊvə/"
-	},
-	{
-		"english": "the colony of nova scotia was divided into nova scotia",
-		"chinese": "新斯科舍殖民地被划分为新斯科舍",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /nˈoʊvə/ /skˈoʊʃə/"
-	},
-	{
-		"english": "the colony of nova scotia was divided into nova scotia and",
-		"chinese": "新斯科舍殖民地被分为新斯科舍和",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /nˈoʊvə/ /skˈoʊʃə/ /ˈænd/"
-	},
-	{
-		"english": "the colony of nova scotia was divided into nova scotia and new",
-		"chinese": "新斯科舍殖民地被分为新斯科舍和新",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /nˈoʊvə/ /skˈoʊʃə/ /ˈænd/ /njˈuː/"
-	},
-	{
-		"english": "the colony of nova scotia was divided into nova scotia and new brunswick",
-		"chinese": "新斯科舍殖民地被分为新斯科舍和新不伦瑞克",
-		"soundmark": "/ðiː/ /kˈɑːləniː/ /əv/ /nˈoʊvə/ /skˈoʊʃə/ /wˈɔːz/ /dɪvˈaɪdəd/ /ɪntə/ /nˈoʊvə/ /skˈoʊʃə/ /ˈænd/ /njˈuː/ /brˈənzwɪk/"
-	},
-	{
-		"english": "these",
-		"chinese": "这些",
-		"soundmark": "/ðˈiːz/"
-	},
-	{
-		"english": "these four",
-		"chinese": "这四个",
-		"soundmark": "/ðˈiːz/ /fˈɔːr/"
-	},
-	{
-		"english": "these four provinces",
-		"chinese": "这四个省份",
-		"soundmark": "/ðˈiːz/ /fˈɔːr/ /prˈɑːvənsəz/"
-	},
-	{
-		"english": "these four provinces formed",
-		"chinese": "这四个省份形成了",
-		"soundmark": "/ðˈiːz/ /fˈɔːr/ /prˈɑːvənsəz/ /fˈɔːrmd/"
-	},
-	{
-		"english": "these four provinces formed the",
-		"chinese": "这四个省份构成了",
-		"soundmark": "/ðˈiːz/ /fˈɔːr/ /prˈɑːvənsəz/ /fˈɔːrmd/ /ðiː/"
-	},
-	{
-		"english": "these four provinces formed the original",
-		"chinese": "这四个省份构成了最初的形式",
-		"soundmark": "/ðˈiːz/ /fˈɔːr/ /prˈɑːvənsəz/ /fˈɔːrmd/ /ðiː/ /ɜːˈɪdʒənəl/"
-	},
-	{
-		"english": "these four provinces formed the original new",
-		"chinese": "这四个省份构成了最初的新区域",
-		"soundmark": "/ðˈiːz/ /fˈɔːr/ /prˈɑːvənsəz/ /fˈɔːrmd/ /ðiː/ /ɜːˈɪdʒənəl/ /njˈuː/"
-	},
-	{
-		"english": "these four provinces formed the original new nation",
-		"chinese": "这四个省份构成了新的国家雏形",
-		"soundmark": "/ðˈiːz/ /fˈɔːr/ /prˈɑːvənsəz/ /fˈɔːrmd/ /ðiː/ /ɜːˈɪdʒənəl/ /njˈuː/ /nˈeɪʃən/"
-	},
-	{
-		"english": "a",
-		"chinese": "一个",
-		"soundmark": "/ˈeɪ/"
-	},
-	{
-		"english": "a flexible",
-		"chinese": "灵活的",
-		"soundmark": "/ˈeɪ/ /flˈɛːksəbəl/"
-	},
-	{
-		"english": "a flexible approach",
-		"chinese": "灵活的方法",
-		"soundmark": "/ˈeɪ/ /flˈɛːksəbəl/ /əprˈoʊtʃ/"
-	},
-	{
-		"english": "in",
-		"chinese": "在",
-		"soundmark": "/ˈɪn/"
-	},
-	{
-		"english": "in later",
-		"chinese": "后来",
-		"soundmark": "/ˈɪn/ /lˈeɪtɜː/"
-	},
-	{
-		"english": "in later years",
-		"chinese": "晚年",
-		"soundmark": "/ˈɪn/ /lˈeɪtɜː/ /jɜːz/"
-	},
-	{
-		"english": "persuaded",
-		"chinese": "说服",
-		"soundmark": "/pɜːswˈeɪdɪd/"
-	},
-	{
-		"english": "persuaded other",
-		"chinese": "说服他人",
-		"soundmark": "/pɜːswˈeɪdɪd/ /ˈəðɜː/"
-	},
-	{
-		"english": "persuaded other colonies",
-		"chinese": "说服其他殖民地",
-		"soundmark": "/pɜːswˈeɪdɪd/ /ˈəðɜː/ /kˈɑːləniːz/"
-	},
-	{
-		"english": "persuaded other colonies to",
-		"chinese": "说服其他殖民地",
-		"soundmark": "/pɜːswˈeɪdɪd/ /ˈəðɜː/ /kˈɑːləniːz/ /tə/"
-	},
-	{
-		"english": "persuaded other colonies to join",
-		"chinese": "说服其他殖民地加入",
-		"soundmark": "/pɜːswˈeɪdɪd/ /ˈəðɜː/ /kˈɑːləniːz/ /tə/ /dʒˈɔɪn/"
-	},
-	{
-		"english": "a",
-		"chinese": "一个",
-		"soundmark": "/ˈeɪ/"
-	},
-	{
-		"english": "a federal",
-		"chinese": "联邦的",
-		"soundmark": "/ˈeɪ/ /fˈɛːdrəl/"
-	},
-	{
-		"english": "a federal system",
-		"chinese": "联邦制",
-		"soundmark": "/ˈeɪ/ /fˈɛːdrəl/ /sˈɪstəm/"
-	},
-	{
-		"english": "with",
-		"chinese": "与",
-		"soundmark": "/wɪð/"
-	},
-	{
-		"english": "with powers",
-		"chinese": "拥有权力",
-		"soundmark": "/wɪð/ /pˈaʊɜːz/"
-	},
-	{
-		"english": "with powers distributed",
-		"chinese": "权力分散式",
-		"soundmark": "/wɪð/ /pˈaʊɜːz/ /dɪstrˈɪbjətəd/"
-	},
-	{
-		"english": "with powers distributed between",
-		"chinese": "权力分配于各方",
-		"soundmark": "/wɪð/ /pˈaʊɜːz/ /dɪstrˈɪbjətəd/ /biːtwˈiːn/"
-	},
-	{
-		"english": "with powers distributed between the",
-		"chinese": "权力分配在各方之间",
-		"soundmark": "/wɪð/ /pˈaʊɜːz/ /dɪstrˈɪbjətəd/ /biːtwˈiːn/ /ðiː/"
-	},
-	{
-		"english": "with powers distributed between the central",
-		"chinese": "权力在中央与各地之间分配",
-		"soundmark": "/wɪð/ /pˈaʊɜːz/ /dɪstrˈɪbjətəd/ /biːtwˈiːn/ /ðiː/ /sˈɛːntrəl/"
-	},
-	{
-		"english": "with powers distributed between the central and",
-		"chinese": "权力在中央和...之间分配",
-		"soundmark": "/wɪð/ /pˈaʊɜːz/ /dɪstrˈɪbjətəd/ /biːtwˈiːn/ /ðiː/ /sˈɛːntrəl/ /ˈænd/"
-	},
-	{
-		"english": "with powers distributed between the central and provincial",
-		"chinese": "权力在中央和省级之间分配",
-		"soundmark": "/wɪð/ /pˈaʊɜːz/ /dɪstrˈɪbjətəd/ /biːtwˈiːn/ /ðiː/ /sˈɛːntrəl/ /ˈænd/ /prəvˈɪnʃəl/"
-	},
-	{
-		"english": "with powers distributed between the central and provincial governments",
-		"chinese": "权力由中央政府和省级政府共同分配",
-		"soundmark": "/wɪð/ /pˈaʊɜːz/ /dɪstrˈɪbjətəd/ /biːtwˈiːn/ /ðiː/ /sˈɛːntrəl/ /ˈænd/ /prəvˈɪnʃəl/ /ɡˈəvɜːnmənts/"
-	},
-	{
-		"english": "was",
-		"chinese": "是",
-		"soundmark": "/wˈɔːz/"
-	},
-	{
-		"english": "was created",
-		"chinese": "已创建",
-		"soundmark": "/wˈɔːz/ /kriːˈeɪtɪd/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the provinces",
-		"chinese": "各省",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/"
-	},
-	{
-		"english": "the provinces were",
-		"chinese": "各省份",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/"
-	},
-	{
-		"english": "the provinces were assigned",
-		"chinese": "各省份被分配了",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/"
-	},
-	{
-		"english": "the provinces were assigned powers",
-		"chinese": "各省份被赋予权力",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/"
-	},
-	{
-		"english": "the provinces were assigned powers to",
-		"chinese": "各省份被赋予权力",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/"
-	},
-	{
-		"english": "the provinces were assigned powers to have",
-		"chinese": "各省份被赋予权力来行使",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/"
-	},
-	{
-		"english": "the provinces were assigned powers to have their",
-		"chinese": "各省份被赋予权力来管理自己的事务",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/"
-	},
-	{
-		"english": "the provinces were assigned powers to have their own",
-		"chinese": "各省份被赋予权力以拥有自己的",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/"
-	},
-	{
-		"english": "the provinces were assigned powers to have their own governments",
-		"chinese": "各省份被赋予权力，以建立自己的政府",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/"
-	},
-	{
-		"english": "the provinces were assigned powers to have their own governments to",
-		"chinese": "各省份被赋予权力，以建立自己的政府",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/ /tə/"
-	},
-	{
-		"english": "the provinces were assigned powers to have their own governments to deal",
-		"chinese": "各省份被赋予权力，拥有自己的政府来处理事务",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/ /tə/ /dˈiːl/"
-	},
-	{
-		"english": "the provinces were assigned powers to have their own governments to deal with",
-		"chinese": "各省份被赋予权力，拥有自己的政府来处理事务",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/ /tə/ /dˈiːl/ /wɪð/"
-	},
-	{
-		"english": "the provinces were assigned powers to have their own governments to deal with more",
-		"chinese": "各省份被赋予权力，拥有自己的政府来处理更多事务",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/ /tə/ /dˈiːl/ /wɪð/ /mˈɔːr/"
-	},
-	{
-		"english": "the provinces were assigned powers to have their own governments to deal with more local",
-		"chinese": "各省份被赋予权力，拥有自己的政府来处理更具体的事务",
-		"soundmark": "/ðiː/ /prˈɑːvənsəz/ /wˈɜː/ /əsˈaɪnd/ /pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/ /tə/ /dˈiːl/ /wɪð/ /mˈɔːr/ /lˈoʊkəl/"
-	},
-	{
-		"english": "powers to have their own governments to deal with more local or",
-		"chinese": "拥有建立自身政府的权利，以处理更多本地事务",
-		"soundmark": "/pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/ /tə/ /dˈiːl/ /wɪð/ /mˈɔːr/ /lˈoʊkəl/ /ɜː/"
-	},
-	{
-		"english": "powers to have their own governments to deal with more local or provincial",
-		"chinese": "拥有自己政府来处理更多地方或省级事务的权力",
-		"soundmark": "/pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/ /tə/ /dˈiːl/ /wɪð/ /mˈɔːr/ /lˈoʊkəl/ /ɜː/ /prəvˈɪnʃəl/"
-	},
-	{
-		"english": "powers to have their own governments to deal with more local or provincial issues",
-		"chinese": "拥有建立自己政府的权利，以处理更多本地或省级问题",
-		"soundmark": "/pˈaʊɜːz/ /tə/ /hˈæv/ /ðˈɛːr/ /ˈoʊn/ /ɡˈəvɜːnmənts/ /tə/ /dˈiːl/ /wɪð/ /mˈɔːr/ /lˈoʊkəl/ /ɜː/ /prəvˈɪnʃəl/ /ˈɪʃuːz/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the federal",
-		"chinese": "联邦政府",
-		"soundmark": "/ðiː/ /fˈɛːdrəl/"
-	},
-	{
-		"english": "the federal system",
-		"chinese": "联邦制",
-		"soundmark": "/ðiː/ /fˈɛːdrəl/ /sˈɪstəm/"
-	},
-	{
-		"english": "the federal system would",
-		"chinese": "联邦制将会",
-		"soundmark": "/ðiː/ /fˈɛːdrəl/ /sˈɪstəm/ /wˈʊd/"
-	},
-	{
-		"english": "the federal system would promote",
-		"chinese": "联邦制会促进",
-		"soundmark": "/ðiː/ /fˈɛːdrəl/ /sˈɪstəm/ /wˈʊd/ /prəmˈoʊt/"
-	},
-	{
-		"english": "the federal system would promote harmony",
-		"chinese": "联邦制会促进和谐",
-		"soundmark": "/ðiː/ /fˈɛːdrəl/ /sˈɪstəm/ /wˈʊd/ /prəmˈoʊt/ /hˈɑːrməniː/"
-	},
-	{
-		"english": "the federal system would promote harmony among",
-		"chinese": "联邦制将促进各方之间的和谐",
-		"soundmark": "/ðiː/ /fˈɛːdrəl/ /sˈɪstəm/ /wˈʊd/ /prəmˈoʊt/ /hˈɑːrməniː/ /əmˈəŋ/"
-	},
-	{
-		"english": "the federal system would promote harmony among provinces",
-		"chinese": "联邦制将促进各省份之间的和谐",
-		"soundmark": "/ðiː/ /fˈɛːdrəl/ /sˈɪstəm/ /wˈʊd/ /prəmˈoʊt/ /hˈɑːrməniː/ /əmˈəŋ/ /prˈɑːvənsəz/"
-	},
-	{
-		"english": "with",
-		"chinese": "与",
-		"soundmark": "/wɪð/"
-	},
-	{
-		"english": "with different",
-		"chinese": "不同的",
-		"soundmark": "/wɪð/ /dˈɪfrənt/"
-	},
-	{
-		"english": "with different perspectives",
-		"chinese": "从不同角度",
-		"soundmark": "/wɪð/ /dˈɪfrənt/ /pɜːspˈɛːktɪvz/"
-	},
-	{
-		"english": "with different perspectives on",
-		"chinese": "持有不同的观点",
-		"soundmark": "/wɪð/ /dˈɪfrənt/ /pɜːspˈɛːktɪvz/ /ˈɔːn/"
-	},
-	{
-		"english": "with different perspectives on nationhood",
-		"chinese": "对国家身份的不同看法",
-		"soundmark": "/wɪð/ /dˈɪfrənt/ /pɜːspˈɛːktɪvz/ /ˈɔːn/ /nˈeɪʃənhˌʊd/"
-	},
-	{
-		"english": "this",
-		"chinese": "这个",
-		"soundmark": "/ðɪs/"
-	},
-	{
-		"english": "this was",
-		"chinese": "这就是",
-		"soundmark": "/ðɪs/ /wˈɔːz/"
-	},
-	{
-		"english": "this was a",
-		"chinese": "这是……",
-		"soundmark": "/ðɪs/ /wˈɔːz/ /ˈeɪ/"
-	},
-	{
-		"english": "this was a compromise",
-		"chinese": "这是一种妥协",
-		"soundmark": "/ðɪs/ /wˈɔːz/ /ˈeɪ/ /kˈɑːmprəmˌaɪz/"
-	},
-	{
-		"english": "so",
-		"chinese": "所以",
-		"soundmark": "/sˈoʊ/"
-	},
-	{
-		"english": "so that",
-		"chinese": "以便",
-		"soundmark": "/sˈoʊ/ /ðət/"
-	},
-	{
-		"english": "so that the",
-		"chinese": "以便",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/"
-	},
-	{
-		"english": "so that the bigger",
-		"chinese": "以便更大",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/"
-	},
-	{
-		"english": "so that the bigger provinces",
-		"chinese": "以便更大的省份",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/"
-	},
-	{
-		"english": "so that the bigger provinces of",
-		"chinese": "以便更大的省份能够",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario",
-		"chinese": "以便让安大略省那些较大的省份能够……",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario and",
-		"chinese": "以便让更大的省份如安大略省能够",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario and quebec",
-		"chinese": "以便让安大略和魁北克这些较大的省份能够……",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario and quebec wouldn",
-		"chinese": "以便让较大的省份如安大略和魁北克能够",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario and quebec wouldn t",
-		"chinese": "以便安大略和魁北克这些较大的省份不会",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/ /tˈiː/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario and quebec wouldn t completely",
-		"chinese": "以便安大略和魁北克这些较大的省份不会完全",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/ /tˈiː/ /kəmplˈiːtliː/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario and quebec wouldn t completely dominate",
-		"chinese": "以便安大略和魁北克这些较大的省份不会完全占据主导地位",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/ /tˈiː/ /kəmplˈiːtliː/ /dˈɑːmənˌeɪt/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario and quebec wouldn t completely dominate the",
-		"chinese": "以便安大略和魁北克这些较大的省份不会完全占据主导",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/ /tˈiː/ /kəmplˈiːtliː/ /dˈɑːmənˌeɪt/ /ðiː/"
-	},
-	{
-		"english": "so that the bigger provinces of ontario and quebec wouldn t completely dominate the smaller",
-		"chinese": "以便安大略和魁北克这些较大的省份不会完全主导较小的地区",
-		"soundmark": "/sˈoʊ/ /ðət/ /ðiː/ /bˈɪɡɜː/ /prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/ /tˈiː/ /kəmplˈiːtliː/ /dˈɑːmənˌeɪt/ /ðiː/ /smˈɔːlɜː/"
-	},
-	{
-		"english": "provinces of ontario and quebec wouldn t completely dominate the smaller provinces",
-		"chinese": "安大略和魁北克省不会完全主导较小的省份",
-		"soundmark": "/prˈɑːvənsəz/ /əv/ /ɑːntˈɛːriːoʊ/ /ˈænd/ /kwəbˈɛːk/ /tˈiː/ /kəmplˈiːtliː/ /dˈɑːmənˌeɪt/ /ðiː/ /smˈɔːlɜː/ /prˈɑːvənsəz/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the country",
-		"chinese": "这个国家",
-		"soundmark": "/ðiː/ /kˈəntriː/"
-	},
-	{
-		"english": "the country was",
-		"chinese": "这个国家",
-		"soundmark": "/ðiː/ /kˈəntriː/ /wˈɔːz/"
-	},
-	{
-		"english": "the country was to",
-		"chinese": "这个国家即将……",
-		"soundmark": "/ðiː/ /kˈəntriː/ /wˈɔːz/ /tə/"
-	},
-	{
-		"english": "the country was to be",
-		"chinese": "这个国家将会……",
-		"soundmark": "/ðiː/ /kˈəntriː/ /wˈɔːz/ /tə/ /biː/"
-	},
-	{
-		"english": "the country was to be called",
-		"chinese": "这个国家将被命名为",
-		"soundmark": "/ðiː/ /kˈəntriː/ /wˈɔːz/ /tə/ /biː/ /kˈɔːld/"
-	},
-	{
-		"english": "the country was to be called the",
-		"chinese": "这个国家将被命名为……",
-		"soundmark": "/ðiː/ /kˈəntriː/ /wˈɔːz/ /tə/ /biː/ /kˈɔːld/ /ðiː/"
-	},
-	{
-		"english": "the country was to be called the dominion",
-		"chinese": "这个国家将被命名为“统治地”",
-		"soundmark": "/ðiː/ /kˈəntriː/ /wˈɔːz/ /tə/ /biː/ /kˈɔːld/ /ðiː/ /dəmˈɪnjən/"
-	},
-	{
-		"english": "the country was to be called the dominion of",
-		"chinese": "这个国家将被命名为统治地",
-		"soundmark": "/ðiː/ /kˈəntriː/ /wˈɔːz/ /tə/ /biː/ /kˈɔːld/ /ðiː/ /dəmˈɪnjən/ /əv/"
-	},
-	{
-		"english": "the country was to be called the dominion of canada",
-		"chinese": "这个国家将被命名为加拿大领地",
-		"soundmark": "/ðiː/ /kˈəntriː/ /wˈɔːz/ /tə/ /biː/ /kˈɔːld/ /ðiː/ /dəmˈɪnjən/ /əv/ /kˈænədə/"
-	},
-	{
-		"english": "but",
-		"chinese": "但",
-		"soundmark": "/bˈət/"
-	},
-	{
-		"english": "but would",
-		"chinese": "但会",
-		"soundmark": "/bˈət/ /wˈʊd/"
-	},
-	{
-		"english": "but would still",
-		"chinese": "但依然会",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/"
-	},
-	{
-		"english": "but would still remain",
-		"chinese": "但依然会存在",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/"
-	},
-	{
-		"english": "but would still remain loyal",
-		"chinese": "但依然会保持忠诚",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/"
-	},
-	{
-		"english": "but would still remain loyal to",
-		"chinese": "但仍会保持忠诚",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/"
-	},
-	{
-		"english": "but would still remain loyal to britain",
-		"chinese": "但仍会忠于英国",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/ /brˈɪtən/"
-	},
-	{
-		"english": "but would still remain loyal to britain as",
-		"chinese": "但依然会忠于英国",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/ /brˈɪtən/ /ˈɛːz/"
-	},
-	{
-		"english": "but would still remain loyal to britain as a",
-		"chinese": "但依然会忠于英国",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/ /brˈɪtən/ /ˈɛːz/ /ˈeɪ/"
-	},
-	{
-		"english": "but would still remain loyal to britain as a member",
-		"chinese": "但仍会作为成员对英国保持忠诚",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/ /brˈɪtən/ /ˈɛːz/ /ˈeɪ/ /mˈɛːmbɜː/"
-	},
-	{
-		"english": "but would still remain loyal to britain as a member of",
-		"chinese": "但作为英国成员，仍会保持忠诚",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/ /brˈɪtən/ /ˈɛːz/ /ˈeɪ/ /mˈɛːmbɜː/ /əv/"
-	},
-	{
-		"english": "but would still remain loyal to britain as a member of the",
-		"chinese": "但作为英国成员，仍会保持忠诚",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/ /brˈɪtən/ /ˈɛːz/ /ˈeɪ/ /mˈɛːmbɜː/ /əv/ /ðiː/"
-	},
-	{
-		"english": "but would still remain loyal to britain as a member of the british",
-		"chinese": "但仍会作为英国成员对英国保持忠诚",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/ /brˈɪtən/ /ˈɛːz/ /ˈeɪ/ /mˈɛːmbɜː/ /əv/ /ðiː/ /brˈɪtɪʃ/"
-	},
-	{
-		"english": "but would still remain loyal to britain as a member of the british empire",
-		"chinese": "但仍会作为英帝国的一员对英国保持忠诚",
-		"soundmark": "/bˈət/ /wˈʊd/ /stˈɪl/ /riːmˈeɪn/ /lˈɔɪəl/ /tə/ /brˈɪtən/ /ˈɛːz/ /ˈeɪ/ /mˈɛːmbɜː/ /əv/ /ðiː/ /brˈɪtɪʃ/ /ˈɛːmpaɪɜː/"
-	}
+  {
+    "english": "Among",
+    "chinese": "其中",
+    "soundmark": "/əmˈəŋ/"
+  },
+  {
+    "english": "Among the",
+    "chinese": "在之中"
+  },
+  {
+    "english": "Among the contents",
+    "chinese": "在内容中"
+  },
+  {
+    "english": "Among the contents of",
+    "chinese": "在工具箱的内容中"
+  },
+  {
+    "english": "Among the contents of the",
+    "chinese": "在大多数工具箱的内容中"
+  },
+  {
+    "english": "Among the contents of the toolboxes",
+    "chinese": "在大多数人的工具箱的内容中"
+  },
+  {
+    "english": "Among the contents of the toolboxes of",
+    "chinese": "在西部世界大多数人的工具箱的内容中"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most",
+    "chinese": "在西部世界大多数人的工具箱的内容中"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people",
+    "chinese": "在西部世界大多数人的工具箱的内容中"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in",
+    "chinese": "在西部世界大多数人的工具箱的内容中，你"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the",
+    "chinese": "在西部世界大多数人的工具箱的内容中，你可能会"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western",
+    "chinese": "在西部世界大多数人的工具箱的内容中，你期望"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western world",
+    "chinese": "在西部世界大多数人的工具箱的内容中，你期望能找到"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western world you",
+    "chinese": "在西部世界大多数人的工具箱的内容中，你期望能找到一把"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western world you would",
+    "chinese": "在西部世界大多数人的工具箱的内容中，你期望能找到一把锤子"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western world you would expect",
+    "chinese": "在西方世界大多数人的工具箱中，你可能会看到这些内容"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western world you would expect to",
+    "chinese": "在西方世界大多数人的工具箱中，你可能会看到"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western world you would expect to find",
+    "chinese": "在西方世界大多数人的工具箱中，你可能会发现"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western world you would expect to find a",
+    "chinese": "在西方世界大多数人的工具箱中，你可能会发现一些……"
+  },
+  {
+    "english": "Among the contents of the toolboxes of most people in the western world you would expect to find a hammer",
+    "chinese": "在西方世界大多数人的工具箱中，你可能会发现一把锤子"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and nails",
+    "chinese": "以及钉子，"
+  },
+  {
+    "english": "and nails a",
+    "chinese": "以及钉子，一把"
+  },
+  {
+    "english": "and nails a drill",
+    "chinese": "以及钉子，一把螺丝刀，"
+  },
+  {
+    "english": "and nails a drill screwdrivers",
+    "chinese": "以及钉子、钻机、螺丝刀"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and some",
+    "chinese": "和一些"
+  },
+  {
+    "english": "and some screws",
+    "chinese": "还有一些螺丝。"
+  },
+  {
+    "english": "But",
+    "chinese": "但是",
+    "soundmark": "/bˈət/"
+  },
+  {
+    "english": "But if",
+    "chinese": "但是如果"
+  },
+  {
+    "english": "But if you",
+    "chinese": "但是如果你"
+  },
+  {
+    "english": "But if you were",
+    "chinese": "但是如果你是"
+  },
+  {
+    "english": "But if you were to",
+    "chinese": "但是如果你要"
+  },
+  {
+    "english": "But if you were to ask",
+    "chinese": "但是如果你要询问"
+  },
+  {
+    "english": "But if you were to ask people",
+    "chinese": "但是如果你要询问人们"
+  },
+  {
+    "english": "But if you were to ask people from",
+    "chinese": "但是如果你要询问来自"
+  },
+  {
+    "english": "But if you were to ask people from North",
+    "chinese": "但是如果你要询问来自北方的"
+  },
+  {
+    "english": "But if you were to ask people from North America",
+    "chinese": "人们"
+  },
+  {
+    "english": "But if you were to ask people from North America what",
+    "chinese": "但是如果你要询问来自北美的"
+  },
+  {
+    "english": "But if you were to ask people from North America what the",
+    "chinese": "人们"
+  },
+  {
+    "english": "But if you were to ask people from North America what the most",
+    "chinese": "但是如果你要询问来自北美的什么"
+  },
+  {
+    "english": "But if you were to ask people from North America what the most useful",
+    "chinese": "但是如果你要询问来自北美的什么"
+  },
+  {
+    "english": "But if you were to ask people from North America what the most useful item",
+    "chinese": "但是如果你要询问来自北美的什么最"
+  },
+  {
+    "english": "But if you were to ask people from North America what the most useful item in",
+    "chinese": "但是如果你要询问来自北美的什么最有用"
+  },
+  {
+    "english": "But if you were to ask people from North America what the most useful item in their",
+    "chinese": "但是如果你要询问来自北美的什么最有用的物品"
+  },
+  {
+    "english": "But if you were to ask people from North America what the most useful item in their toolboxes",
+    "chinese": "但是如果你要询问来自北美的什么最有用的物品"
+  },
+  {
+    "english": "But if you were to ask people from North America what the most useful item in their toolboxes was",
+    "chinese": "但如果你问北美的人们他们的工具箱中最有用的物品是什么"
+  },
+  {
+    "english": "the",
+    "chinese": "那个",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "the majority",
+    "chinese": "大多数"
+  },
+  {
+    "english": "the majority of",
+    "chinese": "大多数人的"
+  },
+  {
+    "english": "the majority of people",
+    "chinese": "大多数人会"
+  },
+  {
+    "english": "the majority of people would",
+    "chinese": "大多数人无疑会"
+  },
+  {
+    "english": "the majority of people would undoubtedly",
+    "chinese": "大多数人无疑会告诉你"
+  },
+  {
+    "english": "the majority of people would undoubtedly tell",
+    "chinese": "大多数人无疑会告诉"
+  },
+  {
+    "english": "the majority of people would undoubtedly tell you",
+    "chinese": "大多数人无疑会告诉你"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that it",
+    "chinese": "那就是"
+  },
+  {
+    "english": "that it was",
+    "chinese": "那是"
+  },
+  {
+    "english": "that it was duct",
+    "chinese": "那是管道"
+  },
+  {
+    "english": "that it was duct tape",
+    "chinese": "那是胶带。"
+  },
+  {
+    "english": "Indeed",
+    "chinese": "确实",
+    "soundmark": "/ɪndˈiːd/"
+  },
+  {
+    "english": "it",
+    "chinese": "它",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "english": "it has",
+    "chinese": "它已经"
+  },
+  {
+    "english": "it has become",
+    "chinese": "它已经成为了"
+  },
+  {
+    "english": "it has become an",
+    "chinese": "它已经成为了一个不可或缺的"
+  },
+  {
+    "english": "it has become an indispensable",
+    "chinese": "它已经成为了一个不可或缺的补充"
+  },
+  {
+    "english": "it has become an indispensable addition",
+    "chinese": "它已经成为了一个不可或缺的补充到"
+  },
+  {
+    "english": "it has become an indispensable addition to",
+    "chinese": "它已经成为了一个不可或缺的补充到每个人"
+  },
+  {
+    "english": "it has become an indispensable addition to every",
+    "chinese": "它已经成为了一个不可或缺的补充到每个人的认知中"
+  },
+  {
+    "english": "it has become an indispensable addition to every persons",
+    "chinese": "它已经成为了一个不可或缺的补充到每个人对什么的认知中"
+  },
+  {
+    "english": "it has become an indispensable addition to every persons perception",
+    "chinese": "它已经成为了一个不可或缺的补充到每个人对什么属于必要的认知中"
+  },
+  {
+    "english": "it has become an indispensable addition to every persons perception of",
+    "chinese": "它已成为每个人认知中不可或缺的一部分"
+  },
+  {
+    "english": "it has become an indispensable addition to every persons perception of what",
+    "chinese": "它已成为每个人对事物的认知中不可或缺的一部分"
+  },
+  {
+    "english": "it has become an indispensable addition to every persons perception of what constitutes",
+    "chinese": "它已成为每个人对什么是构成……认知中不可或缺的一部分"
+  },
+  {
+    "english": "it has become an indispensable addition to every persons perception of what constitutes necessity",
+    "chinese": "它已成为每个人对什么是必需品认知中不可或缺的一部分。"
+  },
+  {
+    "english": "Maybe",
+    "chinese": "也许",
+    "soundmark": "/mˈeɪbiː/"
+  },
+  {
+    "english": "Maybe you",
+    "chinese": "也许你"
+  },
+  {
+    "english": "Maybe you have",
+    "chinese": "也许你拥有"
+  },
+  {
+    "english": "Maybe you have never",
+    "chinese": "也许你从未拥有过"
+  },
+  {
+    "english": "Maybe you have never heard",
+    "chinese": "也许你从未听说过"
+  },
+  {
+    "english": "Maybe you have never heard of",
+    "chinese": "也许你从未听说过管道"
+  },
+  {
+    "english": "Maybe you have never heard of duct",
+    "chinese": "也许你从未听说过胶带"
+  },
+  {
+    "english": "Maybe you have never heard of duct tape",
+    "chinese": "也许你从未听说过管道胶带。"
+  },
+  {
+    "english": "It",
+    "chinese": "它",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "english": "It is",
+    "chinese": "它是"
+  },
+  {
+    "english": "It is the",
+    "chinese": "它是那个品牌"
+  },
+  {
+    "english": "It is the brand",
+    "chinese": "它是该品牌名称"
+  },
+  {
+    "english": "It is the brand name",
+    "chinese": "它是某品牌的品牌名称"
+  },
+  {
+    "english": "It is the brand name of",
+    "chinese": "它是某卷带品牌的品牌名称"
+  },
+  {
+    "english": "It is the brand name of a",
+    "chinese": "这是某个品牌的名称。"
+  },
+  {
+    "english": "It is the brand name of a tape",
+    "chinese": "这是一种磁带的品牌名称。"
+  },
+  {
+    "english": "Not",
+    "chinese": "不是",
+    "soundmark": "/nˈɑːt/"
+  },
+  {
+    "english": "Not only",
+    "chinese": "不仅"
+  },
+  {
+    "english": "Not only is",
+    "chinese": "不仅"
+  },
+  {
+    "english": "Not only is it",
+    "chinese": "不仅如此"
+  },
+  {
+    "english": "Not only is it a",
+    "chinese": "不仅它是"
+  },
+  {
+    "english": "Not only is it a tape",
+    "chinese": "它不仅是一盘磁带，"
+  },
+  {
+    "english": "but",
+    "chinese": "但",
+    "soundmark": "/bˈət/"
+  },
+  {
+    "english": "but also",
+    "chinese": "但此外"
+  },
+  {
+    "english": "but also it",
+    "chinese": "但此外，它"
+  },
+  {
+    "english": "but also it is",
+    "chinese": "但此外，它是"
+  },
+  {
+    "english": "but also it is a",
+    "chinese": "但此外，它是一种"
+  },
+  {
+    "english": "but also it is a special",
+    "chinese": "但此外，它是一种特殊的东西"
+  },
+  {
+    "english": "but also it is a special kind of",
+    "chinese": "但此外，它是一种特殊的类型"
+  },
+  {
+    "english": "but also it is a special kind of tape",
+    "chinese": "而且它也是一种特殊的胶带。"
+  },
+  {
+    "english": "The",
+    "chinese": "那个名字",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The name",
+    "chinese": "名字"
+  },
+  {
+    "english": "The name of",
+    "chinese": "名字"
+  },
+  {
+    "english": "The name of the",
+    "chinese": "名字"
+  },
+  {
+    "english": "The name of the tape",
+    "chinese": "磁带的名称"
+  },
+  {
+    "english": "The name of the tape comes",
+    "chinese": "磁带的名称是"
+  },
+  {
+    "english": "The name of the tape comes from",
+    "chinese": "磁带的名称来源于"
+  },
+  {
+    "english": "The name of the tape comes from the",
+    "chinese": "磁带的名称来源于"
+  },
+  {
+    "english": "The name of the tape comes from the fact",
+    "chinese": "磁带的名称源于这一事实"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that it",
+    "chinese": "那个是"
+  },
+  {
+    "english": "that it was",
+    "chinese": "那个原本是"
+  },
+  {
+    "english": "that it was designed",
+    "chinese": "那个被设计成"
+  },
+  {
+    "english": "that it was designed as",
+    "chinese": "被设计为"
+  },
+  {
+    "english": "that it was designed as an",
+    "chinese": "被设计为一种"
+  },
+  {
+    "english": "that it was designed as an insulating",
+    "chinese": "被设计为一种绝缘材料"
+  },
+  {
+    "english": "that it was designed as an insulating tape",
+    "chinese": "它是被设计成一种绝缘带"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that can",
+    "chinese": "那个可以"
+  },
+  {
+    "english": "that can be",
+    "chinese": "那可以"
+  },
+  {
+    "english": "that can be used",
+    "chinese": "可以使用的"
+  },
+  {
+    "english": "that can be used in",
+    "chinese": "可以用于"
+  },
+  {
+    "english": "that can be used in duct",
+    "chinese": "可用于管道中"
+  },
+  {
+    "english": "that can be used in duct work",
+    "chinese": "可用于管道系统中"
+  },
+  {
+    "english": "that can be used in duct work channels",
+    "chinese": "可用于管道系统（通道）"
+  },
+  {
+    "english": "or",
+    "chinese": "或",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or conduits",
+    "chinese": "或管道"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that are",
+    "chinese": "那些是"
+  },
+  {
+    "english": "that are used",
+    "chinese": "那些被使用"
+  },
+  {
+    "english": "that are used for",
+    "chinese": "那些被用于加热"
+  },
+  {
+    "english": "that are used for heat",
+    "chinese": "那些被用于加热以…"
+  },
+  {
+    "english": "that are used for heat to",
+    "chinese": "那些被用于加热以传递"
+  },
+  {
+    "english": "that are used for heat to travel",
+    "chinese": "那些被用于加热以传递通过"
+  },
+  {
+    "english": "that are used for heat to travel through",
+    "chinese": "那些被用于加热以传递通过以到达"
+  },
+  {
+    "english": "that are used for heat to travel through to",
+    "chinese": "那些被用于加热以传递通过以到达不同地方"
+  },
+  {
+    "english": "that are used for heat to travel through to get",
+    "chinese": "那些被用于加热以传递通过以到达不同区域"
+  },
+  {
+    "english": "that are used for heat to travel through to get to",
+    "chinese": "那些被用于加热以传递通过以到达某建筑的不同区域"
+  },
+  {
+    "english": "that are used for heat to travel through to get to different",
+    "chinese": "那些用于热量传递以到达不同地方的东西"
+  },
+  {
+    "english": "that are used for heat to travel through to get to different areas",
+    "chinese": "用于让热量传播到不同区域"
+  },
+  {
+    "english": "that are used for heat to travel through to get to different areas of",
+    "chinese": "用于让热量传播到不同区域"
+  },
+  {
+    "english": "that are used for heat to travel through to get to different areas of a",
+    "chinese": "用于让热量传播到不同区域的"
+  },
+  {
+    "english": "that are used for heat to travel through to get to different areas of a building",
+    "chinese": "用于让热量传播到建筑物的不同区域。"
+  },
+  {
+    "english": "Incredible",
+    "chinese": "难以置信",
+    "soundmark": "/ɪnkrˈɛːdəbəl/"
+  },
+  {
+    "english": "though",
+    "chinese": "尽管",
+    "soundmark": "/ðˈoʊ/"
+  },
+  {
+    "english": "though it",
+    "chinese": "尽管它"
+  },
+  {
+    "english": "though it seems",
+    "chinese": "尽管看起来如此"
+  },
+  {
+    "english": "someone",
+    "chinese": "有人",
+    "soundmark": "/sˈəmwˌən/"
+  },
+  {
+    "english": "someone actually",
+    "chinese": "实际上有人"
+  },
+  {
+    "english": "someone actually put",
+    "chinese": "实际上有人放了"
+  },
+  {
+    "english": "someone actually put a",
+    "chinese": "实际上有人放了一张"
+  },
+  {
+    "english": "someone actually put a picture",
+    "chinese": "实际上有人放了一张照片"
+  },
+  {
+    "english": "someone actually put a picture of",
+    "chinese": "实际上有人放了一张关于……的照片"
+  },
+  {
+    "english": "someone actually put a picture of a",
+    "chinese": "实际上有人放了一张关于鸭子的照片"
+  },
+  {
+    "english": "someone actually put a picture of a duck",
+    "chinese": "实际上有人放了一张关于鸭子的照片在……"
+  },
+  {
+    "english": "someone actually put a picture of a duck on",
+    "chinese": "实际上有人放了一张关于鸭子的照片在包装上"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the",
+    "chinese": "实际上有人放了一张关于鸭子的照片在包装上……"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging",
+    "chinese": "实际上有人放了一张关于鸭子的照片在包装上那卷胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of",
+    "chinese": "实际上有人放了一张关于鸭子的照片在包装上那卷来自……的胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the",
+    "chinese": "实际上有人放了一张关于鸭子的照片在包装上那卷来自某家……的胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape",
+    "chinese": "实际上有人放了一张关于鸭子的照片在包装上那卷来自某家制造商的胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape from",
+    "chinese": "也许有人放了一张关于鸭子的照片在包装上那卷来自某家制造商的胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape from one",
+    "chinese": "也许仅仅有人放了一张关于鸭子的照片在包装上那卷来自某家制造商的胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape from one manufacturer",
+    "chinese": "也许仅仅就像有人放了一张关于鸭子的照片在包装上那卷来自某家制造商的胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape from one manufacturer perhaps",
+    "chinese": "也许仅仅就像作为有人放了一张关于鸭子的照片在包装上那卷来自某家制造商的胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape from one manufacturer perhaps just",
+    "chinese": "也许仅仅就像作为一个有人放了一张关于鸭子的照片在包装上那卷来自某家制造商的胶带里"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape from one manufacturer perhaps just as",
+    "chinese": "也许真的有人在某个制造商的磁带包装上放了一张鸭子的图片。"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape from one manufacturer perhaps just as a",
+    "chinese": "也许真的有人在某个制造商的磁带包装上放了一张鸭子的图片，仅仅是为了……"
+  },
+  {
+    "english": "someone actually put a picture of a duck on the packaging of the tape from one manufacturer perhaps just as a joke",
+    "chinese": "也许只是开玩笑，有人真的在某个制造商的磁带包装上放了一张鸭子的图片"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or maybe",
+    "chinese": "或者也许"
+  },
+  {
+    "english": "or maybe because",
+    "chinese": "或者也许因为"
+  },
+  {
+    "english": "or maybe because the",
+    "chinese": "或者也许因为设计"
+  },
+  {
+    "english": "or maybe because the design",
+    "chinese": "或者也许因为设计艺术家"
+  },
+  {
+    "english": "or maybe because the design artist",
+    "chinese": "或者也许因为设计艺术家做了某事"
+  },
+  {
+    "english": "or maybe because the design artist did",
+    "chinese": "或者也许因为设计艺术家没有做"
+  },
+  {
+    "english": "or maybe because the design artist did not",
+    "chinese": "或者也许因为设计艺术家没有理解"
+  },
+  {
+    "english": "or maybe because the design artist did not understand",
+    "chinese": "或者也许因为设计艺术家没有理解……"
+  },
+  {
+    "english": "or maybe because the design artist did not understand the",
+    "chinese": "或者也许因为设计艺术家没有理解起源"
+  },
+  {
+    "english": "or maybe because the design artist did not understand the origin",
+    "chinese": "或者也许因为设计艺术家没有理解……的起源"
+  },
+  {
+    "english": "or maybe because the design artist did not understand the origin of",
+    "chinese": "或者也许因为设计艺术家没有理解……名字的起源"
+  },
+  {
+    "english": "or maybe because the design artist did not understand the origin of the",
+    "chinese": "或者也许是因为设计艺术家不明白其起源"
+  },
+  {
+    "english": "or maybe because the design artist did not understand the origin of the name",
+    "chinese": "或者可能是因为设计艺术家不明白这个名字的由来。"
+  },
+  {
+    "english": "Neither",
+    "chinese": "没有",
+    "soundmark": "/nˈaɪðɜː/"
+  },
+  {
+    "english": "Neither the",
+    "chinese": "没有那个"
+  },
+  {
+    "english": "Neither the word",
+    "chinese": "没有那个词"
+  },
+  {
+    "english": "Neither the word duck",
+    "chinese": "没有那个词鸭子"
+  },
+  {
+    "english": "Neither the word duck nor",
+    "chinese": "没有那个词鸭子，也没有管道"
+  },
+  {
+    "english": "Neither the word duck nor duct",
+    "chinese": "没有那个词鸭子，也没有管道是"
+  },
+  {
+    "english": "Neither the word duck nor duct was",
+    "chinese": "没有那个词鸭子，也没有管道在"
+  },
+  {
+    "english": "Neither the word duck nor duct was on",
+    "chinese": "没有那个词鸭子，也没有管道在标签上"
+  },
+  {
+    "english": "Neither the word duck nor duct was on the",
+    "chinese": "neither“duck” nor“duct”这个词出现在……上"
+  },
+  {
+    "english": "Neither the word duck nor duct was on the label",
+    "chinese": "标签上既没有“duck”这个词，也没有“duct”。"
+  },
+  {
+    "english": "Presumably",
+    "chinese": "大概，",
+    "soundmark": "/priːzˈuːməbliː/"
+  },
+  {
+    "english": "Presumably it",
+    "chinese": "大概，它是…"
+  },
+  {
+    "english": "Presumably it was",
+    "chinese": "大概，它是被假设的"
+  },
+  {
+    "english": "Presumably it was assumed",
+    "chinese": "大概，这是假设出来的"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that everyone",
+    "chinese": "那个每个人"
+  },
+  {
+    "english": "that everyone could",
+    "chinese": "那个每个人都能"
+  },
+  {
+    "english": "that everyone could identify",
+    "chinese": "那个每个人都能识别"
+  },
+  {
+    "english": "that everyone could identify the",
+    "chinese": "那个每个人都能识别该产品"
+  },
+  {
+    "english": "that everyone could identify the product",
+    "chinese": "每个人都能认出该产品。"
+  }
 ]

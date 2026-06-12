@@ -1,437 +1,816 @@
 [
-	{
-		"english": "i was reminded of",
-		"chinese": "这让我想起了",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/"
-	},
-	{
-		"english": "i was reminded of the",
-		"chinese": "这让我想起了……",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/"
-	},
-	{
-		"english": "i was reminded of the extreme",
-		"chinese": "这让我想起了极度的状态",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/"
-	},
-	{
-		"english": "i was reminded of the extreme weather",
-		"chinese": "这让我想起了极端的天气状况",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/"
-	},
-	{
-		"english": "i was reminded of the extreme weather that",
-		"chinese": "这让我想起了极端的天气状况",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/"
-	},
-	{
-		"english": "i was reminded of the extreme weather that affected",
-		"chinese": "这让我想起了那些影响极大的天气状况",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/"
-	},
-	{
-		"english": "i was reminded of the extreme weather that affected the",
-		"chinese": "这让我想起了那些影响……的极端天气。",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/"
-	},
-	{
-		"english": "i was reminded of the extreme weather that affected the residents",
-		"chinese": "这让我想起了影响居民的极端天气",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/ /rˈɛːzɪdənts/"
-	},
-	{
-		"english": "i was reminded of the extreme weather that affected the residents of",
-		"chinese": "这让我想起了影响居民们的极端天气。",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/ /rˈɛːzɪdənts/ /əv/"
-	},
-	{
-		"english": "i was reminded of the extreme weather that affected the residents of north",
-		"chinese": "这让我想起了影响北方居民的极端天气。",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/ /rˈɛːzɪdənts/ /əv/ /nˈɔːrθ/"
-	},
-	{
-		"english": "i was reminded of the extreme weather that affected the residents of north america",
-		"chinese": "这让我想起了影响北美洲居民的极端天气。",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːmˈaɪndɪd/ /əv/ /ðiː/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /əfˈɛːktɪd/ /ðiː/ /rˈɛːzɪdənts/ /əv/ /nˈɔːrθ/ /əmˈɛːrɪkə/"
-	},
-	{
-		"english": "hurricanes",
-		"chinese": "飓风",
-		"soundmark": "/hˈɜːəkˌeɪnz/"
-	},
-	{
-		"english": "tornadoes",
-		"chinese": "龙卷风",
-		"soundmark": "/tɔːrnˈeɪdoʊz/"
-	},
-	{
-		"english": "snowstorms",
-		"chinese": "雪暴",
-		"soundmark": "/snˈoʊstˌɔːrmz/"
-	},
-	{
-		"english": "ice",
-		"chinese": "冰",
-		"soundmark": "/ˈaɪs/"
-	},
-	{
-		"english": "ice storms",
-		"chinese": "冰暴",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/"
-	},
-	{
-		"english": "ice storms and",
-		"chinese": "冰暴和",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/"
-	},
-	{
-		"english": "ice storms and electrical",
-		"chinese": "冰暴与电学",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/"
-	},
-	{
-		"english": "ice storms and electrical storms",
-		"chinese": "冰暴和电暴",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/"
-	},
-	{
-		"english": "ice storms and electrical storms are",
-		"chinese": "冰暴和电暴",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/"
-	},
-	{
-		"english": "ice storms and electrical storms are all",
-		"chinese": "冰暴和电暴都是",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/"
-	},
-	{
-		"english": "ice storms and electrical storms are all examples",
-		"chinese": "冰暴和电暴都是例子",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/"
-	},
-	{
-		"english": "ice storms and electrical storms are all examples of",
-		"chinese": "冰暴和电暴都是这样的例子",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/"
-	},
-	{
-		"english": "ice storms and electrical storms are all examples of extreme",
-		"chinese": "冰暴和电暴都是极端现象的例子",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/"
-	},
-	{
-		"english": "ice storms and electrical storms are all examples of extreme weather",
-		"chinese": "冰暴和电风暴都是极端天气的例子",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/"
-	},
-	{
-		"english": "ice storms and electrical storms are all examples of extreme weather that",
-		"chinese": "冰暴和电风暴都是极端天气的例子",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/"
-	},
-	{
-		"english": "ice storms and electrical storms are all examples of extreme weather that may",
-		"chinese": "冰暴和电风暴都是极端天气的例子，可能会",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/"
-	},
-	{
-		"english": "ice storms and electrical storms are all examples of extreme weather that may challenge",
-		"chinese": "冰暴和电风暴都是可能带来挑战的极端天气现象",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/ /tʃˈæləndʒ/"
-	},
-	{
-		"english": "ice storms and electrical storms are all examples of extreme weather that may challenge an",
-		"chinese": "冰暴和电风暴都是可能带来挑战的极端天气现象。",
-		"soundmark": "/ˈaɪs/ /stˈɔːrmz/ /ˈænd/ /ɪlˈɛːktrɪkəl/ /stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/ /tʃˈæləndʒ/ /ən/"
-	},
-	{
-		"english": "storms are all examples of extreme weather that may challenge an entire",
-		"chinese": "风暴都是极端天气的实例，可能会对整个……造成挑战",
-		"soundmark": "/stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/ /tʃˈæləndʒ/ /ən/ /ɪntˈaɪɜː/"
-	},
-	{
-		"english": "storms are all examples of extreme weather that may challenge an entire community",
-		"chinese": "风暴都是极端天气的实例，可能会对整个社区造成挑战",
-		"soundmark": "/stˈɔːrmz/ /ɜː/ /ˈɔːl/ /ɪɡzˈæmpəlz/ /əv/ /ɪkstrˈiːm/ /wˈɛːðɜː/ /ðət/ /mˈeɪ/ /tʃˈæləndʒ/ /ən/ /ɪntˈaɪɜː/ /kəmjˈuːnɪtiː/"
-	},
-	{
-		"english": "each",
-		"chinese": "每个",
-		"soundmark": "/ˈiːtʃ/"
-	},
-	{
-		"english": "each storm",
-		"chinese": "每场风暴",
-		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/"
-	},
-	{
-		"english": "each storm is",
-		"chinese": "每场风暴都是",
-		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/ /ɪz/"
-	},
-	{
-		"english": "each storm is unique",
-		"chinese": "每场风暴都独一无二",
-		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/ /ɪz/ /juːnˈiːk/"
-	},
-	{
-		"english": "each storm is unique in",
-		"chinese": "每场风暴都独一无二",
-		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/ /ɪz/ /juːnˈiːk/ /ˈɪn/"
-	},
-	{
-		"english": "each storm is unique in character",
-		"chinese": "每场风暴的特性都各不相同",
-		"soundmark": "/ˈiːtʃ/ /stˈɔːrm/ /ɪz/ /juːnˈiːk/ /ˈɪn/ /kˈɛːrɪktɜː/"
-	},
-	{
-		"english": "contributing",
-		"chinese": "贡献",
-		"soundmark": "/kəntrˈɪbjuːtɪŋ/"
-	},
-	{
-		"english": "contributing its",
-		"chinese": "贡献其力量",
-		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/"
-	},
-	{
-		"english": "contributing its own",
-		"chinese": "贡献自己的力量",
-		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/"
-	},
-	{
-		"english": "contributing its own particular",
-		"chinese": "贡献其独特的特色",
-		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/ /pˌɑːtˈɪkjəlɜː/"
-	},
-	{
-		"english": "contributing its own particular fascination",
-		"chinese": "贡献其独特的魅力",
-		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/ /pˌɑːtˈɪkjəlɜː/ /fˌæsənˈeɪʃən/"
-	},
-	{
-		"english": "contributing its own particular fascination and",
-		"chinese": "贡献其独特的魅力与吸引力",
-		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/ /pˌɑːtˈɪkjəlɜː/ /fˌæsənˈeɪʃən/ /ˈænd/"
-	},
-	{
-		"english": "contributing its own particular fascination and fear",
-		"chinese": "贡献其独特的吸引力和恐惧感",
-		"soundmark": "/kəntrˈɪbjuːtɪŋ/ /ɪts/ /ˈoʊn/ /pˌɑːtˈɪkjəlɜː/ /fˌæsənˈeɪʃən/ /ˈænd/ /fˈɪr/"
-	},
-	{
-		"english": "every",
-		"chinese": "每个",
-		"soundmark": "/ˈɛːvriː/"
-	},
-	{
-		"english": "every fall",
-		"chinese": "每年秋天",
-		"soundmark": "/ˈɛːvriː/ /fˈɑːl/"
-	},
-	{
-		"english": "every fall hurricanes",
-		"chinese": "每年秋天都会发生飓风",
-		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/"
-	},
-	{
-		"english": "every fall hurricanes slam",
-		"chinese": "每年秋天，飓风都会猛烈来袭",
-		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/"
-	},
-	{
-		"english": "every fall hurricanes slam the",
-		"chinese": "每年秋天，飓风都会猛烈来袭",
-		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/ /ðiː/"
-	},
-	{
-		"english": "every fall hurricanes slam the united",
-		"chinese": "每年秋天，飓风袭击了美国。",
-		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/ /ðiː/ /juːnˈaɪtɪd/"
-	},
-	{
-		"english": "every fall hurricanes slam the united states",
-		"chinese": "每年秋天，飓风都会袭击美国",
-		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/"
-	},
-	{
-		"english": "every fall hurricanes slam the united states coast",
-		"chinese": "每年秋天，飓风都会袭击美国海岸",
-		"soundmark": "/ˈɛːvriː/ /fˈɑːl/ /hˈɜːəkˌeɪnz/ /slˈæm/ /ðiː/ /juːnˈaɪtɪd/ /stˈeɪts/ /kˈoʊst/"
-	},
-	{
-		"english": "they",
-		"chinese": "他们",
-		"soundmark": "/ðˈeɪ/"
-	},
-	{
-		"english": "they upset",
-		"chinese": "他们感到不安",
-		"soundmark": "/ðˈeɪ/ /ˈəpsˌɛːt/"
-	},
-	{
-		"english": "they upset boats",
-		"chinese": "它们使船只不安",
-		"soundmark": "/ðˈeɪ/ /ˈəpsˌɛːt/ /bˈoʊts/"
-	},
-	{
-		"english": "fell",
-		"chinese": "倒下",
-		"soundmark": "/fˈɛːl/"
-	},
-	{
-		"english": "fell mature",
-		"chinese": "成熟掉落",
-		"soundmark": "/fˈɛːl/ /mətjˈʊr/"
-	},
-	{
-		"english": "fell mature trees",
-		"chinese": "成熟的倒下树木",
-		"soundmark": "/fˈɛːl/ /mətjˈʊr/ /trˈiːz/"
-	},
-	{
-		"english": "wash",
-		"chinese": "洗",
-		"soundmark": "/wˈɔːʃ/"
-	},
-	{
-		"english": "wash away",
-		"chinese": "冲走",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/"
-	},
-	{
-		"english": "wash away sections",
-		"chinese": "冲走部分",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/"
-	},
-	{
-		"english": "wash away sections of",
-		"chinese": "冲走部分",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/"
-	},
-	{
-		"english": "wash away sections of public",
-		"chinese": "清除部分公共区域",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/"
-	},
-	{
-		"english": "wash away sections of public beaches",
-		"chinese": "清理公共海滩的部分区域",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/"
-	},
-	{
-		"english": "wash away sections of public beaches and",
-		"chinese": "冲毁部分公共海滩区域",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/ /ˈænd/"
-	},
-	{
-		"english": "wash away sections of public beaches and often",
-		"chinese": "冲毁部分公共海滩，而且经常",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/ /ˈænd/ /ˈɔːftən/"
-	},
-	{
-		"english": "wash away sections of public beaches and often cause",
-		"chinese": "冲毁公共海滩的部分区域，常常造成",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/ /ˈænd/ /ˈɔːftən/ /kˈɔːz/"
-	},
-	{
-		"english": "wash away sections of public beaches and often cause death",
-		"chinese": "冲毁公共海滩的部分区域，常常导致死亡",
-		"soundmark": "/wˈɔːʃ/ /əwˈeɪ/ /sˈɛːkʃənz/ /əv/ /pˈəblɪk/ /bˈiːtʃɪz/ /ˈænd/ /ˈɔːftən/ /kˈɔːz/ /dˈɛːθ/"
-	},
-	{
-		"english": "fortunately",
-		"chinese": "幸运地",
-		"soundmark": "/fˈɔːrtʃuːnətliː/"
-	},
-	{
-		"english": "fortunately with",
-		"chinese": "幸运的是，随着",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/"
-	},
-	{
-		"english": "fortunately with the",
-		"chinese": "幸运的是，随着……",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/"
-	},
-	{
-		"english": "fortunately with the advantage",
-		"chinese": "幸运的是有这个优势",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/"
-	},
-	{
-		"english": "fortunately with the advantage of",
-		"chinese": "幸运的是，有这个优势",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/"
-	},
-	{
-		"english": "fortunately with the advantage of modern",
-		"chinese": "幸运的是，有现代技术的优势",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior",
-		"chinese": "幸运的是，有现代技术的优势",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior warning",
-		"chinese": "幸运的是，有现代提前预警的优势",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior warning systems",
-		"chinese": "幸运的是，有现代预警系统的优势",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior warning systems authorities",
-		"chinese": "幸运的是，有了现代预警系统的优势，当局",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior warning systems authorities are",
-		"chinese": "幸运的是，借助现代预警系统的优势，当局能够……",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior warning systems authorities are able",
-		"chinese": "幸运的是，借助现代预警系统的优势，当局能够……",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior warning systems authorities are able to",
-		"chinese": "幸运的是，借助现代预警系统的优势，当局能够",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior warning systems authorities are able to keep",
-		"chinese": "幸运的是，借助现代预警系统的优势，当局能够保持",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/"
-	},
-	{
-		"english": "fortunately with the advantage of modern prior warning systems authorities are able to keep the",
-		"chinese": "幸运的是，借助现代预警系统的优势，当局能够保持",
-		"soundmark": "/fˈɔːrtʃuːnətliː/ /wɪð/ /ðiː/ /ədvˈænədʒ/ /əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/"
-	},
-	{
-		"english": "of modern prior warning systems authorities are able to keep the chaos",
-		"chinese": "现代预警系统使得当局能够避免混乱",
-		"soundmark": "/əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/ /kˈeɪɑːs/"
-	},
-	{
-		"english": "of modern prior warning systems authorities are able to keep the chaos to",
-		"chinese": "现代预警系统使得当局能够控制混乱局面",
-		"soundmark": "/əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/ /kˈeɪɑːs/ /tə/"
-	},
-	{
-		"english": "of modern prior warning systems authorities are able to keep the chaos to a",
-		"chinese": "现代预警系统使得当局能够控制混乱局面",
-		"soundmark": "/əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/ /kˈeɪɑːs/ /tə/ /ˈeɪ/"
-	},
-	{
-		"english": "of modern prior warning systems authorities are able to keep the chaos to a minimum",
-		"chinese": "现代预警系统使得当局能够将混乱程度降至最低",
-		"soundmark": "/əv/ /mˈɑːdɜːn/ /prˈaɪɜː/ /wˈɔːrnɪŋ/ /sˈɪstəmz/ /əθˈɔːrətiːz/ /ɜː/ /ˈeɪbəl/ /tə/ /kˈiːp/ /ðiː/ /kˈeɪɑːs/ /tə/ /ˈeɪ/ /mˈɪnəməm/"
-	}
+  {
+    "english": "Norman",
+    "chinese": "诺曼",
+    "soundmark": "/nˈɔːrmən/"
+  },
+  {
+    "english": "Norman Bethune",
+    "chinese": "诺曼·贝瑟恩"
+  },
+  {
+    "english": "Norman Bethune was",
+    "chinese": "诺曼·贝瑟恩是"
+  },
+  {
+    "english": "Norman Bethune was born",
+    "chinese": "诺曼·贝瑟恩出生了"
+  },
+  {
+    "english": "Norman Bethune was born in",
+    "chinese": "诺曼·贝瑟恩出生在"
+  },
+  {
+    "english": "Norman Bethune was born in Graven",
+    "chinese": "诺曼·贝瑟恩出生在格拉文"
+  },
+  {
+    "english": "Norman Bethune was born in Graven hurst",
+    "chinese": "诺曼·贝瑟恩出生于格拉文赫斯特"
+  },
+  {
+    "english": "Ontario",
+    "chinese": "安大略省",
+    "soundmark": "/ɑːntˈɛːriːoʊ/"
+  },
+  {
+    "english": "Canada",
+    "chinese": "加拿大",
+    "soundmark": "/kˈænədə/"
+  },
+  {
+    "english": "Canada in",
+    "chinese": "1890年的加拿大"
+  },
+  {
+    "english": "Canada in 1890",
+    "chinese": "1890年的加拿大"
+  },
+  {
+    "english": "His",
+    "chinese": "他",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "english": "His family",
+    "chinese": "他的家庭"
+  },
+  {
+    "english": "His family had",
+    "chinese": "他的家庭曾经有"
+  },
+  {
+    "english": "His family had a",
+    "chinese": "他的家庭曾经拥有一个"
+  },
+  {
+    "english": "His family had a long",
+    "chinese": "他的家庭有着悠久的"
+  },
+  {
+    "english": "His family had a long history",
+    "chinese": "他的家庭有着悠久的历史"
+  },
+  {
+    "english": "His family had a long history of",
+    "chinese": "他的家庭有着悠久的人类服务历史"
+  },
+  {
+    "english": "His family had a long history of human",
+    "chinese": "他的家族拥有悠久的人类历史"
+  },
+  {
+    "english": "His family had a long history of human service",
+    "chinese": "他的家族拥有悠久的人道服务传统"
+  },
+  {
+    "english": "a",
+    "chinese": "a",
+    "soundmark": "/ˈeɪ/"
+  },
+  {
+    "english": "a fact",
+    "chinese": "事实"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that undoubtedly",
+    "chinese": "那个无疑地"
+  },
+  {
+    "english": "that undoubtedly shaped",
+    "chinese": "那个无疑地塑造了"
+  },
+  {
+    "english": "that undoubtedly shaped his",
+    "chinese": "那个无疑地塑造了他的"
+  },
+  {
+    "english": "that undoubtedly shaped his life",
+    "chinese": "那个无疑地塑造了他的生活"
+  },
+  {
+    "english": "that undoubtedly shaped his life in",
+    "chinese": "那个无疑地塑造了他在后来的生活"
+  },
+  {
+    "english": "that undoubtedly shaped his life in later",
+    "chinese": "那个无疑地塑造了他在晚年生活"
+  },
+  {
+    "english": "that undoubtedly shaped his life in later years",
+    "chinese": "这无疑影响了他晚年的生活。"
+  },
+  {
+    "english": "From",
+    "chinese": "来自",
+    "soundmark": "/fɜːm/"
+  },
+  {
+    "english": "From the",
+    "chinese": "来自"
+  },
+  {
+    "english": "From the outset",
+    "chinese": "从一开始"
+  },
+  {
+    "english": "as",
+    "chinese": "作为",
+    "soundmark": "/ˈɛːz/"
+  },
+  {
+    "english": "as a",
+    "chinese": "作为"
+  },
+  {
+    "english": "as a young",
+    "chinese": "作为年轻的"
+  },
+  {
+    "english": "as a young university",
+    "chinese": "作为年轻的大学学生"
+  },
+  {
+    "english": "as a young university student",
+    "chinese": "作为一名年轻的大学生"
+  },
+  {
+    "english": "he",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "he developed",
+    "chinese": "他开发了"
+  },
+  {
+    "english": "he developed a",
+    "chinese": "他开发了一个"
+  },
+  {
+    "english": "he developed a mission",
+    "chinese": "他制定了一项任务"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or goal",
+    "chinese": "或者目标"
+  },
+  {
+    "english": "or goal in",
+    "chinese": "生命中的目标，"
+  },
+  {
+    "english": "or goal in life",
+    "chinese": "生命中的目标，关于"
+  },
+  {
+    "english": "or goal in life of",
+    "chinese": "生命中的目标，关于同情"
+  },
+  {
+    "english": "or goal in life of compassion",
+    "chinese": "或人生的目标，即慈悲之心"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and commitment",
+    "chinese": "以及承诺"
+  },
+  {
+    "english": "and commitment to",
+    "chinese": "对……的承诺"
+  },
+  {
+    "english": "and commitment to helping",
+    "chinese": "对帮助的承诺"
+  },
+  {
+    "english": "and commitment to helping the",
+    "chinese": "对帮助那些……的承诺"
+  },
+  {
+    "english": "and commitment to helping the less",
+    "chinese": "对帮助那些较不幸的人的承诺"
+  },
+  {
+    "english": "and commitment to helping the less fortunate",
+    "chinese": "对帮助那些较不幸的人以……的承诺"
+  },
+  {
+    "english": "and commitment to helping the less fortunate to",
+    "chinese": "对帮助那些较不幸的人以找到……的承诺"
+  },
+  {
+    "english": "and commitment to helping the less fortunate to find",
+    "chinese": "对帮助那些较不幸的人以获得自由……的承诺"
+  },
+  {
+    "english": "and commitment to helping the less fortunate to find freedom",
+    "chinese": "对帮助那些较不幸的人以摆脱……的承诺"
+  },
+  {
+    "english": "and commitment to helping the less fortunate to find freedom from",
+    "chinese": "对帮助那些较不幸的人以摆脱……的枷锁的承诺"
+  },
+  {
+    "english": "and commitment to helping the less fortunate to find freedom from the",
+    "chinese": "对帮助那些较不幸的人以摆脱贫困的枷锁的承诺"
+  },
+  {
+    "english": "and commitment to helping the less fortunate to find freedom from the chains",
+    "chinese": "并致力于帮助那些不幸的人摆脱束缚获得自由"
+  },
+  {
+    "english": "and commitment to helping the less fortunate to find freedom from the chains of",
+    "chinese": "并承诺帮助那些不幸的人摆脱束缚获得自由"
+  },
+  {
+    "english": "and commitment to helping the less fortunate to find freedom from the chains of poverty",
+    "chinese": "并致力于帮助那些不幸的人摆脱贫困的枷锁，获得自由。"
+  },
+  {
+    "english": "In",
+    "chinese": "认真地，",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In earnest",
+    "chinese": "他认真地，"
+  },
+  {
+    "english": "In earnest he",
+    "chinese": "他认真地发展了，"
+  },
+  {
+    "english": "In earnest he developed",
+    "chinese": "他认真地发展了一种，"
+  },
+  {
+    "english": "In earnest he developed a",
+    "chinese": "他认真地发展出了一种无私精神。"
+  },
+  {
+    "english": "In earnest he developed a selflessness",
+    "chinese": "他真正地展现出了无私精神"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that dominated",
+    "chinese": "那个占主导地位"
+  },
+  {
+    "english": "that dominated his",
+    "chinese": "那个主导了他的"
+  },
+  {
+    "english": "that dominated his whole",
+    "chinese": "那个主导了他的整个生活"
+  },
+  {
+    "english": "that dominated his whole life",
+    "chinese": "支配了他的一生"
+  },
+  {
+    "english": "but",
+    "chinese": "但",
+    "soundmark": "/bˈət/"
+  },
+  {
+    "english": "but not",
+    "chinese": "但不"
+  },
+  {
+    "english": "but not without",
+    "chinese": "没有个人牺牲也不行"
+  },
+  {
+    "english": "but not without personal",
+    "chinese": "没有个人牺牲也不行"
+  },
+  {
+    "english": "but not without personal sacrifice",
+    "chinese": "但也需要个人牺牲。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "He was",
+    "chinese": "他曾经"
+  },
+  {
+    "english": "He was in",
+    "chinese": "他处于"
+  },
+  {
+    "english": "He was in a",
+    "chinese": "他处于一种"
+  },
+  {
+    "english": "He was in a troubled",
+    "chinese": "他处于一段混乱的"
+  },
+  {
+    "english": "He was in a troubled marriage",
+    "chinese": "他处于一段混乱的婚姻中"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "consequently",
+    "chinese": "因此",
+    "soundmark": "/kˈɑːnsəkwˌɛːntliː/"
+  },
+  {
+    "english": "consequently ended",
+    "chinese": "因此结束"
+  },
+  {
+    "english": "consequently ended in",
+    "chinese": "因此以离婚告终"
+  },
+  {
+    "english": "consequently ended in divorce",
+    "chinese": "最终导致了离婚。"
+  },
+  {
+    "english": "Progressive",
+    "chinese": "渐进式",
+    "soundmark": "/prəɡrˈɛːsɪv/"
+  },
+  {
+    "english": "Progressive medicine",
+    "chinese": "渐进式医学"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and humanitarian",
+    "chinese": "以及人道主义方面"
+  },
+  {
+    "english": "and humanitarian deeds",
+    "chinese": "人道主义行为"
+  },
+  {
+    "english": "and humanitarian deeds became",
+    "chinese": "人道主义行为成为了"
+  },
+  {
+    "english": "and humanitarian deeds became the",
+    "chinese": "人道主义行为成为了唯一的"
+  },
+  {
+    "english": "and humanitarian deeds became the sole",
+    "chinese": "人道主义行为成为了他生活的唯一目的"
+  },
+  {
+    "english": "and humanitarian deeds became the sole purposes",
+    "chinese": "而人道主义行为成为唯一目的"
+  },
+  {
+    "english": "and humanitarian deeds became the sole purposes of",
+    "chinese": "而人道主义行为成为唯一目的"
+  },
+  {
+    "english": "and humanitarian deeds became the sole purposes of his",
+    "chinese": "而人道主义行为成为他唯一的追求"
+  },
+  {
+    "english": "and humanitarian deeds became the sole purposes of his life",
+    "chinese": "人道主义行为成为他生活的唯一目的。"
+  },
+  {
+    "english": "Understandably",
+    "chinese": "可以理解地",
+    "soundmark": "/ˌəndɜːstˈændəbliː/"
+  },
+  {
+    "english": "his",
+    "chinese": "他的",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "english": "his much",
+    "chinese": "他年轻得多"
+  },
+  {
+    "english": "his much younger",
+    "chinese": "他年轻得多的妻子"
+  },
+  {
+    "english": "his much younger wife",
+    "chinese": "他年轻得多的妻子"
+  },
+  {
+    "english": "Frances",
+    "chinese": "弗朗西斯",
+    "soundmark": "/frˈænsɪs/"
+  },
+  {
+    "english": "could",
+    "chinese": "能",
+    "soundmark": "/kˈʊd/"
+  },
+  {
+    "english": "could not",
+    "chinese": "无法"
+  },
+  {
+    "english": "could not tolerate",
+    "chinese": "无法容忍"
+  },
+  {
+    "english": "could not tolerate this",
+    "chinese": "无法忍受这一点"
+  },
+  {
+    "english": "could not tolerate this situation",
+    "chinese": "无法忍受这种状况。"
+  },
+  {
+    "english": "From",
+    "chinese": "来自",
+    "soundmark": "/fɜːm/"
+  },
+  {
+    "english": "From 1911",
+    "chinese": "来自 1911 年"
+  },
+  {
+    "english": "From 1911 to",
+    "chinese": "从 1911 年到"
+  },
+  {
+    "english": "From 1911 to 1912",
+    "chinese": "1911年至1912年"
+  },
+  {
+    "english": "Bethune",
+    "chinese": "贝塞恩",
+    "soundmark": "/bəθjˈuːn/"
+  },
+  {
+    "english": "Bethune worked",
+    "chinese": "贝塞恩工作过"
+  },
+  {
+    "english": "Bethune worked as",
+    "chinese": "贝塞恩曾担任"
+  },
+  {
+    "english": "Bethune worked as a",
+    "chinese": "贝塞恩曾是一名伐木工人"
+  },
+  {
+    "english": "Bethune worked as a lumberjack",
+    "chinese": "贝瑟恩从事伐木工作"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and teacher",
+    "chinese": "以及教师"
+  },
+  {
+    "english": "and teacher in",
+    "chinese": "在……中的教师"
+  },
+  {
+    "english": "and teacher in a",
+    "chinese": "在偏远地区的教师"
+  },
+  {
+    "english": "and teacher in a remote",
+    "chinese": "在安大略省偏远地区的教师"
+  },
+  {
+    "english": "and teacher in a remote area",
+    "chinese": "以及偏远地区的教师"
+  },
+  {
+    "english": "and teacher in a remote area of",
+    "chinese": "以及偏远地区的教师"
+  },
+  {
+    "english": "and teacher in a remote area of Ontario",
+    "chinese": "以及安大略省偏远地区的教师。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "He taught",
+    "chinese": "他教授课程"
+  },
+  {
+    "english": "He taught at",
+    "chinese": "他在边境学院任教"
+  },
+  {
+    "english": "He taught at Frontier",
+    "chinese": "他在边境学院任教，一所"
+  },
+  {
+    "english": "He taught at Frontier College",
+    "chinese": "他在边境学院任教，一所独特的学校"
+  },
+  {
+    "english": "He taught at Frontier College a",
+    "chinese": "他在边境学院任教。"
+  },
+  {
+    "english": "He taught at Frontier College a unique",
+    "chinese": "他在边境学院任教，这是一所独特的学校"
+  },
+  {
+    "english": "He taught at Frontier College a unique school",
+    "chinese": "他在“边疆学院”任教，这是一所独特的学校"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that provided",
+    "chinese": "所提供的"
+  },
+  {
+    "english": "that provided basic",
+    "chinese": "那提供了基础"
+  },
+  {
+    "english": "that provided basic education",
+    "chinese": "提供基础教育"
+  },
+  {
+    "english": "that provided basic education to",
+    "chinese": "提供基础教育"
+  },
+  {
+    "english": "that provided basic education to adult",
+    "chinese": "为成年人提供基础教育"
+  },
+  {
+    "english": "that provided basic education to adult workers",
+    "chinese": "为成年工人提供基础教育"
+  },
+  {
+    "english": "that provided basic education to adult workers at",
+    "chinese": "为成年工人提供基础教育"
+  },
+  {
+    "english": "that provided basic education to adult workers at the",
+    "chinese": "为成年工人提供基础教育"
+  },
+  {
+    "english": "that provided basic education to adult workers at the lumber",
+    "chinese": "为木材行业中的成年工人提供基础教育"
+  },
+  {
+    "english": "that provided basic education to adult workers at the lumber camps",
+    "chinese": "为木材营地中的成年工人提供基础教育。"
+  },
+  {
+    "english": "During",
+    "chinese": "在期间",
+    "soundmark": "/dˈɜːɪŋ/"
+  },
+  {
+    "english": "During the",
+    "chinese": "在……期间"
+  },
+  {
+    "english": "During the First",
+    "chinese": "在第一次期间"
+  },
+  {
+    "english": "During the First World",
+    "chinese": "第一次世界大战期间"
+  },
+  {
+    "english": "During the First World War",
+    "chinese": "第一次世界大战期间"
+  },
+  {
+    "english": "he",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "he became",
+    "chinese": "他成为了"
+  },
+  {
+    "english": "he became a",
+    "chinese": "他成为了一名担架员"
+  },
+  {
+    "english": "he became a stretcher",
+    "chinese": "他成为了一名担架搬运者"
+  },
+  {
+    "english": "he became a stretcher bearer",
+    "chinese": "他成为了一名协助担架搬运者"
+  },
+  {
+    "english": "he became a stretcher bearer helping",
+    "chinese": "他成为了一名协助搬运伤员的担架搬运者"
+  },
+  {
+    "english": "he became a stretcher bearer helping to",
+    "chinese": "他成为了一名协助搬运战场伤员的担架搬运者"
+  },
+  {
+    "english": "he became a stretcher bearer helping to carry",
+    "chinese": "他成为了担架员，负责搬运伤员"
+  },
+  {
+    "english": "he became a stretcher bearer helping to carry the",
+    "chinese": "他成为了担架员，负责搬运伤员"
+  },
+  {
+    "english": "he became a stretcher bearer helping to carry the wounded",
+    "chinese": "他成为担架员，负责搬运伤员"
+  },
+  {
+    "english": "he became a stretcher bearer helping to carry the wounded from",
+    "chinese": "他成为担架员，帮助运送伤员"
+  },
+  {
+    "english": "he became a stretcher bearer helping to carry the wounded from the",
+    "chinese": "他成为了担架员，负责搬运伤员"
+  },
+  {
+    "english": "he became a stretcher bearer helping to carry the wounded from the battlefields",
+    "chinese": "他成为了担架员（帮助将伤员从战场上运走）。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "himself",
+    "chinese": "他自己",
+    "soundmark": "/hɪmsˈɛːlf/"
+  },
+  {
+    "english": "was",
+    "chinese": "受伤了",
+    "soundmark": "/wˈɔːz/"
+  },
+  {
+    "english": "was wounded",
+    "chinese": "被击伤了"
+  },
+  {
+    "english": "was wounded by",
+    "chinese": "被弹片击伤了"
+  },
+  {
+    "english": "was wounded by shrapnel",
+    "chinese": "被爆炸弹壳的弹片击伤了"
+  },
+  {
+    "english": "was wounded by shrapnel fragments",
+    "chinese": "被弹片击中受伤"
+  },
+  {
+    "english": "was wounded by shrapnel fragments of",
+    "chinese": "被弹片击中受伤"
+  },
+  {
+    "english": "was wounded by shrapnel fragments of exploding",
+    "chinese": "被爆炸的弹片击伤"
+  },
+  {
+    "english": "was wounded by shrapnel fragments of exploding shells",
+    "chinese": "被弹片伤害了"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "He was",
+    "chinese": "他被关押了"
+  },
+  {
+    "english": "He was confined",
+    "chinese": "他被关押了"
+  },
+  {
+    "english": "as",
+    "chinese": "作为",
+    "soundmark": "/ˈɛːz/"
+  },
+  {
+    "english": "as a",
+    "chinese": "作为"
+  },
+  {
+    "english": "as a patient",
+    "chinese": "作为患者"
+  },
+  {
+    "english": "to",
+    "chinese": "去",
+    "soundmark": "/tə/"
+  },
+  {
+    "english": "to hospitals",
+    "chinese": "去医院"
+  },
+  {
+    "english": "to hospitals for",
+    "chinese": "去用于几个月的医院"
+  },
+  {
+    "english": "to hospitals for months",
+    "chinese": "数月待在医院里"
+  },
+  {
+    "english": "receiving",
+    "chinese": "接受治疗",
+    "soundmark": "/riːsˈiːvɪŋ/"
+  },
+  {
+    "english": "receiving therapy",
+    "chinese": "接受治疗"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and recuperating",
+    "chinese": "并恢复元气"
+  },
+  {
+    "english": "and recuperating from",
+    "chinese": "并正在恢复中"
+  },
+  {
+    "english": "and recuperating from his",
+    "chinese": "并从中恢复"
+  },
+  {
+    "english": "and recuperating from his injuries",
+    "chinese": "并从伤势中恢复。"
+  }
 ]

@@ -1,967 +1,836 @@
 [
-	{
-		"english": "life",
-		"chinese": "生活",
-		"soundmark": "/lˈaɪf/"
-	},
-	{
-		"english": "life is",
-		"chinese": "生活是",
-		"soundmark": "/lˈaɪf/ /ɪz/"
-	},
-	{
-		"english": "life is good",
-		"chinese": "生活很美好",
-		"soundmark": "/lˈaɪf/ /ɪz/ /ɡɪd/"
-	},
-	{
-		"english": "my",
-		"chinese": "我的",
-		"soundmark": "/mˈaɪ/"
-	},
-	{
-		"english": "my career",
-		"chinese": "我的事业",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/"
-	},
-	{
-		"english": "my career in",
-		"chinese": "我的职业生涯",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/"
-	},
-	{
-		"english": "my career in elementary",
-		"chinese": "我的小学生涯",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/"
-	},
-	{
-		"english": "my career in elementary education",
-		"chinese": "我的小学教育职业生涯",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/"
-	},
-	{
-		"english": "my career in elementary education in",
-		"chinese": "我在小学教育领域的职业生涯",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/ /ˈɪn/"
-	},
-	{
-		"english": "my career in elementary education in canada",
-		"chinese": "我在加拿大的小学教育职业生涯",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/ /ˈɪn/ /kˈænədə/"
-	},
-	{
-		"english": "my career in elementary education in canada is",
-		"chinese": "我在加拿大的小学教育职业生涯",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/ /ˈɪn/ /kˈænədə/ /ɪz/"
-	},
-	{
-		"english": "my career in elementary education in canada is now",
-		"chinese": "我在加拿大的小学教育职业生涯现在",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/ /ˈɪn/ /kˈænədə/ /ɪz/ /nˈaʊ/"
-	},
-	{
-		"english": "my career in elementary education in canada is now just",
-		"chinese": "我在加拿大的小学教育职业生涯现在仅剩……",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/ /ˈɪn/ /kˈænədə/ /ɪz/ /nˈaʊ/ /dʒɪst/"
-	},
-	{
-		"english": "my career in elementary education in canada is now just a",
-		"chinese": "我在加拿大的小学教育职业生涯现在仅仅只是……",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/ /ˈɪn/ /kˈænədə/ /ɪz/ /nˈaʊ/ /dʒɪst/ /ˈeɪ/"
-	},
-	{
-		"english": "my career in elementary education in canada is now just a fond",
-		"chinese": "我在加拿大的小学教育生涯现在只是一场回忆了。",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/ /ˈɪn/ /kˈænədə/ /ɪz/ /nˈaʊ/ /dʒɪst/ /ˈeɪ/ /fˈɑːnd/"
-	},
-	{
-		"english": "my career in elementary education in canada is now just a fond memory",
-		"chinese": "我在加拿大的小学教育生涯现在只是一段美好的回忆",
-		"soundmark": "/mˈaɪ/ /kɜːˈɪr/ /ˈɪn/ /ˌɛːləmˈɛːntʃriː/ /ˌɛːdʒjuːkˈeɪʃən/ /ˈɪn/ /kˈænədə/ /ɪz/ /nˈaʊ/ /dʒɪst/ /ˈeɪ/ /fˈɑːnd/ /mˈɛːmɜːiː/"
-	},
-	{
-		"english": "i",
-		"chinese": "我",
-		"soundmark": "/ˈaɪ/"
-	},
-	{
-		"english": "i think",
-		"chinese": "我认为",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/"
-	},
-	{
-		"english": "i think back",
-		"chinese": "我回想起",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/"
-	},
-	{
-		"english": "i think back on",
-		"chinese": "我回想起",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/"
-	},
-	{
-		"english": "i think back on the",
-		"chinese": "我回想起……",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/"
-	},
-	{
-		"english": "i think back on the many",
-		"chinese": "我想回想起那些许多事情",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/"
-	},
-	{
-		"english": "i think back on the many years",
-		"chinese": "我想回想起那些许多年头",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/"
-	},
-	{
-		"english": "i think back on the many years of",
-		"chinese": "我想回想起那些多年的时光",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/ /əv/"
-	},
-	{
-		"english": "i think back on the many years of service",
-		"chinese": "回想起多年的服务时光",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/"
-	},
-	{
-		"english": "i think back on the many years of service and",
-		"chinese": "我想回想起那些多年的服务时光",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/ /ˈænd/"
-	},
-	{
-		"english": "i think back on the many years of service and i",
-		"chinese": "我想回想起多年的服务时光，我",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/ /ˈænd/ /ˈaɪ/"
-	},
-	{
-		"english": "i think back on the many years of service and i recall",
-		"chinese": "回想起多年的服务时光，我记得",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/ /ˈænd/ /ˈaɪ/ /rɪkˈɔːl/"
-	},
-	{
-		"english": "i think back on the many years of service and i recall the",
-		"chinese": "我想起多年的服务时光，我记得……",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/ /ˈænd/ /ˈaɪ/ /rɪkˈɔːl/ /ðiː/"
-	},
-	{
-		"english": "i think back on the many years of service and i recall the many",
-		"chinese": "我想回想起多年的服务经历，记得那些许多……",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/ /ˈænd/ /ˈaɪ/ /rɪkˈɔːl/ /ðiː/ /mˈɛːniː/"
-	},
-	{
-		"english": "i think back on the many years of service and i recall the many classes",
-		"chinese": "我想起那些多年的服务时光，记得那些许多课程",
-		"soundmark": "/ˈaɪ/ /θˈɪŋk/ /bˈæk/ /ˈɔːn/ /ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/ /ˈænd/ /ˈaɪ/ /rɪkˈɔːl/ /ðiː/ /mˈɛːniː/ /klˈæsɪz/"
-	},
-	{
-		"english": "the many years of service and i recall the many classes i",
-		"chinese": "多年的服务，我回忆起许多课程……",
-		"soundmark": "/ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/ /ˈænd/ /ˈaɪ/ /rɪkˈɔːl/ /ðiː/ /mˈɛːniː/ /klˈæsɪz/ /ˈaɪ/"
-	},
-	{
-		"english": "the many years of service and i recall the many classes i taught",
-		"chinese": "多年的服务经历，我回忆起我所教授的许多课程",
-		"soundmark": "/ðiː/ /mˈɛːniː/ /jɜːz/ /əv/ /sˈɜːvɪs/ /ˈænd/ /ˈaɪ/ /rɪkˈɔːl/ /ðiː/ /mˈɛːniː/ /klˈæsɪz/ /ˈaɪ/ /tˈɔːt/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the different",
-		"chinese": "不同的",
-		"soundmark": "/ðiː/ /dˈɪfrənt/"
-	},
-	{
-		"english": "the different schools",
-		"chinese": "不同的学派",
-		"soundmark": "/ðiː/ /dˈɪfrənt/ /skˈuːlz/"
-	},
-	{
-		"english": "the different schools i",
-		"chinese": "不同的学派",
-		"soundmark": "/ðiː/ /dˈɪfrənt/ /skˈuːlz/ /ˈaɪ/"
-	},
-	{
-		"english": "the different schools i worked",
-		"chinese": "我从事过的不同学校",
-		"soundmark": "/ðiː/ /dˈɪfrənt/ /skˈuːlz/ /ˈaɪ/ /wˈɜːkt/"
-	},
-	{
-		"english": "the different schools i worked at",
-		"chinese": "我工作过的不同学校",
-		"soundmark": "/ðiː/ /dˈɪfrənt/ /skˈuːlz/ /ˈaɪ/ /wˈɜːkt/ /ˈæt/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the countless",
-		"chinese": "无数",
-		"soundmark": "/ðiː/ /kˈaʊntləs/"
-	},
-	{
-		"english": "the countless staff",
-		"chinese": "无数员工",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/"
-	},
-	{
-		"english": "the countless staff meetings",
-		"chinese": "无数次员工会议",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/"
-	},
-	{
-		"english": "the countless staff meetings i",
-		"chinese": "我参与的无数次员工会议",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/"
-	},
-	{
-		"english": "the countless staff meetings i attended",
-		"chinese": "我参加过的无数次员工会议",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/ /ətˈɛːndəd/"
-	},
-	{
-		"english": "the countless staff meetings i attended and",
-		"chinese": "我参加过的无数次员工会议",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/ /ətˈɛːndəd/ /ˈænd/"
-	},
-	{
-		"english": "the countless staff meetings i attended and the",
-		"chinese": "我参加过的无数次员工会议",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/ /ətˈɛːndəd/ /ˈænd/ /ðiː/"
-	},
-	{
-		"english": "the countless staff meetings i attended and the many",
-		"chinese": "我参加过的无数次员工会议以及许多……",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/ /ətˈɛːndəd/ /ˈænd/ /ðiː/ /mˈɛːniː/"
-	},
-	{
-		"english": "the countless staff meetings i attended and the many committees",
-		"chinese": "我参加过的无数次员工会议和众多委员会",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/ /ətˈɛːndəd/ /ˈænd/ /ðiː/ /mˈɛːniː/ /kəmˈɪtiːz/"
-	},
-	{
-		"english": "the countless staff meetings i attended and the many committees i",
-		"chinese": "我参加过的无数次员工会议和众多委员会",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/ /ətˈɛːndəd/ /ˈænd/ /ðiː/ /mˈɛːniː/ /kəmˈɪtiːz/ /ˈaɪ/"
-	},
-	{
-		"english": "the countless staff meetings i attended and the many committees i served",
-		"chinese": "我参加过的无数次员工会议以及我参与的众多委员会",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/ /ətˈɛːndəd/ /ˈænd/ /ðiː/ /mˈɛːniː/ /kəmˈɪtiːz/ /ˈaɪ/ /sˈɜːvd/"
-	},
-	{
-		"english": "the countless staff meetings i attended and the many committees i served on",
-		"chinese": "我参加过的无数次员工会议以及我参与的众多委员会",
-		"soundmark": "/ðiː/ /kˈaʊntləs/ /stˈæf/ /mˈiːtɪŋz/ /ˈaɪ/ /ətˈɛːndəd/ /ˈænd/ /ðiː/ /mˈɛːniː/ /kəmˈɪtiːz/ /ˈaɪ/ /sˈɜːvd/ /ˈɔːn/"
-	},
-	{
-		"english": "i",
-		"chinese": "我",
-		"soundmark": "/ˈaɪ/"
-	},
-	{
-		"english": "i estimate",
-		"chinese": "我估计",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/"
-	},
-	{
-		"english": "i estimate that",
-		"chinese": "我估计",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/"
-	},
-	{
-		"english": "i estimate that the",
-		"chinese": "我估计……",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/"
-	},
-	{
-		"english": "i estimate that the number",
-		"chinese": "我估计数量",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/"
-	},
-	{
-		"english": "i estimate that the number of",
-		"chinese": "我估计数量",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/"
-	},
-	{
-		"english": "i estimate that the number of faculty",
-		"chinese": "我估计教师人数",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/"
-	},
-	{
-		"english": "i estimate that the number of faculty members",
-		"chinese": "我估计教职员工的数量",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/"
-	},
-	{
-		"english": "i estimate that the number of faculty members i",
-		"chinese": "我估计教师人数……",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/"
-	},
-	{
-		"english": "i estimate that the number of faculty members i worked",
-		"chinese": "我估计我共与多少名教职员工共事过",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/"
-	},
-	{
-		"english": "i estimate that the number of faculty members i worked with",
-		"chinese": "我估计与我共事的教师人数",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/"
-	},
-	{
-		"english": "i estimate that the number of faculty members i worked with over",
-		"chinese": "我估计与我共事的教职员工数量",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/"
-	},
-	{
-		"english": "i estimate that the number of faculty members i worked with over the",
-		"chinese": "我估计与我共事的教职员工数量",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/"
-	},
-	{
-		"english": "i estimate that the number of faculty members i worked with over the years",
-		"chinese": "我估计多年来与我共事的教师人数",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/"
-	},
-	{
-		"english": "i estimate that the number of faculty members i worked with over the years is",
-		"chinese": "我估计多年来与我共事的教师人数约为",
-		"soundmark": "/ˈaɪ/ /ˈɛːstəmˌeɪt/ /ðət/ /ðiː/ /nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/"
-	},
-	{
-		"english": "number of faculty members i worked with over the years is in",
-		"chinese": "多年来我与过的教职员工数量为",
-		"soundmark": "/nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/ /ˈɪn/"
-	},
-	{
-		"english": "number of faculty members i worked with over the years is in the",
-		"chinese": "多年来我与过的教职员工数量在",
-		"soundmark": "/nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "number of faculty members i worked with over the years is in the hundreds",
-		"chinese": "多年来我与合作过的教师人数达数百人",
-		"soundmark": "/nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/"
-	},
-	{
-		"english": "number of faculty members i worked with over the years is in the hundreds and",
-		"chinese": "多年来我与合作过的教师人数达数百人",
-		"soundmark": "/nˈəmbɜː/ /əv/ /fˈækəltiː/ /mˈɛːmbɜːz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/"
-	},
-	{
-		"english": "i worked with over the years is in the hundreds and well",
-		"chinese": "这些年来我工作过的数百次，很不错",
-		"soundmark": "/ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/"
-	},
-	{
-		"english": "i worked with over the years is in the hundreds and well over",
-		"chinese": "这些年来我工作过的数百份工作，数量远远超过",
-		"soundmark": "/ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/ /ˈoʊvɜː/"
-	},
-	{
-		"english": "i worked with over the years is in the hundreds and well over a",
-		"chinese": "这些年来我参与的项目有数百个，远远超过一个",
-		"soundmark": "/ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/ /ˈoʊvɜː/ /ˈeɪ/"
-	},
-	{
-		"english": "i worked with over the years is in the hundreds and well over a thousand",
-		"chinese": "这些年来我参与的项目有数百个，甚至超过一千个",
-		"soundmark": "/ˈaɪ/ /wˈɜːkt/ /wɪð/ /ˈoʊvɜː/ /ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/ /ˈoʊvɜː/ /ˈeɪ/ /θˈaʊzən/"
-	},
-	{
-		"english": "the years is in the hundreds and well over a thousand students",
-		"chinese": "这些年份有数百个，超过一千名学生",
-		"soundmark": "/ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/ /ˈoʊvɜː/ /ˈeɪ/ /θˈaʊzən/ /stˈuːdənts/"
-	},
-	{
-		"english": "the years is in the hundreds and well over a thousand students have",
-		"chinese": "这些年份有数百个，超过一千名学生",
-		"soundmark": "/ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/ /ˈoʊvɜː/ /ˈeɪ/ /θˈaʊzən/ /stˈuːdənts/ /hˈæv/"
-	},
-	{
-		"english": "the years is in the hundreds and well over a thousand students have called",
-		"chinese": "年份是数百位，超过一千名学生已前来咨询",
-		"soundmark": "/ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/ /ˈoʊvɜː/ /ˈeɪ/ /θˈaʊzən/ /stˈuːdənts/ /hˈæv/ /kˈɔːld/"
-	},
-	{
-		"english": "the years is in the hundreds and well over a thousand students have called me",
-		"chinese": "这些年份有数百个，超过一千名学生曾联系过我",
-		"soundmark": "/ðiː/ /jɜːz/ /ɪz/ /ˈɪn/ /ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/ /ˈoʊvɜː/ /ˈeɪ/ /θˈaʊzən/ /stˈuːdənts/ /hˈæv/ /kˈɔːld/ /mˈiː/"
-	},
-	{
-		"english": "the hundreds and well over a thousand students have called me teacher",
-		"chinese": "数百名甚至超过千名学生称我为老师",
-		"soundmark": "/ðiː/ /hˈənɜːdz/ /ˈænd/ /wˈɛːl/ /ˈoʊvɜː/ /ˈeɪ/ /θˈaʊzən/ /stˈuːdənts/ /hˈæv/ /kˈɔːld/ /mˈiː/ /tˈiːtʃɜː/"
-	},
-	{
-		"english": "is",
-		"chinese": "是",
-		"soundmark": "/ɪz/"
-	},
-	{
-		"english": "is it",
-		"chinese": "是吗",
-		"soundmark": "/ɪz/ /ɪt/"
-	},
-	{
-		"english": "is it any",
-		"chinese": "有吗？",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/"
-	},
-	{
-		"english": "is it any wonder",
-		"chinese": "有什么奇怪的吗",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/"
-	},
-	{
-		"english": "is it any wonder that",
-		"chinese": "有什么奇怪的吗？",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/"
-	},
-	{
-		"english": "is it any wonder that i",
-		"chinese": "难怪我……",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/"
-	},
-	{
-		"english": "is it any wonder that i can",
-		"chinese": "难怪我能……",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/"
-	},
-	{
-		"english": "is it any wonder that i can say",
-		"chinese": "我能这么说，有什么奇怪的吗？",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/ /sˈeɪ/"
-	},
-	{
-		"english": "is it any wonder that i can say that",
-		"chinese": "难怪我能这么说",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/"
-	},
-	{
-		"english": "is it any wonder that i can say that i",
-		"chinese": "难怪我能说我",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/ /ˈaɪ/"
-	},
-	{
-		"english": "is it any wonder that i can say that i always",
-		"chinese": "难怪我能说我总是",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/ /ˈaɪ/ /ˈɔːlwiːz/"
-	},
-	{
-		"english": "is it any wonder that i can say that i always felt",
-		"chinese": "难怪我能说我一直有这种感觉",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/ /ˈaɪ/ /ˈɔːlwiːz/ /fˈɛːlt/"
-	},
-	{
-		"english": "is it any wonder that i can say that i always felt comfortable",
-		"chinese": "难怪我能说自己总是感到舒适",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/ /ˈaɪ/ /ˈɔːlwiːz/ /fˈɛːlt/ /kˈəmfɜːtəbəl/"
-	},
-	{
-		"english": "is it any wonder that i can say that i always felt comfortable walking",
-		"chinese": "难怪我说自己走起来总是很自在",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/ /ˈaɪ/ /ˈɔːlwiːz/ /fˈɛːlt/ /kˈəmfɜːtəbəl/ /wˈɔːkɪŋ/"
-	},
-	{
-		"english": "is it any wonder that i can say that i always felt comfortable walking in",
-		"chinese": "难怪我说自己总是喜欢走路呢",
-		"soundmark": "/ɪz/ /ɪt/ /ˈɛːniː/ /wˈəndɜː/ /ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/ /ˈaɪ/ /ˈɔːlwiːz/ /fˈɛːlt/ /kˈəmfɜːtəbəl/ /wˈɔːkɪŋ/ /ˈɪn/"
-	},
-	{
-		"english": "that i can say that i always felt comfortable walking in school",
-		"chinese": "我可以说，在学校里行走时总是感到舒适",
-		"soundmark": "/ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/ /ˈaɪ/ /ˈɔːlwiːz/ /fˈɛːlt/ /kˈəmfɜːtəbəl/ /wˈɔːkɪŋ/ /ˈɪn/ /skˈuːl/"
-	},
-	{
-		"english": "that i can say that i always felt comfortable walking in school corridors",
-		"chinese": "我可以说，在校园走廊里行走时总是感到很舒适",
-		"soundmark": "/ðət/ /ˈaɪ/ /kən/ /sˈeɪ/ /ðət/ /ˈaɪ/ /ˈɔːlwiːz/ /fˈɛːlt/ /kˈəmfɜːtəbəl/ /wˈɔːkɪŋ/ /ˈɪn/ /skˈuːl/ /kˈɔːrədɜːz/"
-	},
-	{
-		"english": "sometimes",
-		"chinese": "有时",
-		"soundmark": "/sˈəmtˌaɪmz/"
-	},
-	{
-		"english": "sometimes i",
-		"chinese": "有时候我",
-		"soundmark": "/sˈəmtˌaɪmz/ /ˈaɪ/"
-	},
-	{
-		"english": "sometimes i worked",
-		"chinese": "有时我工作",
-		"soundmark": "/sˈəmtˌaɪmz/ /ˈaɪ/ /wˈɜːkt/"
-	},
-	{
-		"english": "sometimes i worked with",
-		"chinese": "有时我参与过工作",
-		"soundmark": "/sˈəmtˌaɪmz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/"
-	},
-	{
-		"english": "sometimes i worked with students",
-		"chinese": "有时我会和学生一起工作",
-		"soundmark": "/sˈəmtˌaɪmz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /stˈuːdənts/"
-	},
-	{
-		"english": "sometimes i worked with students at",
-		"chinese": "有时我与学生一起工作",
-		"soundmark": "/sˈəmtˌaɪmz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /stˈuːdənts/ /ˈæt/"
-	},
-	{
-		"english": "sometimes i worked with students at the",
-		"chinese": "有时我在……与学生一起工作",
-		"soundmark": "/sˈəmtˌaɪmz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /stˈuːdənts/ /ˈæt/ /ðiː/"
-	},
-	{
-		"english": "sometimes i worked with students at the intermediate",
-		"chinese": "有时我与中级水平的学生一起工作",
-		"soundmark": "/sˈəmtˌaɪmz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /stˈuːdənts/ /ˈæt/ /ðiː/ /ˌɪnɜːmˈiːdiːɪt/"
-	},
-	{
-		"english": "sometimes i worked with students at the intermediate level",
-		"chinese": "有时我会与中级水平的学生合作。",
-		"soundmark": "/sˈəmtˌaɪmz/ /ˈaɪ/ /wˈɜːkt/ /wɪð/ /stˈuːdənts/ /ˈæt/ /ðiː/ /ˌɪnɜːmˈiːdiːɪt/ /lˈɛːvəl/"
-	},
-	{
-		"english": "in",
-		"chinese": "在",
-		"soundmark": "/ˈɪn/"
-	},
-	{
-		"english": "in canada",
-		"chinese": "在加拿大",
-		"soundmark": "/ˈɪn/ /kˈænədə/"
-	},
-	{
-		"english": "students",
-		"chinese": "学生",
-		"soundmark": "/stˈuːdənts/"
-	},
-	{
-		"english": "students at",
-		"chinese": "学生们",
-		"soundmark": "/stˈuːdənts/ /ˈæt/"
-	},
-	{
-		"english": "students at that",
-		"chinese": "那些学生",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/"
-	},
-	{
-		"english": "students at that level",
-		"chinese": "那个水平的学生",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/"
-	},
-	{
-		"english": "students at that level are",
-		"chinese": "那个水平的学生们",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/"
-	},
-	{
-		"english": "students at that level are youth",
-		"chinese": "那个水平的学生就是年轻人",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/"
-	},
-	{
-		"english": "students at that level are youth in",
-		"chinese": "那个水平的学生就是年轻人",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/ /ˈɪn/"
-	},
-	{
-		"english": "students at that level are youth in their",
-		"chinese": "那个水平的学生就是年轻人",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/ /ˈɪn/ /ðˈɛːr/"
-	},
-	{
-		"english": "students at that level are youth in their preteen",
-		"chinese": "那个水平的学生是处于前青春期阶段的年轻人",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/ /ˈɪn/ /ðˈɛːr/ /prˌiːtˈiːn/"
-	},
-	{
-		"english": "students at that level are youth in their preteen years",
-		"chinese": "那个水平的学生是处于前青春期阶段的年轻人",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/ /ˈɪn/ /ðˈɛːr/ /prˌiːtˈiːn/ /jɜːz/"
-	},
-	{
-		"english": "students at that level are youth in their preteen years as",
-		"chinese": "那个水平的学生是处于前青春期阶段的年轻人",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/ /ˈɪn/ /ðˈɛːr/ /prˌiːtˈiːn/ /jɜːz/ /ˈɛːz/"
-	},
-	{
-		"english": "students at that level are youth in their preteen years as well",
-		"chinese": "那个水平的学生都是处于前青春期阶段的年轻人。",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/ /ˈɪn/ /ðˈɛːr/ /prˌiːtˈiːn/ /jɜːz/ /ˈɛːz/ /wˈɛːl/"
-	},
-	{
-		"english": "students at that level are youth in their preteen years as well as",
-		"chinese": "那个水平的学生是处于前青春期阶段的年轻人",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/ /ˈɪn/ /ðˈɛːr/ /prˌiːtˈiːn/ /jɜːz/ /ˈɛːz/ /wˈɛːl/ /ˈɛːz/"
-	},
-	{
-		"english": "students at that level are youth in their preteen years as well as teenagers",
-		"chinese": "那个水平的学生是处于前青春期阶段的青少年以及青少年本人",
-		"soundmark": "/stˈuːdənts/ /ˈæt/ /ðət/ /lˈɛːvəl/ /ɜː/ /jˈuːθ/ /ˈɪn/ /ðˈɛːr/ /prˌiːtˈiːn/ /jɜːz/ /ˈɛːz/ /wˈɛːl/ /ˈɛːz/ /tˈiːnˌeɪdʒɜːz/"
-	},
-	{
-		"english": "when",
-		"chinese": "当……时",
-		"soundmark": "/hwˈɪn/"
-	},
-	{
-		"english": "when i",
-		"chinese": "当我",
-		"soundmark": "/hwˈɪn/ /ˈaɪ/"
-	},
-	{
-		"english": "when i decided",
-		"chinese": "当我决定时",
-		"soundmark": "/hwˈɪn/ /ˈaɪ/ /dɪsˈaɪdɪd/"
-	},
-	{
-		"english": "when i decided to",
-		"chinese": "当我决定时",
-		"soundmark": "/hwˈɪn/ /ˈaɪ/ /dɪsˈaɪdɪd/ /tə/"
-	},
-	{
-		"english": "when i decided to retire",
-		"chinese": "当我决定退休时",
-		"soundmark": "/hwˈɪn/ /ˈaɪ/ /dɪsˈaɪdɪd/ /tə/ /rˌiːtˈaɪɜː/"
-	},
-	{
-		"english": "i",
-		"chinese": "我",
-		"soundmark": "/ˈaɪ/"
-	},
-	{
-		"english": "i knew",
-		"chinese": "我知道",
-		"soundmark": "/ˈaɪ/ /njˈuː/"
-	},
-	{
-		"english": "i knew that",
-		"chinese": "我知道",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/"
-	},
-	{
-		"english": "i knew that the",
-		"chinese": "我知道那个",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/"
-	},
-	{
-		"english": "i knew that the first",
-		"chinese": "我知道第一...",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/"
-	},
-	{
-		"english": "i knew that the first step",
-		"chinese": "我知道第一步",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/"
-	},
-	{
-		"english": "i knew that the first step in",
-		"chinese": "我知道第一步是",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/"
-	},
-	{
-		"english": "i knew that the first step in the",
-		"chinese": "我知道第一步是",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "i knew that the first step in the procedure",
-		"chinese": "我知道这个程序的第一步",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/"
-	},
-	{
-		"english": "i knew that the first step in the procedure was",
-		"chinese": "我知道该程序的第一步是",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/ /wˈɔːz/"
-	},
-	{
-		"english": "i knew that the first step in the procedure was to",
-		"chinese": "我知道程序的第一步是",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/ /wˈɔːz/ /tə/"
-	},
-	{
-		"english": "i knew that the first step in the procedure was to write",
-		"chinese": "我知道程序的第一步是写作",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/ /wˈɔːz/ /tə/ /rˈaɪt/"
-	},
-	{
-		"english": "i knew that the first step in the procedure was to write a",
-		"chinese": "我知道程序的第一步是写一份……",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/ /wˈɔːz/ /tə/ /rˈaɪt/ /ˈeɪ/"
-	},
-	{
-		"english": "i knew that the first step in the procedure was to write a letter",
-		"chinese": "我知道该程序的第一步是写一封信。",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/ /wˈɔːz/ /tə/ /rˈaɪt/ /ˈeɪ/ /lˈɛːtɜː/"
-	},
-	{
-		"english": "i knew that the first step in the procedure was to write a letter to",
-		"chinese": "我知道该程序的第一步是写一封信。",
-		"soundmark": "/ˈaɪ/ /njˈuː/ /ðət/ /ðiː/ /fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/ /wˈɔːz/ /tə/ /rˈaɪt/ /ˈeɪ/ /lˈɛːtɜː/ /tə/"
-	},
-	{
-		"english": "first step in the procedure was to write a letter to my",
-		"chinese": "程序的第一步是给我写一封信。",
-		"soundmark": "/fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/ /wˈɔːz/ /tə/ /rˈaɪt/ /ˈeɪ/ /lˈɛːtɜː/ /tə/ /mˈaɪ/"
-	},
-	{
-		"english": "first step in the procedure was to write a letter to my employer",
-		"chinese": "程序的第一步是给我的雇主写一封信",
-		"soundmark": "/fˈɜːst/ /stˈɛːp/ /ˈɪn/ /ðiː/ /proʊsˈiːdʒɜː/ /wˈɔːz/ /tə/ /rˈaɪt/ /ˈeɪ/ /lˈɛːtɜː/ /tə/ /mˈaɪ/ /ɪmplˈɔɪɜː/"
-	},
-	{
-		"english": "a",
-		"chinese": "一个",
-		"soundmark": "/ˈeɪ/"
-	},
-	{
-		"english": "a school",
-		"chinese": "学校",
-		"soundmark": "/ˈeɪ/ /skˈuːl/"
-	},
-	{
-		"english": "a school board",
-		"chinese": "学校董事会",
-		"soundmark": "/ˈeɪ/ /skˈuːl/ /bˈɔːrd/"
-	},
-	{
-		"english": "to",
-		"chinese": "为了",
-		"soundmark": "/tə/"
-	},
-	{
-		"english": "to resign",
-		"chinese": "辞职",
-		"soundmark": "/tə/ /riːsˈaɪn/"
-	},
-	{
-		"english": "to resign my",
-		"chinese": "辞职",
-		"soundmark": "/tə/ /riːsˈaɪn/ /mˈaɪ/"
-	},
-	{
-		"english": "to resign my position",
-		"chinese": "辞职",
-		"soundmark": "/tə/ /riːsˈaɪn/ /mˈaɪ/ /pəzˈɪʃən/"
-	},
-	{
-		"english": "i",
-		"chinese": "我",
-		"soundmark": "/ˈaɪ/"
-	},
-	{
-		"english": "i postponed",
-		"chinese": "我推迟了",
-		"soundmark": "/ˈaɪ/ /poʊspˈoʊnd/"
-	},
-	{
-		"english": "i postponed mailing",
-		"chinese": "我推迟了邮寄",
-		"soundmark": "/ˈaɪ/ /poʊspˈoʊnd/ /mˈeɪlɪŋ/"
-	},
-	{
-		"english": "i postponed mailing the",
-		"chinese": "我推迟了邮寄时间",
-		"soundmark": "/ˈaɪ/ /poʊspˈoʊnd/ /mˈeɪlɪŋ/ /ðiː/"
-	},
-	{
-		"english": "i postponed mailing the letter",
-		"chinese": "我推迟了寄信的时间",
-		"soundmark": "/ˈaɪ/ /poʊspˈoʊnd/ /mˈeɪlɪŋ/ /ðiː/ /lˈɛːtɜː/"
-	},
-	{
-		"english": "i",
-		"chinese": "我",
-		"soundmark": "/ˈaɪ/"
-	},
-	{
-		"english": "i was",
-		"chinese": "我曾是",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/"
-	},
-	{
-		"english": "i was reluctant",
-		"chinese": "我不愿意",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːlˈəktənt/"
-	},
-	{
-		"english": "i was reluctant to",
-		"chinese": "我不愿意",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːlˈəktənt/ /tə/"
-	},
-	{
-		"english": "i was reluctant to add",
-		"chinese": "我不愿意添加",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːlˈəktənt/ /tə/ /ˈæd/"
-	},
-	{
-		"english": "i was reluctant to add the",
-		"chinese": "我不愿意添加这个",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːlˈəktənt/ /tə/ /ˈæd/ /ðiː/"
-	},
-	{
-		"english": "i was reluctant to add the postage",
-		"chinese": "我不愿意加上邮费",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːlˈəktənt/ /tə/ /ˈæd/ /ðiː/ /pˈoʊstɪdʒ/"
-	},
-	{
-		"english": "i was reluctant to add the postage to",
-		"chinese": "我不愿加上邮费",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːlˈəktənt/ /tə/ /ˈæd/ /ðiː/ /pˈoʊstɪdʒ/ /tə/"
-	},
-	{
-		"english": "i was reluctant to add the postage to the",
-		"chinese": "我不愿意在……上加上邮费",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːlˈəktənt/ /tə/ /ˈæd/ /ðiː/ /pˈoʊstɪdʒ/ /tə/ /ðiː/"
-	},
-	{
-		"english": "i was reluctant to add the postage to the letter",
-		"chinese": "我不愿意在信件上加上邮资",
-		"soundmark": "/ˈaɪ/ /wˈɔːz/ /riːlˈəktənt/ /tə/ /ˈæd/ /ðiː/ /pˈoʊstɪdʒ/ /tə/ /ðiː/ /lˈɛːtɜː/"
-	},
-	{
-		"english": "knowing",
-		"chinese": "知道",
-		"soundmark": "/nˈoʊɪŋ/"
-	},
-	{
-		"english": "knowing that",
-		"chinese": "知道",
-		"soundmark": "/nˈoʊɪŋ/ /ðət/"
-	},
-	{
-		"english": "knowing that once",
-		"chinese": "知道一旦",
-		"soundmark": "/nˈoʊɪŋ/ /ðət/ /wˈəns/"
-	},
-	{
-		"english": "knowing that once i",
-		"chinese": "知道一旦我",
-		"soundmark": "/nˈoʊɪŋ/ /ðət/ /wˈəns/ /ˈaɪ/"
-	},
-	{
-		"english": "knowing that once i mailed",
-		"chinese": "知道一旦我寄出后",
-		"soundmark": "/nˈoʊɪŋ/ /ðət/ /wˈəns/ /ˈaɪ/ /mˈeɪld/"
-	},
-	{
-		"english": "knowing that once i mailed it",
-		"chinese": "知道一旦我寄出它",
-		"soundmark": "/nˈoʊɪŋ/ /ðət/ /wˈəns/ /ˈaɪ/ /mˈeɪld/ /ɪt/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the decision",
-		"chinese": "决定",
-		"soundmark": "/ðiː/ /dɪsˈɪʒən/"
-	},
-	{
-		"english": "the decision could",
-		"chinese": "该决定可能",
-		"soundmark": "/ðiː/ /dɪsˈɪʒən/ /kˈʊd/"
-	},
-	{
-		"english": "the decision could not",
-		"chinese": "决定无法做出",
-		"soundmark": "/ðiː/ /dɪsˈɪʒən/ /kˈʊd/ /nˈɑːt/"
-	},
-	{
-		"english": "the decision could not be",
-		"chinese": "该决定无法执行",
-		"soundmark": "/ðiː/ /dɪsˈɪʒən/ /kˈʊd/ /nˈɑːt/ /biː/"
-	},
-	{
-		"english": "the decision could not be reversed",
-		"chinese": "这一决定无法撤销",
-		"soundmark": "/ðiː/ /dɪsˈɪʒən/ /kˈʊd/ /nˈɑːt/ /biː/ /riːvˈɜːst/"
-	},
-	{
-		"english": "there",
-		"chinese": "那里",
-		"soundmark": "/ðˈɛːr/"
-	},
-	{
-		"english": "there were",
-		"chinese": "有",
-		"soundmark": "/ðˈɛːr/ /wˈɜː/"
-	},
-	{
-		"english": "there were many",
-		"chinese": "有很多",
-		"soundmark": "/ðˈɛːr/ /wˈɜː/ /mˈɛːniː/"
-	},
-	{
-		"english": "there were many details",
-		"chinese": "有很多细节",
-		"soundmark": "/ðˈɛːr/ /wˈɜː/ /mˈɛːniː/ /dˈiːteɪlz/"
-	},
-	{
-		"english": "there were many details to",
-		"chinese": "有很多细节需要处理",
-		"soundmark": "/ðˈɛːr/ /wˈɜː/ /mˈɛːniː/ /dˈiːteɪlz/ /tə/"
-	},
-	{
-		"english": "there were many details to consider",
-		"chinese": "有许多细节需要考虑",
-		"soundmark": "/ðˈɛːr/ /wˈɜː/ /mˈɛːniː/ /dˈiːteɪlz/ /tə/ /kənsˈɪdɜː/"
-	},
-	{
-		"english": "after",
-		"chinese": "之后",
-		"soundmark": "/ˈæftɜː/"
-	},
-	{
-		"english": "after choosing",
-		"chinese": "选择后",
-		"soundmark": "/ˈæftɜː/ /tʃˈuːzɪŋ/"
-	},
-	{
-		"english": "after choosing the",
-		"chinese": "选择后",
-		"soundmark": "/ˈæftɜː/ /tʃˈuːzɪŋ/ /ðiː/"
-	},
-	{
-		"english": "after choosing the company",
-		"chinese": "选择公司后",
-		"soundmark": "/ˈæftɜː/ /tʃˈuːzɪŋ/ /ðiː/ /kˈəmpəniː/"
-	},
-	{
-		"english": "after choosing the company that",
-		"chinese": "在选择了公司之后",
-		"soundmark": "/ˈæftɜː/ /tʃˈuːzɪŋ/ /ðiː/ /kˈəmpəniː/ /ðət/"
-	},
-	{
-		"english": "after choosing the company that i",
-		"chinese": "在选择了公司之后",
-		"soundmark": "/ˈæftɜː/ /tʃˈuːzɪŋ/ /ðiː/ /kˈəmpəniː/ /ðət/ /ˈaɪ/"
-	},
-	{
-		"english": "after choosing the company that i wanted",
-		"chinese": "在选择了我想要的公司之后",
-		"soundmark": "/ˈæftɜː/ /tʃˈuːzɪŋ/ /ðiː/ /kˈəmpəniː/ /ðət/ /ˈaɪ/ /wˈɔːnɪd/"
-	},
-	{
-		"english": "after choosing the company that i wanted to",
-		"chinese": "在选择了我想去的公司之后",
-		"soundmark": "/ˈæftɜː/ /tʃˈuːzɪŋ/ /ðiː/ /kˈəmpəniː/ /ðət/ /ˈaɪ/ /wˈɔːnɪd/ /tə/"
-	},
-	{
-		"english": "after choosing the company that i wanted to work",
-		"chinese": "在选择了我想工作的公司之后",
-		"soundmark": "/ˈæftɜː/ /tʃˈuːzɪŋ/ /ðiː/ /kˈəmpəniː/ /ðət/ /ˈaɪ/ /wˈɔːnɪd/ /tə/ /wˈɜːk/"
-	}
+  {
+    "english": "There",
+    "chinese": "有",
+    "soundmark": "/ðˈɛːr/"
+  },
+  {
+    "english": "There were",
+    "chinese": "有很多"
+  },
+  {
+    "english": "There were many",
+    "chinese": "有很多细节"
+  },
+  {
+    "english": "There were many details",
+    "chinese": "有很多细节需要"
+  },
+  {
+    "english": "There were many details to",
+    "chinese": "有很多细节需要考虑"
+  },
+  {
+    "english": "There were many details to consider",
+    "chinese": "有许多细节需要考虑。"
+  },
+  {
+    "english": "After",
+    "chinese": "之后",
+    "soundmark": "/ˈæftɜː/"
+  },
+  {
+    "english": "After choosing",
+    "chinese": "选择之后"
+  },
+  {
+    "english": "After choosing the",
+    "chinese": "选择该公司之后"
+  },
+  {
+    "english": "After choosing the company",
+    "chinese": "选择公司后"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that I",
+    "chinese": "那个我"
+  },
+  {
+    "english": "that I wanted",
+    "chinese": "那个我想要"
+  },
+  {
+    "english": "that I wanted to",
+    "chinese": "那个我想做"
+  },
+  {
+    "english": "that I wanted to work",
+    "chinese": "那个我想工作"
+  },
+  {
+    "english": "that I wanted to work for",
+    "chinese": "我想工作"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I still",
+    "chinese": "我仍然"
+  },
+  {
+    "english": "I still had",
+    "chinese": "我仍然拥有"
+  },
+  {
+    "english": "I still had to",
+    "chinese": "我仍然必须接受"
+  },
+  {
+    "english": "I still had to take",
+    "chinese": "我仍然必须接受一次"
+  },
+  {
+    "english": "I still had to take a",
+    "chinese": "我仍然必须接受一次漫长的"
+  },
+  {
+    "english": "I still had to take a long",
+    "chinese": "我仍然必须接受一次漫长的、严肃的"
+  },
+  {
+    "english": "I still had to take a long solemn",
+    "chinese": "我仍然必须接受一次漫长的、严肃的审视"
+  },
+  {
+    "english": "I still had to take a long solemn look at",
+    "chinese": "我仍然必须接受一次漫长的、严肃的审视我的"
+  },
+  {
+    "english": "I still had to take a long solemn look at my",
+    "chinese": "我仍然必须接受一次漫长的、严肃的审视我的处境"
+  },
+  {
+    "english": "I still had to take a long solemn look at my circumstances",
+    "chinese": "我仍不得不认真审视自己的处境。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I decided",
+    "chinese": "我决定了"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that I",
+    "chinese": "我"
+  },
+  {
+    "english": "that I would",
+    "chinese": "我将会"
+  },
+  {
+    "english": "that I would sell",
+    "chinese": "我会出售"
+  },
+  {
+    "english": "that I would sell my",
+    "chinese": "我愿意出售我的"
+  },
+  {
+    "english": "that I would sell my car",
+    "chinese": "我愿意卖我的车"
+  },
+  {
+    "english": "put",
+    "chinese": "放置",
+    "soundmark": "/pˈʊt/"
+  },
+  {
+    "english": "put my",
+    "chinese": "放置我的"
+  },
+  {
+    "english": "put my personal",
+    "chinese": "放置我的个人物品"
+  },
+  {
+    "english": "put my personal belongings",
+    "chinese": "放置我的个人物品"
+  },
+  {
+    "english": "put my personal belongings in",
+    "chinese": "将我的个人物品放入"
+  },
+  {
+    "english": "put my personal belongings in storage",
+    "chinese": "把我的个人物品存放起来"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and rent",
+    "chinese": "和租金"
+  },
+  {
+    "english": "and rent my",
+    "chinese": "和我的租金"
+  },
+  {
+    "english": "and rent my house",
+    "chinese": "并租下我的房子。"
+  },
+  {
+    "english": "A lot of",
+    "chinese": "很多时间"
+  },
+  {
+    "english": "A lot of time",
+    "chinese": "很多时间"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and effort",
+    "chinese": "以及努力"
+  },
+  {
+    "english": "and effort was",
+    "chinese": "需要付出努力"
+  },
+  {
+    "english": "and effort was required",
+    "chinese": "需要付出努力来"
+  },
+  {
+    "english": "and effort was required to",
+    "chinese": "需要付出努力来完成"
+  },
+  {
+    "english": "and effort was required to make",
+    "chinese": "需要付出努力来完成所有事情"
+  },
+  {
+    "english": "and effort was required to make all",
+    "chinese": "需要付出努力来安排所有事项"
+  },
+  {
+    "english": "and effort was required to make all the",
+    "chinese": "需要努力才能完成所有事情"
+  },
+  {
+    "english": "and effort was required to make all the arrangements",
+    "chinese": "需要付出努力来完成所有安排。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I decided",
+    "chinese": "我决定"
+  },
+  {
+    "english": "I decided to",
+    "chinese": "我决定去处理"
+  },
+  {
+    "english": "I decided to tackle",
+    "chinese": "我决定去处理其中一个"
+  },
+  {
+    "english": "I decided to tackle one",
+    "chinese": "我决定去处理其中一个方面"
+  },
+  {
+    "english": "I decided to tackle one aspect",
+    "chinese": "我决定去处理其中一个方面的某一点"
+  },
+  {
+    "english": "I decided to tackle one aspect at",
+    "chinese": "我决定一次处理其中一个方面的某一点"
+  },
+  {
+    "english": "I decided to tackle one aspect at a",
+    "chinese": "我决定从一方面开始着手"
+  },
+  {
+    "english": "I decided to tackle one aspect at a time",
+    "chinese": "我决定一次只处理一个方面。"
+  },
+  {
+    "english": "The",
+    "chinese": "那个",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The first",
+    "chinese": "第一件"
+  },
+  {
+    "english": "The first thing",
+    "chinese": "第一件事"
+  },
+  {
+    "english": "The first thing I",
+    "chinese": "我首先关注的"
+  },
+  {
+    "english": "The first thing I targeted",
+    "chinese": "我首先针对的事情"
+  },
+  {
+    "english": "The first thing I targeted was",
+    "chinese": "我首先针对的事情是"
+  },
+  {
+    "english": "The first thing I targeted was to",
+    "chinese": "我首先针对的事情是为了"
+  },
+  {
+    "english": "The first thing I targeted was to sell",
+    "chinese": "我首先针对的事情是为了出售"
+  },
+  {
+    "english": "The first thing I targeted was to sell my",
+    "chinese": "我首先针对的事情是为了出售我的"
+  },
+  {
+    "english": "The first thing I targeted was to sell my car",
+    "chinese": "我首先的目标就是卖掉我的车。"
+  },
+  {
+    "english": "As",
+    "chinese": "作为",
+    "soundmark": "/ˈɛːz/"
+  },
+  {
+    "english": "As a",
+    "chinese": "作为"
+  },
+  {
+    "english": "As a matter",
+    "chinese": "作为事项"
+  },
+  {
+    "english": "As a matter of",
+    "chinese": "作为事项"
+  },
+  {
+    "english": "As a matter of principle",
+    "chinese": "从原则上讲"
+  },
+  {
+    "english": "As a matter of principle I",
+    "chinese": "从原则上讲，我"
+  },
+  {
+    "english": "As a matter of principle I felt",
+    "chinese": "从原则上讲，我觉得"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that the",
+    "chinese": "那个价值"
+  },
+  {
+    "english": "that the value",
+    "chinese": "那个汽车的价值"
+  },
+  {
+    "english": "that the value of",
+    "chinese": "那个汽车的价值会"
+  },
+  {
+    "english": "that the value of the",
+    "chinese": "那个汽车的价值会贬值"
+  },
+  {
+    "english": "that the value of the car",
+    "chinese": "那个汽车的价值会随着时间贬值"
+  },
+  {
+    "english": "that the value of the car would",
+    "chinese": "那个汽车的价值会随着时间在我身上贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate",
+    "chinese": "那个汽车的价值会随着我在外时贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate over",
+    "chinese": "那个汽车的价值会随着我在国外时贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate over the",
+    "chinese": "那辆车的价值会在……期间贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate over the time",
+    "chinese": "那辆车的价值会随时间贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate over the time I",
+    "chinese": "那辆车的价值会随着时间的推移而贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate over the time I was",
+    "chinese": "那辆车的价值会在我使用期间贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate over the time I was out of",
+    "chinese": "那辆车的价值会在我不在期间贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate over the time I was out of the",
+    "chinese": "那辆车的价值会在我不在期间贬值"
+  },
+  {
+    "english": "that the value of the car would depreciate over the time I was out of the country",
+    "chinese": "那辆车的价值会在我出国期间贬值。"
+  },
+  {
+    "english": "The",
+    "chinese": "合理的策略",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The sensible",
+    "chinese": "合理的策略是"
+  },
+  {
+    "english": "The sensible strategy",
+    "chinese": "合理的策略是出售"
+  },
+  {
+    "english": "The sensible strategy was",
+    "chinese": "合理的策略是出售它"
+  },
+  {
+    "english": "The sensible strategy was to",
+    "chinese": "合理的策略是"
+  },
+  {
+    "english": "The sensible strategy was to sell",
+    "chinese": "合理的策略是出售"
+  },
+  {
+    "english": "The sensible strategy was to sell it",
+    "chinese": "合理的策略是出售它。"
+  },
+  {
+    "english": "Fortunately",
+    "chinese": "幸运的是，",
+    "soundmark": "/fˈɔːrtʃuːnətliː/"
+  },
+  {
+    "english": "Fortunately my",
+    "chinese": "幸运的是，我的……"
+  },
+  {
+    "english": "Fortunately my niece",
+    "chinese": "幸运的是，我的侄女……"
+  },
+  {
+    "english": "Fortunately my niece wanted",
+    "chinese": "幸运的是，我的侄女想要……"
+  },
+  {
+    "english": "Fortunately my niece wanted to",
+    "chinese": "幸运的是，我的侄女想要买……"
+  },
+  {
+    "english": "Fortunately my niece wanted to buy",
+    "chinese": "幸运的是，我的侄女想要买那辆车。"
+  },
+  {
+    "english": "Fortunately my niece wanted to buy the",
+    "chinese": "幸运的是，我的侄女想要购买它。"
+  },
+  {
+    "english": "Fortunately my niece wanted to buy the car",
+    "chinese": "幸运的是，我的侄女想要买这辆车。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I made",
+    "chinese": "我做了"
+  },
+  {
+    "english": "I made a",
+    "chinese": "我做了一份"
+  },
+  {
+    "english": "I made a list",
+    "chinese": "我列了一份清单"
+  },
+  {
+    "english": "I made a list of",
+    "chinese": "我列了清单中的事物"
+  },
+  {
+    "english": "I made a list of things",
+    "chinese": "我列了需要携带的事物清单"
+  },
+  {
+    "english": "I made a list of things to",
+    "chinese": "我列了需要携带的东西清单"
+  },
+  {
+    "english": "I made a list of things to take",
+    "chinese": "我列了需要携带的东西清单"
+  },
+  {
+    "english": "I made a list of things to take with",
+    "chinese": "我列了一个需要携带的东西清单"
+  },
+  {
+    "english": "I made a list of things to take with me",
+    "chinese": "我列了一个需要带在身边的物品清单。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I was",
+    "chinese": "我被建议"
+  },
+  {
+    "english": "I was advised",
+    "chinese": "我被建议采取"
+  },
+  {
+    "english": "I was advised to",
+    "chinese": "我被建议采取辅助设备"
+  },
+  {
+    "english": "I was advised to take",
+    "chinese": "我被建议采取辅助照明"
+  },
+  {
+    "english": "I was advised to take auxiliary",
+    "chinese": "我被建议服用辅助药物"
+  },
+  {
+    "english": "I was advised to take auxiliary lighting",
+    "chinese": "建议我使用辅助照明。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I packed",
+    "chinese": "我打包了"
+  },
+  {
+    "english": "I packed battery",
+    "chinese": "我打包了电池"
+  },
+  {
+    "english": "I packed battery operated",
+    "chinese": "我打包了电池供电的"
+  },
+  {
+    "english": "I packed battery operated flashlights",
+    "chinese": "我打包了电池供电的手电筒"
+  },
+  {
+    "english": "I packed battery operated flashlights to",
+    "chinese": "我打包了那些电池供电的手电筒"
+  },
+  {
+    "english": "I packed battery operated flashlights to be",
+    "chinese": "我打包了那些用于使用的电池供电手电筒"
+  },
+  {
+    "english": "I packed battery operated flashlights to be used",
+    "chinese": "我打包了那些在电力中断时可使用的电池供电手电筒"
+  },
+  {
+    "english": "I packed battery operated flashlights to be used in case of",
+    "chinese": "我准备了电池供电的手电筒，以备不时之需"
+  },
+  {
+    "english": "I packed battery operated flashlights to be used in case of power",
+    "chinese": "我准备了电池供电的手电筒，以备停电时使用。"
+  },
+  {
+    "english": "I packed battery operated flashlights to be used in case of power failure",
+    "chinese": "我准备了电池供电的手电筒，以备停电时使用。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I included",
+    "chinese": "我包含了"
+  },
+  {
+    "english": "I included a",
+    "chinese": "我包含了一件"
+  },
+  {
+    "english": "I included a waterproof",
+    "chinese": "我包含了一件防水外套"
+  },
+  {
+    "english": "I included a waterproof jacket",
+    "chinese": "我包含了一件防水外套"
+  },
+  {
+    "english": "I included a waterproof jacket in",
+    "chinese": "我包含了一件防水外套以备"
+  },
+  {
+    "english": "I included a waterproof jacket in case",
+    "chinese": "我包含了一件防水外套以防我需要"
+  },
+  {
+    "english": "I included a waterproof jacket in case I",
+    "chinese": "我包含了一件防水外套以防我需要"
+  },
+  {
+    "english": "I included a waterproof jacket in case I needed",
+    "chinese": "我包含了一件防水外套以防我需要行走"
+  },
+  {
+    "english": "I included a waterproof jacket in case I needed to",
+    "chinese": "我包含了一件防水外套以防我需要步行去"
+  },
+  {
+    "english": "I included a waterproof jacket in case I needed to walk",
+    "chinese": "我包含了一件防水外套以防我需要步行去学校"
+  },
+  {
+    "english": "I included a waterproof jacket in case I needed to walk to",
+    "chinese": "我包含了一件防水外套以防我需要步行去学校期间"
+  },
+  {
+    "english": "I included a waterproof jacket in case I needed to walk to school",
+    "chinese": "我包含了一件防水外套以防我需要步行去学校在雨中"
+  },
+  {
+    "english": "I included a waterproof jacket in case I needed to walk to school in",
+    "chinese": "我带了一件防水夹克，以防需要步行去学校"
+  },
+  {
+    "english": "I included a waterproof jacket in case I needed to walk to school in the",
+    "chinese": "我带了一件防水夹克，以防需要步行去学校。"
+  },
+  {
+    "english": "I included a waterproof jacket in case I needed to walk to school in the rain",
+    "chinese": "我带了一件防水夹克，以防下雨时步行去学校。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I needed",
+    "chinese": "我需要"
+  },
+  {
+    "english": "I needed to",
+    "chinese": "我需要整理"
+  },
+  {
+    "english": "I needed to sort",
+    "chinese": "我需要整理我的"
+  },
+  {
+    "english": "I needed to sort my",
+    "chinese": "我需要整理我的物品"
+  },
+  {
+    "english": "I needed to sort my belongings",
+    "chinese": "我需要整理我的物品。"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I had",
+    "chinese": "我曾经有"
+  },
+  {
+    "english": "I had to",
+    "chinese": "我必须决定"
+  },
+  {
+    "english": "I had to decide",
+    "chinese": "我必须决定什么"
+  },
+  {
+    "english": "I had to decide what",
+    "chinese": "我必须决定要保存什么"
+  },
+  {
+    "english": "I had to decide what to",
+    "chinese": "我必须决定该做什么"
+  },
+  {
+    "english": "I had to decide what to save",
+    "chinese": "我必须决定要保存什么"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and what",
+    "chinese": "和什么"
+  },
+  {
+    "english": "and what to",
+    "chinese": "和应该做什么"
+  },
+  {
+    "english": "and what to pitch",
+    "chinese": "和应该推出什么"
+  },
+  {
+    "english": "and what to pitch out",
+    "chinese": "以及该何去何从。"
+  },
+  {
+    "english": "For",
+    "chinese": "为了",
+    "soundmark": "/frɜː/"
+  },
+  {
+    "english": "For example",
+    "chinese": "例如"
+  },
+  {
+    "english": "I",
+    "chinese": "我",
+    "soundmark": "/ˈaɪ/"
+  },
+  {
+    "english": "I decided",
+    "chinese": "我决定"
+  },
+  {
+    "english": "I decided I",
+    "chinese": "我决定我"
+  },
+  {
+    "english": "I decided I no",
+    "chinese": "我决定我不再"
+  },
+  {
+    "english": "I decided I no longer",
+    "chinese": "我决定我不再需要"
+  },
+  {
+    "english": "I decided I no longer needed",
+    "chinese": "我决定我不再需要我的"
+  },
+  {
+    "english": "I decided I no longer needed my",
+    "chinese": "我决定我不再需要我的打字机"
+  },
+  {
+    "english": "I decided I no longer needed my typewriter",
+    "chinese": "我决定不再需要我的打字机了"
+  },
+  {
+    "english": "as",
+    "chinese": "正如我曾经",
+    "soundmark": "/ˈɛːz/"
+  },
+  {
+    "english": "as I",
+    "chinese": "因为我"
+  },
+  {
+    "english": "as I only",
+    "chinese": "因为我只是"
+  },
+  {
+    "english": "as I only used",
+    "chinese": "因为我只使用了"
+  },
+  {
+    "english": "as I only used my",
+    "chinese": "因为我只使用了我的"
+  },
+  {
+    "english": "as I only used my computer",
+    "chinese": "因为我只使用了电脑"
+  },
+  {
+    "english": "as I only used my computer for",
+    "chinese": "因为我只使用电脑来"
+  },
+  {
+    "english": "as I only used my computer for word",
+    "chinese": "因为我只用电脑写字"
+  },
+  {
+    "english": "as I only used my computer for word processing",
+    "chinese": "因为我只使用电脑进行文字处理"
+  },
+  {
+    "english": "as I only used my computer for word processing now",
+    "chinese": "因为现在我只用电脑进行文字处理"
+  },
+  {
+    "english": "so",
+    "chinese": "所以",
+    "soundmark": "/sˈoʊ/"
+  },
+  {
+    "english": "so I",
+    "chinese": "所以我"
+  },
+  {
+    "english": "so I decided",
+    "chinese": "所以我决定"
+  },
+  {
+    "english": "so I decided to",
+    "chinese": "所以我决定给予"
+  },
+  {
+    "english": "so I decided to give",
+    "chinese": "所以我决定给予它"
+  },
+  {
+    "english": "so I decided to give it",
+    "chinese": "所以我决定把它送出去"
+  },
+  {
+    "english": "so I decided to give it away",
+    "chinese": "所以我决定把它送出去。"
+  }
 ]

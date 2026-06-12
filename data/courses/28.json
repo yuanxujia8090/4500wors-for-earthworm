@@ -1,992 +1,950 @@
 [
-	{
-		"english": "will a type of nylon fabric be used in an effort to make our",
-		"chinese": "是否会使用某种尼龙面料来帮助我们",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/ /ən/ /ˈɛːfɜːt/ /tə/ /mˈeɪk/ /ˈɑːr/"
-	},
-	{
-		"english": "will a type of nylon fabric be used in an effort to make our clothing",
-		"chinese": "是否会使用某种尼龙面料来制作我们的服装",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈaɪp/ /əv/ /nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/ /ən/ /ˈɛːfɜːt/ /tə/ /mˈeɪk/ /ˈɑːr/ /klˈoʊðɪŋ/"
-	},
-	{
-		"english": "nylon fabric be used in an effort to make our clothing more",
-		"chinese": "使用尼龙面料，以让我们的服装更加……",
-		"soundmark": "/nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/ /ən/ /ˈɛːfɜːt/ /tə/ /mˈeɪk/ /ˈɑːr/ /klˈoʊðɪŋ/ /mˈɔːr/"
-	},
-	{
-		"english": "nylon fabric be used in an effort to make our clothing more durable",
-		"chinese": "使用尼龙面料，以使我们的服装更加耐用",
-		"soundmark": "/nˈaɪlˌɑːn/ /fˈæbrɪk/ /biː/ /jˈuːzd/ /ˈɪn/ /ən/ /ˈɛːfɜːt/ /tə/ /mˈeɪk/ /ˈɑːr/ /klˈoʊðɪŋ/ /mˈɔːr/ /dˈʊrəbəl/"
-	},
-	{
-		"english": "synthetic",
-		"chinese": "合成",
-		"soundmark": "/sɪnθˈɛːtɪk/"
-	},
-	{
-		"english": "synthetic fibers",
-		"chinese": "合成纤维",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/"
-	},
-	{
-		"english": "synthetic fibers which",
-		"chinese": "合成纤维",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/"
-	},
-	{
-		"english": "synthetic fibers which will",
-		"chinese": "将使用的合成纤维",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/"
-	},
-	{
-		"english": "synthetic fibers which will not",
-		"chinese": "不会使用的合成纤维",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/"
-	},
-	{
-		"english": "synthetic fibers which will not fade",
-		"chinese": "不会褪色的合成纤维",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can",
-		"chinese": "不会褪色的合成纤维",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can be",
-		"chinese": "不会褪色的合成纤维可以",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/ /biː/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can be produced",
-		"chinese": "可以生产不会褪色的合成纤维",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can be produced in",
-		"chinese": "不会褪色的合成纤维可以被生产出来",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can be produced in bright",
-		"chinese": "可以生产不会褪色的合成纤维，颜色鲜艳",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can be produced in bright colors",
-		"chinese": "可以生产不会褪色的合成纤维，并采用鲜艳的颜色",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can be produced in bright colors such",
-		"chinese": "可以生产不会褪色的合成纤维，这些纤维可以呈现鲜艳的颜色",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can be produced in bright colors such as",
-		"chinese": "可以生产不会褪色的合成纤维，其颜色可以是鲜艳的如",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/"
-	},
-	{
-		"english": "synthetic fibers which will not fade can be produced in bright colors such as pink",
-		"chinese": "可以生产不会褪色的合成纤维，其颜色可以是鲜艳的如粉色",
-		"soundmark": "/sɪnθˈɛːtɪk/ /fˈaɪbɜːz/ /hwˈɪtʃ/ /wəl/ /nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/"
-	},
-	{
-		"english": "not fade can be produced in bright colors such as pink and",
-		"chinese": "不会褪色，可以呈现如粉色这样的鲜艳颜色",
-		"soundmark": "/nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/"
-	},
-	{
-		"english": "not fade can be produced in bright colors such as pink and purple",
-		"chinese": "不会褪色，可以呈现如粉色和紫色这样的鲜艳颜色",
-		"soundmark": "/nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/"
-	},
-	{
-		"english": "not fade can be produced in bright colors such as pink and purple in",
-		"chinese": "可以用粉色和紫色等鲜艳颜色来呈现不褪色的效果",
-		"soundmark": "/nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/"
-	},
-	{
-		"english": "not fade can be produced in bright colors such as pink and purple in addition",
-		"chinese": "还可以使用粉色和紫色等鲜艳颜色来制作不褪色的效果",
-		"soundmark": "/nˈɑːt/ /fˈeɪd/ /kən/ /biː/ /prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/"
-	},
-	{
-		"english": "produced in bright colors such as pink and purple in addition to",
-		"chinese": "以粉色和紫色等鲜艳颜色呈现，此外",
-		"soundmark": "/prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/ /tə/"
-	},
-	{
-		"english": "produced in bright colors such as pink and purple in addition to all",
-		"chinese": "以粉色和紫色等鲜艳颜色呈现，此外还有所有颜色",
-		"soundmark": "/prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/ /tə/ /ˈɔːl/"
-	},
-	{
-		"english": "produced in bright colors such as pink and purple in addition to all the",
-		"chinese": "以粉色和紫色等鲜艳颜色呈现，此外还有所有……",
-		"soundmark": "/prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/ /tə/ /ˈɔːl/ /ðiː/"
-	},
-	{
-		"english": "produced in bright colors such as pink and purple in addition to all the other",
-		"chinese": "以粉色和紫色等鲜艳颜色呈现，此外还有所有其他颜色",
-		"soundmark": "/prədˈuːst/ /ˈɪn/ /brˈaɪt/ /kˈəlɜːz/ /sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/ /tə/ /ˈɔːl/ /ðiː/ /ˈəðɜː/"
-	},
-	{
-		"english": "such as pink and purple in addition to all the other colors",
-		"chinese": "包括粉色、紫色以及其他所有颜色",
-		"soundmark": "/sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/ /tə/ /ˈɔːl/ /ðiː/ /ˈəðɜː/ /kˈəlɜːz/"
-	},
-	{
-		"english": "such as pink and purple in addition to all the other colors of",
-		"chinese": "如粉色和紫色，以及所有其他颜色",
-		"soundmark": "/sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/ /tə/ /ˈɔːl/ /ðiː/ /ˈəðɜː/ /kˈəlɜːz/ /əv/"
-	},
-	{
-		"english": "such as pink and purple in addition to all the other colors of the",
-		"chinese": "比如粉色和紫色，以及所有其他颜色",
-		"soundmark": "/sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/ /tə/ /ˈɔːl/ /ðiː/ /ˈəðɜː/ /kˈəlɜːz/ /əv/ /ðiː/"
-	},
-	{
-		"english": "such as pink and purple in addition to all the other colors of the rainbow",
-		"chinese": "包括彩虹中的所有其他颜色之外，还有粉色和紫色",
-		"soundmark": "/sˈətʃ/ /ˈɛːz/ /pˈɪŋk/ /ˈænd/ /pˈɜːpəl/ /ˈɪn/ /ədˈɪʃən/ /tə/ /ˈɔːl/ /ðiː/ /ˈəðɜː/ /kˈəlɜːz/ /əv/ /ðiː/ /rˈeɪnbˌoʊ/"
-	},
-	{
-		"english": "food",
-		"chinese": "食物",
-		"soundmark": "/fˈuːd/"
-	},
-	{
-		"english": "food our",
-		"chinese": "食物我们的",
-		"soundmark": "/fˈuːd/ /ˈɑːr/"
-	},
-	{
-		"english": "food our diet",
-		"chinese": "我们的饮食",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/"
-	},
-	{
-		"english": "food our diet might",
-		"chinese": "我们的饮食可能包含的食物",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/"
-	},
-	{
-		"english": "food our diet might contain",
-		"chinese": "我们的饮食中可能含有食物",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/"
-	},
-	{
-		"english": "food our diet might contain some",
-		"chinese": "我们的饮食中可能含有一些食物",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/"
-	},
-	{
-		"english": "food our diet might contain some of",
-		"chinese": "我们的饮食中可能含有一些",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/ /əv/"
-	},
-	{
-		"english": "food our diet might contain some of the",
-		"chinese": "我们的饮食中可能含有一些",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/ /əv/ /ðiː/"
-	},
-	{
-		"english": "food our diet might contain some of the same",
-		"chinese": "我们的饮食中可能含有相同成分",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/ /əv/ /ðiː/ /sˈeɪm/"
-	},
-	{
-		"english": "food our diet might contain some of the same foods",
-		"chinese": "我们的饮食中可能包含一些相同的食物",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/ /əv/ /ðiː/ /sˈeɪm/ /fˈuːdz/"
-	},
-	{
-		"english": "food our diet might contain some of the same foods that",
-		"chinese": "我们的饮食中可能包含一些相同的食物。",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/ /əv/ /ðiː/ /sˈeɪm/ /fˈuːdz/ /ðət/"
-	},
-	{
-		"english": "food our diet might contain some of the same foods that we",
-		"chinese": "我们的饮食中可能包含一些与我们所吃的相同的食物。",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/ /əv/ /ðiː/ /sˈeɪm/ /fˈuːdz/ /ðət/ /wˈiː/"
-	},
-	{
-		"english": "food our diet might contain some of the same foods that we eat",
-		"chinese": "我们的饮食中可能包含一些与我们所吃相同的食物",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/ /əv/ /ðiː/ /sˈeɪm/ /fˈuːdz/ /ðət/ /wˈiː/ /ˈiːt/"
-	},
-	{
-		"english": "food our diet might contain some of the same foods that we eat now",
-		"chinese": "我们的饮食中可能包含一些与我们现在所吃相同的食物",
-		"soundmark": "/fˈuːd/ /ˈɑːr/ /dˈaɪət/ /mˈaɪt/ /kəntˈeɪn/ /sˈəm/ /əv/ /ðiː/ /sˈeɪm/ /fˈuːdz/ /ðət/ /wˈiː/ /ˈiːt/ /nˈaʊ/"
-	},
-	{
-		"english": "will",
-		"chinese": "将会",
-		"soundmark": "/wəl/"
-	},
-	{
-		"english": "will we",
-		"chinese": "我们会吗",
-		"soundmark": "/wəl/ /wˈiː/"
-	},
-	{
-		"english": "will we still",
-		"chinese": "我们还会吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/"
-	},
-	{
-		"english": "will we still use",
-		"chinese": "我们还会使用吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/"
-	},
-	{
-		"english": "will we still use flour",
-		"chinese": "我们还会使用面粉吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /flˈaʊr/"
-	},
-	{
-		"english": "will we still use flour to",
-		"chinese": "我们还会使用面粉吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /flˈaʊr/ /tə/"
-	},
-	{
-		"english": "will we still use flour to make",
-		"chinese": "我们还会用面粉来制作吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /flˈaʊr/ /tə/ /mˈeɪk/"
-	},
-	{
-		"english": "will we still use flour to make a",
-		"chinese": "我们还会用面粉来制作吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /flˈaʊr/ /tə/ /mˈeɪk/ /ˈeɪ/"
-	},
-	{
-		"english": "will we still use flour to make a loaf",
-		"chinese": "我们还会用面粉制作面包吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /flˈaʊr/ /tə/ /mˈeɪk/ /ˈeɪ/ /lˈoʊf/"
-	},
-	{
-		"english": "will we still use flour to make a loaf of",
-		"chinese": "我们还会用面粉制作面包吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /flˈaʊr/ /tə/ /mˈeɪk/ /ˈeɪ/ /lˈoʊf/ /əv/"
-	},
-	{
-		"english": "will we still use flour to make a loaf of bread",
-		"chinese": "我们还会用面粉制作面包吗？",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /jˈuːz/ /flˈaʊr/ /tə/ /mˈeɪk/ /ˈeɪ/ /lˈoʊf/ /əv/ /brˈɛːd/"
-	},
-	{
-		"english": "maybe",
-		"chinese": "也许",
-		"soundmark": "/mˈeɪbiː/"
-	},
-	{
-		"english": "maybe there",
-		"chinese": "也许有",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/"
-	},
-	{
-		"english": "maybe there will",
-		"chinese": "也许会",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/"
-	},
-	{
-		"english": "maybe there will be",
-		"chinese": "也许会有的",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/"
-	},
-	{
-		"english": "maybe there will be ways",
-		"chinese": "也许会有办法",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/"
-	},
-	{
-		"english": "maybe there will be ways to",
-		"chinese": "也许会有办法",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/"
-	},
-	{
-		"english": "maybe there will be ways to preserve",
-		"chinese": "也许会有办法来保存",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/"
-	},
-	{
-		"english": "maybe there will be ways to preserve our",
-		"chinese": "也许会有办法来保存我们",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/ /ˈɑːr/"
-	},
-	{
-		"english": "maybe there will be ways to preserve our food",
-		"chinese": "也许会有办法保存我们的食物",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/ /ˈɑːr/ /fˈuːd/"
-	},
-	{
-		"english": "maybe there will be ways to preserve our food so",
-		"chinese": "也许有办法可以保存我们的食物",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/ /ˈɑːr/ /fˈuːd/ /sˈoʊ/"
-	},
-	{
-		"english": "maybe there will be ways to preserve our food so that",
-		"chinese": "也许有办法保存我们的食物，从而",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/ /ˈɑːr/ /fˈuːd/ /sˈoʊ/ /ðət/"
-	},
-	{
-		"english": "maybe there will be ways to preserve our food so that bread",
-		"chinese": "也许有办法保存我们的食物，这样面包就能……",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/ /ˈɑːr/ /fˈuːd/ /sˈoʊ/ /ðət/ /brˈɛːd/"
-	},
-	{
-		"english": "maybe there will be ways to preserve our food so that bread never",
-		"chinese": "也许有办法保存我们的食物，这样面包就永远不会",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/ /ˈɑːr/ /fˈuːd/ /sˈoʊ/ /ðət/ /brˈɛːd/ /nˈɛːvɜː/"
-	},
-	{
-		"english": "maybe there will be ways to preserve our food so that bread never goes",
-		"chinese": "也许有办法保存我们的食物，这样面包就不会消失",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/ /ˈɑːr/ /fˈuːd/ /sˈoʊ/ /ðət/ /brˈɛːd/ /nˈɛːvɜː/ /ɡˈoʊz/"
-	},
-	{
-		"english": "maybe there will be ways to preserve our food so that bread never goes stale",
-		"chinese": "也许有办法保存我们的食物，让面包永远不会变硬",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /wˈeɪz/ /tə/ /priːzˈɜːv/ /ˈɑːr/ /fˈuːd/ /sˈoʊ/ /ðət/ /brˈɛːd/ /nˈɛːvɜː/ /ɡˈoʊz/ /stˈeɪl/"
-	},
-	{
-		"english": "will",
-		"chinese": "将会",
-		"soundmark": "/wəl/"
-	},
-	{
-		"english": "will we",
-		"chinese": "我们会吗",
-		"soundmark": "/wəl/ /wˈiː/"
-	},
-	{
-		"english": "will we still",
-		"chinese": "我们还会吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/"
-	},
-	{
-		"english": "will we still eat",
-		"chinese": "我们还会吃吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/"
-	},
-	{
-		"english": "will we still eat common",
-		"chinese": "我们还会吃普通食物吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/ /kˈɑːmən/"
-	},
-	{
-		"english": "will we still eat common food",
-		"chinese": "我们还会吃普通食物吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/ /kˈɑːmən/ /fˈuːd/"
-	},
-	{
-		"english": "will we still eat common food combinations",
-		"chinese": "我们还会吃常见的食物组合吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/ /kˈɑːmən/ /fˈuːd/ /kˌɑːmbənˈeɪʃənz/"
-	},
-	{
-		"english": "will we still eat common food combinations such",
-		"chinese": "我们还会继续吃常见的食物组合吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/ /kˈɑːmən/ /fˈuːd/ /kˌɑːmbənˈeɪʃənz/ /sˈətʃ/"
-	},
-	{
-		"english": "will we still eat common food combinations such as",
-		"chinese": "我们还会继续吃像这样的常见食物组合吗？",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/ /kˈɑːmən/ /fˈuːd/ /kˌɑːmbənˈeɪʃənz/ /sˈətʃ/ /ˈɛːz/"
-	},
-	{
-		"english": "will we still eat common food combinations such as liver",
-		"chinese": "我们还会吃像肝脏这样的常见食物组合吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/ /kˈɑːmən/ /fˈuːd/ /kˌɑːmbənˈeɪʃənz/ /sˈətʃ/ /ˈɛːz/ /lˈɪvɜː/"
-	},
-	{
-		"english": "will we still eat common food combinations such as liver and",
-		"chinese": "我们还会吃肝脏之类的常见食物组合吗？",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/ /kˈɑːmən/ /fˈuːd/ /kˌɑːmbənˈeɪʃənz/ /sˈətʃ/ /ˈɛːz/ /lˈɪvɜː/ /ˈænd/"
-	},
-	{
-		"english": "will we still eat common food combinations such as liver and onions",
-		"chinese": "我们还会吃肝脏和洋葱这样的常见食物组合吗",
-		"soundmark": "/wəl/ /wˈiː/ /stˈɪl/ /ˈiːt/ /kˈɑːmən/ /fˈuːd/ /kˌɑːmbənˈeɪʃənz/ /sˈətʃ/ /ˈɛːz/ /lˈɪvɜː/ /ˈænd/ /ˈənjənz/"
-	},
-	{
-		"english": "will",
-		"chinese": "将会",
-		"soundmark": "/wəl/"
-	},
-	{
-		"english": "will our",
-		"chinese": "我们的会吗",
-		"soundmark": "/wəl/ /ˈɑːr/"
-	},
-	{
-		"english": "will our favorite",
-		"chinese": "我们最喜爱的会吗",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/"
-	},
-	{
-		"english": "will our favorite meal",
-		"chinese": "我们最爱的食物",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/"
-	},
-	{
-		"english": "will our favorite meal be",
-		"chinese": "我们最爱的食物会吗",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/"
-	},
-	{
-		"english": "will our favorite meal be roast",
-		"chinese": "我们最爱的食物会是烤制食品吗？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/"
-	},
-	{
-		"english": "will our favorite meal be roast beef",
-		"chinese": "我们最爱的食物会是烤牛肉吗？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/ /bˈiːf/"
-	},
-	{
-		"english": "will our favorite meal be roast beef or",
-		"chinese": "我们最爱的餐食会是烤牛肉还是其他什么？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/ /bˈiːf/ /ɜː/"
-	},
-	{
-		"english": "will our favorite meal be roast beef or sausage",
-		"chinese": "我们最喜欢的餐食会是烤牛肉还是香肠呢？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/ /bˈiːf/ /ɜː/ /sˈɔːsɪdʒ/"
-	},
-	{
-		"english": "will our favorite meal be roast beef or sausage and",
-		"chinese": "我们最喜欢的餐食会是烤牛肉还是香肠呢？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/ /bˈiːf/ /ɜː/ /sˈɔːsɪdʒ/ /ˈænd/"
-	},
-	{
-		"english": "will our favorite meal be roast beef or sausage and be",
-		"chinese": "我们最喜欢的餐食会是烤牛肉还是香肠？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/ /bˈiːf/ /ɜː/ /sˈɔːsɪdʒ/ /ˈænd/ /biː/"
-	},
-	{
-		"english": "will our favorite meal be roast beef or sausage and be cooked",
-		"chinese": "我们最喜欢的餐食会是烤牛肉还是香肠，并且是烹饪好的吗？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/ /bˈiːf/ /ɜː/ /sˈɔːsɪdʒ/ /ˈænd/ /biː/ /kˈʊkt/"
-	},
-	{
-		"english": "will our favorite meal be roast beef or sausage and be cooked with",
-		"chinese": "我们最喜欢的餐食是烤牛肉还是香肠，并且是用什么方式烹饪的？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/ /bˈiːf/ /ɜː/ /sˈɔːsɪdʒ/ /ˈænd/ /biː/ /kˈʊkt/ /wɪð/"
-	},
-	{
-		"english": "will our favorite meal be roast beef or sausage and be cooked with cabbage",
-		"chinese": "我们最喜欢的餐食是烤牛肉还是香肠，以及用卷心菜烹制吗？",
-		"soundmark": "/wəl/ /ˈɑːr/ /fˈeɪvrət/ /mˈiːl/ /biː/ /rˈoʊst/ /bˈiːf/ /ɜː/ /sˈɔːsɪdʒ/ /ˈænd/ /biː/ /kˈʊkt/ /wɪð/ /kˈæbɪdʒ/"
-	},
-	{
-		"english": "will",
-		"chinese": "将会",
-		"soundmark": "/wəl/"
-	},
-	{
-		"english": "will a",
-		"chinese": "会吗",
-		"soundmark": "/wəl/ /ˈeɪ/"
-	},
-	{
-		"english": "will a typical",
-		"chinese": "典型的会吗",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈɪpɪkəl/"
-	},
-	{
-		"english": "will a typical breakfast",
-		"chinese": "典型的早餐会是什么？",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈɪpɪkəl/ /brˈɛːkfəst/"
-	},
-	{
-		"english": "will a typical breakfast menu",
-		"chinese": "典型的早餐菜单会包含什么？",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈɪpɪkəl/ /brˈɛːkfəst/ /mˈɛːnjuː/"
-	},
-	{
-		"english": "will a typical breakfast menu include",
-		"chinese": "典型的早餐菜单会包含什么？",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈɪpɪkəl/ /brˈɛːkfəst/ /mˈɛːnjuː/ /ɪnklˈuːd/"
-	},
-	{
-		"english": "will a typical breakfast menu include toast",
-		"chinese": "典型的早餐菜单会包含吐司吗？",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈɪpɪkəl/ /brˈɛːkfəst/ /mˈɛːnjuː/ /ɪnklˈuːd/ /tˈoʊst/"
-	},
-	{
-		"english": "will a typical breakfast menu include toast and",
-		"chinese": "典型的早餐菜单会包括吐司吗？",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈɪpɪkəl/ /brˈɛːkfəst/ /mˈɛːnjuː/ /ɪnklˈuːd/ /tˈoʊst/ /ˈænd/"
-	},
-	{
-		"english": "will a typical breakfast menu include toast and jam",
-		"chinese": "典型的早餐菜单会包含吐司和果酱吗？",
-		"soundmark": "/wəl/ /ˈeɪ/ /tˈɪpɪkəl/ /brˈɛːkfəst/ /mˈɛːnjuː/ /ɪnklˈuːd/ /tˈoʊst/ /ˈænd/ /dʒˈæm/"
-	},
-	{
-		"english": "maybe",
-		"chinese": "也许",
-		"soundmark": "/mˈeɪbiː/"
-	},
-	{
-		"english": "maybe we",
-		"chinese": "也许我们",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/"
-	},
-	{
-		"english": "maybe we will",
-		"chinese": "也许我们会",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/"
-	},
-	{
-		"english": "maybe we will have",
-		"chinese": "也许我们会",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/ /hˈæv/"
-	},
-	{
-		"english": "maybe we will have a",
-		"chinese": "也许我们会有的",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/ /hˈæv/ /ˈeɪ/"
-	},
-	{
-		"english": "maybe we will have a substitute",
-		"chinese": "也许我们会有一个替代者",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/ /hˈæv/ /ˈeɪ/ /sˈəbstətˌuːt/"
-	},
-	{
-		"english": "maybe we will have a substitute for",
-		"chinese": "也许我们会有一个替代者",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/ /hˈæv/ /ˈeɪ/ /sˈəbstətˌuːt/ /frɜː/"
-	},
-	{
-		"english": "maybe we will have a substitute for butter",
-		"chinese": "也许我们会找到替代黄油的东西",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/ /hˈæv/ /ˈeɪ/ /sˈəbstətˌuːt/ /frɜː/ /bˈətɜː/"
-	},
-	{
-		"english": "maybe we will have a substitute for butter which",
-		"chinese": "也许我们会找到一种替代黄油的东西",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/ /hˈæv/ /ˈeɪ/ /sˈəbstətˌuːt/ /frɜː/ /bˈətɜː/ /hwˈɪtʃ/"
-	},
-	{
-		"english": "maybe we will have a substitute for butter which tastes",
-		"chinese": "也许我们会找到一种味道与黄油相似的替代品",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/ /hˈæv/ /ˈeɪ/ /sˈəbstətˌuːt/ /frɜː/ /bˈətɜː/ /hwˈɪtʃ/ /tˈeɪsts/"
-	},
-	{
-		"english": "maybe we will have a substitute for butter which tastes good",
-		"chinese": "也许我们会找到一种味道好的黄油替代品",
-		"soundmark": "/mˈeɪbiː/ /wˈiː/ /wəl/ /hˈæv/ /ˈeɪ/ /sˈəbstətˌuːt/ /frɜː/ /bˈətɜː/ /hwˈɪtʃ/ /tˈeɪsts/ /ɡɪd/"
-	},
-	{
-		"english": "food",
-		"chinese": "食物",
-		"soundmark": "/fˈuːd/"
-	},
-	{
-		"english": "food might",
-		"chinese": "食物可能",
-		"soundmark": "/fˈuːd/ /mˈaɪt/"
-	},
-	{
-		"english": "food might not",
-		"chinese": "食物可能不行",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/"
-	},
-	{
-		"english": "food might not be",
-		"chinese": "食物可能不",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/"
-	},
-	{
-		"english": "food might not be purchased",
-		"chinese": "可能无法购买食物",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/ /pˈɜːtʃəst/"
-	},
-	{
-		"english": "food might not be purchased from",
-		"chinese": "食物可能无法从...购买到",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/ /pˈɜːtʃəst/ /fɜːm/"
-	},
-	{
-		"english": "food might not be purchased from a",
-		"chinese": "食物可能不会从……购买",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/ /pˈɜːtʃəst/ /fɜːm/ /ˈeɪ/"
-	},
-	{
-		"english": "food might not be purchased from a grocer",
-		"chinese": "食物可能不会从杂货店购买",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/ /pˈɜːtʃəst/ /fɜːm/ /ˈeɪ/ /ɡrˈoʊsɜː/"
-	},
-	{
-		"english": "food might not be purchased from a grocer or",
-		"chinese": "食物可能不会从杂货店购买",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/ /pˈɜːtʃəst/ /fɜːm/ /ˈeɪ/ /ɡrˈoʊsɜː/ /ɜː/"
-	},
-	{
-		"english": "food might not be purchased from a grocer or from",
-		"chinese": "食物可能不会从杂货店或...购买",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/ /pˈɜːtʃəst/ /fɜːm/ /ˈeɪ/ /ɡrˈoʊsɜː/ /ɜː/ /fɜːm/"
-	},
-	{
-		"english": "food might not be purchased from a grocer or from a",
-		"chinese": "食物可能不会从杂货店或从……购买",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/ /pˈɜːtʃəst/ /fɜːm/ /ˈeɪ/ /ɡrˈoʊsɜː/ /ɜː/ /fɜːm/ /ˈeɪ/"
-	},
-	{
-		"english": "food might not be purchased from a grocer or from a supermarket",
-		"chinese": "食物可能不是从杂货店或超市购买的",
-		"soundmark": "/fˈuːd/ /mˈaɪt/ /nˈɑːt/ /biː/ /pˈɜːtʃəst/ /fɜːm/ /ˈeɪ/ /ɡrˈoʊsɜː/ /ɜː/ /fɜːm/ /ˈeɪ/ /sˈuːpɜːmˌɑːrkɪt/"
-	},
-	{
-		"english": "instead",
-		"chinese": "相反",
-		"soundmark": "/ɪnstˈɛːd/"
-	},
-	{
-		"english": "as",
-		"chinese": "作为",
-		"soundmark": "/ˈɛːz/"
-	},
-	{
-		"english": "as customers",
-		"chinese": "作为客户",
-		"soundmark": "/ˈɛːz/ /kˈəstəmɜːz/"
-	},
-	{
-		"english": "we",
-		"chinese": "我们",
-		"soundmark": "/wˈiː/"
-	},
-	{
-		"english": "we might",
-		"chinese": "我们可能",
-		"soundmark": "/wˈiː/ /mˈaɪt/"
-	},
-	{
-		"english": "we might order",
-		"chinese": "我们可能会订购",
-		"soundmark": "/wˈiː/ /mˈaɪt/ /ˈɔːrdɜː/"
-	},
-	{
-		"english": "we might order our",
-		"chinese": "我们可能会订购我们的",
-		"soundmark": "/wˈiː/ /mˈaɪt/ /ˈɔːrdɜː/ /ˈɑːr/"
-	},
-	{
-		"english": "we might order our food",
-		"chinese": "我们可能会点餐",
-		"soundmark": "/wˈiː/ /mˈaɪt/ /ˈɔːrdɜː/ /ˈɑːr/ /fˈuːd/"
-	},
-	{
-		"english": "using",
-		"chinese": "使用",
-		"soundmark": "/jˈuːzɪŋ/"
-	},
-	{
-		"english": "using the",
-		"chinese": "使用",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/"
-	},
-	{
-		"english": "using the internet",
-		"chinese": "使用互联网",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/ /ˈɪntɜːnˌɛːt/"
-	},
-	{
-		"english": "using the internet and",
-		"chinese": "利用互联网",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/ /ˈɪntɜːnˌɛːt/ /ˈænd/"
-	},
-	{
-		"english": "using the internet and have",
-		"chinese": "使用互联网并且拥有",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/ /ˈɪntɜːnˌɛːt/ /ˈænd/ /hˈæv/"
-	},
-	{
-		"english": "using the internet and have it",
-		"chinese": "使用互联网，并拥有它",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/ /ˈɪntɜːnˌɛːt/ /ˈænd/ /hˈæv/ /ɪt/"
-	},
-	{
-		"english": "using the internet and have it delivered",
-		"chinese": "利用互联网，并立即送达",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/ /ˈɪntɜːnˌɛːt/ /ˈænd/ /hˈæv/ /ɪt/ /dɪlˈɪvɜːd/"
-	},
-	{
-		"english": "using the internet and have it delivered to",
-		"chinese": "利用互联网，并将其送达",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/ /ˈɪntɜːnˌɛːt/ /ˈænd/ /hˈæv/ /ɪt/ /dɪlˈɪvɜːd/ /tə/"
-	},
-	{
-		"english": "using the internet and have it delivered to our",
-		"chinese": "利用互联网，并将其送达给我们",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/ /ˈɪntɜːnˌɛːt/ /ˈænd/ /hˈæv/ /ɪt/ /dɪlˈɪvɜːd/ /tə/ /ˈɑːr/"
-	},
-	{
-		"english": "using the internet and have it delivered to our residences",
-		"chinese": "利用互联网，将其送到我们家中",
-		"soundmark": "/jˈuːzɪŋ/ /ðiː/ /ˈɪntɜːnˌɛːt/ /ˈænd/ /hˈæv/ /ɪt/ /dɪlˈɪvɜːd/ /tə/ /ˈɑːr/ /rˈɛːzɪdənsɪz/"
-	},
-	{
-		"english": "maybe",
-		"chinese": "也许",
-		"soundmark": "/mˈeɪbiː/"
-	},
-	{
-		"english": "maybe an",
-		"chinese": "也许一个",
-		"soundmark": "/mˈeɪbiː/ /ən/"
-	},
-	{
-		"english": "maybe an automatic",
-		"chinese": "也许是自动的",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/"
-	},
-	{
-		"english": "maybe an automatic recorder",
-		"chinese": "也许是一个自动录音机",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/"
-	},
-	{
-		"english": "maybe an automatic recorder would",
-		"chinese": "也许一个自动录音机会",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/"
-	},
-	{
-		"english": "maybe an automatic recorder would be",
-		"chinese": "也许一个自动记录器会……",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/"
-	},
-	{
-		"english": "maybe an automatic recorder would be placed",
-		"chinese": "也许可以放置一个自动记录器",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/ /plˈeɪst/"
-	},
-	{
-		"english": "maybe an automatic recorder would be placed when",
-		"chinese": "或许可以放置一个自动记录器",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/ /plˈeɪst/ /hwˈɪn/"
-	},
-	{
-		"english": "maybe an automatic recorder would be placed when food",
-		"chinese": "也许可以在食物旁边放置一个自动记录器",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/ /plˈeɪst/ /hwˈɪn/ /fˈuːd/"
-	},
-	{
-		"english": "maybe an automatic recorder would be placed when food is",
-		"chinese": "也许在食物放置处会放置一个自动记录器",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/ /plˈeɪst/ /hwˈɪn/ /fˈuːd/ /ɪz/"
-	},
-	{
-		"english": "maybe an automatic recorder would be placed when food is removed",
-		"chinese": "也许在取走食物时可以放置一个自动记录器",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/ /plˈeɪst/ /hwˈɪn/ /fˈuːd/ /ɪz/ /riːmˈuːvd/"
-	},
-	{
-		"english": "maybe an automatic recorder would be placed when food is removed from",
-		"chinese": "也许可以在食物取出时放置一个自动记录器",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/ /plˈeɪst/ /hwˈɪn/ /fˈuːd/ /ɪz/ /riːmˈuːvd/ /fɜːm/"
-	},
-	{
-		"english": "maybe an automatic recorder would be placed when food is removed from a",
-		"chinese": "也许可以在食物被取出时放置一个自动记录器",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/ /plˈeɪst/ /hwˈɪn/ /fˈuːd/ /ɪz/ /riːmˈuːvd/ /fɜːm/ /ˈeɪ/"
-	},
-	{
-		"english": "maybe an automatic recorder would be placed when food is removed from a refrigerator",
-		"chinese": "或许可以在食物从冰箱取出时安装一个自动记录器",
-		"soundmark": "/mˈeɪbiː/ /ən/ /ˌɔːtoʊmˈætɪk/ /riːkˈɔːrdɜː/ /wˈʊd/ /biː/ /plˈeɪst/ /hwˈɪn/ /fˈuːd/ /ɪz/ /riːmˈuːvd/ /fɜːm/ /ˈeɪ/ /rɪfrˈɪdʒɜːˌeɪtɜː/"
-	},
-	{
-		"english": "preparation",
-		"chinese": "准备",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/"
-	},
-	{
-		"english": "preparation of",
-		"chinese": "准备",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/"
-	},
-	{
-		"english": "preparation of food",
-		"chinese": "食物准备",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/"
-	},
-	{
-		"english": "preparation of food might",
-		"chinese": "食物准备可能",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/ /mˈaɪt/"
-	},
-	{
-		"english": "preparation of food might be",
-		"chinese": "食物准备可能",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/ /mˈaɪt/ /biː/"
-	},
-	{
-		"english": "preparation of food might be eliminated",
-		"chinese": "食物准备可以被取消",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/ /mˈaɪt/ /biː/ /ɪlˈɪmənˌeɪtɪd/"
-	},
-	{
-		"english": "preparation of food might be eliminated but",
-		"chinese": "食物准备可能被取消，但",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/ /mˈaɪt/ /biː/ /ɪlˈɪmənˌeɪtɪd/ /bˈət/"
-	},
-	{
-		"english": "preparation of food might be eliminated but because",
-		"chinese": "食物准备可能被取消，但因为",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/ /mˈaɪt/ /biː/ /ɪlˈɪmənˌeɪtɪd/ /bˈət/ /bɪkəz/"
-	},
-	{
-		"english": "preparation of food might be eliminated but because people",
-		"chinese": "食物准备可能被取消，但因为人们",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/ /mˈaɪt/ /biː/ /ɪlˈɪmənˌeɪtɪd/ /bˈət/ /bɪkəz/ /pˈiːpəl/"
-	},
-	{
-		"english": "preparation of food might be eliminated but because people enjoy",
-		"chinese": "食物准备可能被取消，但因为人们喜欢",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/ /mˈaɪt/ /biː/ /ɪlˈɪmənˌeɪtɪd/ /bˈət/ /bɪkəz/ /pˈiːpəl/ /ɪndʒˈɔɪ/"
-	},
-	{
-		"english": "preparation of food might be eliminated but because people enjoy eating",
-		"chinese": "食物准备可能被取消，但因为人们喜欢吃",
-		"soundmark": "/prˌɛːpɜːˈeɪʃən/ /əv/ /fˈuːd/ /mˈaɪt/ /biː/ /ɪlˈɪmənˌeɪtɪd/ /bˈət/ /bɪkəz/ /pˈiːpəl/ /ɪndʒˈɔɪ/ /ˈiːtɪŋ/"
-	},
-	{
-		"english": "maybe",
-		"chinese": "也许",
-		"soundmark": "/mˈeɪbiː/"
-	},
-	{
-		"english": "maybe there",
-		"chinese": "也许有",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/"
-	},
-	{
-		"english": "maybe there will",
-		"chinese": "也许会",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/"
-	},
-	{
-		"english": "maybe there will be",
-		"chinese": "也许会有的",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/"
-	},
-	{
-		"english": "maybe there will be the",
-		"chinese": "也许会有的",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/"
-	},
-	{
-		"english": "maybe there will be the option",
-		"chinese": "也许会有这个选项",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/"
-	},
-	{
-		"english": "maybe there will be the option of",
-		"chinese": "也许会有这样的选择",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/"
-	},
-	{
-		"english": "maybe there will be the option of nourishing",
-		"chinese": "也许会有滋养的选择",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/"
-	},
-	{
-		"english": "maybe there will be the option of nourishing our",
-		"chinese": "也许会有滋养我们的选项",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/"
-	},
-	{
-		"english": "maybe there will be the option of nourishing our bodies",
-		"chinese": "也许会有滋养身体的选项",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/ /bˈɑːdiːz/"
-	},
-	{
-		"english": "maybe there will be the option of nourishing our bodies through",
-		"chinese": "也许会有通过某种方式滋养身体的选项",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/ /bˈɑːdiːz/ /θrˈuː/"
-	},
-	{
-		"english": "maybe there will be the option of nourishing our bodies through food",
-		"chinese": "也许会有通过食物滋养身体的选择",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/ /bˈɑːdiːz/ /θrˈuː/ /fˈuːd/"
-	},
-	{
-		"english": "maybe there will be the option of nourishing our bodies through food or",
-		"chinese": "也许会有通过食物滋养身体的选择",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/ /bˈɑːdiːz/ /θrˈuː/ /fˈuːd/ /ɜː/"
-	},
-	{
-		"english": "maybe there will be the option of nourishing our bodies through food or using",
-		"chinese": "也许会有通过食物滋养身体或使用某种方式的选择",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/ /bˈɑːdiːz/ /θrˈuː/ /fˈuːd/ /ɜː/ /jˈuːzɪŋ/"
-	},
-	{
-		"english": "maybe there will be the option of nourishing our bodies through food or using some",
-		"chinese": "也许会有通过食物滋养身体或使用某些方法的选择",
-		"soundmark": "/mˈeɪbiː/ /ðˈɛːr/ /wəl/ /biː/ /ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/ /bˈɑːdiːz/ /θrˈuː/ /fˈuːd/ /ɜː/ /jˈuːzɪŋ/ /sˈəm/"
-	},
-	{
-		"english": "the option of nourishing our bodies through food or using some other",
-		"chinese": "通过食物滋养身体，还是使用其他方式",
-		"soundmark": "/ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/ /bˈɑːdiːz/ /θrˈuː/ /fˈuːd/ /ɜː/ /jˈuːzɪŋ/ /sˈəm/ /ˈəðɜː/"
-	},
-	{
-		"english": "the option of nourishing our bodies through food or using some other means",
-		"chinese": "通过食物或其他方式滋养身体的选择",
-		"soundmark": "/ðiː/ /ˈɔːpʃən/ /əv/ /nˈɜːɪʃɪŋ/ /ˈɑːr/ /bˈɑːdiːz/ /θrˈuː/ /fˈuːd/ /ɜː/ /jˈuːzɪŋ/ /sˈəm/ /ˈəðɜː/ /mˈiːnz/"
-	},
-	{
-		"english": "perhaps",
-		"chinese": "也许",
-		"soundmark": "/pɜːhˈæps/"
-	},
-	{
-		"english": "perhaps a",
-		"chinese": "也许吧",
-		"soundmark": "/pɜːhˈæps/ /ˈeɪ/"
-	},
-	{
-		"english": "perhaps a series",
-		"chinese": "也许是一系列",
-		"soundmark": "/pɜːhˈæps/ /ˈeɪ/ /sˈɪriːz/"
-	},
-	{
-		"english": "perhaps a series of",
-		"chinese": "也许是一系列",
-		"soundmark": "/pɜːhˈæps/ /ˈeɪ/ /sˈɪriːz/ /əv/"
-	},
-	{
-		"english": "perhaps a series of pills",
-		"chinese": "也许是一系列药片",
-		"soundmark": "/pɜːhˈæps/ /ˈeɪ/ /sˈɪriːz/ /əv/ /pˈɪlz/"
-	},
-	{
-		"english": "perhaps a series of pills will",
-		"chinese": "也许服用一系列药片会",
-		"soundmark": "/pɜːhˈæps/ /ˈeɪ/ /sˈɪriːz/ /əv/ /pˈɪlz/ /wəl/"
-	},
-	{
-		"english": "perhaps a series of pills will provide",
-		"chinese": "也许一系列药片会有所帮助",
-		"soundmark": "/pɜːhˈæps/ /ˈeɪ/ /sˈɪriːz/ /əv/ /pˈɪlz/ /wəl/ /prəvˈaɪd/"
-	},
-	{
-		"english": "perhaps a series of pills will provide adequate",
-		"chinese": "也许服用一系列药片就能足够有效",
-		"soundmark": "/pɜːhˈæps/ /ˈeɪ/ /sˈɪriːz/ /əv/ /pˈɪlz/ /wəl/ /prəvˈaɪd/ /ˈædəkwˌeɪt/"
-	},
-	{
-		"english": "perhaps a series of pills will provide adequate nourishment",
-		"chinese": "也许服用一系列药片就能提供足够的营养",
-		"soundmark": "/pɜːhˈæps/ /ˈeɪ/ /sˈɪriːz/ /əv/ /pˈɪlz/ /wəl/ /prəvˈaɪd/ /ˈædəkwˌeɪt/ /nˈɜːɪʃmənt/"
-	}
+  {
+    "english": "Yip",
+    "chinese": "叶",
+    "soundmark": "/jˈɪp/"
+  },
+  {
+    "english": "Yip Sang",
+    "chinese": "叶桑"
+  },
+  {
+    "english": "born",
+    "chinese": "出生",
+    "soundmark": "/bˈɔːrn/"
+  },
+  {
+    "english": "born in",
+    "chinese": "出生地"
+  },
+  {
+    "english": "born in Canton",
+    "chinese": "出生于广州"
+  },
+  {
+    "english": "born in Canton in",
+    "chinese": "1845年出生于广州"
+  },
+  {
+    "english": "born in Canton in 1845",
+    "chinese": "1845年出生于广州"
+  },
+  {
+    "english": "left",
+    "chinese": "离开",
+    "soundmark": "/lˈɛːft/"
+  },
+  {
+    "english": "left China",
+    "chinese": "离开中国"
+  },
+  {
+    "english": "left China at",
+    "chinese": "在离开中国时"
+  },
+  {
+    "english": "left China at the",
+    "chinese": "在离开中国的那个时候"
+  },
+  {
+    "english": "left China at the age",
+    "chinese": "在十九岁时离开中国"
+  },
+  {
+    "english": "left China at the age of",
+    "chinese": "在十九岁时离开中国"
+  },
+  {
+    "english": "left China at the age of nineteen",
+    "chinese": "在十九岁时离开中国去……"
+  },
+  {
+    "english": "left China at the age of nineteen to",
+    "chinese": "在十九岁时离开中国去寻求……"
+  },
+  {
+    "english": "left China at the age of nineteen to seek",
+    "chinese": "在十九岁时离开中国去寻求他的……"
+  },
+  {
+    "english": "left China at the age of nineteen to seek his",
+    "chinese": "在十九岁时离开中国去寻求他的命运……"
+  },
+  {
+    "english": "left China at the age of nineteen to seek his fortune",
+    "chinese": "在十九岁时离开中国去在美国寻求他的命运……"
+  },
+  {
+    "english": "left China at the age of nineteen to seek his fortune in",
+    "chinese": "十九岁时离开中国去寻求机遇"
+  },
+  {
+    "english": "left China at the age of nineteen to seek his fortune in America",
+    "chinese": "十九岁时离开中国，去美国寻求发展。"
+  },
+  {
+    "english": "After",
+    "chinese": "到达后",
+    "soundmark": "/ˈæftɜː/"
+  },
+  {
+    "english": "After arriving",
+    "chinese": "到达后"
+  },
+  {
+    "english": "After arriving in",
+    "chinese": "到达旧金山后"
+  },
+  {
+    "english": "After arriving in San",
+    "chinese": "在到达旧金山后"
+  },
+  {
+    "english": "After arriving in San Francisco",
+    "chinese": "1864年到达旧金山后"
+  },
+  {
+    "english": "After arriving in San Francisco in",
+    "chinese": "抵达旧金山后"
+  },
+  {
+    "english": "After arriving in San Francisco in 1864",
+    "chinese": "1864年抵达旧金山后"
+  },
+  {
+    "english": "he",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "he earned",
+    "chinese": "他赚到了"
+  },
+  {
+    "english": "he earned a",
+    "chinese": "他赚到了一份收入"
+  },
+  {
+    "english": "he earned a living",
+    "chinese": "他通过工作谋生"
+  },
+  {
+    "english": "he earned a living by",
+    "chinese": "他首先通过工作谋生"
+  },
+  {
+    "english": "he earned a living by working",
+    "chinese": "他首先通过工作谋生，作为一名"
+  },
+  {
+    "english": "he earned a living by working first",
+    "chinese": "他首先通过工作谋生，作为一名洗碗工"
+  },
+  {
+    "english": "he earned a living by working first as",
+    "chinese": "他最初通过工作谋生，然后……"
+  },
+  {
+    "english": "he earned a living by working first as a",
+    "chinese": "他最初通过工作谋生，先是……"
+  },
+  {
+    "english": "he earned a living by working first as a dishwasher",
+    "chinese": "他最初做洗碗工来谋生"
+  },
+  {
+    "english": "then",
+    "chinese": "然后",
+    "soundmark": "/ðˈɛːn/"
+  },
+  {
+    "english": "then as",
+    "chinese": "然后如同"
+  },
+  {
+    "english": "then as a",
+    "chinese": "然后如同厨师"
+  },
+  {
+    "english": "then as a cook",
+    "chinese": "然后作为厨师"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and finally",
+    "chinese": "最后"
+  },
+  {
+    "english": "and finally as",
+    "chinese": "最终作为"
+  },
+  {
+    "english": "and finally as a",
+    "chinese": "最终作为一支雪茄"
+  },
+  {
+    "english": "and finally as a cigar",
+    "chinese": "最终作为雪茄卷机"
+  },
+  {
+    "english": "and finally as a cigar roller",
+    "chinese": "最终成为雪茄卷工。"
+  },
+  {
+    "english": "From",
+    "chinese": "来自",
+    "soundmark": "/fɜːm/"
+  },
+  {
+    "english": "From the",
+    "chinese": "从一开始，"
+  },
+  {
+    "english": "From the outset",
+    "chinese": "从一开始，他"
+  },
+  {
+    "english": "From the outset he",
+    "chinese": "从一开始，他就察觉到了"
+  },
+  {
+    "english": "From the outset he perceived",
+    "chinese": "从一开始，他就察觉到了"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that if",
+    "chinese": "如果"
+  },
+  {
+    "english": "that if he",
+    "chinese": "即如果他"
+  },
+  {
+    "english": "that if he was",
+    "chinese": "如果他是"
+  },
+  {
+    "english": "that if he was patient",
+    "chinese": "如果他有耐心的话"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and could",
+    "chinese": "并且可以"
+  },
+  {
+    "english": "and could represent",
+    "chinese": "并且可以代表"
+  },
+  {
+    "english": "and could represent the",
+    "chinese": "并且可以代表最优秀的"
+  },
+  {
+    "english": "and could represent the best",
+    "chinese": "并且可以代表他种族中最优秀的"
+  },
+  {
+    "english": "and could represent the best of",
+    "chinese": "并能代表最优秀的部分"
+  },
+  {
+    "english": "and could represent the best of his",
+    "chinese": "并能代表他最优秀的表现"
+  },
+  {
+    "english": "and could represent the best of his race",
+    "chinese": "并能代表他种族的巅峰水平"
+  },
+  {
+    "english": "his",
+    "chinese": "他的功绩",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "english": "his merits",
+    "chinese": "他的功绩将会被认可"
+  },
+  {
+    "english": "his merits would",
+    "chinese": "他的优点将会"
+  },
+  {
+    "english": "his merits would be",
+    "chinese": "他的优点将会"
+  },
+  {
+    "english": "his merits would be recognized",
+    "chinese": "他的功绩将会被认可。"
+  },
+  {
+    "english": "Possibly",
+    "chinese": "可能",
+    "soundmark": "/pˈɑːsəbliː/"
+  },
+  {
+    "english": "Possibly the",
+    "chinese": "可能就是"
+  },
+  {
+    "english": "Possibly the attraction",
+    "chinese": "可能就是吸引力"
+  },
+  {
+    "english": "Possibly the attraction of",
+    "chinese": "可能就是高薪的吸引力"
+  },
+  {
+    "english": "Possibly the attraction of high",
+    "chinese": "可能就是传闻中的高薪吸引力"
+  },
+  {
+    "english": "Possibly the attraction of high wages",
+    "chinese": "可能就是传闻中所谓的高薪吸引力"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored",
+    "chinese": "可能就是传闻中声称提供的高薪吸引力"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to",
+    "chinese": "可能就是传闻中由加拿大提供的高薪吸引力"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be",
+    "chinese": "可能就是传闻中由加拿大铁路公司提供的高薪吸引力"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered",
+    "chinese": "可能就是传闻中由加拿大铁路公司所激发的高薪吸引力"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by",
+    "chinese": "可能就是传闻中由加拿大铁路公司所激发的Yip"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian",
+    "chinese": "可能就是传闻中由加拿大铁路公司所激发的Yip Sang"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad",
+    "chinese": "可能就是传闻中由加拿大铁路公司所激发的Yip Sang的吸引力"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad companies",
+    "chinese": "可能就是传闻中由加拿大铁路公司所激发的Yip Sang的吸引力，促使他离开"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad companies roused",
+    "chinese": "可能就是传闻中由加拿大铁路公司所激发的Yip Sang的吸引力，促使他离开圣地"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad companies roused Yip",
+    "chinese": "可能就是传闻中由加拿大铁路公司所激发的Yip Sang的吸引力，促使他离开旧金山"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad companies roused Yip Sang",
+    "chinese": "或许加拿大铁路公司所传闻的高工资吸引力激发了叶桑的兴趣"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad companies roused Yip Sang to",
+    "chinese": "或许加拿大铁路公司所传闻的高工资吸引力激励了叶桑……"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad companies roused Yip Sang to leave",
+    "chinese": "可能加拿大铁路公司传闻提供的高工资吸引力促使叶桑离开"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad companies roused Yip Sang to leave San",
+    "chinese": "可能加拿大铁路公司所宣称的高工资吸引力促使叶桑离开了圣市。"
+  },
+  {
+    "english": "Possibly the attraction of high wages rumored to be offered by Canadian railroad companies roused Yip Sang to leave San Francisco",
+    "chinese": "可能是加拿大铁路公司所承诺的高工资吸引力促使叶桑离开了旧金山。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "He arrived",
+    "chinese": "他到达了"
+  },
+  {
+    "english": "He arrived in",
+    "chinese": "他到达了温哥华"
+  },
+  {
+    "english": "He arrived in Vancouver",
+    "chinese": "他在1881年到达了温哥华"
+  },
+  {
+    "english": "He arrived in Vancouver in",
+    "chinese": "他抵达温哥华时"
+  },
+  {
+    "english": "He arrived in Vancouver in 1881",
+    "chinese": "他于1881年抵达温哥华"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and worked",
+    "chinese": "并且工作过"
+  },
+  {
+    "english": "and worked on",
+    "chinese": "并且对……进行了工作"
+  },
+  {
+    "english": "and worked on the",
+    "chinese": "并且对西部部分进行了工作"
+  },
+  {
+    "english": "and worked on the western",
+    "chinese": "并且对加拿大的西部部分进行了工作"
+  },
+  {
+    "english": "and worked on the western portion",
+    "chinese": "并且对加拿大太平洋铁路的西部部分进行了工作"
+  },
+  {
+    "english": "and worked on the western portion of",
+    "chinese": "并且从1882年开始对加拿大太平洋铁路的西部部分进行了工作"
+  },
+  {
+    "english": "and worked on the western portion of the",
+    "chinese": "并且从1882年开始直到……对加拿大太平洋铁路的西部部分进行了工作"
+  },
+  {
+    "english": "and worked on the western portion of the Canadian",
+    "chinese": "并且从1882年开始直到1884年对加拿大太平洋铁路的西部部分进行了工作"
+  },
+  {
+    "english": "and worked on the western portion of the Canadian Pacific",
+    "chinese": "并负责加拿大太平洋铁路的西部部分工作"
+  },
+  {
+    "english": "and worked on the western portion of the Canadian Pacific Railroad",
+    "chinese": "并负责加拿大太平洋铁路的西部部分工作"
+  },
+  {
+    "english": "and worked on the western portion of the Canadian Pacific Railroad from",
+    "chinese": "并负责加拿大太平洋铁路的西部部分工作"
+  },
+  {
+    "english": "and worked on the western portion of the Canadian Pacific Railroad from 1882",
+    "chinese": "自1882年起在加拿大太平洋铁路的西部段工作"
+  },
+  {
+    "english": "and worked on the western portion of the Canadian Pacific Railroad from 1882 until",
+    "chinese": "从1882年开始，在加拿大太平洋铁路的西部段工作。"
+  },
+  {
+    "english": "and worked on the western portion of the Canadian Pacific Railroad from 1882 until 1884",
+    "chinese": "并在1882年至1884年间负责加拿大太平洋铁路的西部部分工作"
+  },
+  {
+    "english": "first",
+    "chinese": "首先",
+    "soundmark": "/fˈɜːst/"
+  },
+  {
+    "english": "first as",
+    "chinese": "作为首先"
+  },
+  {
+    "english": "first as a",
+    "chinese": "作为第一"
+  },
+  {
+    "english": "first as a book",
+    "chinese": "作为一本书"
+  },
+  {
+    "english": "first as a book keeper",
+    "chinese": "最初担任簿记员"
+  },
+  {
+    "english": "then",
+    "chinese": "那么",
+    "soundmark": "/ðˈɛːn/"
+  },
+  {
+    "english": "then as",
+    "chinese": "那么作为"
+  },
+  {
+    "english": "then as a",
+    "chinese": "那么如同"
+  },
+  {
+    "english": "then as a time",
+    "chinese": "那么作为一段时期"
+  },
+  {
+    "english": "then as a time keeper",
+    "chinese": "然后担任计时员"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and finally",
+    "chinese": "最后"
+  },
+  {
+    "english": "and finally as",
+    "chinese": "最终作为"
+  },
+  {
+    "english": "and finally as a",
+    "chinese": "最终作为财务主管"
+  },
+  {
+    "english": "and finally as a paymaster",
+    "chinese": "最终作为发薪人"
+  },
+  {
+    "english": "before",
+    "chinese": "在……之前",
+    "soundmark": "/bˌiːfˈɔːr/"
+  },
+  {
+    "english": "before being",
+    "chinese": "在被……之前"
+  },
+  {
+    "english": "before being promoted",
+    "chinese": "在被晋升之前"
+  },
+  {
+    "english": "before being promoted to",
+    "chinese": "在被晋升为……之前"
+  },
+  {
+    "english": "before being promoted to Chinese",
+    "chinese": "在被晋升为中国主管之前"
+  },
+  {
+    "english": "before being promoted to Chinese superintendent",
+    "chinese": "在被晋升为中国主管之前"
+  },
+  {
+    "english": "before being promoted to Chinese superintendent for",
+    "chinese": "为了……而晋升为中国主管之前"
+  },
+  {
+    "english": "before being promoted to Chinese superintendent for the",
+    "chinese": "为了……而晋升为中国供应主管之前"
+  },
+  {
+    "english": "before being promoted to Chinese superintendent for the supply",
+    "chinese": "为了……而晋升为中国供应公司主管之前"
+  },
+  {
+    "english": "before being promoted to Chinese superintendent for the supply company",
+    "chinese": "在被提升为供应公司中国主管之前。"
+  },
+  {
+    "english": "This",
+    "chinese": "这个",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "english": "This promotion",
+    "chinese": "这个促销活动"
+  },
+  {
+    "english": "This promotion made",
+    "chinese": "这个促销活动使得"
+  },
+  {
+    "english": "This promotion made him",
+    "chinese": "这个促销活动使他"
+  },
+  {
+    "english": "This promotion made him responsible",
+    "chinese": "这个促销活动使他负责"
+  },
+  {
+    "english": "This promotion made him responsible for",
+    "chinese": "这个促销活动使他负责负责招聘"
+  },
+  {
+    "english": "This promotion made him responsible for hiring",
+    "chinese": "这个促销活动使他负责在……招聘"
+  },
+  {
+    "english": "This promotion made him responsible for hiring on",
+    "chinese": "这个促销活动使他负责按合同招聘"
+  },
+  {
+    "english": "This promotion made him responsible for hiring on contract",
+    "chinese": "这项促销让他负责通过合同招聘人员"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and transporting",
+    "chinese": "并且运输"
+  },
+  {
+    "english": "and transporting thousands of",
+    "chinese": "并且运输数千人"
+  },
+  {
+    "english": "and transporting thousands of men",
+    "chinese": "并且运输数千名男子"
+  },
+  {
+    "english": "and transporting thousands of men from",
+    "chinese": "并且从中国运输数千名男子"
+  },
+  {
+    "english": "and transporting thousands of men from China",
+    "chinese": "并且从中国运输数千名男子到"
+  },
+  {
+    "english": "and transporting thousands of men from China to",
+    "chinese": "并且从中国运输数千名男子去工作"
+  },
+  {
+    "english": "and transporting thousands of men from China to work",
+    "chinese": "并且从中国运输数千名男子去工作于"
+  },
+  {
+    "english": "and transporting thousands of men from China to work on",
+    "chinese": "并且从中国运输数千名男子去工作于铁路上"
+  },
+  {
+    "english": "and transporting thousands of men from China to work on the",
+    "chinese": "并且从中国运输数千名男子去工作于铁路线"
+  },
+  {
+    "english": "and transporting thousands of men from China to work on the railway",
+    "chinese": "并且从中国运输数千名男子去工作于铁路线中的"
+  },
+  {
+    "english": "and transporting thousands of men from China to work on the railway line",
+    "chinese": "并且从中国运输数千名男子去工作于英国境内的铁路线"
+  },
+  {
+    "english": "and transporting thousands of men from China to work on the railway line in",
+    "chinese": "并且从中国运输数千名男子去工作于不列颠哥伦比亚省的铁路线"
+  },
+  {
+    "english": "and transporting thousands of men from China to work on the railway line in British",
+    "chinese": "并将数千名中国工人运送到英国铁路线上工作"
+  },
+  {
+    "english": "and transporting thousands of men from China to work on the railway line in British Columbia",
+    "chinese": "并将数千名中国人运送到不列颠哥伦比亚省的铁路线上工作。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "He supervised",
+    "chinese": "他监督了"
+  },
+  {
+    "english": "He supervised some",
+    "chinese": "他监督了部分"
+  },
+  {
+    "english": "He supervised some six",
+    "chinese": "他监督了大约六"
+  },
+  {
+    "english": "He supervised some six to",
+    "chinese": "他监督了大约六到……"
+  },
+  {
+    "english": "He supervised some six to seven",
+    "chinese": "他监督了大约六到七千"
+  },
+  {
+    "english": "He supervised some six to seven thousand",
+    "chinese": "他监督了大约六到七千中国工人"
+  },
+  {
+    "english": "He supervised some six to seven thousand Chinese",
+    "chinese": "他监督了大约六到七千中国工人"
+  },
+  {
+    "english": "He supervised some six to seven thousand Chinese workers",
+    "chinese": "他在……期间监督了大约六到七千中国工人"
+  },
+  {
+    "english": "He supervised some six to seven thousand Chinese workers during",
+    "chinese": "他在……期间监督了大约六到七千中国工人"
+  },
+  {
+    "english": "He supervised some six to seven thousand Chinese workers during the",
+    "chinese": "他在……期间监督了大约六到七千中国工人"
+  },
+  {
+    "english": "He supervised some six to seven thousand Chinese workers during the peak",
+    "chinese": "他在高峰时期监督了大约六到七千中国工人"
+  },
+  {
+    "english": "He supervised some six to seven thousand Chinese workers during the peak of",
+    "chinese": "他在高峰时期监督了大约六到七千中国工人"
+  },
+  {
+    "english": "He supervised some six to seven thousand Chinese workers during the peak of the",
+    "chinese": "他在高峰时期监督了大约六到七千中国工人"
+  },
+  {
+    "english": "He supervised some six to seven thousand Chinese workers during the peak of the construction",
+    "chinese": "在建设高峰期，他监督了大约六到七千名中国工人。"
+  },
+  {
+    "english": "In",
+    "chinese": "1885年",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In 1885",
+    "chinese": "1885年"
+  },
+  {
+    "english": "he",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "he returned",
+    "chinese": "他回来了"
+  },
+  {
+    "english": "he returned to",
+    "chinese": "他回到了中国"
+  },
+  {
+    "english": "he returned to China",
+    "chinese": "他使用……回到了中国"
+  },
+  {
+    "english": "he returned to China using",
+    "chinese": "他使用……的金钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the",
+    "chinese": "他使用他拥有的金钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the money",
+    "chinese": "他使用他节省下来的金钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the money he",
+    "chinese": "他使用他从……节省下来的金钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the money he had",
+    "chinese": "他使用他从他的 CPR 工作节省下来的金钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the money he had saved",
+    "chinese": "他用节省下来的钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the money he had saved from",
+    "chinese": "他用自己存下的钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the money he had saved from his",
+    "chinese": "他用自己攒下的钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the money he had saved from his CPR",
+    "chinese": "他用从 CPR中攒下的钱回到了中国"
+  },
+  {
+    "english": "he returned to China using the money he had saved from his CPR job",
+    "chinese": "他用从CPR工作中攒下的钱回到了中国。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "He remained",
+    "chinese": "他一直待在那里"
+  },
+  {
+    "english": "He remained there",
+    "chinese": "他从1885年开始一直待在那里"
+  },
+  {
+    "english": "He remained there from",
+    "chinese": "他从1885年开始一直待到1888年"
+  },
+  {
+    "english": "He remained there from 1885",
+    "chinese": "他自1885年起就待在那里"
+  },
+  {
+    "english": "He remained there from 1885 until",
+    "chinese": "他一直待在那里，从1885年直到"
+  },
+  {
+    "english": "He remained there from 1885 until 1888",
+    "chinese": "他于1885年至1888年一直待在那里。"
+  },
+  {
+    "english": "while",
+    "chinese": "当……时",
+    "soundmark": "/hwˈaɪl/"
+  },
+  {
+    "english": "while there",
+    "chinese": "当还有……时"
+  },
+  {
+    "english": "while there he",
+    "chinese": "当还有他时"
+  },
+  {
+    "english": "while there he married",
+    "chinese": "当还有他结婚时"
+  },
+  {
+    "english": "while there he married four",
+    "chinese": "当还有他娶了四个人时"
+  },
+  {
+    "english": "while there he married four different",
+    "chinese": "当还有他娶了四位不同的妻子时"
+  },
+  {
+    "english": "while there he married four different wives",
+    "chinese": "他在那里娶了四位不同的妻子"
+  },
+  {
+    "english": "a",
+    "chinese": "一个",
+    "soundmark": "/ˈeɪ/"
+  },
+  {
+    "english": "a regular",
+    "chinese": "常见的"
+  },
+  {
+    "english": "a regular occurrence",
+    "chinese": "经常发生的事件"
+  },
+  {
+    "english": "a regular occurrence at",
+    "chinese": "常见的现象"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that time",
+    "chinese": "那个时候"
+  },
+  {
+    "english": "that time for",
+    "chinese": "为富人的那个时候"
+  },
+  {
+    "english": "that time for wealthy",
+    "chinese": "为富有的年轻人的那个时候"
+  },
+  {
+    "english": "that time for wealthy young",
+    "chinese": "为富有的年轻男子的那个时候"
+  },
+  {
+    "english": "that time for wealthy young men",
+    "chinese": "那个适合富有的年轻人的时代。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and his",
+    "chinese": "以及他的"
+  },
+  {
+    "english": "and his first",
+    "chinese": "以及他的第一任妻子"
+  },
+  {
+    "english": "and his first wife",
+    "chinese": "和他的第一任妻子"
+  },
+  {
+    "english": "Lee",
+    "chinese": "李",
+    "soundmark": "/lˈiː/"
+  },
+  {
+    "english": "Lee Shee",
+    "chinese": "李熙"
+  },
+  {
+    "english": "had",
+    "chinese": "有",
+    "soundmark": "/hˈæd/"
+  },
+  {
+    "english": "had a",
+    "chinese": "有过"
+  },
+  {
+    "english": "had a son",
+    "chinese": "有了一个儿子"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and a",
+    "chinese": "和一个"
+  },
+  {
+    "english": "and a daughter",
+    "chinese": "还有一个女儿。"
+  }
 ]

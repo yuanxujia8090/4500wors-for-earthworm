@@ -1,1012 +1,1001 @@
 [
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the origins",
-		"chinese": "起源",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/"
-	},
-	{
-		"english": "the origins of",
-		"chinese": "起源",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/"
-	},
-	{
-		"english": "the origins of the",
-		"chinese": "起源",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/"
-	},
-	{
-		"english": "the origins of the ancient",
-		"chinese": "古代的起源",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/"
-	},
-	{
-		"english": "the origins of the ancient olympic",
-		"chinese": "古代奥运会的起源",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/"
-	},
-	{
-		"english": "the origins of the ancient olympic games",
-		"chinese": "古代奥林匹克运动的起源",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/"
-	},
-	{
-		"english": "the origins of the ancient olympic games tend",
-		"chinese": "古代奥林匹克运动的起源",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/"
-	},
-	{
-		"english": "the origins of the ancient olympic games tend to",
-		"chinese": "古代奥林匹克运动的起源往往",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/"
-	},
-	{
-		"english": "the origins of the ancient olympic games tend to be",
-		"chinese": "古代奥林匹克运动的起源往往",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/ /biː/"
-	},
-	{
-		"english": "the origins of the ancient olympic games tend to be submerged",
-		"chinese": "古代奥林匹克运动的起源往往被埋没了",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/ /biː/ /səbmˈɜːdʒd/"
-	},
-	{
-		"english": "the origins of the ancient olympic games tend to be submerged in",
-		"chinese": "古代奥林匹克运动的起源往往被淹没在……之中",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/ /biː/ /səbmˈɜːdʒd/ /ˈɪn/"
-	},
-	{
-		"english": "the origins of the ancient olympic games tend to be submerged in a",
-		"chinese": "古代奥林匹克运动的起源往往被淹没在……中",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/ /biː/ /səbmˈɜːdʒd/ /ˈɪn/ /ˈeɪ/"
-	},
-	{
-		"english": "the origins of the ancient olympic games tend to be submerged in a sea",
-		"chinese": "古代奥林匹克运动的起源往往被淹没在历史的迷雾中",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/ /biː/ /səbmˈɜːdʒd/ /ˈɪn/ /ˈeɪ/ /sˈiː/"
-	},
-	{
-		"english": "the origins of the ancient olympic games tend to be submerged in a sea of",
-		"chinese": "古代奥林匹克运动的起源往往被淹没在众多信息中",
-		"soundmark": "/ðiː/ /ˈɔːrədʒɪnz/ /əv/ /ðiː/ /ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/ /biː/ /səbmˈɜːdʒd/ /ˈɪn/ /ˈeɪ/ /sˈiː/ /əv/"
-	},
-	{
-		"english": "ancient olympic games tend to be submerged in a sea of greek",
-		"chinese": "古老的奥林匹克运动会往往被希腊的种种事务所淹没",
-		"soundmark": "/ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/ /biː/ /səbmˈɜːdʒd/ /ˈɪn/ /ˈeɪ/ /sˈiː/ /əv/ /ɡrˈiːk/"
-	},
-	{
-		"english": "ancient olympic games tend to be submerged in a sea of greek myths",
-		"chinese": "古老的奥林匹克运动会往往被希腊神话的海洋所淹没",
-		"soundmark": "/ˈeɪnʃənt/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tˈɛːnd/ /tə/ /biː/ /səbmˈɜːdʒd/ /ˈɪn/ /ˈeɪ/ /sˈiː/ /əv/ /ɡrˈiːk/ /mˈɪθs/"
-	},
-	{
-		"english": "one",
-		"chinese": "一个",
-		"soundmark": "/hwˈən/"
-	},
-	{
-		"english": "one popular",
-		"chinese": "一种流行款式",
-		"soundmark": "/hwˈən/ /pˈɑːpjəlɜː/"
-	},
-	{
-		"english": "one popular myth",
-		"chinese": "一个常见的误解",
-		"soundmark": "/hwˈən/ /pˈɑːpjəlɜː/ /mˈɪθ/"
-	},
-	{
-		"english": "one popular myth suggests",
-		"chinese": "一个常见的误解认为",
-		"soundmark": "/hwˈən/ /pˈɑːpjəlɜː/ /mˈɪθ/ /səɡdʒˈɛːs/"
-	},
-	{
-		"english": "one popular myth suggests that",
-		"chinese": "一个常见的误解认为",
-		"soundmark": "/hwˈən/ /pˈɑːpjəlɜː/ /mˈɪθ/ /səɡdʒˈɛːs/ /ðət/"
-	},
-	{
-		"english": "one popular myth suggests that pelops",
-		"chinese": "一个常见的传说认为佩洛普斯",
-		"soundmark": "/hwˈən/ /pˈɑːpjəlɜː/ /mˈɪθ/ /səɡdʒˈɛːs/ /ðət/"
-	},
-	{
-		"english": "a",
-		"chinese": "一个",
-		"soundmark": "/ˈeɪ/"
-	},
-	{
-		"english": "a prince",
-		"chinese": "王子",
-		"soundmark": "/ˈeɪ/ /prˈɪns/"
-	},
-	{
-		"english": "a prince from",
-		"chinese": "一位王子",
-		"soundmark": "/ˈeɪ/ /prˈɪns/ /fɜːm/"
-	},
-	{
-		"english": "a prince from lydia",
-		"chinese": "来自利迪亚的王子",
-		"soundmark": "/ˈeɪ/ /prˈɪns/ /fɜːm/ /lˈɪdiːə/"
-	},
-	{
-		"english": "in",
-		"chinese": "在",
-		"soundmark": "/ˈɪn/"
-	},
-	{
-		"english": "in asia",
-		"chinese": "在亚洲",
-		"soundmark": "/ˈɪn/ /ˈeɪʒə/"
-	},
-	{
-		"english": "in asia minor",
-		"chinese": "在小亚细亚",
-		"soundmark": "/ˈɪn/ /ˈeɪʒə/ /mˈaɪnɜː/"
-	},
-	{
-		"english": "in asia minor nowadays",
-		"chinese": "如今在小亚细亚地区",
-		"soundmark": "/ˈɪn/ /ˈeɪʒə/ /mˈaɪnɜː/ /nˈaʊədˌeɪz/"
-	},
-	{
-		"english": "in asia minor nowadays turkey",
-		"chinese": "如今小亚细亚的土耳其",
-		"soundmark": "/ˈɪn/ /ˈeɪʒə/ /mˈaɪnɜː/ /nˈaʊədˌeɪz/ /tˈɜːkiː/"
-	},
-	{
-		"english": "won",
-		"chinese": "获胜",
-		"soundmark": "/wˈɑːn/"
-	},
-	{
-		"english": "won the",
-		"chinese": "获胜了",
-		"soundmark": "/wˈɑːn/ /ðiː/"
-	},
-	{
-		"english": "won the hand",
-		"chinese": "赢得了手",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/"
-	},
-	{
-		"english": "won the hand of",
-		"chinese": "赢得了手",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/"
-	},
-	{
-		"english": "won the hand of a",
-		"chinese": "赢得了某人的手",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/"
-	},
-	{
-		"english": "won the hand of a princess",
-		"chinese": "赢得了公主的手链",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/"
-	},
-	{
-		"english": "won the hand of a princess by",
-		"chinese": "通过赢得公主的手链而",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/"
-	},
-	{
-		"english": "won the hand of a princess by unfairly",
-		"chinese": "通过不公平手段赢得了公主的手链",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/"
-	},
-	{
-		"english": "won the hand of a princess by unfairly defeating",
-		"chinese": "通过不公平的竞争赢得了公主的手链",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/ /dɪfˈiːtɪŋ/"
-	},
-	{
-		"english": "won the hand of a princess by unfairly defeating a",
-		"chinese": "通过不公平的竞争赢得了公主的手链",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/ /dɪfˈiːtɪŋ/ /ˈeɪ/"
-	},
-	{
-		"english": "won the hand of a princess by unfairly defeating a competing",
-		"chinese": "通过不公平的竞争赢得了公主的手缘",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/ /dɪfˈiːtɪŋ/ /ˈeɪ/ /kəmpˈiːtɪŋ/"
-	},
-	{
-		"english": "won the hand of a princess by unfairly defeating a competing suitor",
-		"chinese": "通过不公平击败竞争对手，赢得了公主的手",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/ /dɪfˈiːtɪŋ/ /ˈeɪ/ /kəmpˈiːtɪŋ/ /sˈuːtɜː/"
-	},
-	{
-		"english": "won the hand of a princess by unfairly defeating a competing suitor in",
-		"chinese": "通过不公平地击败竞争对手求婚者，赢得了公主的手缘",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/ /dɪfˈiːtɪŋ/ /ˈeɪ/ /kəmpˈiːtɪŋ/ /sˈuːtɜː/ /ˈɪn/"
-	},
-	{
-		"english": "won the hand of a princess by unfairly defeating a competing suitor in a",
-		"chinese": "通过不公平地击败竞争对手求婚者，赢得了公主的手缘",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/ /dɪfˈiːtɪŋ/ /ˈeɪ/ /kəmpˈiːtɪŋ/ /sˈuːtɜː/ /ˈɪn/ /ˈeɪ/"
-	},
-	{
-		"english": "won the hand of a princess by unfairly defeating a competing suitor in a chariot",
-		"chinese": "通过在战车比赛中不公正击败竞争对手，赢得了公主的手",
-		"soundmark": "/wˈɑːn/ /ðiː/ /hˈænd/ /əv/ /ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/ /dɪfˈiːtɪŋ/ /ˈeɪ/ /kəmpˈiːtɪŋ/ /sˈuːtɜː/ /ˈɪn/ /ˈeɪ/ /tʃˈɛːriːət/"
-	},
-	{
-		"english": "a princess by unfairly defeating a competing suitor in a chariot race",
-		"chinese": "通过赛车比赛不公正击败竞争对手求婚者，获得公主",
-		"soundmark": "/ˈeɪ/ /prˈɪnsɛːs/ /bˈaɪ/ /ənfˈɛːrliː/ /dɪfˈiːtɪŋ/ /ˈeɪ/ /kəmpˈiːtɪŋ/ /sˈuːtɜː/ /ˈɪn/ /ˈeɪ/ /tʃˈɛːriːət/ /rˈeɪs/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the loser",
-		"chinese": "失败者",
-		"soundmark": "/ðiː/ /lˈuːzɜː/"
-	},
-	{
-		"english": "the loser was",
-		"chinese": "失败者",
-		"soundmark": "/ðiː/ /lˈuːzɜː/ /wˈɔːz/"
-	},
-	{
-		"english": "the loser was to",
-		"chinese": "失败者将不得不",
-		"soundmark": "/ðiː/ /lˈuːzɜː/ /wˈɔːz/ /tə/"
-	},
-	{
-		"english": "the loser was to be",
-		"chinese": "失败者将被…",
-		"soundmark": "/ðiː/ /lˈuːzɜː/ /wˈɔːz/ /tə/ /biː/"
-	},
-	{
-		"english": "the loser was to be condemned",
-		"chinese": "失败者将被定罪",
-		"soundmark": "/ðiː/ /lˈuːzɜː/ /wˈɔːz/ /tə/ /biː/ /kəndˈɛːmd/"
-	},
-	{
-		"english": "the loser was to be condemned to",
-		"chinese": "失败者将被定罪",
-		"soundmark": "/ðiː/ /lˈuːzɜː/ /wˈɔːz/ /tə/ /biː/ /kəndˈɛːmd/ /tə/"
-	},
-	{
-		"english": "the loser was to be condemned to beheading",
-		"chinese": "失败者将被处以斩首之刑",
-		"soundmark": "/ðiː/ /lˈuːzɜː/ /wˈɔːz/ /tə/ /biː/ /kəndˈɛːmd/ /tə/ /bɪhˈɛːdɪŋ/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the prince",
-		"chinese": "王子",
-		"soundmark": "/ðiː/ /prˈɪns/"
-	},
-	{
-		"english": "the prince rigged",
-		"chinese": "王子被操纵了",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/"
-	},
-	{
-		"english": "the prince rigged his",
-		"chinese": "王子操纵了它",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/"
-	},
-	{
-		"english": "the prince rigged his opponent",
-		"chinese": "王子操纵了他的对手",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/ /əpˈoʊnənt/"
-	},
-	{
-		"english": "the prince rigged his opponent s",
-		"chinese": "王子操纵了他的对手",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/ /əpˈoʊnənt/ /ˈɛːs/"
-	},
-	{
-		"english": "the prince rigged his opponent s chariot",
-		"chinese": "王子操纵了对手的战车",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/ /əpˈoʊnənt/ /ˈɛːs/ /tʃˈɛːriːət/"
-	},
-	{
-		"english": "the prince rigged his opponent s chariot to",
-		"chinese": "王子篡改了对手的战车",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/ /əpˈoʊnənt/ /ˈɛːs/ /tʃˈɛːriːət/ /tə/"
-	},
-	{
-		"english": "the prince rigged his opponent s chariot to crash",
-		"chinese": "王子操纵了对手的战车使其撞毁",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/ /əpˈoʊnənt/ /ˈɛːs/ /tʃˈɛːriːət/ /tə/ /krˈæʃ/"
-	},
-	{
-		"english": "the prince rigged his opponent s chariot to crash during",
-		"chinese": "王子操纵了对手的战车，使其在战斗中撞毁",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/ /əpˈoʊnənt/ /ˈɛːs/ /tʃˈɛːriːət/ /tə/ /krˈæʃ/ /dˈɜːɪŋ/"
-	},
-	{
-		"english": "the prince rigged his opponent s chariot to crash during the",
-		"chinese": "王子操纵了对手的战车，使其在比赛中撞毁",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/ /əpˈoʊnənt/ /ˈɛːs/ /tʃˈɛːriːət/ /tə/ /krˈæʃ/ /dˈɜːɪŋ/ /ðiː/"
-	},
-	{
-		"english": "the prince rigged his opponent s chariot to crash during the race",
-		"chinese": "王子篡改了对手的战车，使其在比赛中撞毁",
-		"soundmark": "/ðiː/ /prˈɪns/ /rˈɪɡd/ /hɪz/ /əpˈoʊnənt/ /ˈɛːs/ /tʃˈɛːriːət/ /tə/ /krˈæʃ/ /dˈɜːɪŋ/ /ðiː/ /rˈeɪs/"
-	},
-	{
-		"english": "later",
-		"chinese": "后来",
-		"soundmark": "/lˈeɪtɜː/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the chariot",
-		"chinese": "战车",
-		"soundmark": "/ðiː/ /tʃˈɛːriːət/"
-	},
-	{
-		"english": "the chariot did",
-		"chinese": "战车在移动",
-		"soundmark": "/ðiː/ /tʃˈɛːriːət/ /dɪd/"
-	},
-	{
-		"english": "the chariot did crash",
-		"chinese": "那辆战车确实撞毁了",
-		"soundmark": "/ðiː/ /tʃˈɛːriːət/ /dɪd/ /krˈæʃ/"
-	},
-	{
-		"english": "killing",
-		"chinese": "杀戮",
-		"soundmark": "/kˈɪlɪŋ/"
-	},
-	{
-		"english": "killing the",
-		"chinese": "杀戮",
-		"soundmark": "/kˈɪlɪŋ/ /ðiː/"
-	},
-	{
-		"english": "killing the driver",
-		"chinese": "杀死司机",
-		"soundmark": "/kˈɪlɪŋ/ /ðiː/ /drˈaɪvɜː/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the princess",
-		"chinese": "公主",
-		"soundmark": "/ðiː/ /prˈɪnsɛːs/"
-	},
-	{
-		"english": "the princess became",
-		"chinese": "公主成为了",
-		"soundmark": "/ðiː/ /prˈɪnsɛːs/ /biːkˈeɪm/"
-	},
-	{
-		"english": "the princess became pelop",
-		"chinese": "公主变成了佩洛普",
-		"soundmark": "/ðiː/ /prˈɪnsɛːs/ /biːkˈeɪm/"
-	},
-	{
-		"english": "the princess became pelop s",
-		"chinese": "公主变成了佩洛普斯",
-		"soundmark": "/ðiː/ /prˈɪnsɛːs/ /biːkˈeɪm/ /ˈɛːs/"
-	},
-	{
-		"english": "the princess became pelop s bride",
-		"chinese": "公主成为了佩洛普斯的新娘",
-		"soundmark": "/ðiː/ /prˈɪnsɛːs/ /biːkˈeɪm/ /ˈɛːs/ /brˈaɪd/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and he",
-		"chinese": "他",
-		"soundmark": "/ˈænd/ /hˈiː/"
-	},
-	{
-		"english": "and he instituted",
-		"chinese": "并且他实施了",
-		"soundmark": "/ˈænd/ /hˈiː/ /ˈɪnstətˌuːtəd/"
-	},
-	{
-		"english": "and he instituted the",
-		"chinese": "并他实施了该措施",
-		"soundmark": "/ˈænd/ /hˈiː/ /ˈɪnstətˌuːtəd/ /ðiː/"
-	},
-	{
-		"english": "and he instituted the olympic",
-		"chinese": "他设立了奥运会",
-		"soundmark": "/ˈænd/ /hˈiː/ /ˈɪnstətˌuːtəd/ /ðiː/ /oʊlˈɪmpɪk/"
-	},
-	{
-		"english": "and he instituted the olympic games",
-		"chinese": "并创办了奥林匹克运动会",
-		"soundmark": "/ˈænd/ /hˈiː/ /ˈɪnstətˌuːtəd/ /ðiː/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/"
-	},
-	{
-		"english": "and he instituted the olympic games to",
-		"chinese": "他创办了奥林匹克运动会",
-		"soundmark": "/ˈænd/ /hˈiː/ /ˈɪnstətˌuːtəd/ /ðiː/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tə/"
-	},
-	{
-		"english": "and he instituted the olympic games to celebrate",
-		"chinese": "他创办了奥林匹克运动会来庆祝",
-		"soundmark": "/ˈænd/ /hˈiː/ /ˈɪnstətˌuːtəd/ /ðiː/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tə/ /sˈɛːləbrˌeɪt/"
-	},
-	{
-		"english": "and he instituted the olympic games to celebrate his",
-		"chinese": "他创办了奥林匹克运动会来庆祝自己",
-		"soundmark": "/ˈænd/ /hˈiː/ /ˈɪnstətˌuːtəd/ /ðiː/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tə/ /sˈɛːləbrˌeɪt/ /hɪz/"
-	},
-	{
-		"english": "and he instituted the olympic games to celebrate his victory",
-		"chinese": "他创办了奥林匹克运动会以庆祝自己的胜利",
-		"soundmark": "/ˈænd/ /hˈiː/ /ˈɪnstətˌuːtəd/ /ðiː/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /tə/ /sˈɛːləbrˌeɪt/ /hɪz/ /vˈɪktriː/"
-	},
-	{
-		"english": "however",
-		"chinese": "然而",
-		"soundmark": "/hˌaʊˈɛːvɜː/"
-	},
-	{
-		"english": "others",
-		"chinese": "其他",
-		"soundmark": "/ˈəðɜːz/"
-	},
-	{
-		"english": "others claimed",
-		"chinese": "其他人声称",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/"
-	},
-	{
-		"english": "others claimed that",
-		"chinese": "其他人声称",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/"
-	},
-	{
-		"english": "others claimed that the",
-		"chinese": "其他人声称……",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/"
-	},
-	{
-		"english": "others claimed that the first",
-		"chinese": "其他人声称第一个",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/"
-	},
-	{
-		"english": "others claimed that the first olympic",
-		"chinese": "其他人声称首届奥运会",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/"
-	},
-	{
-		"english": "others claimed that the first olympic event",
-		"chinese": "其他人声称第一个奥运项目是",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/"
-	},
-	{
-		"english": "others claimed that the first olympic event was",
-		"chinese": "有人声称第一次奥运赛事是",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/"
-	},
-	{
-		"english": "others claimed that the first olympic event was a",
-		"chinese": "其他人声称第一次奥运赛事是",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/ /ˈeɪ/"
-	},
-	{
-		"english": "others claimed that the first olympic event was a funeral",
-		"chinese": "有人声称第一次奥林匹克赛事是葬礼",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/ /ˈeɪ/ /fjˈuːnɜːəl/"
-	},
-	{
-		"english": "others claimed that the first olympic event was a funeral festival",
-		"chinese": "有人声称第一次奥林匹克赛事是一个葬礼节日",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/ /ˈeɪ/ /fjˈuːnɜːəl/ /fˈɛːstɪvəl/"
-	},
-	{
-		"english": "others claimed that the first olympic event was a funeral festival to",
-		"chinese": "其他人声称，首届奥林匹克赛事是一个葬礼节日",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/ /ˈeɪ/ /fjˈuːnɜːəl/ /fˈɛːstɪvəl/ /tə/"
-	},
-	{
-		"english": "others claimed that the first olympic event was a funeral festival to honor",
-		"chinese": "其他人声称，首届奥林匹克赛事是一个用于纪念的葬礼节日",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/ /ˈeɪ/ /fjˈuːnɜːəl/ /fˈɛːstɪvəl/ /tə/ /ˈɑːnɜː/"
-	},
-	{
-		"english": "others claimed that the first olympic event was a funeral festival to honor his",
-		"chinese": "其他人声称，首届奥林匹克赛事是一个用于纪念他的葬礼仪式",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/ /ˈeɪ/ /fjˈuːnɜːəl/ /fˈɛːstɪvəl/ /tə/ /ˈɑːnɜː/ /hɪz/"
-	},
-	{
-		"english": "others claimed that the first olympic event was a funeral festival to honor his dead",
-		"chinese": "有人声称，首届奥林匹克赛事是一个用于纪念他逝者的葬礼仪式",
-		"soundmark": "/ˈəðɜːz/ /klˈeɪmd/ /ðət/ /ðiː/ /fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/ /ˈeɪ/ /fjˈuːnɜːəl/ /fˈɛːstɪvəl/ /tə/ /ˈɑːnɜː/ /hɪz/ /dˈɛːd/"
-	},
-	{
-		"english": "first olympic event was a funeral festival to honor his dead competitor",
-		"chinese": "首届奥运赛事是一个纪念已故竞争对手的葬礼仪式",
-		"soundmark": "/fˈɜːst/ /oʊlˈɪmpɪk/ /iːvˈɛːnt/ /wˈɔːz/ /ˈeɪ/ /fjˈuːnɜːəl/ /fˈɛːstɪvəl/ /tə/ /ˈɑːnɜː/ /hɪz/ /dˈɛːd/ /kəmpˈɛːtɪtɜː/"
-	},
-	{
-		"english": "another",
-		"chinese": "另一个",
-		"soundmark": "/ənˈəðɜː/"
-	},
-	{
-		"english": "another myth",
-		"chinese": "另一个神话",
-		"soundmark": "/ənˈəðɜː/ /mˈɪθ/"
-	},
-	{
-		"english": "another myth involved",
-		"chinese": "另一个神话涉及其中",
-		"soundmark": "/ənˈəðɜː/ /mˈɪθ/ /ɪnvˈɑːlvd/"
-	},
-	{
-		"english": "another myth involved hercules",
-		"chinese": "另一个关于赫拉克勒斯的神话",
-		"soundmark": "/ənˈəðɜː/ /mˈɪθ/ /ɪnvˈɑːlvd/ /hˈɜːkjəlˌiːz/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the mythical",
-		"chinese": "神话般的",
-		"soundmark": "/ðiː/ /mˈɪθɪkəl/"
-	},
-	{
-		"english": "the mythical strong",
-		"chinese": "神话中的强者",
-		"soundmark": "/ðiː/ /mˈɪθɪkəl/ /strˈɔːŋ/"
-	},
-	{
-		"english": "the mythical strong man",
-		"chinese": "神话中的大力士",
-		"soundmark": "/ðiː/ /mˈɪθɪkəl/ /strˈɔːŋ/ /mˈæn/"
-	},
-	{
-		"english": "hercules",
-		"chinese": "赫拉克勒斯",
-		"soundmark": "/hˈɜːkjəlˌiːz/"
-	},
-	{
-		"english": "hercules was",
-		"chinese": "赫拉克勒斯",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/"
-	},
-	{
-		"english": "hercules was the",
-		"chinese": "赫拉克勒斯就是",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /ðiː/"
-	},
-	{
-		"english": "hercules was the son",
-		"chinese": "赫拉克勒斯是儿子",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /ðiː/ /sˈən/"
-	},
-	{
-		"english": "hercules was the son of",
-		"chinese": "赫拉克勒斯是...的儿子",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /ðiː/ /sˈən/ /əv/"
-	},
-	{
-		"english": "hercules was the son of zeus",
-		"chinese": "赫拉克勒斯是宙斯的儿子",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /ðiː/ /sˈən/ /əv/ /zˈuːs/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the greek",
-		"chinese": "希腊人",
-		"soundmark": "/ðiː/ /ɡrˈiːk/"
-	},
-	{
-		"english": "the greek god",
-		"chinese": "希腊神",
-		"soundmark": "/ðiː/ /ɡrˈiːk/ /ɡˈɑːd/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and one",
-		"chinese": "和一个",
-		"soundmark": "/ˈænd/ /hwˈən/"
-	},
-	{
-		"english": "and one of",
-		"chinese": "和其中一个",
-		"soundmark": "/ˈænd/ /hwˈən/ /əv/"
-	},
-	{
-		"english": "and one of the",
-		"chinese": "以及其中一个",
-		"soundmark": "/ˈænd/ /hwˈən/ /əv/ /ðiː/"
-	},
-	{
-		"english": "and one of the god",
-		"chinese": "以及其中一个神",
-		"soundmark": "/ˈænd/ /hwˈən/ /əv/ /ðiː/ /ɡˈɑːd/"
-	},
-	{
-		"english": "and one of the god s",
-		"chinese": "以及其中一个神",
-		"soundmark": "/ˈænd/ /hwˈən/ /əv/ /ðiː/ /ɡˈɑːd/ /ˈɛːs/"
-	},
-	{
-		"english": "and one of the god s mistresses",
-		"chinese": "以及一位神的情妇",
-		"soundmark": "/ˈænd/ /hwˈən/ /əv/ /ðiː/ /ɡˈɑːd/ /ˈɛːs/ /mˈɪstrəsɪz/"
-	},
-	{
-		"english": "hera",
-		"chinese": "赫拉",
-		"soundmark": "/hˈɪrə/"
-	},
-	{
-		"english": "zeus",
-		"chinese": "宙斯",
-		"soundmark": "/zˈuːs/"
-	},
-	{
-		"english": "zeus wife",
-		"chinese": "宙斯之妻",
-		"soundmark": "/zˈuːs/ /wˈaɪf/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and also",
-		"chinese": "也",
-		"soundmark": "/ˈænd/ /ˈɔːlsoʊ/"
-	},
-	{
-		"english": "and also his",
-		"chinese": "以及他的",
-		"soundmark": "/ˈænd/ /ˈɔːlsoʊ/ /hɪz/"
-	},
-	{
-		"english": "and also his sister",
-		"chinese": "以及他的妹妹",
-		"soundmark": "/ˈænd/ /ˈɔːlsoʊ/ /hɪz/ /sˈɪstɜː/"
-	},
-	{
-		"english": "was",
-		"chinese": "是",
-		"soundmark": "/wˈɔːz/"
-	},
-	{
-		"english": "was very",
-		"chinese": "非常",
-		"soundmark": "/wˈɔːz/ /vˈɛːriː/"
-	},
-	{
-		"english": "was very upset",
-		"chinese": "非常难过",
-		"soundmark": "/wˈɔːz/ /vˈɛːriː/ /ˈəpsˌɛːt/"
-	},
-	{
-		"english": "she",
-		"chinese": "她",
-		"soundmark": "/ʃˈiː/"
-	},
-	{
-		"english": "she attempted",
-		"chinese": "她尝试了",
-		"soundmark": "/ʃˈiː/ /ətˈɛːmptəd/"
-	},
-	{
-		"english": "she attempted in",
-		"chinese": "她尝试了",
-		"soundmark": "/ʃˈiː/ /ətˈɛːmptəd/ /ˈɪn/"
-	},
-	{
-		"english": "she attempted in many",
-		"chinese": "她尝试了很多次",
-		"soundmark": "/ʃˈiː/ /ətˈɛːmptəd/ /ˈɪn/ /mˈɛːniː/"
-	},
-	{
-		"english": "she attempted in many ways",
-		"chinese": "她尝试了多种方法",
-		"soundmark": "/ʃˈiː/ /ətˈɛːmptəd/ /ˈɪn/ /mˈɛːniː/ /wˈeɪz/"
-	},
-	{
-		"english": "to",
-		"chinese": "为了",
-		"soundmark": "/tə/"
-	},
-	{
-		"english": "to kill",
-		"chinese": "杀戮",
-		"soundmark": "/tə/ /kˈɪl/"
-	},
-	{
-		"english": "to kill hercules",
-		"chinese": "杀死赫拉克勒斯",
-		"soundmark": "/tə/ /kˈɪl/ /hˈɜːkjəlˌiːz/"
-	},
-	{
-		"english": "to kill hercules as",
-		"chinese": "杀死赫拉克勒斯",
-		"soundmark": "/tə/ /kˈɪl/ /hˈɜːkjəlˌiːz/ /ˈɛːz/"
-	},
-	{
-		"english": "to kill hercules as a",
-		"chinese": "以赫拉克勒斯为代价",
-		"soundmark": "/tə/ /kˈɪl/ /hˈɜːkjəlˌiːz/ /ˈɛːz/ /ˈeɪ/"
-	},
-	{
-		"english": "to kill hercules as a baby",
-		"chinese": "杀死婴儿赫拉克勒斯",
-		"soundmark": "/tə/ /kˈɪl/ /hˈɜːkjəlˌiːz/ /ˈɛːz/ /ˈeɪ/ /bˈeɪbiː/"
-	},
-	{
-		"english": "hercules",
-		"chinese": "赫拉克勒斯",
-		"soundmark": "/hˈɜːkjəlˌiːz/"
-	},
-	{
-		"english": "hercules survived",
-		"chinese": "赫拉克勒斯活了下来",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /sɜːvˈaɪvd/"
-	},
-	{
-		"english": "later",
-		"chinese": "后来",
-		"soundmark": "/lˈeɪtɜː/"
-	},
-	{
-		"english": "after",
-		"chinese": "之后",
-		"soundmark": "/ˈæftɜː/"
-	},
-	{
-		"english": "after he",
-		"chinese": "在他之后",
-		"soundmark": "/ˈæftɜː/ /hˈiː/"
-	},
-	{
-		"english": "after he had",
-		"chinese": "在他之后",
-		"soundmark": "/ˈæftɜː/ /hˈiː/ /hˈæd/"
-	},
-	{
-		"english": "after he had married",
-		"chinese": "在他结婚之后",
-		"soundmark": "/ˈæftɜː/ /hˈiː/ /hˈæd/ /mˈɛːriːd/"
-	},
-	{
-		"english": "hera",
-		"chinese": "赫拉",
-		"soundmark": "/hˈɪrə/"
-	},
-	{
-		"english": "hera successfully",
-		"chinese": "赫拉成功",
-		"soundmark": "/hˈɪrə/ /səksˈɛːsfəliː/"
-	},
-	{
-		"english": "hera successfully put",
-		"chinese": "赫拉成功完成了",
-		"soundmark": "/hˈɪrə/ /səksˈɛːsfəliː/ /pˈʊt/"
-	},
-	{
-		"english": "hera successfully put a",
-		"chinese": "赫拉成功地放置了它",
-		"soundmark": "/hˈɪrə/ /səksˈɛːsfəliː/ /pˈʊt/ /ˈeɪ/"
-	},
-	{
-		"english": "hera successfully put a spell",
-		"chinese": "赫拉成功施了魔法",
-		"soundmark": "/hˈɪrə/ /səksˈɛːsfəliː/ /pˈʊt/ /ˈeɪ/ /spˈɛːl/"
-	},
-	{
-		"english": "hera successfully put a spell on",
-		"chinese": "赫拉成功施了魔法",
-		"soundmark": "/hˈɪrə/ /səksˈɛːsfəliː/ /pˈʊt/ /ˈeɪ/ /spˈɛːl/ /ˈɔːn/"
-	},
-	{
-		"english": "hera successfully put a spell on him",
-		"chinese": "赫拉成功对他施了魔法",
-		"soundmark": "/hˈɪrə/ /səksˈɛːsfəliː/ /pˈʊt/ /ˈeɪ/ /spˈɛːl/ /ˈɔːn/ /ɪm/"
-	},
-	{
-		"english": "demanding",
-		"chinese": "要求高",
-		"soundmark": "/dɪmˈændɪŋ/"
-	},
-	{
-		"english": "demanding that",
-		"chinese": "要求",
-		"soundmark": "/dɪmˈændɪŋ/ /ðət/"
-	},
-	{
-		"english": "demanding that he",
-		"chinese": "要求他",
-		"soundmark": "/dɪmˈændɪŋ/ /ðət/ /hˈiː/"
-	},
-	{
-		"english": "demanding that he kill",
-		"chinese": "要求他杀掉",
-		"soundmark": "/dɪmˈændɪŋ/ /ðət/ /hˈiː/ /kˈɪl/"
-	},
-	{
-		"english": "demanding that he kill his",
-		"chinese": "要求他杀死自己",
-		"soundmark": "/dɪmˈændɪŋ/ /ðət/ /hˈiː/ /kˈɪl/ /hɪz/"
-	},
-	{
-		"english": "demanding that he kill his wife",
-		"chinese": "要求他杀死妻子",
-		"soundmark": "/dɪmˈændɪŋ/ /ðət/ /hˈiː/ /kˈɪl/ /hɪz/ /wˈaɪf/"
-	},
-	{
-		"english": "because",
-		"chinese": "因为",
-		"soundmark": "/bɪkəz/"
-	},
-	{
-		"english": "because he",
-		"chinese": "因为他",
-		"soundmark": "/bɪkəz/ /hˈiː/"
-	},
-	{
-		"english": "because he was",
-		"chinese": "因为他是",
-		"soundmark": "/bɪkəz/ /hˈiː/ /wˈɔːz/"
-	},
-	{
-		"english": "because he was the",
-		"chinese": "因为他是",
-		"soundmark": "/bɪkəz/ /hˈiː/ /wˈɔːz/ /ðiː/"
-	},
-	{
-		"english": "because he was the son",
-		"chinese": "因为他是儿子",
-		"soundmark": "/bɪkəz/ /hˈiː/ /wˈɔːz/ /ðiː/ /sˈən/"
-	},
-	{
-		"english": "because he was the son of",
-		"chinese": "因为他是那个人的儿子",
-		"soundmark": "/bɪkəz/ /hˈiː/ /wˈɔːz/ /ðiː/ /sˈən/ /əv/"
-	},
-	{
-		"english": "because he was the son of the",
-		"chinese": "因为他是……的儿子",
-		"soundmark": "/bɪkəz/ /hˈiː/ /wˈɔːz/ /ðiː/ /sˈən/ /əv/ /ðiː/"
-	},
-	{
-		"english": "because he was the son of the god",
-		"chinese": "因为他是神的儿子",
-		"soundmark": "/bɪkəz/ /hˈiː/ /wˈɔːz/ /ðiː/ /sˈən/ /əv/ /ðiː/ /ɡˈɑːd/"
-	},
-	{
-		"english": "zeus",
-		"chinese": "宙斯",
-		"soundmark": "/zˈuːs/"
-	},
-	{
-		"english": "hercules",
-		"chinese": "赫拉克勒斯",
-		"soundmark": "/hˈɜːkjəlˌiːz/"
-	},
-	{
-		"english": "hercules was",
-		"chinese": "赫拉克勒斯",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/"
-	},
-	{
-		"english": "hercules was destined",
-		"chinese": "赫拉克勒斯命中注定",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /dˈɛːstɪnd/"
-	},
-	{
-		"english": "hercules was destined to",
-		"chinese": "赫拉克勒斯注定要",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /dˈɛːstɪnd/ /tə/"
-	},
-	{
-		"english": "hercules was destined to become",
-		"chinese": "赫拉克勒斯注定要成为",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /dˈɛːstɪnd/ /tə/ /bɪkˈəm/"
-	},
-	{
-		"english": "hercules was destined to become a",
-		"chinese": "赫拉克勒斯注定要成为",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /dˈɛːstɪnd/ /tə/ /bɪkˈəm/ /ˈeɪ/"
-	},
-	{
-		"english": "hercules was destined to become a god",
-		"chinese": "赫拉克勒斯注定要成为神",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /dˈɛːstɪnd/ /tə/ /bɪkˈəm/ /ˈeɪ/ /ɡˈɑːd/"
-	},
-	{
-		"english": "hercules was destined to become a god himself",
-		"chinese": "赫拉克勒斯注定会成为一位神",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /wˈɔːz/ /dˈɛːstɪnd/ /tə/ /bɪkˈəm/ /ˈeɪ/ /ɡˈɑːd/ /hɪmsˈɛːlf/"
-	},
-	{
-		"english": "in",
-		"chinese": "在",
-		"soundmark": "/ˈɪn/"
-	},
-	{
-		"english": "in order",
-		"chinese": "为了",
-		"soundmark": "/ˈɪn/ /ˈɔːrdɜː/"
-	},
-	{
-		"english": "in order to",
-		"chinese": "为了",
-		"soundmark": "/ˈɪn/ /ˈɔːrdɜː/ /tə/"
-	},
-	{
-		"english": "in order to accomplish",
-		"chinese": "为了完成",
-		"soundmark": "/ˈɪn/ /ˈɔːrdɜː/ /tə/ /əkˈɑːmplɪʃ/"
-	},
-	{
-		"english": "in order to accomplish this",
-		"chinese": "为了实现这一点",
-		"soundmark": "/ˈɪn/ /ˈɔːrdɜː/ /tə/ /əkˈɑːmplɪʃ/ /ðɪs/"
-	},
-	{
-		"english": "hercules",
-		"chinese": "赫拉克勒斯",
-		"soundmark": "/hˈɜːkjəlˌiːz/"
-	},
-	{
-		"english": "hercules had",
-		"chinese": "赫拉克勒斯有",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/"
-	},
-	{
-		"english": "hercules had to",
-		"chinese": "赫拉克勒斯不得不",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/ /tə/"
-	},
-	{
-		"english": "hercules had to be",
-		"chinese": "赫拉克勒斯必须如此",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/ /tə/ /biː/"
-	},
-	{
-		"english": "hercules had to be cleansed",
-		"chinese": "赫拉克勒斯必须被净化",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/ /tə/ /biː/ /klˈɛːnzd/"
-	},
-	{
-		"english": "hercules had to be cleansed of",
-		"chinese": "赫拉克勒斯必须被净化",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/ /tə/ /biː/ /klˈɛːnzd/ /əv/"
-	}
+  {
+    "english": "Lee",
+    "chinese": "李",
+    "soundmark": "/lˈiː/"
+  },
+  {
+    "english": "Lee Shee",
+    "chinese": "李希"
+  },
+  {
+    "english": "Lee Shee became",
+    "chinese": "李希病得很重"
+  },
+  {
+    "english": "Lee Shee became gravely",
+    "chinese": "李希在婚后病得很重"
+  },
+  {
+    "english": "Lee Shee became gravely ill",
+    "chinese": "李希在婚后病情严重"
+  },
+  {
+    "english": "Lee Shee became gravely ill after",
+    "chinese": "李熙在之后病得很重"
+  },
+  {
+    "english": "Lee Shee became gravely ill after their",
+    "chinese": "李熙在之后病得很重"
+  },
+  {
+    "english": "Lee Shee became gravely ill after their marriage",
+    "chinese": "李熙结婚后病得很重"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and urged",
+    "chinese": "并且催促"
+  },
+  {
+    "english": "and urged Yip",
+    "chinese": "并且催促叶"
+  },
+  {
+    "english": "and urged Yip Sang",
+    "chinese": "并且催促叶桑"
+  },
+  {
+    "english": "and urged Yip Sang to",
+    "chinese": "并且催促叶桑去"
+  },
+  {
+    "english": "and urged Yip Sang to take",
+    "chinese": "并且催促叶桑去娶"
+  },
+  {
+    "english": "and urged Yip Sang to take another",
+    "chinese": "并且催促叶桑再娶一个妻子"
+  },
+  {
+    "english": "and urged Yip Sang to take another wife",
+    "chinese": "并催促叶桑再娶一个妻子"
+  },
+  {
+    "english": "one",
+    "chinese": "一个",
+    "soundmark": "/hwˈən/"
+  },
+  {
+    "english": "who",
+    "chinese": "谁",
+    "soundmark": "/hˈuː/"
+  },
+  {
+    "english": "who would",
+    "chinese": "谁会"
+  },
+  {
+    "english": "who would be",
+    "chinese": "谁能够"
+  },
+  {
+    "english": "who would be able",
+    "chinese": "谁能够做到"
+  },
+  {
+    "english": "who would be able to",
+    "chinese": "谁能够采取"
+  },
+  {
+    "english": "who would be able to take",
+    "chinese": "谁能够采取得当"
+  },
+  {
+    "english": "who would be able to take good",
+    "chinese": "谁能够好好照顾"
+  },
+  {
+    "english": "who would be able to take good care",
+    "chinese": "谁能够好好照料"
+  },
+  {
+    "english": "who would be able to take good care of",
+    "chinese": "谁能够好好照顾他们"
+  },
+  {
+    "english": "who would be able to take good care of their",
+    "chinese": "谁能够好好照顾他们的孩子"
+  },
+  {
+    "english": "who would be able to take good care of their children",
+    "chinese": "谁能够好好照顾他们的孩子。"
+  },
+  {
+    "english": "Wong",
+    "chinese": "王",
+    "soundmark": "/wˈɔːŋ/"
+  },
+  {
+    "english": "Wong Shee",
+    "chinese": "王希"
+  },
+  {
+    "english": "Yip",
+    "chinese": "叶",
+    "soundmark": "/jˈɪp/"
+  },
+  {
+    "english": "Yip Sangs",
+    "chinese": "叶桑的"
+  },
+  {
+    "english": "Yip Sangs second",
+    "chinese": "叶桑的第二位妻子"
+  },
+  {
+    "english": "Yip Sangs second wife",
+    "chinese": "叶桑的第二任妻子"
+  },
+  {
+    "english": "was",
+    "chinese": "曾是",
+    "soundmark": "/wˈɔːz/"
+  },
+  {
+    "english": "was very",
+    "chinese": "非常年轻"
+  },
+  {
+    "english": "was very young",
+    "chinese": "非常年轻，带着…"
+  },
+  {
+    "english": "was very young with",
+    "chinese": "非常年轻，带着敏感的特质"
+  },
+  {
+    "english": "was very young with sensitive",
+    "chinese": "非常年轻，带着敏感的眼睛"
+  },
+  {
+    "english": "was very young with sensitive eyes",
+    "chinese": "非常年轻，有着“敏感”的眼睛"
+  },
+  {
+    "english": "but",
+    "chinese": "但",
+    "soundmark": "/bˈət/"
+  },
+  {
+    "english": "but did",
+    "chinese": "但没有"
+  },
+  {
+    "english": "but did not",
+    "chinese": "但没有遇到"
+  },
+  {
+    "english": "but did not meet",
+    "chinese": "但没有与…会面"
+  },
+  {
+    "english": "but did not meet with",
+    "chinese": "但没有获得…的认可"
+  },
+  {
+    "english": "but did not meet with the",
+    "chinese": "但没有获得李的认可"
+  },
+  {
+    "english": "but did not meet with the approval",
+    "chinese": "但没有获得李熙的认可"
+  },
+  {
+    "english": "but did not meet with the approval of",
+    "chinese": "但并未获得认可"
+  },
+  {
+    "english": "but did not meet with the approval of Lee",
+    "chinese": "但并未得到李的认可"
+  },
+  {
+    "english": "but did not meet with the approval of Lee Shee",
+    "chinese": "但并未得到李熙的认可。"
+  },
+  {
+    "english": "She",
+    "chinese": "她",
+    "soundmark": "/ʃˈiː/"
+  },
+  {
+    "english": "She insisted",
+    "chinese": "她坚持"
+  },
+  {
+    "english": "She insisted he",
+    "chinese": "她坚持让他"
+  },
+  {
+    "english": "She insisted he should",
+    "chinese": "她坚持他应该"
+  },
+  {
+    "english": "She insisted he should marry",
+    "chinese": "她坚持他应该结婚"
+  },
+  {
+    "english": "She insisted he should marry a",
+    "chinese": "她坚持他应该嫁给"
+  },
+  {
+    "english": "She insisted he should marry a third",
+    "chinese": "她坚持他应该嫁给第三个人"
+  },
+  {
+    "english": "She insisted he should marry a third time",
+    "chinese": "她坚持让他第三次结婚。"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and this",
+    "chinese": "并且这次"
+  },
+  {
+    "english": "and this time",
+    "chinese": "这次选择某人"
+  },
+  {
+    "english": "and this time choose",
+    "chinese": "这次选择更合适的人"
+  },
+  {
+    "english": "and this time choose someone",
+    "chinese": "这次选择更合适的人"
+  },
+  {
+    "english": "and this time choose someone more",
+    "chinese": "这次选择更合适的人以…"
+  },
+  {
+    "english": "and this time choose someone more suitable",
+    "chinese": "这次选择更合适的人以照顾…"
+  },
+  {
+    "english": "and this time choose someone more suitable to",
+    "chinese": "这次选择更合适的人以照顾…"
+  },
+  {
+    "english": "and this time choose someone more suitable to care",
+    "chinese": "这次选择更合适的人以照顾孩子…"
+  },
+  {
+    "english": "and this time choose someone more suitable to care for",
+    "chinese": "这次选择一个更适合照顾的人"
+  },
+  {
+    "english": "and this time choose someone more suitable to care for the",
+    "chinese": "这次选择一个更适合照顾的人"
+  },
+  {
+    "english": "and this time choose someone more suitable to care for the children",
+    "chinese": "这次选择一个更适合照顾孩子的人。"
+  },
+  {
+    "english": "Dong",
+    "chinese": "董",
+    "soundmark": "/dˈɔːŋɡ/"
+  },
+  {
+    "english": "Dong Shee",
+    "chinese": "董雪，"
+  },
+  {
+    "english": "Dong Shee wife",
+    "chinese": "董雪，妻子"
+  },
+  {
+    "english": "Dong Shee wife number",
+    "chinese": "董雪，第三任妻子"
+  },
+  {
+    "english": "Dong Shee wife number three",
+    "chinese": "董雪，第三任妻子，是"
+  },
+  {
+    "english": "Dong Shee wife number three was",
+    "chinese": "董雪，第三任妻子，更为成熟"
+  },
+  {
+    "english": "Dong Shee wife number three was more",
+    "chinese": "董雪，第三任妻子，更为……"
+  },
+  {
+    "english": "Dong Shee wife number three was more mature",
+    "chinese": "董雪，第三任妻子，更为成熟"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and had",
+    "chinese": "并且拥有"
+  },
+  {
+    "english": "and had the",
+    "chinese": "并且拥有"
+  },
+  {
+    "english": "and had the capacity",
+    "chinese": "并且具有能力"
+  },
+  {
+    "english": "and had the capacity to",
+    "chinese": "并且具有能力"
+  },
+  {
+    "english": "and had the capacity to supervise",
+    "chinese": "并且具备监督的能力"
+  },
+  {
+    "english": "and had the capacity to supervise the",
+    "chinese": "并具备监督的能力"
+  },
+  {
+    "english": "and had the capacity to supervise the household",
+    "chinese": "并具备管理家庭的能力"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and the",
+    "chinese": "和那些"
+  },
+  {
+    "english": "and the children",
+    "chinese": "和孩子们。"
+  },
+  {
+    "english": "Dong",
+    "chinese": "董",
+    "soundmark": "/dˈɔːŋɡ/"
+  },
+  {
+    "english": "Dong Shee",
+    "chinese": "董希"
+  },
+  {
+    "english": "Dong Shee convinced",
+    "chinese": "董希说服了"
+  },
+  {
+    "english": "Dong Shee convinced Yip",
+    "chinese": "董希说服了叶"
+  },
+  {
+    "english": "Dong Shee convinced Yip Sang",
+    "chinese": "董希说服了叶桑"
+  },
+  {
+    "english": "Dong Shee convinced Yip Sang to",
+    "chinese": "董希说服了叶桑去"
+  },
+  {
+    "english": "Dong Shee convinced Yip Sang to take",
+    "chinese": "董希说服了叶桑去接受"
+  },
+  {
+    "english": "Dong Shee convinced Yip Sang to take a",
+    "chinese": "董希说服了叶桑去接受一个"
+  },
+  {
+    "english": "Dong Shee convinced Yip Sang to take a fourth",
+    "chinese": "董希说服了叶桑去接受第四个妻子"
+  },
+  {
+    "english": "Dong Shee convinced Yip Sang to take a fourth wife",
+    "chinese": "董世说服叶桑娶第四位妻子"
+  },
+  {
+    "english": "Chin",
+    "chinese": "钦",
+    "soundmark": "/tʃˈɪn/"
+  },
+  {
+    "english": "Chin Shee",
+    "chinese": "金熙"
+  },
+  {
+    "english": "whose",
+    "chinese": "谁的",
+    "soundmark": "/hˈuːz/"
+  },
+  {
+    "english": "whose primary",
+    "chinese": "谁的主要职责"
+  },
+  {
+    "english": "whose primary role",
+    "chinese": "谁的主要职责是"
+  },
+  {
+    "english": "whose primary role was",
+    "chinese": "谁的主要职责是担任……"
+  },
+  {
+    "english": "whose primary role was to",
+    "chinese": "谁的主要职责是担任董……"
+  },
+  {
+    "english": "whose primary role was to be",
+    "chinese": "谁的主要职责是担任董雪的……"
+  },
+  {
+    "english": "whose primary role was to be Dong",
+    "chinese": "谁的主要职责是担任董雪的伴侣"
+  },
+  {
+    "english": "whose primary role was to be Dong Shees",
+    "chinese": "其主要职责是作为董希的助手"
+  },
+  {
+    "english": "whose primary role was to be Dong Shees companion",
+    "chinese": "其主要职责是作为董熙的伴侣。"
+  },
+  {
+    "english": "With",
+    "chinese": "带着",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "english": "With his",
+    "chinese": "带着他的"
+  },
+  {
+    "english": "With his four",
+    "chinese": "带着他的四个人"
+  },
+  {
+    "english": "With his four wives",
+    "chinese": "拥有四任妻子"
+  },
+  {
+    "english": "Yip",
+    "chinese": "叶",
+    "soundmark": "/jˈɪp/"
+  },
+  {
+    "english": "Yip Sang",
+    "chinese": "叶桑"
+  },
+  {
+    "english": "Yip Sang had",
+    "chinese": "叶桑有"
+  },
+  {
+    "english": "Yip Sang had 23",
+    "chinese": "叶桑有23个孩子"
+  },
+  {
+    "english": "Yip Sang had 23 children",
+    "chinese": "叶桑有23个孩子"
+  },
+  {
+    "english": "one",
+    "chinese": "一个",
+    "soundmark": "/hwˈən/"
+  },
+  {
+    "english": "one of",
+    "chinese": "其中一个"
+  },
+  {
+    "english": "whom",
+    "chinese": "谁",
+    "soundmark": "/hˈuːm/"
+  },
+  {
+    "english": "whom became",
+    "chinese": "谁成为了"
+  },
+  {
+    "english": "whom became the",
+    "chinese": "谁成为了第一位"
+  },
+  {
+    "english": "whom became the first",
+    "chinese": "谁成为了第一位中国籍人士"
+  },
+  {
+    "english": "whom became the first Chinese",
+    "chinese": "谁成为了第一位中国加拿大籍人士"
+  },
+  {
+    "english": "whom became the first Chinese Canadian",
+    "chinese": "谁成为了第一位中国加拿大籍医生"
+  },
+  {
+    "english": "whom became the first Chinese Canadian doctor",
+    "chinese": "谁成为了第一位中国加拿大籍医生，以……身份"
+  },
+  {
+    "english": "whom became the first Chinese Canadian doctor to",
+    "chinese": "谁成为了第一位中国加拿大籍医生，以……身份被认可"
+  },
+  {
+    "english": "whom became the first Chinese Canadian doctor to be",
+    "chinese": "谁成为了第一位中国加拿大籍医生，以……身份在加拿大被认可"
+  },
+  {
+    "english": "whom became the first Chinese Canadian doctor to be recognized",
+    "chinese": "成为首位获得认可的加拿大华裔医生"
+  },
+  {
+    "english": "whom became the first Chinese Canadian doctor to be recognized in",
+    "chinese": "成为首位获得认可的加拿大华裔医生"
+  },
+  {
+    "english": "whom became the first Chinese Canadian doctor to be recognized in Canada",
+    "chinese": "他成为加拿大首位获得认可的华裔加拿大医生。"
+  },
+  {
+    "english": "In",
+    "chinese": "1888年",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In 1888",
+    "chinese": "1888年"
+  },
+  {
+    "english": "Yip",
+    "chinese": "叶",
+    "soundmark": "/jˈɪp/"
+  },
+  {
+    "english": "Yip San",
+    "chinese": "叶三"
+  },
+  {
+    "english": "Yip San returned",
+    "chinese": "叶三回来了"
+  },
+  {
+    "english": "Yip San returned to",
+    "chinese": "叶三回到了"
+  },
+  {
+    "english": "Yip San returned to Canada",
+    "chinese": "叶三回到了加拿大"
+  },
+  {
+    "english": "Yip San returned to Canada with",
+    "chinese": "叶三带着……回到了加拿大"
+  },
+  {
+    "english": "Yip San returned to Canada with three",
+    "chinese": "叶三带着三个妻子回到了加拿大"
+  },
+  {
+    "english": "Yip San returned to Canada with three wives",
+    "chinese": "叶三带着三个妻子回到了加拿大"
+  },
+  {
+    "english": "Yip San returned to Canada with three wives Lee",
+    "chinese": "李"
+  },
+  {
+    "english": "Yip San returned to Canada with three wives Lee Shee",
+    "chinese": "叶三带着三个妻子李回到了加拿大"
+  },
+  {
+    "english": "Yip San returned to Canada with three wives Lee Shee died",
+    "chinese": "叶三带着三个妻子李雪回到了加拿大"
+  },
+  {
+    "english": "Yip San returned to Canada with three wives Lee Shee died before",
+    "chinese": "叶三带着三个妻子李雪去世了"
+  },
+  {
+    "english": "Yip San returned to Canada with three wives Lee Shee died before they",
+    "chinese": "叶三带着三个妻子李雪在……之前去世了"
+  },
+  {
+    "english": "Yip San returned to Canada with three wives Lee Shee died before they left",
+    "chinese": "叶三带着三个妻子回到了加拿大——李喜在他们出发前就去世了。"
+  },
+  {
+    "english": "On",
+    "chinese": "在他回来时",
+    "soundmark": "/ˈɔːn/"
+  },
+  {
+    "english": "On his",
+    "chinese": "在他返回时"
+  },
+  {
+    "english": "On his return",
+    "chinese": "在他返回加拿大时"
+  },
+  {
+    "english": "On his return to",
+    "chinese": "在他返回加拿大时，他"
+  },
+  {
+    "english": "On his return to Canada",
+    "chinese": "在他返回加拿大时，他开始"
+  },
+  {
+    "english": "On his return to Canada he",
+    "chinese": "在他返回加拿大时，他开展了一项新事业"
+  },
+  {
+    "english": "On his return to Canada he undertook",
+    "chinese": "回到加拿大后，他开始行动"
+  },
+  {
+    "english": "On his return to Canada he undertook a",
+    "chinese": "回到加拿大后，他开始进行……"
+  },
+  {
+    "english": "On his return to Canada he undertook a new",
+    "chinese": "回到加拿大后，他开始了一项新事业"
+  },
+  {
+    "english": "On his return to Canada he undertook a new enterprise",
+    "chinese": "回到加拿大后，他开展了一项新事业。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "He became",
+    "chinese": "他成为了"
+  },
+  {
+    "english": "He became a",
+    "chinese": "他成为了一名"
+  },
+  {
+    "english": "He became a merchant",
+    "chinese": "他成为了一名商人"
+  },
+  {
+    "english": "opening",
+    "chinese": "开设业务",
+    "soundmark": "/ˈoʊpənɪŋ/"
+  },
+  {
+    "english": "opening an",
+    "chinese": "开设进口业务"
+  },
+  {
+    "english": "opening an import",
+    "chinese": "开展进出口业务"
+  },
+  {
+    "english": "opening an import export",
+    "chinese": "开设进出口贸易业务"
+  },
+  {
+    "english": "opening an import export business",
+    "chinese": "在……地区开设进出口贸易业务"
+  },
+  {
+    "english": "opening an import export business in",
+    "chinese": "在……中心开设进出口贸易业务"
+  },
+  {
+    "english": "opening an import export business in the",
+    "chinese": "在温哥华市中心开设进出口贸易业务"
+  },
+  {
+    "english": "opening an import export business in the heart",
+    "chinese": "在温哥华市唐人街中心开设进出口贸易业务"
+  },
+  {
+    "english": "opening an import export business in the heart of",
+    "chinese": "在中心地带开展进出口业务"
+  },
+  {
+    "english": "opening an import export business in the heart of Vancouvers",
+    "chinese": "在温哥华市中心开展进出口业务"
+  },
+  {
+    "english": "opening an import export business in the heart of Vancouvers Chinatown",
+    "chinese": "在温哥华唐人街中心开设进出口业务。"
+  },
+  {
+    "english": "Wing",
+    "chinese": "翼公司",
+    "soundmark": "/wˈɪŋ/"
+  },
+  {
+    "english": "Wing Sang",
+    "chinese": "翼桑公司"
+  },
+  {
+    "english": "Wing Sang Company",
+    "chinese": "翼桑公司专营"
+  },
+  {
+    "english": "Wing Sang Company specialized",
+    "chinese": "翼桑公司专注于"
+  },
+  {
+    "english": "Wing Sang Company specialized in",
+    "chinese": "翼桑公司专营商品"
+  },
+  {
+    "english": "Wing Sang Company specialized in goods",
+    "chinese": "翼桑公司专营进口商品"
+  },
+  {
+    "english": "Wing Sang Company specialized in goods imported",
+    "chinese": "翼桑公司专营从中国进口的商品"
+  },
+  {
+    "english": "Wing Sang Company specialized in goods imported from",
+    "chinese": "Wing Sang公司专门从事从国外进口的商品"
+  },
+  {
+    "english": "Wing Sang Company specialized in goods imported from China",
+    "chinese": "Wing Sang公司专门经营来自中国的商品。"
+  },
+  {
+    "english": "The",
+    "chinese": "该公司提供了",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The company",
+    "chinese": "该公司提供了中文产品"
+  },
+  {
+    "english": "The company provided",
+    "chinese": "该公司提供了加拿大中文使用者"
+  },
+  {
+    "english": "The company provided Chinese",
+    "chinese": "该公司提供了加拿大中文使用者商品"
+  },
+  {
+    "english": "The company provided Chinese Canadians",
+    "chinese": "该公司提供了加拿大中文使用者商品，但不是"
+  },
+  {
+    "english": "The company provided Chinese Canadians with",
+    "chinese": "该公司没有立即提供加拿大中文使用者商品"
+  },
+  {
+    "english": "The company provided Chinese Canadians with merchandise",
+    "chinese": "该公司没有立即提供加拿大中文使用者商品，且难以获得"
+  },
+  {
+    "english": "The company provided Chinese Canadians with merchandise not",
+    "chinese": "该公司没有立即提供加拿大中文使用者商品，在温哥华难以获得"
+  },
+  {
+    "english": "The company provided Chinese Canadians with merchandise not readily",
+    "chinese": "该公司提供了一些中国加拿大人难以轻易获得的商品。"
+  },
+  {
+    "english": "The company provided Chinese Canadians with merchandise not readily available",
+    "chinese": "该公司提供了加拿大华裔人士难以轻易获得的商品"
+  },
+  {
+    "english": "The company provided Chinese Canadians with merchandise not readily available in",
+    "chinese": "该公司为加拿大华裔居民提供了在本地难以获得的商品"
+  },
+  {
+    "english": "The company provided Chinese Canadians with merchandise not readily available in Vancouver",
+    "chinese": "该公司为加拿大华裔居民提供了在温哥华难以获得的商品"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and exported",
+    "chinese": "并且出口了"
+  },
+  {
+    "english": "and exported Canadian",
+    "chinese": "出口了加拿大产品"
+  },
+  {
+    "english": "and exported Canadian foodstuffs",
+    "chinese": "出口了加拿大食品"
+  },
+  {
+    "english": "and exported Canadian foodstuffs to",
+    "chinese": "出口了加拿大食品到"
+  },
+  {
+    "english": "and exported Canadian foodstuffs to China",
+    "chinese": "并将加拿大食品出口到中国。"
+  },
+  {
+    "english": "His",
+    "chinese": "他的公式",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "english": "His formula",
+    "chinese": "他的公式内容"
+  },
+  {
+    "english": "His formula of",
+    "chinese": "他的倾倒公式"
+  },
+  {
+    "english": "His formula of pouring",
+    "chinese": "他倾倒的公式"
+  },
+  {
+    "english": "His formula of pouring as",
+    "chinese": "他尽可能多倾倒的公式"
+  },
+  {
+    "english": "His formula of pouring as much",
+    "chinese": "他尽可能多投入金钱的公式"
+  },
+  {
+    "english": "His formula of pouring as much money",
+    "chinese": "他尽可能多投入金钱的公式（按他自己的能力）"
+  },
+  {
+    "english": "His formula of pouring as much money as",
+    "chinese": "他尽可能多投入金钱的公式（按他能够负担得起的程度）"
+  },
+  {
+    "english": "His formula of pouring as much money as he",
+    "chinese": "他尽可能多投入金钱的公式（按他能够负担得起的程度用于建设）"
+  },
+  {
+    "english": "His formula of pouring as much money as he could",
+    "chinese": "他的策略是尽可能投入大量资金"
+  },
+  {
+    "english": "His formula of pouring as much money as he could afford",
+    "chinese": "他的策略是尽可能多地投入资金"
+  },
+  {
+    "english": "His formula of pouring as much money as he could afford into",
+    "chinese": "他的策略是尽可能多地投入资金"
+  },
+  {
+    "english": "His formula of pouring as much money as he could afford into building",
+    "chinese": "他的策略是尽可能多地投入资金用于建设"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and expansion",
+    "chinese": "以及扩展"
+  },
+  {
+    "english": "and expansion couldnt",
+    "chinese": "扩展无法…"
+  },
+  {
+    "english": "and expansion couldnt help",
+    "chinese": "且扩张无法避免"
+  },
+  {
+    "english": "but",
+    "chinese": "但",
+    "soundmark": "/bˈət/"
+  },
+  {
+    "english": "but succeed",
+    "chinese": "但成功了。"
+  },
+  {
+    "english": "In",
+    "chinese": "1889年",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In 1889",
+    "chinese": "1889年"
+  },
+  {
+    "english": "Yip",
+    "chinese": "叶",
+    "soundmark": "/jˈɪp/"
+  },
+  {
+    "english": "Yip Sang",
+    "chinese": "叶桑"
+  },
+  {
+    "english": "Yip Sang bought",
+    "chinese": "叶桑购买了"
+  },
+  {
+    "english": "Yip Sang bought land",
+    "chinese": "叶桑购买了土地"
+  },
+  {
+    "english": "Yip Sang bought land on",
+    "chinese": "叶桑在"
+  },
+  {
+    "english": "Yip Sang bought land on Pender",
+    "chinese": "叶桑在彭德"
+  },
+  {
+    "english": "Yip Sang bought land on Pender Street",
+    "chinese": "叶桑在彭德街"
+  },
+  {
+    "english": "Yip Sang bought land on Pender Street in",
+    "chinese": "叶桑在 Chinatown 的彭德街上的彭德街"
+  },
+  {
+    "english": "Yip Sang bought land on Pender Street in Chinatown",
+    "chinese": "叶桑在唐人街彭德街购买了土地"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and began",
+    "chinese": "并且开始"
+  },
+  {
+    "english": "and began construction",
+    "chinese": "并且开始建设"
+  },
+  {
+    "english": "and began construction of",
+    "chinese": "开始建设……"
+  },
+  {
+    "english": "and began construction of a",
+    "chinese": "开始建设一个……"
+  },
+  {
+    "english": "and began construction of a complex",
+    "chinese": "并开始建造一个综合体"
+  },
+  {
+    "english": "which",
+    "chinese": "哪个",
+    "soundmark": "/hwˈɪtʃ/"
+  },
+  {
+    "english": "which still",
+    "chinese": "仍然"
+  },
+  {
+    "english": "which still stands",
+    "chinese": "仍然屹立不倒"
+  },
+  {
+    "english": "which still stands today",
+    "chinese": "至今仍然存在。"
+  }
 ]

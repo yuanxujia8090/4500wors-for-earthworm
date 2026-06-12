@@ -1,1082 +1,940 @@
 [
-	{
-		"english": "one of the typical uses of",
-		"chinese": "典型的用途之一",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/"
-	},
-	{
-		"english": "one of the typical uses of the",
-		"chinese": "典型的用途之一",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/"
-	},
-	{
-		"english": "one of the typical uses of the duct",
-		"chinese": "管道的典型用途之一",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/"
-	},
-	{
-		"english": "one of the typical uses of the duct tape",
-		"chinese": "胶带的典型用途之一",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/"
-	},
-	{
-		"english": "one of the typical uses of the duct tape is",
-		"chinese": "胶带的典型用途之一是",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/"
-	},
-	{
-		"english": "one of the typical uses of the duct tape is to",
-		"chinese": "胶带的典型用途之一是",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/"
-	},
-	{
-		"english": "one of the typical uses of the duct tape is to repair",
-		"chinese": "胶带的典型用途之一就是修复",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/"
-	},
-	{
-		"english": "one of the typical uses of the duct tape is to repair a",
-		"chinese": "胶带的典型用途之一就是修复",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/ /ˈeɪ/"
-	},
-	{
-		"english": "one of the typical uses of the duct tape is to repair a leak",
-		"chinese": "胶带的典型用途之一就是修补泄漏处",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/ /ˈeɪ/ /lˈiːk/"
-	},
-	{
-		"english": "one of the typical uses of the duct tape is to repair a leak in",
-		"chinese": "胶带的典型用途之一就是修复泄漏问题",
-		"soundmark": "/hwˈən/ /əv/ /ðiː/ /tˈɪpɪkəl/ /jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/ /ˈeɪ/ /lˈiːk/ /ˈɪn/"
-	},
-	{
-		"english": "uses of the duct tape is to repair a leak in a",
-		"chinese": "胶带的使用是为了修复泄漏处",
-		"soundmark": "/jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/ /ˈeɪ/ /lˈiːk/ /ˈɪn/ /ˈeɪ/"
-	},
-	{
-		"english": "uses of the duct tape is to repair a leak in a faucet",
-		"chinese": "胶带的使用是为了修复水龙头的泄漏问题",
-		"soundmark": "/jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/ /ˈeɪ/ /lˈiːk/ /ˈɪn/ /ˈeɪ/ /fˈɔːsət/"
-	},
-	{
-		"english": "uses of the duct tape is to repair a leak in a faucet or",
-		"chinese": "胶带的使用是为了修复水龙头的泄漏问题",
-		"soundmark": "/jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/ /ˈeɪ/ /lˈiːk/ /ˈɪn/ /ˈeɪ/ /fˈɔːsət/ /ɜː/"
-	},
-	{
-		"english": "uses of the duct tape is to repair a leak in a faucet or water",
-		"chinese": "胶带的使用是为了修复水龙头或水管中的泄漏",
-		"soundmark": "/jˈuːzɪz/ /əv/ /ðiː/ /dˈəkt/ /tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/ /ˈeɪ/ /lˈiːk/ /ˈɪn/ /ˈeɪ/ /fˈɔːsət/ /ɜː/ /wˈɔːtɜː/"
-	},
-	{
-		"english": "tape is to repair a leak in a faucet or water tap",
-		"chinese": "胶带用于修复水龙头或水龙头的泄漏",
-		"soundmark": "/tˈeɪp/ /ɪz/ /tə/ /rɪpˈɛːr/ /ˈeɪ/ /lˈiːk/ /ˈɪn/ /ˈeɪ/ /fˈɔːsət/ /ɜː/ /wˈɔːtɜː/ /tˈæp/"
-	},
-	{
-		"english": "if",
-		"chinese": "如果",
-		"soundmark": "/ɪf/"
-	},
-	{
-		"english": "if the",
-		"chinese": "如果",
-		"soundmark": "/ɪf/ /ðiː/"
-	},
-	{
-		"english": "if the hose",
-		"chinese": "如果软管",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/"
-	},
-	{
-		"english": "if the hose of",
-		"chinese": "如果软管",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/"
-	},
-	{
-		"english": "if the hose of a",
-		"chinese": "如果软管是",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/ /ˈeɪ/"
-	},
-	{
-		"english": "if the hose of a vacuum",
-		"chinese": "如果真空管的软管",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/ /ˈeɪ/ /vˈækjuːm/"
-	},
-	{
-		"english": "if the hose of a vacuum cleaner",
-		"chinese": "如果吸尘器的软管",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/ /ˈeɪ/ /vˈækjuːm/ /klˈiːnɜː/"
-	},
-	{
-		"english": "if the hose of a vacuum cleaner has",
-		"chinese": "如果吸尘器的软管有",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/ /ˈeɪ/ /vˈækjuːm/ /klˈiːnɜː/ /həz/"
-	},
-	{
-		"english": "if the hose of a vacuum cleaner has a",
-		"chinese": "如果吸尘器的软管有",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/ /ˈeɪ/ /vˈækjuːm/ /klˈiːnɜː/ /həz/ /ˈeɪ/"
-	},
-	{
-		"english": "if the hose of a vacuum cleaner has a hole",
-		"chinese": "如果吸尘器的软管有洞",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/ /ˈeɪ/ /vˈækjuːm/ /klˈiːnɜː/ /həz/ /ˈeɪ/ /hˈoʊl/"
-	},
-	{
-		"english": "if the hose of a vacuum cleaner has a hole in",
-		"chinese": "如果吸尘器的软管有洞的话",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/ /ˈeɪ/ /vˈækjuːm/ /klˈiːnɜː/ /həz/ /ˈeɪ/ /hˈoʊl/ /ˈɪn/"
-	},
-	{
-		"english": "if the hose of a vacuum cleaner has a hole in it",
-		"chinese": "如果吸尘器的软管有洞的话",
-		"soundmark": "/ɪf/ /ðiː/ /hˈoʊz/ /əv/ /ˈeɪ/ /vˈækjuːm/ /klˈiːnɜː/ /həz/ /ˈeɪ/ /hˈoʊl/ /ˈɪn/ /ɪt/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the duct",
-		"chinese": "管道",
-		"soundmark": "/ðiː/ /dˈəkt/"
-	},
-	{
-		"english": "the duct tape",
-		"chinese": "胶带",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/"
-	},
-	{
-		"english": "the duct tape will",
-		"chinese": "胶带会",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /wəl/"
-	},
-	{
-		"english": "the duct tape will come",
-		"chinese": "胶带会送达",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /wəl/ /kˈəm/"
-	},
-	{
-		"english": "the duct tape will come to",
-		"chinese": "胶带会粘上去",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /wəl/ /kˈəm/ /tə/"
-	},
-	{
-		"english": "the duct tape will come to rescue",
-		"chinese": "胶带会来救场的",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /wəl/ /kˈəm/ /tə/ /rˈɛːskjuː/"
-	},
-	{
-		"english": "almost",
-		"chinese": "几乎",
-		"soundmark": "/ˈɔːlmˌoʊst/"
-	},
-	{
-		"english": "almost every",
-		"chinese": "几乎每个",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/"
-	},
-	{
-		"english": "almost every household",
-		"chinese": "几乎每个家庭",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/"
-	},
-	{
-		"english": "almost every household in",
-		"chinese": "几乎每个家庭都",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/"
-	},
-	{
-		"english": "almost every household in north",
-		"chinese": "北方几乎每个家庭",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/"
-	},
-	{
-		"english": "almost every household in north america",
-		"chinese": "北美几乎每个家庭",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/"
-	},
-	{
-		"english": "almost every household in north america has",
-		"chinese": "北美几乎每个家庭都有",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /həz/"
-	},
-	{
-		"english": "almost every household in north america has at",
-		"chinese": "北美几乎每个家庭都有",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /həz/ /ˈæt/"
-	},
-	{
-		"english": "almost every household in north america has at least",
-		"chinese": "在北美，几乎每个家庭都至少拥有",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /həz/ /ˈæt/ /lˈiːst/"
-	},
-	{
-		"english": "almost every household in north america has at least one",
-		"chinese": "北美几乎每个家庭至少有一个",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /həz/ /ˈæt/ /lˈiːst/ /hwˈən/"
-	},
-	{
-		"english": "almost every household in north america has at least one roll",
-		"chinese": "北美几乎每个家庭至少有一卷",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /həz/ /ˈæt/ /lˈiːst/ /hwˈən/ /rˈoʊl/"
-	},
-	{
-		"english": "almost every household in north america has at least one roll of",
-		"chinese": "在北美，几乎每个家庭至少有一卷",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /həz/ /ˈæt/ /lˈiːst/ /hwˈən/ /rˈoʊl/ /əv/"
-	},
-	{
-		"english": "almost every household in north america has at least one roll of duct",
-		"chinese": "在北美，几乎每个家庭至少有一卷管道材料",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /həz/ /ˈæt/ /lˈiːst/ /hwˈən/ /rˈoʊl/ /əv/ /dˈəkt/"
-	},
-	{
-		"english": "almost every household in north america has at least one roll of duct tape",
-		"chinese": "北美几乎每个家庭都至少有一卷胶带",
-		"soundmark": "/ˈɔːlmˌoʊst/ /ˈɛːvriː/ /hˈaʊshˌoʊld/ /ˈɪn/ /nˈɔːrθ/ /əmˈɛːrɪkə/ /həz/ /ˈæt/ /lˈiːst/ /hwˈən/ /rˈoʊl/ /əv/ /dˈəkt/ /tˈeɪp/"
-	},
-	{
-		"english": "people",
-		"chinese": "人们",
-		"soundmark": "/pˈiːpəl/"
-	},
-	{
-		"english": "people keep",
-		"chinese": "人们持续存在",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/"
-	},
-	{
-		"english": "people keep it",
-		"chinese": "人们保留它",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/"
-	},
-	{
-		"english": "people keep it handy",
-		"chinese": "人们随时都带着它",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/ /hˈændiː/"
-	},
-	{
-		"english": "people keep it handy and",
-		"chinese": "人们总是随身携带它",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/ /hˈændiː/ /ˈænd/"
-	},
-	{
-		"english": "people keep it handy and use",
-		"chinese": "人们随时带着它使用",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/ /hˈændiː/ /ˈænd/ /jˈuːz/"
-	},
-	{
-		"english": "people keep it handy and use it",
-		"chinese": "人们随时带着它使用它",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/ /hˈændiː/ /ˈænd/ /jˈuːz/ /ɪt/"
-	},
-	{
-		"english": "people keep it handy and use it to",
-		"chinese": "人们随时带着它，并用它来",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/ /hˈændiː/ /ˈænd/ /jˈuːz/ /ɪt/ /tə/"
-	},
-	{
-		"english": "people keep it handy and use it to repair",
-		"chinese": "人们随时带着它，用来修理",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/ /hˈændiː/ /ˈænd/ /jˈuːz/ /ɪt/ /tə/ /rɪpˈɛːr/"
-	},
-	{
-		"english": "people keep it handy and use it to repair almost",
-		"chinese": "人们随时都带着它，用来修理几乎所有东西",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/ /hˈændiː/ /ˈænd/ /jˈuːz/ /ɪt/ /tə/ /rɪpˈɛːr/ /ˈɔːlmˌoʊst/"
-	},
-	{
-		"english": "people keep it handy and use it to repair almost everything",
-		"chinese": "人们随时都带着它，用来修理几乎所有东西",
-		"soundmark": "/pˈiːpəl/ /kˈiːp/ /ɪt/ /hˈændiː/ /ˈænd/ /jˈuːz/ /ɪt/ /tə/ /rɪpˈɛːr/ /ˈɔːlmˌoʊst/ /ˈɛːvriːθˌɪŋ/"
-	},
-	{
-		"english": "no",
-		"chinese": "没有",
-		"soundmark": "/nˈoʊ/"
-	},
-	{
-		"english": "no one",
-		"chinese": "没有人",
-		"soundmark": "/nˈoʊ/ /hwˈən/"
-	},
-	{
-		"english": "no one would",
-		"chinese": "没有人会",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/"
-	},
-	{
-		"english": "no one would think",
-		"chinese": "没人会想到",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/"
-	},
-	{
-		"english": "no one would think it",
-		"chinese": "没人会想到",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/"
-	},
-	{
-		"english": "no one would think it necessary",
-		"chinese": "没人认为有必要",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/"
-	},
-	{
-		"english": "no one would think it necessary to",
-		"chinese": "没人会认为有必要",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/"
-	},
-	{
-		"english": "no one would think it necessary to justify",
-		"chinese": "没人会认为有必要进行辩解",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/ /dʒˈəstəfˌaɪ/"
-	},
-	{
-		"english": "no one would think it necessary to justify the",
-		"chinese": "没人会认为有必要为之辩护",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/ /dʒˈəstəfˌaɪ/ /ðiː/"
-	},
-	{
-		"english": "no one would think it necessary to justify the purchase",
-		"chinese": "没人会认为有必要为购买行为提供理由",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/ /dʒˈəstəfˌaɪ/ /ðiː/ /pˈɜːtʃəs/"
-	},
-	{
-		"english": "no one would think it necessary to justify the purchase of",
-		"chinese": "没人会认为有必要为购买行为提供理由",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/ /dʒˈəstəfˌaɪ/ /ðiː/ /pˈɜːtʃəs/ /əv/"
-	},
-	{
-		"english": "no one would think it necessary to justify the purchase of extra",
-		"chinese": "没人会认为有必要为购买额外物品提供理由",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/ /dʒˈəstəfˌaɪ/ /ðiː/ /pˈɜːtʃəs/ /əv/ /ˈɛːkstrə/"
-	},
-	{
-		"english": "no one would think it necessary to justify the purchase of extra rolls",
-		"chinese": "没人会认为有必要为购买额外的卷料提供理由",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/ /dʒˈəstəfˌaɪ/ /ðiː/ /pˈɜːtʃəs/ /əv/ /ˈɛːkstrə/ /rˈoʊlz/"
-	},
-	{
-		"english": "no one would think it necessary to justify the purchase of extra rolls of",
-		"chinese": "没人会认为有必要为购买额外的卷料提供理由",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/ /dʒˈəstəfˌaɪ/ /ðiː/ /pˈɜːtʃəs/ /əv/ /ˈɛːkstrə/ /rˈoʊlz/ /əv/"
-	},
-	{
-		"english": "no one would think it necessary to justify the purchase of extra rolls of tape",
-		"chinese": "没人会认为有必要为购买额外的胶带卷提供理由",
-		"soundmark": "/nˈoʊ/ /hwˈən/ /wˈʊd/ /θˈɪŋk/ /ɪt/ /nˈɛːsəsˌɛːriː/ /tə/ /dʒˈəstəfˌaɪ/ /ðiː/ /pˈɜːtʃəs/ /əv/ /ˈɛːkstrə/ /rˈoʊlz/ /əv/ /tˈeɪp/"
-	},
-	{
-		"english": "so",
-		"chinese": "所以",
-		"soundmark": "/sˈoʊ/"
-	},
-	{
-		"english": "so the",
-		"chinese": "所以",
-		"soundmark": "/sˈoʊ/ /ðiː/"
-	},
-	{
-		"english": "so the sales",
-		"chinese": "所以销售情况",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/"
-	},
-	{
-		"english": "so the sales continue",
-		"chinese": "所以销售持续进行",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/"
-	},
-	{
-		"english": "so the sales continue to",
-		"chinese": "所以销售仍在继续",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/"
-	},
-	{
-		"english": "so the sales continue to increase",
-		"chinese": "因此销售持续增加",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/"
-	},
-	{
-		"english": "so the sales continue to increase many",
-		"chinese": "因此销售持续增加很多",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/"
-	},
-	{
-		"english": "so the sales continue to increase many people",
-		"chinese": "所以销售持续增加，很多人",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/"
-	},
-	{
-		"english": "so the sales continue to increase many people like",
-		"chinese": "所以销售持续增加，很多人都这样",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/"
-	},
-	{
-		"english": "so the sales continue to increase many people like to",
-		"chinese": "所以销售持续增加，很多人都喜欢",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/"
-	},
-	{
-		"english": "so the sales continue to increase many people like to boast",
-		"chinese": "所以销售持续增加，很多人喜欢自夸",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/ /bˈoʊst/"
-	},
-	{
-		"english": "so the sales continue to increase many people like to boast about",
-		"chinese": "所以销售持续增加，很多人喜欢夸耀",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/ /bˈoʊst/ /əbˈaʊt/"
-	},
-	{
-		"english": "so the sales continue to increase many people like to boast about how",
-		"chinese": "所以销售持续增长，很多人喜欢夸耀自己如何",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/ /bˈoʊst/ /əbˈaʊt/ /hˈaʊ/"
-	},
-	{
-		"english": "so the sales continue to increase many people like to boast about how often",
-		"chinese": "所以销售持续增长，很多人喜欢夸耀自己经常这样做",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/ /bˈoʊst/ /əbˈaʊt/ /hˈaʊ/ /ˈɔːftən/"
-	},
-	{
-		"english": "so the sales continue to increase many people like to boast about how often they",
-		"chinese": "所以销售持续增长，很多人喜欢夸耀自己经常这样做",
-		"soundmark": "/sˈoʊ/ /ðiː/ /sˈeɪlz/ /kəntˈɪnjuː/ /tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/ /bˈoʊst/ /əbˈaʊt/ /hˈaʊ/ /ˈɔːftən/ /ðˈeɪ/"
-	},
-	{
-		"english": "to increase many people like to boast about how often they use",
-		"chinese": "让许多人都喜欢夸耀自己使用频率有多高",
-		"soundmark": "/tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/ /bˈoʊst/ /əbˈaʊt/ /hˈaʊ/ /ˈɔːftən/ /ðˈeɪ/ /jˈuːz/"
-	},
-	{
-		"english": "to increase many people like to boast about how often they use the",
-		"chinese": "让许多人都喜欢夸耀自己使用它的频率有多高",
-		"soundmark": "/tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/ /bˈoʊst/ /əbˈaʊt/ /hˈaʊ/ /ˈɔːftən/ /ðˈeɪ/ /jˈuːz/ /ðiː/"
-	},
-	{
-		"english": "to increase many people like to boast about how often they use the tape",
-		"chinese": "让许多人都喜欢夸耀自己使用磁带的频率",
-		"soundmark": "/tə/ /ˈɪnkrˌiːs/ /mˈɛːniː/ /pˈiːpəl/ /lˈaɪk/ /tə/ /bˈoʊst/ /əbˈaʊt/ /hˈaʊ/ /ˈɔːftən/ /ðˈeɪ/ /jˈuːz/ /ðiː/ /tˈeɪp/"
-	},
-	{
-		"english": "they",
-		"chinese": "他们",
-		"soundmark": "/ðˈeɪ/"
-	},
-	{
-		"english": "they say",
-		"chinese": "他们说",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/"
-	},
-	{
-		"english": "they say that",
-		"chinese": "人们说",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/"
-	},
-	{
-		"english": "they say that the",
-		"chinese": "人们说……",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/"
-	},
-	{
-		"english": "they say that the usage",
-		"chinese": "人们说这种用法",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/"
-	},
-	{
-		"english": "they say that the usage of",
-		"chinese": "人们说这种使用方式",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/"
-	},
-	{
-		"english": "they say that the usage of duct",
-		"chinese": "人们说管道的使用情况",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/"
-	},
-	{
-		"english": "they say that the usage of duct tape",
-		"chinese": "人们说胶带的使用",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/"
-	},
-	{
-		"english": "they say that the usage of duct tape has",
-		"chinese": "人们说胶带的使用方式",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/"
-	},
-	{
-		"english": "they say that the usage of duct tape has allowed",
-		"chinese": "人们说胶带的使用使得……",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/"
-	},
-	{
-		"english": "they say that the usage of duct tape has allowed them",
-		"chinese": "人们说胶带的使用让他们得以……",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/"
-	},
-	{
-		"english": "they say that the usage of duct tape has allowed them to",
-		"chinese": "人们说使用胶带让他们能够",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/ /tə/"
-	},
-	{
-		"english": "they say that the usage of duct tape has allowed them to simplify",
-		"chinese": "人们说使用胶带让他们能够简化操作",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/"
-	},
-	{
-		"english": "they say that the usage of duct tape has allowed them to simplify their",
-		"chinese": "人们说使用胶带让他们能够简化操作。",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/"
-	},
-	{
-		"english": "they say that the usage of duct tape has allowed them to simplify their life",
-		"chinese": "人们说使用胶带让他们能够简化生活",
-		"soundmark": "/ðˈeɪ/ /sˈeɪ/ /ðət/ /ðiː/ /jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/ /lˈaɪf/"
-	},
-	{
-		"english": "usage of duct tape has allowed them to simplify their life and",
-		"chinese": "胶带的使用让他们能够简化生活",
-		"soundmark": "/jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/ /lˈaɪf/ /ˈænd/"
-	},
-	{
-		"english": "usage of duct tape has allowed them to simplify their life and to",
-		"chinese": "胶带的使用让他们能够简化生活",
-		"soundmark": "/jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/ /lˈaɪf/ /ˈænd/ /tə/"
-	},
-	{
-		"english": "usage of duct tape has allowed them to simplify their life and to decrease",
-		"chinese": "胶带的使用让他们能够简化生活并减少……",
-		"soundmark": "/jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/ /lˈaɪf/ /ˈænd/ /tə/ /dˈiːkrˌiːs/"
-	},
-	{
-		"english": "usage of duct tape has allowed them to simplify their life and to decrease the",
-		"chinese": "胶带的使用让他们能够简化生活并减少……",
-		"soundmark": "/jˈuːsɪdʒ/ /əv/ /dˈəkt/ /tˈeɪp/ /həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/ /lˈaɪf/ /ˈænd/ /tə/ /dˈiːkrˌiːs/ /ðiː/"
-	},
-	{
-		"english": "has allowed them to simplify their life and to decrease the cost",
-		"chinese": "这使他们能够简化生活并降低成本",
-		"soundmark": "/həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/ /lˈaɪf/ /ˈænd/ /tə/ /dˈiːkrˌiːs/ /ðiː/ /kˈɔːst/"
-	},
-	{
-		"english": "has allowed them to simplify their life and to decrease the cost of",
-		"chinese": "这使他们能够简化生活，降低成本",
-		"soundmark": "/həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/ /lˈaɪf/ /ˈænd/ /tə/ /dˈiːkrˌiːs/ /ðiː/ /kˈɔːst/ /əv/"
-	},
-	{
-		"english": "has allowed them to simplify their life and to decrease the cost of repairs",
-		"chinese": "这使他们能够简化生活，并降低维修成本",
-		"soundmark": "/həz/ /əlˈaʊd/ /ðəm/ /tə/ /sˈɪmpləfˌaɪ/ /ðˈɛːr/ /lˈaɪf/ /ˈænd/ /tə/ /dˈiːkrˌiːs/ /ðiː/ /kˈɔːst/ /əv/ /riːpˈɛːrz/"
-	},
-	{
-		"english": "it",
-		"chinese": "它",
-		"soundmark": "/ɪt/"
-	},
-	{
-		"english": "it can",
-		"chinese": "它可以",
-		"soundmark": "/ɪt/ /kən/"
-	},
-	{
-		"english": "it can be",
-		"chinese": "它可以",
-		"soundmark": "/ɪt/ /kən/ /biː/"
-	},
-	{
-		"english": "it can be used",
-		"chinese": "可以使用",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/"
-	},
-	{
-		"english": "it can be used indoors",
-		"chinese": "可以在室内使用",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/"
-	},
-	{
-		"english": "it can be used indoors in",
-		"chinese": "可以在室内使用",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/"
-	},
-	{
-		"english": "it can be used indoors in the",
-		"chinese": "可以在室内使用",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "it can be used indoors in the interior",
-		"chinese": "可以在室内使用，用于室内空间",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/"
-	},
-	{
-		"english": "it can be used indoors in the interior of",
-		"chinese": "可以在室内内部使用",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/"
-	},
-	{
-		"english": "it can be used indoors in the interior of a",
-		"chinese": "可以在室内内部使用",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/"
-	},
-	{
-		"english": "it can be used indoors in the interior of a house",
-		"chinese": "可以在室内，即房屋内部使用",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/"
-	},
-	{
-		"english": "it can be used indoors in the interior of a house but",
-		"chinese": "可以在室内使用，即房屋内部，但",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/"
-	},
-	{
-		"english": "it can be used indoors in the interior of a house but there",
-		"chinese": "可以在室内使用，比如房屋内部，但...",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/"
-	},
-	{
-		"english": "it can be used indoors in the interior of a house but there are",
-		"chinese": "可以在室内使用，即房屋内部，但有一些限制",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/ /ɜː/"
-	},
-	{
-		"english": "it can be used indoors in the interior of a house but there are abundant",
-		"chinese": "可以在室内使用，比如房屋内部，但资源非常丰富",
-		"soundmark": "/ɪt/ /kən/ /biː/ /jˈuːzd/ /ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/ /ɜː/ /əbˈəndənt/"
-	},
-	{
-		"english": "indoors in the interior of a house but there are abundant uses",
-		"chinese": "在房屋内部，但具有多种用途",
-		"soundmark": "/ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/ /ɜː/ /əbˈəndənt/ /jˈuːzɪz/"
-	},
-	{
-		"english": "indoors in the interior of a house but there are abundant uses outside",
-		"chinese": "在房屋内部，但外部也有许多用途",
-		"soundmark": "/ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/ /ɜː/ /əbˈəndənt/ /jˈuːzɪz/ /ˈaʊtsˈaɪd/"
-	},
-	{
-		"english": "indoors in the interior of a house but there are abundant uses outside the",
-		"chinese": "在房屋内部，但在外部也有许多用途",
-		"soundmark": "/ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/ /ɜː/ /əbˈəndənt/ /jˈuːzɪz/ /ˈaʊtsˈaɪd/ /ðiː/"
-	},
-	{
-		"english": "indoors in the interior of a house but there are abundant uses outside the house",
-		"chinese": "在房屋内部，但其在房屋外部也有许多用途",
-		"soundmark": "/ˈɪndˌɔːrz/ /ˈɪn/ /ðiː/ /ɪntˈɪriːɜː/ /əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/ /ɜː/ /əbˈəndənt/ /jˈuːzɪz/ /ˈaʊtsˈaɪd/ /ðiː/ /hˈaʊs/"
-	},
-	{
-		"english": "of a house but there are abundant uses outside the house as",
-		"chinese": "虽然只是房子的一部分，但房子之外也有许多用途",
-		"soundmark": "/əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/ /ɜː/ /əbˈəndənt/ /jˈuːzɪz/ /ˈaʊtsˈaɪd/ /ðiː/ /hˈaʊs/ /ˈɛːz/"
-	},
-	{
-		"english": "of a house but there are abundant uses outside the house as well",
-		"chinese": "虽然只是房子的一部分，但房子之外也有许多用途",
-		"soundmark": "/əv/ /ˈeɪ/ /hˈaʊs/ /bˈət/ /ðˈɛːr/ /ɜː/ /əbˈəndənt/ /jˈuːzɪz/ /ˈaʊtsˈaɪd/ /ðiː/ /hˈaʊs/ /ˈɛːz/ /wˈɛːl/"
-	},
-	{
-		"english": "if",
-		"chinese": "如果",
-		"soundmark": "/ɪf/"
-	},
-	{
-		"english": "if there",
-		"chinese": "如果",
-		"soundmark": "/ɪf/ /ðˈɛːr/"
-	},
-	{
-		"english": "if there is",
-		"chinese": "如果有的话",
-		"soundmark": "/ɪf/ /ðˈɛːr/ /ɪz/"
-	},
-	{
-		"english": "if there is a",
-		"chinese": "如果有的话",
-		"soundmark": "/ɪf/ /ðˈɛːr/ /ɪz/ /ˈeɪ/"
-	},
-	{
-		"english": "if there is a chip",
-		"chinese": "如果有芯片",
-		"soundmark": "/ɪf/ /ðˈɛːr/ /ɪz/ /ˈeɪ/ /tʃˈɪp/"
-	},
-	{
-		"english": "if there is a chip out",
-		"chinese": "如果有芯片掉出",
-		"soundmark": "/ɪf/ /ðˈɛːr/ /ɪz/ /ˈeɪ/ /tʃˈɪp/ /ˈaʊt/"
-	},
-	{
-		"english": "if there is a chip out of",
-		"chinese": "如果有一块芯片缺失",
-		"soundmark": "/ɪf/ /ðˈɛːr/ /ɪz/ /ˈeɪ/ /tʃˈɪp/ /ˈaʊt/ /əv/"
-	},
-	{
-		"english": "if there is a chip out of a",
-		"chinese": "如果有一块芯片脱落了",
-		"soundmark": "/ɪf/ /ðˈɛːr/ /ɪz/ /ˈeɪ/ /tʃˈɪp/ /ˈaʊt/ /əv/ /ˈeɪ/"
-	},
-	{
-		"english": "if there is a chip out of a glass",
-		"chinese": "如果玻璃上掉出了一块碎片",
-		"soundmark": "/ɪf/ /ðˈɛːr/ /ɪz/ /ˈeɪ/ /tʃˈɪp/ /ˈaʊt/ /əv/ /ˈeɪ/ /ɡlˈæs/"
-	},
-	{
-		"english": "if there is a chip out of a glass object",
-		"chinese": "如果玻璃物体上有一个碎片",
-		"soundmark": "/ɪf/ /ðˈɛːr/ /ɪz/ /ˈeɪ/ /tʃˈɪp/ /ˈaʊt/ /əv/ /ˈeɪ/ /ɡlˈæs/ /əbdʒˈɛːkt/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the duct",
-		"chinese": "管道",
-		"soundmark": "/ðiː/ /dˈəkt/"
-	},
-	{
-		"english": "the duct tape",
-		"chinese": "胶带",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/"
-	},
-	{
-		"english": "the duct tape can",
-		"chinese": "胶带可以",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/"
-	},
-	{
-		"english": "the duct tape can be",
-		"chinese": "胶带可以",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/"
-	},
-	{
-		"english": "the duct tape can be used",
-		"chinese": "胶带可以使用",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/ /jˈuːzd/"
-	},
-	{
-		"english": "the duct tape can be used to",
-		"chinese": "胶带可以用来",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/ /jˈuːzd/ /tə/"
-	},
-	{
-		"english": "the duct tape can be used to protect",
-		"chinese": "胶带可以用来保护",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/ /jˈuːzd/ /tə/ /pɜːtˈɛːkt/"
-	},
-	{
-		"english": "the duct tape can be used to protect the",
-		"chinese": "胶带可以用来保护",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/ /jˈuːzd/ /tə/ /pɜːtˈɛːkt/ /ðiː/"
-	},
-	{
-		"english": "the duct tape can be used to protect the user",
-		"chinese": "胶带可以用来保护用户",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/ /jˈuːzd/ /tə/ /pɜːtˈɛːkt/ /ðiː/ /jˈuːzɜː/"
-	},
-	{
-		"english": "the duct tape can be used to protect the user from",
-		"chinese": "胶带可以用来保护用户免受……",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/ /jˈuːzd/ /tə/ /pɜːtˈɛːkt/ /ðiː/ /jˈuːzɜː/ /fɜːm/"
-	},
-	{
-		"english": "the duct tape can be used to protect the user from being",
-		"chinese": "胶带可以用来保护用户免受……",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/ /jˈuːzd/ /tə/ /pɜːtˈɛːkt/ /ðiː/ /jˈuːzɜː/ /fɜːm/ /bˈiːɪŋ/"
-	},
-	{
-		"english": "the duct tape can be used to protect the user from being injured",
-		"chinese": "胶带可以用来保护用户免受伤害",
-		"soundmark": "/ðiː/ /dˈəkt/ /tˈeɪp/ /kən/ /biː/ /jˈuːzd/ /tə/ /pɜːtˈɛːkt/ /ðiː/ /jˈuːzɜː/ /fɜːm/ /bˈiːɪŋ/ /ˈɪndʒɜːd/"
-	},
-	{
-		"english": "repairing",
-		"chinese": "修理",
-		"soundmark": "/riːpˈɛːrɪŋ/"
-	},
-	{
-		"english": "repairing or",
-		"chinese": "修理或",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/"
-	},
-	{
-		"english": "repairing or reinforcing",
-		"chinese": "修理或加固",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/"
-	},
-	{
-		"english": "repairing or reinforcing a",
-		"chinese": "修理或加固",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/"
-	},
-	{
-		"english": "repairing or reinforcing a joint",
-		"chinese": "修复或加固接头",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on",
-		"chinese": "修复或加固接头",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an",
-		"chinese": "修复或加固某个接头",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an aluminum",
-		"chinese": "修复或加固铝制接头",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an aluminum ladder",
-		"chinese": "修复或加固铝梯的连接处",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an aluminum ladder that",
-		"chinese": "修理或加固铝梯上的连接处",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an aluminum ladder that a",
-		"chinese": "修理或加固铝梯上的连接处",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an aluminum ladder that a person",
-		"chinese": "正在修理或加固一个铝梯的接头",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an aluminum ladder that a person is",
-		"chinese": "正在修理或加固一个人使用的铝梯的接头",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an aluminum ladder that a person is using",
-		"chinese": "修复或加固某人正在使用的铝梯的连接处",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/"
-	},
-	{
-		"english": "repairing or reinforcing a joint on an aluminum ladder that a person is using would",
-		"chinese": "修复或加固一个人正在使用的铝梯的接头",
-		"soundmark": "/riːpˈɛːrɪŋ/ /ɜː/ /rˌiːɪnfˈɔːrsɪŋ/ /ˈeɪ/ /dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/ /wˈʊd/"
-	},
-	{
-		"english": "joint on an aluminum ladder that a person is using would be",
-		"chinese": "一个人使用的铝梯上的连接处",
-		"soundmark": "/dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/ /wˈʊd/ /biː/"
-	},
-	{
-		"english": "joint on an aluminum ladder that a person is using would be a",
-		"chinese": "一个人使用的铝梯上的连接处会是",
-		"soundmark": "/dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/ /wˈʊd/ /biː/ /ˈeɪ/"
-	},
-	{
-		"english": "joint on an aluminum ladder that a person is using would be a valuable",
-		"chinese": "一个人使用的铝梯上的连接物会非常有价值",
-		"soundmark": "/dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/ /wˈʊd/ /biː/ /ˈeɪ/ /vˈæljuːbəl/"
-	},
-	{
-		"english": "joint on an aluminum ladder that a person is using would be a valuable use",
-		"chinese": "使用某人的铝制梯子进行连接会非常有用",
-		"soundmark": "/dʒˈɔɪnt/ /ˈɔːn/ /ən/ /əlˈuːmənəm/ /lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/ /wˈʊd/ /biː/ /ˈeɪ/ /vˈæljuːbəl/ /jˈuːz/"
-	},
-	{
-		"english": "ladder that a person is using would be a valuable use of",
-		"chinese": "一个人使用的梯子是一种很有价值的利用方式",
-		"soundmark": "/lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/ /wˈʊd/ /biː/ /ˈeɪ/ /vˈæljuːbəl/ /jˈuːz/ /əv/"
-	},
-	{
-		"english": "ladder that a person is using would be a valuable use of the",
-		"chinese": "一个人使用的梯子是对资源的宝贵利用",
-		"soundmark": "/lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/ /wˈʊd/ /biː/ /ˈeɪ/ /vˈæljuːbəl/ /jˈuːz/ /əv/ /ðiː/"
-	},
-	{
-		"english": "ladder that a person is using would be a valuable use of the tape",
-		"chinese": "一个人使用的梯子将是胶带的一种有价值的应用",
-		"soundmark": "/lˈædɜː/ /ðət/ /ˈeɪ/ /pˈɜːsən/ /ɪz/ /jˈuːzɪŋ/ /wˈʊd/ /biː/ /ˈeɪ/ /vˈæljuːbəl/ /jˈuːz/ /əv/ /ðiː/ /tˈeɪp/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the tape",
-		"chinese": "胶带",
-		"soundmark": "/ðiː/ /tˈeɪp/"
-	},
-	{
-		"english": "the tape has",
-		"chinese": "磁带已经",
-		"soundmark": "/ðiː/ /tˈeɪp/ /həz/"
-	},
-	{
-		"english": "the tape has proved",
-		"chinese": "胶带已经证明有效",
-		"soundmark": "/ðiː/ /tˈeɪp/ /həz/ /prˈuːvd/"
-	},
-	{
-		"english": "the tape has proved to",
-		"chinese": "胶带已被证明……",
-		"soundmark": "/ðiː/ /tˈeɪp/ /həz/ /prˈuːvd/ /tə/"
-	},
-	{
-		"english": "the tape has proved to be",
-		"chinese": "胶带被证明是……",
-		"soundmark": "/ðiː/ /tˈeɪp/ /həz/ /prˈuːvd/ /tə/ /biː/"
-	},
-	{
-		"english": "the tape has proved to be a",
-		"chinese": "胶带被证明是……",
-		"soundmark": "/ðiː/ /tˈeɪp/ /həz/ /prˈuːvd/ /tə/ /biː/ /ˈeɪ/"
-	},
-	{
-		"english": "the tape has proved to be a bargain",
-		"chinese": "这卷磁带被证明很划算",
-		"soundmark": "/ðiː/ /tˈeɪp/ /həz/ /prˈuːvd/ /tə/ /biː/ /ˈeɪ/ /bˈɑːrɡɪn/"
-	},
-	{
-		"english": "even",
-		"chinese": "甚至",
-		"soundmark": "/ˈiːvɪn/"
-	},
-	{
-		"english": "even if",
-		"chinese": "即使",
-		"soundmark": "/ˈiːvɪn/ /ɪf/"
-	},
-	{
-		"english": "even if the",
-		"chinese": "即使如此",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/"
-	},
-	{
-		"english": "even if the manufacturers",
-		"chinese": "即使制造商们",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/ /mˌænjəfˈæktʃɜːɜːz/"
-	},
-	{
-		"english": "even if the manufacturers charged",
-		"chinese": "即使制造商收取了费用",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/ /mˌænjəfˈæktʃɜːɜːz/ /tʃˈɑːrdʒd/"
-	},
-	{
-		"english": "even if the manufacturers charged twice",
-		"chinese": "即使制造商收取两倍费用",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/ /mˌænjəfˈæktʃɜːɜːz/ /tʃˈɑːrdʒd/ /twˈaɪs/"
-	},
-	{
-		"english": "even if the manufacturers charged twice as",
-		"chinese": "即使制造商的收费是两倍",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/ /mˌænjəfˈæktʃɜːɜːz/ /tʃˈɑːrdʒd/ /twˈaɪs/ /ˈɛːz/"
-	},
-	{
-		"english": "even if the manufacturers charged twice as much",
-		"chinese": "即使制造商的收费是两倍",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/ /mˌænjəfˈæktʃɜːɜːz/ /tʃˈɑːrdʒd/ /twˈaɪs/ /ˈɛːz/ /mˈətʃ/"
-	},
-	{
-		"english": "even if the manufacturers charged twice as much for",
-		"chinese": "即使制造商的定价是原来的两倍",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/ /mˌænjəfˈæktʃɜːɜːz/ /tʃˈɑːrdʒd/ /twˈaɪs/ /ˈɛːz/ /mˈətʃ/ /frɜː/"
-	},
-	{
-		"english": "even if the manufacturers charged twice as much for the",
-		"chinese": "即使制造商对产品的价格收取了两倍",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/ /mˌænjəfˈæktʃɜːɜːz/ /tʃˈɑːrdʒd/ /twˈaɪs/ /ˈɛːz/ /mˈətʃ/ /frɜː/ /ðiː/"
-	},
-	{
-		"english": "even if the manufacturers charged twice as much for the tape",
-		"chinese": "即使制造商对胶带收取两倍的价格",
-		"soundmark": "/ˈiːvɪn/ /ɪf/ /ðiː/ /mˌænjəfˈæktʃɜːɜːz/ /tʃˈɑːrdʒd/ /twˈaɪs/ /ˈɛːz/ /mˈətʃ/ /frɜː/ /ðiː/ /tˈeɪp/"
-	},
-	{
-		"english": "it",
-		"chinese": "它",
-		"soundmark": "/ɪt/"
-	},
-	{
-		"english": "it would",
-		"chinese": "它会",
-		"soundmark": "/ɪt/ /wˈʊd/"
-	},
-	{
-		"english": "it would still",
-		"chinese": "它仍然会",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/"
-	},
-	{
-		"english": "it would still be",
-		"chinese": "它仍然会",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/ /biː/"
-	},
-	{
-		"english": "it would still be a",
-		"chinese": "它仍然会是",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/ /biː/ /ˈeɪ/"
-	},
-	{
-		"english": "it would still be a best",
-		"chinese": "它仍然是最优的",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/ /biː/ /ˈeɪ/ /bˈɛːst/"
-	},
-	{
-		"english": "it would still be a best seller",
-		"chinese": "它仍会成为畅销书",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/ /biː/ /ˈeɪ/ /bˈɛːst/ /sˈɛːlɜː/"
-	},
-	{
-		"english": "it would still be a best seller in",
-		"chinese": "它仍会成为畅销书",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/ /biː/ /ˈeɪ/ /bˈɛːst/ /sˈɛːlɜː/ /ˈɪn/"
-	},
-	{
-		"english": "it would still be a best seller in the",
-		"chinese": "它仍会成为畅销书",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/ /biː/ /ˈeɪ/ /bˈɛːst/ /sˈɛːlɜː/ /ˈɪn/ /ðiː/"
-	},
-	{
-		"english": "it would still be a best seller in the western",
-		"chinese": "它仍会成为西方地区的畅销书",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/ /biː/ /ˈeɪ/ /bˈɛːst/ /sˈɛːlɜː/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/"
-	},
-	{
-		"english": "it would still be a best seller in the western world",
-		"chinese": "它仍会在西方世界成为畅销书",
-		"soundmark": "/ɪt/ /wˈʊd/ /stˈɪl/ /biː/ /ˈeɪ/ /bˈɛːst/ /sˈɛːlɜː/ /ˈɪn/ /ðiː/ /hwˈɛːstɜːn/ /wˈɜːld/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the retail",
-		"chinese": "零售业",
-		"soundmark": "/ðiː/ /rˈiːtˌeɪl/"
-	},
-	{
-		"english": "the retail price",
-		"chinese": "零售价",
-		"soundmark": "/ðiː/ /rˈiːtˌeɪl/ /prˈaɪs/"
-	},
-	{
-		"english": "the retail price is",
-		"chinese": "零售价是",
-		"soundmark": "/ðiː/ /rˈiːtˌeɪl/ /prˈaɪs/ /ɪz/"
-	},
-	{
-		"english": "the retail price is very",
-		"chinese": "零售价非常高",
-		"soundmark": "/ðiː/ /rˈiːtˌeɪl/ /prˈaɪs/ /ɪz/ /vˈɛːriː/"
-	},
-	{
-		"english": "the retail price is very reasonable",
-		"chinese": "零售价格非常合理",
-		"soundmark": "/ðiː/ /rˈiːtˌeɪl/ /prˈaɪs/ /ɪz/ /vˈɛːriː/ /rˈiːznəbəl/"
-	}
+  {
+    "english": "What",
+    "chinese": "什么",
+    "soundmark": "/hwˈət/"
+  },
+  {
+    "english": "What will",
+    "chinese": "什么将会"
+  },
+  {
+    "english": "What will our",
+    "chinese": "我们的什么"
+  },
+  {
+    "english": "What will our world",
+    "chinese": "我们的世界将会"
+  },
+  {
+    "english": "What will our world be",
+    "chinese": "我们的世界将会是什么"
+  },
+  {
+    "english": "What will our world be like",
+    "chinese": "我们的世界将会像什么"
+  },
+  {
+    "english": "What will our world be like in",
+    "chinese": "我们的世界在……将会像什么"
+  },
+  {
+    "english": "What will our world be like in the",
+    "chinese": "我们的世界在将来将会像什么"
+  },
+  {
+    "english": "What will our world be like in the future",
+    "chinese": "未来我们的世界会是什么样子？"
+  },
+  {
+    "english": "Can",
+    "chinese": "能否",
+    "soundmark": "/kən/"
+  },
+  {
+    "english": "Can we",
+    "chinese": "我们能否"
+  },
+  {
+    "english": "Can we look",
+    "chinese": "我们能否看看"
+  },
+  {
+    "english": "Can we look ahead",
+    "chinese": "我们能否展望未来"
+  },
+  {
+    "english": "Can we look ahead twenty",
+    "chinese": "我们能否展望二十年后"
+  },
+  {
+    "english": "Can we look ahead twenty five",
+    "chinese": "我们能否展望二十五年后"
+  },
+  {
+    "english": "Can we look ahead twenty five years",
+    "chinese": "我们能展望25年后的情况吗"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and dream",
+    "chinese": "和梦想"
+  },
+  {
+    "english": "and dream about",
+    "chinese": "和关于……的梦想"
+  },
+  {
+    "english": "and dream about the",
+    "chinese": "和关于变化的梦想"
+  },
+  {
+    "english": "and dream about the transformations",
+    "chinese": "并梦想着那些变革"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that will",
+    "chinese": "那将"
+  },
+  {
+    "english": "that will take",
+    "chinese": "这需要"
+  },
+  {
+    "english": "that will take place",
+    "chinese": "那将发生在什么时间？"
+  },
+  {
+    "english": "The",
+    "chinese": "学者们",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "The scholars",
+    "chinese": "学者们"
+  },
+  {
+    "english": "who",
+    "chinese": "谁",
+    "soundmark": "/hˈuː/"
+  },
+  {
+    "english": "who make",
+    "chinese": "谁制造"
+  },
+  {
+    "english": "who make it",
+    "chinese": "谁负责制造它"
+  },
+  {
+    "english": "who make it their",
+    "chinese": "谁把制造它当作自己的事"
+  },
+  {
+    "english": "who make it their business",
+    "chinese": "谁把制造它当作自己的职责"
+  },
+  {
+    "english": "who make it their business to",
+    "chinese": "谁把尝试制造它当作自己的职责"
+  },
+  {
+    "english": "who make it their business to try",
+    "chinese": "谁把尝试制造它当作自己的职责去尝试"
+  },
+  {
+    "english": "who make it their business to try to",
+    "chinese": "谁把尝试预测它当作自己的职责"
+  },
+  {
+    "english": "who make it their business to try to predict",
+    "chinese": "谁把尝试预测未来当作自己的职责"
+  },
+  {
+    "english": "who make it their business to try to predict the",
+    "chinese": "谁把尝试预测未来当作自己的职责的人"
+  },
+  {
+    "english": "who make it their business to try to predict the future",
+    "chinese": "谁把尝试预测未来当作自己的职责的人并非全部"
+  },
+  {
+    "english": "who make it their business to try to predict the future are",
+    "chinese": "谁把尝试预测未来当作自己的职责的人并非全部都一致"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not",
+    "chinese": "谁把尝试预测未来当作自己的职责的人并非全部都同意"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not all",
+    "chinese": "谁把尝试预测未来当作自己的职责的人并非全部都同意什么"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not all in",
+    "chinese": "谁把尝试预测未来当作自己的职责的人并非全部都同意未来的含义"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not all in agreement",
+    "chinese": "谁把尝试预测未来当作自己的职责的人并非全部都同意未来的走向"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not all in agreement about",
+    "chinese": "那些致力于预测未来的人并非都意见一致"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not all in agreement about what",
+    "chinese": "那些致力于预测未来的人在关于什么方面并不一致。"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not all in agreement about what the",
+    "chinese": "那些致力于预测未来的人在关于什么这一点上并不一致。"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not all in agreement about what the future",
+    "chinese": "那些致力于预测未来的人在未来究竟会是什么样子这一点上并不一致。"
+  },
+  {
+    "english": "who make it their business to try to predict the future are not all in agreement about what the future holds",
+    "chinese": "那些致力于预测未来的人在关于未来的走向上并不一致。"
+  },
+  {
+    "english": "If",
+    "chinese": "如果",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "english": "If you",
+    "chinese": "如果你"
+  },
+  {
+    "english": "If you visit",
+    "chinese": "如果你去参观"
+  },
+  {
+    "english": "If you visit displays",
+    "chinese": "如果你去参观会展示"
+  },
+  {
+    "english": "If you visit displays at",
+    "chinese": "如果你去参观会在某些地方展示"
+  },
+  {
+    "english": "If you visit displays at places",
+    "chinese": "如果你去参观会在像……这样的地方展示"
+  },
+  {
+    "english": "If you visit displays at places like",
+    "chinese": "如果你去参观会在像迪士尼这样的地方展示"
+  },
+  {
+    "english": "If you visit displays at places like Disney",
+    "chinese": "如果你去参观会在像迪士尼世界这样的地方展示"
+  },
+  {
+    "english": "If you visit displays at places like Disney world",
+    "chinese": "如果你去迪士尼乐园之类的地方参观展览"
+  },
+  {
+    "english": "you",
+    "chinese": "你",
+    "soundmark": "/jˈuː/"
+  },
+  {
+    "english": "you can",
+    "chinese": "你可以"
+  },
+  {
+    "english": "you can get",
+    "chinese": "你可以得到"
+  },
+  {
+    "english": "you can get a",
+    "chinese": "你可以得到一份"
+  },
+  {
+    "english": "you can get a glimpse",
+    "chinese": "你可以得到一瞥"
+  },
+  {
+    "english": "you can get a glimpse of",
+    "chinese": "你可以得到一瞥什么"
+  },
+  {
+    "english": "you can get a glimpse of what",
+    "chinese": "你可以得到一瞥一些什么"
+  },
+  {
+    "english": "you can get a glimpse of what some",
+    "chinese": "你可以得到一瞥一些人的什么"
+  },
+  {
+    "english": "you can get a glimpse of what some of",
+    "chinese": "你可以得到一瞥一些人的预测"
+  },
+  {
+    "english": "you can get a glimpse of what some of the",
+    "chinese": "你可以得到一瞥一些预测是什么"
+  },
+  {
+    "english": "you can get a glimpse of what some of the predictions",
+    "chinese": "你可以得到一瞥一些预测对于我们的什么"
+  },
+  {
+    "english": "you can get a glimpse of what some of the predictions are",
+    "chinese": "你可以得到一瞥一些预测对于我们生活的什么"
+  },
+  {
+    "english": "you can get a glimpse of what some of the predictions are for",
+    "chinese": "你可以一窥一些预测的内容"
+  },
+  {
+    "english": "you can get a glimpse of what some of the predictions are for our",
+    "chinese": "你可以一窥一些预测内容。"
+  },
+  {
+    "english": "you can get a glimpse of what some of the predictions are for our lives",
+    "chinese": "你可以一窥一些关于我们生活的预测内容。"
+  },
+  {
+    "english": "As",
+    "chinese": "正如我们所幻想的",
+    "soundmark": "/ˈɛːz/"
+  },
+  {
+    "english": "As we",
+    "chinese": "正如我们所幻想的关于……的事情"
+  },
+  {
+    "english": "As we fantasize",
+    "chinese": "正如我们幻想我们的生活会如何"
+  },
+  {
+    "english": "As we fantasize about",
+    "chinese": "正如我们幻想我们的生活可能会怎样"
+  },
+  {
+    "english": "As we fantasize about what",
+    "chinese": "正如我们幻想我们的生活可能会是怎样的"
+  },
+  {
+    "english": "As we fantasize about what our",
+    "chinese": "正如我们幻想我们的生活可能会是某种样子"
+  },
+  {
+    "english": "As we fantasize about what our life",
+    "chinese": "正如我们幻想我们的生活可能会是某种特定的样子"
+  },
+  {
+    "english": "As we fantasize about what our life might",
+    "chinese": "正如我们幻想我们的生活可能会是几十年后的样子"
+  },
+  {
+    "english": "As we fantasize about what our life might be",
+    "chinese": "正如我们幻想几十年后我们的生活会如何"
+  },
+  {
+    "english": "As we fantasize about what our life might be like",
+    "chinese": "正如我们幻想几十年后我们的生活可能会怎样"
+  },
+  {
+    "english": "As we fantasize about what our life might be like a",
+    "chinese": "当我们想象生活可能是什么样时"
+  },
+  {
+    "english": "As we fantasize about what our life might be like a few",
+    "chinese": "当我们想象生活可能是什么样子时"
+  },
+  {
+    "english": "As we fantasize about what our life might be like a few decades",
+    "chinese": "当我们想象几十年后生活可能是什么样子时"
+  },
+  {
+    "english": "As we fantasize about what our life might be like a few decades from",
+    "chinese": "当我们想象几十年后我们的生活会是什么样子时"
+  },
+  {
+    "english": "As we fantasize about what our life might be like a few decades from now",
+    "chinese": "当我们想象几十年后我们的生活会是什么样子时"
+  },
+  {
+    "english": "we",
+    "chinese": "我们",
+    "soundmark": "/wˈiː/"
+  },
+  {
+    "english": "we can",
+    "chinese": "我们可以"
+  },
+  {
+    "english": "we can speculate",
+    "chinese": "我们可以推测"
+  },
+  {
+    "english": "we can speculate about",
+    "chinese": "我们可以推测关于……"
+  },
+  {
+    "english": "we can speculate about different",
+    "chinese": "我们可以推测关于不同的……"
+  },
+  {
+    "english": "we can speculate about different aspects",
+    "chinese": "我们可以推测关于不同的方面"
+  },
+  {
+    "english": "we can speculate about different aspects of",
+    "chinese": "我们可以推测关于我们的不同的方面"
+  },
+  {
+    "english": "we can speculate about different aspects of our",
+    "chinese": "我们可以推测关于我们生活的不同方面"
+  },
+  {
+    "english": "we can speculate about different aspects of our lives",
+    "chinese": "我们可以推测我们生活的不同方面。"
+  },
+  {
+    "english": "Personal",
+    "chinese": "个人",
+    "soundmark": "/pˈɜːsɪnɪl/"
+  },
+  {
+    "english": "Personal 个人",
+    "chinese": "个人 个人"
+  },
+  {
+    "english": "Personal 个人 Clothing",
+    "chinese": "个人 个人 服装"
+  },
+  {
+    "english": "Personal 个人 Clothing styles",
+    "chinese": "个人 个人 服装风格"
+  },
+  {
+    "english": "Personal 个人 Clothing styles change",
+    "chinese": "个人 个人 服装风格会变化"
+  },
+  {
+    "english": "Personal 个人 Clothing styles change from",
+    "chinese": "个人 个人 服装风格从……开始变化"
+  },
+  {
+    "english": "Personal 个人 Clothing styles change from year",
+    "chinese": "个人 个人 服装风格从某一年开始变化"
+  },
+  {
+    "english": "Personal 个人 Clothing styles change from year to",
+    "chinese": "个人 个人 服装风格从一年到一年会变化"
+  },
+  {
+    "english": "Personal 个人 Clothing styles change from year to year",
+    "chinese": "个人 个人 服装风格每年都会变化"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and also",
+    "chinese": "而且也"
+  },
+  {
+    "english": "and also from",
+    "chinese": "也来自"
+  },
+  {
+    "english": "and also from culture",
+    "chinese": "也来自文化"
+  },
+  {
+    "english": "and also from culture to",
+    "chinese": "也从文化到"
+  },
+  {
+    "english": "and also from culture to culture",
+    "chinese": "也存在于不同文化之间。"
+  },
+  {
+    "english": "Do",
+    "chinese": "做",
+    "soundmark": "/dˈuː/"
+  },
+  {
+    "english": "Do you",
+    "chinese": "你做吗"
+  },
+  {
+    "english": "Do you think",
+    "chinese": "你认为"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that we",
+    "chinese": "我们"
+  },
+  {
+    "english": "that we will",
+    "chinese": "我们将会"
+  },
+  {
+    "english": "that we will have",
+    "chinese": "我们将会拥有"
+  },
+  {
+    "english": "that we will have sleeves",
+    "chinese": "我们将拥有袖子"
+  },
+  {
+    "english": "that we will have sleeves in",
+    "chinese": "我们将会有袖子"
+  },
+  {
+    "english": "that we will have sleeves in our",
+    "chinese": "我们将拥有袖子"
+  },
+  {
+    "english": "that we will have sleeves in our shirts",
+    "chinese": "我们的衬衫会有袖子"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and blouses",
+    "chinese": "还有衬衫呢？"
+  },
+  {
+    "english": "Will",
+    "chinese": "我们会穿袜子吗？",
+    "soundmark": "/wəl/"
+  },
+  {
+    "english": "Will we",
+    "chinese": "我们会穿袜子吗？"
+  },
+  {
+    "english": "Will we wear",
+    "chinese": "我们会为了保护而穿袜子吗？"
+  },
+  {
+    "english": "Will we wear socks",
+    "chinese": "我们会为了保护我们的脚而穿袜子吗？"
+  },
+  {
+    "english": "Will we wear socks to",
+    "chinese": "我们会穿袜子吗"
+  },
+  {
+    "english": "Will we wear socks to protect",
+    "chinese": "我们会穿袜子来保护吗"
+  },
+  {
+    "english": "Will we wear socks to protect our",
+    "chinese": "我们会穿袜子来保护自己吗？"
+  },
+  {
+    "english": "Will we wear socks to protect our feet",
+    "chinese": "我们会穿袜子来保护脚吗？"
+  },
+  {
+    "english": "Will",
+    "chinese": "会",
+    "soundmark": "/wəl/"
+  },
+  {
+    "english": "Will plastic",
+    "chinese": "会使用塑料手套"
+  },
+  {
+    "english": "Will plastic gloves",
+    "chinese": "会使用塑料手套吗"
+  },
+  {
+    "english": "Will plastic gloves be",
+    "chinese": "塑料手套会被使用吗"
+  },
+  {
+    "english": "Will plastic gloves be used",
+    "chinese": "塑料手套会被常规使用吗"
+  },
+  {
+    "english": "Will plastic gloves be used routinely",
+    "chinese": "塑料手套会作为常规部分被使用吗"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as",
+    "chinese": "塑料手套会作为日常部分被常规使用吗"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part",
+    "chinese": "塑料手套会作为日常生活的一部分被常规使用吗"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part of",
+    "chinese": "塑料手套会为了日常生活的一部分而被常规使用吗"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part of everyday",
+    "chinese": "塑料手套会为了避免传播而被常规使用吗"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part of everyday life",
+    "chinese": "塑料手套会为了避免细菌传播而被常规使用吗"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part of everyday life to",
+    "chinese": "塑料手套是否会被常规用于日常生活"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part of everyday life to avoid",
+    "chinese": "是否会将塑料手套作为日常生活的一部分经常使用以避免"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part of everyday life to avoid transmission",
+    "chinese": "是否将塑料手套作为日常生活的一部分定期使用，以避免传播"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part of everyday life to avoid transmission of",
+    "chinese": "是否会将塑料手套作为日常生活的一部分经常使用，以避免传播"
+  },
+  {
+    "english": "Will plastic gloves be used routinely as part of everyday life to avoid transmission of germs",
+    "chinese": "是否会将塑料手套作为日常生活的一部分经常使用，以避免细菌传播？"
+  },
+  {
+    "english": "Will",
+    "chinese": "是否会",
+    "soundmark": "/wəl/"
+  },
+  {
+    "english": "Will we",
+    "chinese": "我们是否会"
+  },
+  {
+    "english": "Will we still",
+    "chinese": "我们还会继续"
+  },
+  {
+    "english": "Will we still use",
+    "chinese": "我们还会继续使用按钮吗"
+  },
+  {
+    "english": "Will we still use buttons",
+    "chinese": "我们还会继续使用按钮来"
+  },
+  {
+    "english": "Will we still use buttons to",
+    "chinese": "我们还会继续使用按钮来固定"
+  },
+  {
+    "english": "Will we still use buttons to fasten",
+    "chinese": "我们还会继续使用按钮来固定我们的"
+  },
+  {
+    "english": "Will we still use buttons to fasten our",
+    "chinese": "我们还会继续使用按钮来固定我们的衣物"
+  },
+  {
+    "english": "Will we still use buttons to fasten our clothing",
+    "chinese": "我们还会使用纽扣来扣紧衣服吗？"
+  },
+  {
+    "english": "Will",
+    "chinese": "会吗",
+    "soundmark": "/wəl/"
+  },
+  {
+    "english": "Will we",
+    "chinese": "我们会吗"
+  },
+  {
+    "english": "Will we all",
+    "chinese": "我们所有人都会吗"
+  },
+  {
+    "english": "Will we all wear",
+    "chinese": "我们所有人都会穿"
+  },
+  {
+    "english": "Will we all wear the",
+    "chinese": "我们所有人都会穿那件"
+  },
+  {
+    "english": "Will we all wear the same",
+    "chinese": "我们所有人都会穿同样的"
+  },
+  {
+    "english": "Will we all wear the same kind of",
+    "chinese": "我们所有人都会穿同一种类型的"
+  },
+  {
+    "english": "Will we all wear the same kind of jeans",
+    "chinese": "我们都会穿同一种牛仔裤吗"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or pants",
+    "chinese": "或者裤子"
+  },
+  {
+    "english": "or pants like",
+    "chinese": "像裤子那样"
+  },
+  {
+    "english": "or pants like a",
+    "chinese": "像制服一样的裤子"
+  },
+  {
+    "english": "or pants like a uniform",
+    "chinese": "或裤子（像制服一样）"
+  },
+  {
+    "english": "or",
+    "chinese": "或者",
+    "soundmark": "/ɜː/"
+  },
+  {
+    "english": "or will",
+    "chinese": "或者将会"
+  },
+  {
+    "english": "or will each",
+    "chinese": "或者将会每种"
+  },
+  {
+    "english": "or will each culture",
+    "chinese": "或者将会每种文化"
+  },
+  {
+    "english": "or will each culture be",
+    "chinese": "或者每种文化将会不同吗？"
+  },
+  {
+    "english": "or will each culture be different",
+    "chinese": "还是每种文化都会不同？"
+  },
+  {
+    "english": "What",
+    "chinese": "什么",
+    "soundmark": "/hwˈət/"
+  },
+  {
+    "english": "What textiles",
+    "chinese": "什么纺织品"
+  },
+  {
+    "english": "What textiles will",
+    "chinese": "什么纺织品将会"
+  },
+  {
+    "english": "What textiles will be",
+    "chinese": "什么纺织品将会被使用"
+  },
+  {
+    "english": "What textiles will be used",
+    "chinese": "什么纺织品将在其中被使用"
+  },
+  {
+    "english": "What textiles will be used in",
+    "chinese": "什么纺织品将在制造中被使用"
+  },
+  {
+    "english": "What textiles will be used in manufacturing",
+    "chinese": "什么纺织品将在我们制造我们的服装中被使用"
+  },
+  {
+    "english": "What textiles will be used in manufacturing our",
+    "chinese": "我们将使用哪些纺织品进行生产？"
+  },
+  {
+    "english": "What textiles will be used in manufacturing our clothing",
+    "chinese": "生产我们的服装会使用哪些纺织品？"
+  },
+  {
+    "english": "Will",
+    "chinese": "会",
+    "soundmark": "/wəl/"
+  },
+  {
+    "english": "Will a",
+    "chinese": "会一种"
+  },
+  {
+    "english": "Will a type",
+    "chinese": "会一种类型"
+  },
+  {
+    "english": "Will a type of",
+    "chinese": "会一种尼龙类型"
+  },
+  {
+    "english": "Will a type of nylon",
+    "chinese": "会一种尼龙织物类型"
+  },
+  {
+    "english": "Will a type of nylon fabric",
+    "chinese": "会一种尼龙织物类型是否"
+  },
+  {
+    "english": "Will a type of nylon fabric be",
+    "chinese": "会一种尼龙织物类型是否被使用"
+  },
+  {
+    "english": "Will a type of nylon fabric be used",
+    "chinese": "会一种尼龙织物类型是否被用于"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in",
+    "chinese": "会一种尼龙织物类型是否被用于某个方面"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in an",
+    "chinese": "会一种尼龙织物类型是否被用于某个努力中"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in an effort",
+    "chinese": "会一种尼龙织物类型是否被用于某个努力以…"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in an effort to",
+    "chinese": "会一种尼龙织物类型是否被用于某个努力以使…"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in an effort to make",
+    "chinese": "会一种尼龙织物类型是否被用于某个努力以使我们的…"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in an effort to make our",
+    "chinese": "会一种尼龙织物类型是否被用于某个努力以使我们的服装…"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in an effort to make our clothing",
+    "chinese": "会一种尼龙织物类型是否被用于某个努力以使我们的服装更…"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in an effort to make our clothing more",
+    "chinese": "会一种尼龙织物类型是否被用于某个努力以使我们的服装更耐用…"
+  },
+  {
+    "english": "Will a type of nylon fabric be used in an effort to make our clothing more durable",
+    "chinese": "是否会使用某种尼龙面料来使衣物更耐用？"
+  },
+  {
+    "english": "Synthetic",
+    "chinese": "合成纤维",
+    "soundmark": "/sɪnθˈɛːtɪk/"
+  },
+  {
+    "english": "Synthetic fibers",
+    "chinese": "合成纤维"
+  },
+  {
+    "english": "which",
+    "chinese": "哪个",
+    "soundmark": "/hwˈɪtʃ/"
+  },
+  {
+    "english": "which will",
+    "chinese": "哪个会"
+  },
+  {
+    "english": "which will not",
+    "chinese": "哪个不会褪色"
+  },
+  {
+    "english": "which will not fade",
+    "chinese": "哪个不会褪色可以"
+  },
+  {
+    "english": "which will not fade can",
+    "chinese": "哪个不会褪色可以被制造"
+  },
+  {
+    "english": "which will not fade can be",
+    "chinese": "哪个不会褪色可以被制造"
+  },
+  {
+    "english": "which will not fade can be produced",
+    "chinese": "哪个不会褪色可以在明亮环境中被制造"
+  },
+  {
+    "english": "which will not fade can be produced in",
+    "chinese": "哪个不会褪色可以在鲜艳色彩中被制造"
+  },
+  {
+    "english": "which will not fade can be produced in bright",
+    "chinese": "哪个不会褪色可以在诸如粉红这样的鲜艳色彩中被制造"
+  },
+  {
+    "english": "which will not fade can be produced in bright colors",
+    "chinese": "那些不会褪色的东西可以用鲜艳的颜色来制作"
+  },
+  {
+    "english": "which will not fade can be produced in bright colors such as",
+    "chinese": "那些不会褪色的东西可以用鲜艳的颜色来制作，例如"
+  },
+  {
+    "english": "which will not fade can be produced in bright colors such as pink",
+    "chinese": "那些不会褪色的颜色可以呈现为鲜艳的颜色，如粉色"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and purple",
+    "chinese": "以及紫色"
+  },
+  {
+    "english": "and purple in",
+    "chinese": "在……中的紫色"
+  },
+  {
+    "english": "and purple in addition",
+    "chinese": "除了……之外的紫色"
+  },
+  {
+    "english": "and purple in addition to",
+    "chinese": "除了所有……之外的紫色"
+  },
+  {
+    "english": "and purple in addition to all",
+    "chinese": "除了所有其他……之外的紫色"
+  },
+  {
+    "english": "and purple in addition to all the",
+    "chinese": "除了所有其他颜色……之外的紫色"
+  },
+  {
+    "english": "and purple in addition to all the other",
+    "chinese": "除了彩虹所有其他颜色……之外的紫色"
+  },
+  {
+    "english": "and purple in addition to all the other colors",
+    "chinese": "以及所有其他颜色之外的紫色"
+  },
+  {
+    "english": "and purple in addition to all the other colors of",
+    "chinese": "还有紫色，加上所有其他颜色"
+  },
+  {
+    "english": "and purple in addition to all the other colors of the",
+    "chinese": "还有紫色，加上所有其他颜色"
+  },
+  {
+    "english": "and purple in addition to all the other colors of the rainbow",
+    "chinese": "以及彩虹中所有的其他颜色之外的紫色。"
+  }
 ]

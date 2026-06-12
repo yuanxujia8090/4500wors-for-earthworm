@@ -1,1012 +1,923 @@
 [
-	{
-		"english": "hercules had to be cleansed of his",
-		"chinese": "赫拉克勒斯必须被清除他的",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/ /tə/ /biː/ /klˈɛːnzd/ /əv/ /hɪz/"
-	},
-	{
-		"english": "hercules had to be cleansed of his wife",
-		"chinese": "赫拉克勒斯必须摆脱他的妻子",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/ /tə/ /biː/ /klˈɛːnzd/ /əv/ /hɪz/ /wˈaɪf/"
-	},
-	{
-		"english": "hercules had to be cleansed of his wife s",
-		"chinese": "赫拉克勒斯必须清除他的妻子",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/ /tə/ /biː/ /klˈɛːnzd/ /əv/ /hɪz/ /wˈaɪf/ /ˈɛːs/"
-	},
-	{
-		"english": "hercules had to be cleansed of his wife s murder",
-		"chinese": "赫拉克勒斯必须消除他对妻子的谋杀行为",
-		"soundmark": "/hˈɜːkjəlˌiːz/ /hˈæd/ /tə/ /biː/ /klˈɛːnzd/ /əv/ /hɪz/ /wˈaɪf/ /ˈɛːs/ /mˈɜːdɜː/"
-	},
-	{
-		"english": "to",
-		"chinese": "为了",
-		"soundmark": "/tə/"
-	},
-	{
-		"english": "to do",
-		"chinese": "做",
-		"soundmark": "/tə/ /dˈuː/"
-	},
-	{
-		"english": "to do this",
-		"chinese": "做这件事",
-		"soundmark": "/tə/ /dˈuː/ /ðɪs/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he was",
-		"chinese": "他",
-		"soundmark": "/hˈiː/ /wˈɔːz/"
-	},
-	{
-		"english": "he was directed",
-		"chinese": "他被指派了任务",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /dɪrˈɛːktɪd/"
-	},
-	{
-		"english": "he was directed to",
-		"chinese": "他被指引去",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /dɪrˈɛːktɪd/ /tə/"
-	},
-	{
-		"english": "he was directed to perform",
-		"chinese": "他被指示去执行",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /dɪrˈɛːktɪd/ /tə/ /pɜːfˈɔːrm/"
-	},
-	{
-		"english": "he was directed to perform twelve",
-		"chinese": "他被指示执行十二项任务",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /dɪrˈɛːktɪd/ /tə/ /pɜːfˈɔːrm/ /twˈɛːlv/"
-	},
-	{
-		"english": "he was directed to perform twelve difficult",
-		"chinese": "他被指示完成十二项困难任务",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /dɪrˈɛːktɪd/ /tə/ /pɜːfˈɔːrm/ /twˈɛːlv/ /dˈɪfəkəlt/"
-	},
-	{
-		"english": "he was directed to perform twelve difficult labors",
-		"chinese": "他被命令完成十二项艰巨任务",
-		"soundmark": "/hˈiː/ /wˈɔːz/ /dɪrˈɛːktɪd/ /tə/ /pɜːfˈɔːrm/ /twˈɛːlv/ /dˈɪfəkəlt/ /lˈeɪbɜːz/"
-	},
-	{
-		"english": "if",
-		"chinese": "如果",
-		"soundmark": "/ɪf/"
-	},
-	{
-		"english": "if he",
-		"chinese": "如果他",
-		"soundmark": "/ɪf/ /hˈiː/"
-	},
-	{
-		"english": "if he successfully",
-		"chinese": "如果他成功的话",
-		"soundmark": "/ɪf/ /hˈiː/ /səksˈɛːsfəliː/"
-	},
-	{
-		"english": "if he successfully completed",
-		"chinese": "如果他成功完成",
-		"soundmark": "/ɪf/ /hˈiː/ /səksˈɛːsfəliː/ /kəmplˈiːtɪd/"
-	},
-	{
-		"english": "if he successfully completed these",
-		"chinese": "如果他成功完成了这些",
-		"soundmark": "/ɪf/ /hˈiː/ /səksˈɛːsfəliː/ /kəmplˈiːtɪd/ /ðˈiːz/"
-	},
-	{
-		"english": "he",
-		"chinese": "他",
-		"soundmark": "/hˈiː/"
-	},
-	{
-		"english": "he would",
-		"chinese": "他会",
-		"soundmark": "/hˈiː/ /wˈʊd/"
-	},
-	{
-		"english": "he would become",
-		"chinese": "他会成为",
-		"soundmark": "/hˈiː/ /wˈʊd/ /bɪkˈəm/"
-	},
-	{
-		"english": "he would become an",
-		"chinese": "他会成为……",
-		"soundmark": "/hˈiː/ /wˈʊd/ /bɪkˈəm/ /ən/"
-	},
-	{
-		"english": "he would become an immortal",
-		"chinese": "他将成为不朽之人",
-		"soundmark": "/hˈiː/ /wˈʊd/ /bɪkˈəm/ /ən/ /ɪmˈɔːrtəl/"
-	},
-	{
-		"english": "he would become an immortal god",
-		"chinese": "他将成为一位不朽之神",
-		"soundmark": "/hˈiː/ /wˈʊd/ /bɪkˈəm/ /ən/ /ɪmˈɔːrtəl/ /ɡˈɑːd/"
-	},
-	{
-		"english": "like",
-		"chinese": "像",
-		"soundmark": "/lˈaɪk/"
-	},
-	{
-		"english": "like his",
-		"chinese": "像他一样",
-		"soundmark": "/lˈaɪk/ /hɪz/"
-	},
-	{
-		"english": "like his father",
-		"chinese": "像他的父亲一样",
-		"soundmark": "/lˈaɪk/ /hɪz/ /fˈɑːðɜː/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the first",
-		"chinese": "第一个",
-		"soundmark": "/ðiː/ /fˈɜːst/"
-	},
-	{
-		"english": "the first number",
-		"chinese": "第一个数字",
-		"soundmark": "/ðiː/ /fˈɜːst/ /nˈəmbɜː/"
-	},
-	{
-		"english": "the first number of",
-		"chinese": "第一个数字",
-		"soundmark": "/ðiː/ /fˈɜːst/ /nˈəmbɜː/ /əv/"
-	},
-	{
-		"english": "the first number of olympic",
-		"chinese": "奥运会的第一个数字",
-		"soundmark": "/ðiː/ /fˈɜːst/ /nˈəmbɜː/ /əv/ /oʊlˈɪmpɪk/"
-	},
-	{
-		"english": "the first number of olympic games",
-		"chinese": "奥运会的第一届",
-		"soundmark": "/ðiː/ /fˈɜːst/ /nˈəmbɜː/ /əv/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/"
-	},
-	{
-		"english": "the first number of olympic games had",
-		"chinese": "奥运会的第一个数字",
-		"soundmark": "/ðiː/ /fˈɜːst/ /nˈəmbɜː/ /əv/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /hˈæd/"
-	},
-	{
-		"english": "the first number of olympic games had only",
-		"chinese": "奥运会的第一个数字只有",
-		"soundmark": "/ðiː/ /fˈɜːst/ /nˈəmbɜː/ /əv/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /hˈæd/ /ˈoʊnliː/"
-	},
-	{
-		"english": "the first number of olympic games had only one",
-		"chinese": "第一届奥运会的数字只有一个",
-		"soundmark": "/ðiː/ /fˈɜːst/ /nˈəmbɜː/ /əv/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /hˈæd/ /ˈoʊnliː/ /hwˈən/"
-	},
-	{
-		"english": "the first number of olympic games had only one event",
-		"chinese": "第一届奥运会只有一项比赛",
-		"soundmark": "/ðiː/ /fˈɜːst/ /nˈəmbɜː/ /əv/ /oʊlˈɪmpɪk/ /ɡˈeɪmz/ /hˈæd/ /ˈoʊnliː/ /hwˈən/ /iːvˈɛːnt/"
-	},
-	{
-		"english": "called",
-		"chinese": "称为",
-		"soundmark": "/kˈɔːld/"
-	},
-	{
-		"english": "called the",
-		"chinese": "称为",
-		"soundmark": "/kˈɔːld/ /ðiː/"
-	},
-	{
-		"english": "called the stade",
-		"chinese": "称为体育场",
-		"soundmark": "/kˈɔːld/ /ðiː/ /stˈeɪd/"
-	},
-	{
-		"english": "by",
-		"chinese": "由",
-		"soundmark": "/bˈaɪ/"
-	},
-	{
-		"english": "by the",
-		"chinese": "由……所",
-		"soundmark": "/bˈaɪ/ /ðiː/"
-	},
-	{
-		"english": "by the late",
-		"chinese": "已故的",
-		"soundmark": "/bˈaɪ/ /ðiː/ /lˈeɪt/"
-	},
-	{
-		"english": "by the late th",
-		"chinese": "已故的……",
-		"soundmark": "/bˈaɪ/ /ðiː/ /lˈeɪt/ /tˈiːˈeɪtʃ/"
-	},
-	{
-		"english": "by the late th century",
-		"chinese": "到了晚世纪",
-		"soundmark": "/bˈaɪ/ /ðiː/ /lˈeɪt/ /tˈiːˈeɪtʃ/ /sˈɛːntʃɜːiː/"
-	},
-	{
-		"english": "by the late th century bc",
-		"chinese": "公元前晚期",
-		"soundmark": "/bˈaɪ/ /ðiː/ /lˈeɪt/ /tˈiːˈeɪtʃ/ /sˈɛːntʃɜːiː/"
-	},
-	{
-		"english": "events",
-		"chinese": "事件",
-		"soundmark": "/iːvˈɛːnts/"
-	},
-	{
-		"english": "events included",
-		"chinese": "事件包括",
-		"soundmark": "/iːvˈɛːnts/ /ɪnklˈuːdɪd/"
-	},
-	{
-		"english": "running",
-		"chinese": "跑步",
-		"soundmark": "/rˈənɪŋ/"
-	},
-	{
-		"english": "wrestling",
-		"chinese": "摔跤",
-		"soundmark": "/rˈɛːsəlɪŋ/"
-	},
-	{
-		"english": "boxing",
-		"chinese": "拳击",
-		"soundmark": "/bˈɑːksɪŋ/"
-	},
-	{
-		"english": "pancratium",
-		"chinese": "潘克拉提乌姆",
-		"soundmark": ""
-	},
-	{
-		"english": "pancratium a",
-		"chinese": "潘克拉提乌姆",
-		"soundmark": "/ˈeɪ/"
-	},
-	{
-		"english": "pancratium a mixture",
-		"chinese": "潘克拉提乌姆混合物",
-		"soundmark": "/ˈeɪ/ /mˈɪkstʃɜː/"
-	},
-	{
-		"english": "pancratium a mixture of",
-		"chinese": "潘克拉提乌姆，一种混合物",
-		"soundmark": "/ˈeɪ/ /mˈɪkstʃɜː/ /əv/"
-	},
-	{
-		"english": "pancratium a mixture of boxing",
-		"chinese": "拳斗混合物",
-		"soundmark": "/ˈeɪ/ /mˈɪkstʃɜː/ /əv/ /bˈɑːksɪŋ/"
-	},
-	{
-		"english": "pancratium a mixture of boxing and",
-		"chinese": "拳斗与混合体",
-		"soundmark": "/ˈeɪ/ /mˈɪkstʃɜː/ /əv/ /bˈɑːksɪŋ/ /ˈænd/"
-	},
-	{
-		"english": "pancratium a mixture of boxing and wrestling",
-		"chinese": "拳斗与摔跤的混合体",
-		"soundmark": "/ˈeɪ/ /mˈɪkstʃɜː/ /əv/ /bˈɑːksɪŋ/ /ˈænd/ /rˈɛːsəlɪŋ/"
-	},
-	{
-		"english": "chariot",
-		"chinese": "战车",
-		"soundmark": "/tʃˈɛːriːət/"
-	},
-	{
-		"english": "chariot racing",
-		"chinese": "战车比赛",
-		"soundmark": "/tʃˈɛːriːət/ /rˈeɪsɪŋ/"
-	},
-	{
-		"english": "a",
-		"chinese": "一个",
-		"soundmark": "/ˈeɪ/"
-	},
-	{
-		"english": "a footrace",
-		"chinese": "赛跑比赛",
-		"soundmark": "/ˈeɪ/ /fˈʊtrˌeɪs/"
-	},
-	{
-		"english": "a footrace with",
-		"chinese": "一场赛跑",
-		"soundmark": "/ˈeɪ/ /fˈʊtrˌeɪs/ /wɪð/"
-	},
-	{
-		"english": "a footrace with heavy",
-		"chinese": "一场充满挑战的赛跑",
-		"soundmark": "/ˈeɪ/ /fˈʊtrˌeɪs/ /wɪð/ /hˈɛːviː/"
-	},
-	{
-		"english": "a footrace with heavy armor",
-		"chinese": "穿着重甲的比拼",
-		"soundmark": "/ˈeɪ/ /fˈʊtrˌeɪs/ /wɪð/ /hˈɛːviː/ /ˈɑːrmɜː/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and the",
-		"chinese": "和……",
-		"soundmark": "/ˈænd/ /ðiː/"
-	},
-	{
-		"english": "and the pentathlon",
-		"chinese": "以及五项全能运动",
-		"soundmark": "/ˈænd/ /ðiː/ /pɛːntˈæθlən/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the only",
-		"chinese": "唯一的",
-		"soundmark": "/ðiː/ /ˈoʊnliː/"
-	},
-	{
-		"english": "the only official",
-		"chinese": "唯一的官方",
-		"soundmark": "/ðiː/ /ˈoʊnliː/ /əfˈɪʃəl/"
-	},
-	{
-		"english": "the only official prize",
-		"chinese": "唯一的官方奖项",
-		"soundmark": "/ðiː/ /ˈoʊnliː/ /əfˈɪʃəl/ /prˈaɪz/"
-	},
-	{
-		"english": "the only official prize earned",
-		"chinese": "唯一获得的官方奖项",
-		"soundmark": "/ðiː/ /ˈoʊnliː/ /əfˈɪʃəl/ /prˈaɪz/ /ˈɜːnd/"
-	},
-	{
-		"english": "the only official prize earned by",
-		"chinese": "唯一获得的官方奖项",
-		"soundmark": "/ðiː/ /ˈoʊnliː/ /əfˈɪʃəl/ /prˈaɪz/ /ˈɜːnd/ /bˈaɪ/"
-	},
-	{
-		"english": "the only official prize earned by the",
-		"chinese": "该机构获得的唯一官方奖项",
-		"soundmark": "/ðiː/ /ˈoʊnliː/ /əfˈɪʃəl/ /prˈaɪz/ /ˈɜːnd/ /bˈaɪ/ /ðiː/"
-	},
-	{
-		"english": "the only official prize earned by the champion",
-		"chinese": "冠军获得的唯一官方奖项",
-		"soundmark": "/ðiː/ /ˈoʊnliː/ /əfˈɪʃəl/ /prˈaɪz/ /ˈɜːnd/ /bˈaɪ/ /ðiː/ /tʃˈæmpiːən/"
-	},
-	{
-		"english": "was",
-		"chinese": "是",
-		"soundmark": "/wˈɔːz/"
-	},
-	{
-		"english": "was a",
-		"chinese": "是",
-		"soundmark": "/wˈɔːz/ /ˈeɪ/"
-	},
-	{
-		"english": "was a crown",
-		"chinese": "是王冠",
-		"soundmark": "/wˈɔːz/ /ˈeɪ/ /krˈaʊn/"
-	},
-	{
-		"english": "was a crown of",
-		"chinese": "是一顶王冠",
-		"soundmark": "/wˈɔːz/ /ˈeɪ/ /krˈaʊn/ /əv/"
-	},
-	{
-		"english": "was a crown of wild",
-		"chinese": "是一顶野性的冠冕",
-		"soundmark": "/wˈɔːz/ /ˈeɪ/ /krˈaʊn/ /əv/ /wˈaɪld/"
-	},
-	{
-		"english": "was a crown of wild olive",
-		"chinese": "是一顶野生橄榄花冠",
-		"soundmark": "/wˈɔːz/ /ˈeɪ/ /krˈaʊn/ /əv/ /wˈaɪld/ /ˈɑːlɪv/"
-	},
-	{
-		"english": "was a crown of wild olive branches",
-		"chinese": "是一顶野生橄榄枝冠",
-		"soundmark": "/wˈɔːz/ /ˈeɪ/ /krˈaʊn/ /əv/ /wˈaɪld/ /ˈɑːlɪv/ /brˈæntʃɪz/"
-	},
-	{
-		"english": "unofficially",
-		"chinese": "非官方地",
-		"soundmark": "/ənəfˈɪʃəliː/"
-	},
-	{
-		"english": "some",
-		"chinese": "一些",
-		"soundmark": "/sˈəm/"
-	},
-	{
-		"english": "some athletes",
-		"chinese": "一些运动员",
-		"soundmark": "/sˈəm/ /ˈæθlˌiːts/"
-	},
-	{
-		"english": "some athletes received",
-		"chinese": "一些运动员获得了",
-		"soundmark": "/sˈəm/ /ˈæθlˌiːts/ /riːsˈiːvd/"
-	},
-	{
-		"english": "some athletes received valuable",
-		"chinese": "一些运动员获得了宝贵的东西",
-		"soundmark": "/sˈəm/ /ˈæθlˌiːts/ /riːsˈiːvd/ /vˈæljuːbəl/"
-	},
-	{
-		"english": "some athletes received valuable prizes",
-		"chinese": "一些运动员获得了珍贵的奖品",
-		"soundmark": "/sˈəm/ /ˈæθlˌiːts/ /riːsˈiːvd/ /vˈæljuːbəl/ /prˈaɪzɪz/"
-	},
-	{
-		"english": "including",
-		"chinese": "包括",
-		"soundmark": "/ɪnklˈuːdɪŋ/"
-	},
-	{
-		"english": "including large",
-		"chinese": "包括大量",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/"
-	},
-	{
-		"english": "including large sums",
-		"chinese": "包括大笔金额",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/ /sˈəmz/"
-	},
-	{
-		"english": "including large sums of",
-		"chinese": "包括大笔金额",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/ /sˈəmz/ /əv/"
-	},
-	{
-		"english": "including large sums of money",
-		"chinese": "包括大量资金",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/ /sˈəmz/ /əv/ /mˈəniː/"
-	},
-	{
-		"english": "including large sums of money from",
-		"chinese": "包括大量资金",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/ /sˈəmz/ /əv/ /mˈəniː/ /fɜːm/"
-	},
-	{
-		"english": "including large sums of money from their",
-		"chinese": "包括他们大量的资金",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/ /sˈəmz/ /əv/ /mˈəniː/ /fɜːm/ /ðˈɛːr/"
-	},
-	{
-		"english": "including large sums of money from their home",
-		"chinese": "包括来自他们家的大量资金",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/ /sˈəmz/ /əv/ /mˈəniː/ /fɜːm/ /ðˈɛːr/ /hˈoʊm/"
-	},
-	{
-		"english": "including large sums of money from their home city",
-		"chinese": "包括来自他们家乡的大笔资金",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/ /sˈəmz/ /əv/ /mˈəniː/ /fɜːm/ /ðˈɛːr/ /hˈoʊm/ /sˈɪtiː/"
-	},
-	{
-		"english": "including large sums of money from their home city states",
-		"chinese": "包括来自他们家乡城邦的大笔资金",
-		"soundmark": "/ɪnklˈuːdɪŋ/ /lˈɑːrdʒ/ /sˈəmz/ /əv/ /mˈəniː/ /fɜːm/ /ðˈɛːr/ /hˈoʊm/ /sˈɪtiː/ /stˈeɪts/"
-	},
-	{
-		"english": "as",
-		"chinese": "作为",
-		"soundmark": "/ˈɛːz/"
-	},
-	{
-		"english": "as in",
-		"chinese": "如相同",
-		"soundmark": "/ˈɛːz/ /ˈɪn/"
-	},
-	{
-		"english": "as in modern",
-		"chinese": "就像现代那样",
-		"soundmark": "/ˈɛːz/ /ˈɪn/ /mˈɑːdɜːn/"
-	},
-	{
-		"english": "as in modern times",
-		"chinese": "如同现代时期那样",
-		"soundmark": "/ˈɛːz/ /ˈɪn/ /mˈɑːdɜːn/ /tˈaɪmz/"
-	},
-	{
-		"english": "ancient",
-		"chinese": "古老",
-		"soundmark": "/ˈeɪnʃənt/"
-	},
-	{
-		"english": "ancient athletes",
-		"chinese": "古代运动员",
-		"soundmark": "/ˈeɪnʃənt/ /ˈæθlˌiːts/"
-	},
-	{
-		"english": "even",
-		"chinese": "甚至",
-		"soundmark": "/ˈiːvɪn/"
-	},
-	{
-		"english": "even though",
-		"chinese": "尽管",
-		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/"
-	},
-	{
-		"english": "even though they",
-		"chinese": "尽管他们",
-		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /ðˈeɪ/"
-	},
-	{
-		"english": "even though they made",
-		"chinese": "尽管他们做了",
-		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /ðˈeɪ/ /mˈeɪd/"
-	},
-	{
-		"english": "even though they made pledges",
-		"chinese": "尽管他们做出了承诺",
-		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /ðˈeɪ/ /mˈeɪd/ /plˈɛːdʒɪz/"
-	},
-	{
-		"english": "even though they made pledges of",
-		"chinese": "尽管他们做出了承诺",
-		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /ðˈeɪ/ /mˈeɪd/ /plˈɛːdʒɪz/ /əv/"
-	},
-	{
-		"english": "even though they made pledges of fairness",
-		"chinese": "尽管他们做出了公平承诺",
-		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /ðˈeɪ/ /mˈeɪd/ /plˈɛːdʒɪz/ /əv/ /fˈɛːrnəs/"
-	},
-	{
-		"english": "even though they made pledges of fairness in",
-		"chinese": "尽管他们承诺会公平对待",
-		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /ðˈeɪ/ /mˈeɪd/ /plˈɛːdʒɪz/ /əv/ /fˈɛːrnəs/ /ˈɪn/"
-	},
-	{
-		"english": "even though they made pledges of fairness in competition",
-		"chinese": "尽管他们承诺公平竞争",
-		"soundmark": "/ˈiːvɪn/ /ðˈoʊ/ /ðˈeɪ/ /mˈeɪd/ /plˈɛːdʒɪz/ /əv/ /fˈɛːrnəs/ /ˈɪn/ /kˌɑːmpətˈɪʃən/"
-	},
-	{
-		"english": "sought",
-		"chinese": "寻找",
-		"soundmark": "/sˈɔːt/"
-	},
-	{
-		"english": "sought out",
-		"chinese": "寻找",
-		"soundmark": "/sˈɔːt/ /ˈaʊt/"
-	},
-	{
-		"english": "sought out every",
-		"chinese": "寻找了每一个",
-		"soundmark": "/sˈɔːt/ /ˈaʊt/ /ˈɛːvriː/"
-	},
-	{
-		"english": "sought out every advantage",
-		"chinese": "寻找每一个优势",
-		"soundmark": "/sˈɔːt/ /ˈaʊt/ /ˈɛːvriː/ /ədvˈænədʒ/"
-	},
-	{
-		"english": "legal",
-		"chinese": "法律",
-		"soundmark": "/lˈiːɡəl/"
-	},
-	{
-		"english": "legal or",
-		"chinese": "法律或",
-		"soundmark": "/lˈiːɡəl/ /ɜː/"
-	},
-	{
-		"english": "legal or illegal",
-		"chinese": "合法或非法",
-		"soundmark": "/lˈiːɡəl/ /ɜː/ /ɪlˈiːɡəl/"
-	},
-	{
-		"english": "in",
-		"chinese": "在",
-		"soundmark": "/ˈɪn/"
-	},
-	{
-		"english": "in order",
-		"chinese": "为了",
-		"soundmark": "/ˈɪn/ /ˈɔːrdɜː/"
-	},
-	{
-		"english": "in order to",
-		"chinese": "为了",
-		"soundmark": "/ˈɪn/ /ˈɔːrdɜː/ /tə/"
-	},
-	{
-		"english": "in order to win",
-		"chinese": "为了获胜",
-		"soundmark": "/ˈɪn/ /ˈɔːrdɜː/ /tə/ /wˈɪn/"
-	},
-	{
-		"english": "even",
-		"chinese": "甚至",
-		"soundmark": "/ˈiːvɪn/"
-	},
-	{
-		"english": "even then",
-		"chinese": "即便如此",
-		"soundmark": "/ˈiːvɪn/ /ðˈɛːn/"
-	},
-	{
-		"english": "the",
-		"chinese": "那个",
-		"soundmark": "/ðiː/"
-	},
-	{
-		"english": "the concept",
-		"chinese": "概念",
-		"soundmark": "/ðiː/ /kˈɑːnsɛːpt/"
-	},
-	{
-		"english": "the concept of",
-		"chinese": "概念",
-		"soundmark": "/ðiː/ /kˈɑːnsɛːpt/ /əv/"
-	},
-	{
-		"english": "the concept of amateurism",
-		"chinese": "业余主义的概念",
-		"soundmark": "/ðiː/ /kˈɑːnsɛːpt/ /əv/ /ˈæmətʃɜːɪzəm/"
-	},
-	{
-		"english": "for",
-		"chinese": "为了",
-		"soundmark": "/frɜː/"
-	},
-	{
-		"english": "for which",
-		"chinese": "对于它",
-		"soundmark": "/frɜː/ /hwˈɪtʃ/"
-	},
-	{
-		"english": "for which there",
-		"chinese": "因为……",
-		"soundmark": "/frɜː/ /hwˈɪtʃ/ /ðˈɛːr/"
-	},
-	{
-		"english": "for which there were",
-		"chinese": "因为存在",
-		"soundmark": "/frɜː/ /hwˈɪtʃ/ /ðˈɛːr/ /wˈɜː/"
-	},
-	{
-		"english": "for which there were no",
-		"chinese": "因为没有",
-		"soundmark": "/frɜː/ /hwˈɪtʃ/ /ðˈɛːr/ /wˈɜː/ /nˈoʊ/"
-	},
-	{
-		"english": "for which there were no rules",
-		"chinese": "因为没有相关规则",
-		"soundmark": "/frɜː/ /hwˈɪtʃ/ /ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /rˈuːlz/"
-	},
-	{
-		"english": "for which there were no rules in",
-		"chinese": "因为没有相关规则",
-		"soundmark": "/frɜː/ /hwˈɪtʃ/ /ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /rˈuːlz/ /ˈɪn/"
-	},
-	{
-		"english": "for which there were no rules in ancient",
-		"chinese": "因为古代没有相关规则",
-		"soundmark": "/frɜː/ /hwˈɪtʃ/ /ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /rˈuːlz/ /ˈɪn/ /ˈeɪnʃənt/"
-	},
-	{
-		"english": "for which there were no rules in ancient times",
-		"chinese": "古代没有相关规则",
-		"soundmark": "/frɜː/ /hwˈɪtʃ/ /ðˈɛːr/ /wˈɜː/ /nˈoʊ/ /rˈuːlz/ /ˈɪn/ /ˈeɪnʃənt/ /tˈaɪmz/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and the",
-		"chinese": "和……",
-		"soundmark": "/ˈænd/ /ðiː/"
-	},
-	{
-		"english": "and the zeal",
-		"chinese": "以及热情",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/"
-	},
-	{
-		"english": "and the zeal for",
-		"chinese": "以及热情",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/"
-	},
-	{
-		"english": "and the zeal for the",
-		"chinese": "以及对……的热情",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/"
-	},
-	{
-		"english": "and the zeal for the competitive",
-		"chinese": "以及对竞争的热情",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit",
-		"chinese": "以及对竞争精神的追求",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit were",
-		"chinese": "对竞争精神的热忱",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit were often",
-		"chinese": "对竞争精神的追求往往",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/ /ˈɔːftən/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit were often sacrificed",
-		"chinese": "对竞争精神的追求常常被牺牲了",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/ /ˈɔːftən/ /sˈækrəfˌaɪst/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit were often sacrificed for",
-		"chinese": "对竞争精神的追求常常被牺牲了",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/ /ˈɔːftən/ /sˈækrəfˌaɪst/ /frɜː/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit were often sacrificed for the",
-		"chinese": "对竞争精神的追求常常被牺牲了",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/ /ˈɔːftən/ /sˈækrəfˌaɪst/ /frɜː/ /ðiː/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit were often sacrificed for the more",
-		"chinese": "对竞争精神的追求常常被更大的利益所牺牲",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/ /ˈɔːftən/ /sˈækrəfˌaɪst/ /frɜː/ /ðiː/ /mˈɔːr/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit were often sacrificed for the more selfish",
-		"chinese": "对竞争精神的追求常常被更自私的动机所牺牲",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/ /ˈɔːftən/ /sˈækrəfˌaɪst/ /frɜː/ /ðiː/ /mˈɔːr/ /sˈɛːlfɪʃ/"
-	},
-	{
-		"english": "and the zeal for the competitive spirit were often sacrificed for the more selfish materialistic",
-		"chinese": "对竞争精神的追求常常被更自私的物质主义所牺牲",
-		"soundmark": "/ˈænd/ /ðiː/ /zˈiːl/ /frɜː/ /ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/ /ˈɔːftən/ /sˈækrəfˌaɪst/ /frɜː/ /ðiː/ /mˈɔːr/ /sˈɛːlfɪʃ/ /mətˌɪriːəlˈɪstɪk/"
-	},
-	{
-		"english": "the competitive spirit were often sacrificed for the more selfish materialistic considerations",
-		"chinese": "竞争精神常常被更自私的物质主义考虑所牺牲",
-		"soundmark": "/ðiː/ /kəmpˈɛːtɪtɪv/ /spˈɪrɪt/ /wˈɜː/ /ˈɔːftən/ /sˈækrəfˌaɪst/ /frɜː/ /ðiː/ /mˈɔːr/ /sˈɛːlfɪʃ/ /mətˌɪriːəlˈɪstɪk/ /kənsˌɪdɜːˈeɪʃənz/"
-	},
-	{
-		"english": "by",
-		"chinese": "由",
-		"soundmark": "/bˈaɪ/"
-	},
-	{
-		"english": "by the",
-		"chinese": "由……所",
-		"soundmark": "/bˈaɪ/ /ðiː/"
-	},
-	{
-		"english": "by the th",
-		"chinese": "由……",
-		"soundmark": "/bˈaɪ/ /ðiː/ /tˈiːˈeɪtʃ/"
-	},
-	{
-		"english": "by the th century",
-		"chinese": "到世纪末",
-		"soundmark": "/bˈaɪ/ /ðiː/ /tˈiːˈeɪtʃ/ /sˈɛːntʃɜːiː/"
-	},
-	{
-		"english": "by the th century bc",
-		"chinese": "公元前第三个世纪",
-		"soundmark": "/bˈaɪ/ /ðiː/ /tˈiːˈeɪtʃ/ /sˈɛːntʃɜːiː/"
-	},
-	{
-		"english": "athletes",
-		"chinese": "运动员",
-		"soundmark": "/ˈæθlˌiːts/"
-	},
-	{
-		"english": "athletes began",
-		"chinese": "运动员们开始",
-		"soundmark": "/ˈæθlˌiːts/ /biːɡˈæn/"
-	},
-	{
-		"english": "athletes began to",
-		"chinese": "运动员们开始",
-		"soundmark": "/ˈæθlˌiːts/ /biːɡˈæn/ /tə/"
-	},
-	{
-		"english": "athletes began to specialize",
-		"chinese": "运动员开始专注于某项运动",
-		"soundmark": "/ˈæθlˌiːts/ /biːɡˈæn/ /tə/ /spˈɛːʃəlˌaɪz/"
-	},
-	{
-		"english": "athletes began to specialize in",
-		"chinese": "运动员开始专注于某项运动",
-		"soundmark": "/ˈæθlˌiːts/ /biːɡˈæn/ /tə/ /spˈɛːʃəlˌaɪz/ /ˈɪn/"
-	},
-	{
-		"english": "athletes began to specialize in particular",
-		"chinese": "运动员开始专注于特定领域",
-		"soundmark": "/ˈæθlˌiːts/ /biːɡˈæn/ /tə/ /spˈɛːʃəlˌaɪz/ /ˈɪn/ /pˌɑːtˈɪkjəlɜː/"
-	},
-	{
-		"english": "athletes began to specialize in particular sports",
-		"chinese": "运动员开始专注于特定运动项目",
-		"soundmark": "/ˈæθlˌiːts/ /biːɡˈæn/ /tə/ /spˈɛːʃəlˌaɪz/ /ˈɪn/ /pˌɑːtˈɪkjəlɜː/ /spˈɔːrts/"
-	},
-	{
-		"english": "and",
-		"chinese": "和",
-		"soundmark": "/ˈænd/"
-	},
-	{
-		"english": "and even",
-		"chinese": "甚至",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/"
-	},
-	{
-		"english": "and even began",
-		"chinese": "甚至开始",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/ /biːɡˈæn/"
-	},
-	{
-		"english": "and even began to",
-		"chinese": "甚至开始",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/ /biːɡˈæn/ /tə/"
-	},
-	{
-		"english": "and even began to hire",
-		"chinese": "甚至开始招聘",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/ /biːɡˈæn/ /tə/ /hˈaɪr/"
-	},
-	{
-		"english": "and even began to hire coaches",
-		"chinese": "甚至开始雇佣教练",
-		"soundmark": "/ˈænd/ /ˈiːvɪn/ /biːɡˈæn/ /tə/ /hˈaɪr/ /kˈoʊtʃɪz/"
-	},
-	{
-		"english": "special",
-		"chinese": "特殊",
-		"soundmark": "/spˈɛːʃəl/"
-	},
-	{
-		"english": "special diets",
-		"chinese": "特殊饮食",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/"
-	},
-	{
-		"english": "special diets and",
-		"chinese": "特殊饮食",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/"
-	},
-	{
-		"english": "special diets and new",
-		"chinese": "特殊饮食与新事物",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/ /njˈuː/"
-	},
-	{
-		"english": "special diets and new innovated",
-		"chinese": "特殊饮食与新型创新方案",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/ /njˈuː/ /ˈɪnoʊvˌeɪtɪd/"
-	},
-	{
-		"english": "special diets and new innovated kinds",
-		"chinese": "特殊饮食与新型创新食品",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/ /njˈuː/ /ˈɪnoʊvˌeɪtɪd/ /kˈaɪnz/"
-	},
-	{
-		"english": "special diets and new innovated kinds of",
-		"chinese": "特殊饮食和新型创新食品",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/ /njˈuː/ /ˈɪnoʊvˌeɪtɪd/ /kˈaɪnz/ /əv/"
-	},
-	{
-		"english": "special diets and new innovated kinds of physical",
-		"chinese": "特殊饮食和新型创新运动方式",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/ /njˈuː/ /ˈɪnoʊvˌeɪtɪd/ /kˈaɪnz/ /əv/ /fˈɪzɪkəl/"
-	},
-	{
-		"english": "special diets and new innovated kinds of physical conditioning",
-		"chinese": "特殊饮食和新型创新健身方式",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/ /njˈuː/ /ˈɪnoʊvˌeɪtɪd/ /kˈaɪnz/ /əv/ /fˈɪzɪkəl/ /kəndˈɪʃənɪŋ/"
-	},
-	{
-		"english": "special diets and new innovated kinds of physical conditioning became",
-		"chinese": "特殊饮食和新型创新健身方式应运而生",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/ /njˈuː/ /ˈɪnoʊvˌeɪtɪd/ /kˈaɪnz/ /əv/ /fˈɪzɪkəl/ /kəndˈɪʃənɪŋ/ /biːkˈeɪm/"
-	},
-	{
-		"english": "special diets and new innovated kinds of physical conditioning became popular",
-		"chinese": "特殊饮食和新型创新健身方式变得流行起来",
-		"soundmark": "/spˈɛːʃəl/ /dˈaɪɪts/ /ˈænd/ /njˈuː/ /ˈɪnoʊvˌeɪtɪd/ /kˈaɪnz/ /əv/ /fˈɪzɪkəl/ /kəndˈɪʃənɪŋ/ /biːkˈeɪm/ /pˈɑːpjəlɜː/"
-	},
-	{
-		"english": "protein",
-		"chinese": "蛋白质",
-		"soundmark": "/prˈoʊtˌiːn/"
-	},
-	{
-		"english": "from",
-		"chinese": "来自",
-		"soundmark": "/fɜːm/"
-	},
-	{
-		"english": "from meat",
-		"chinese": "来自肉类",
-		"soundmark": "/fɜːm/ /mˈiːt/"
-	},
-	{
-		"english": "from meat and",
-		"chinese": "来自肉类",
-		"soundmark": "/fɜːm/ /mˈiːt/ /ˈænd/"
-	},
-	{
-		"english": "from meat and beans",
-		"chinese": "以肉和豆子为食",
-		"soundmark": "/fɜːm/ /mˈiːt/ /ˈænd/ /bˈiːnz/"
-	},
-	{
-		"english": "from meat and beans in",
-		"chinese": "从肉和豆子开始",
-		"soundmark": "/fɜːm/ /mˈiːt/ /ˈænd/ /bˈiːnz/ /ˈɪn/"
-	},
-	{
-		"english": "from meat and beans in particular",
-		"chinese": "尤其是肉和豆子",
-		"soundmark": "/fɜːm/ /mˈiːt/ /ˈænd/ /bˈiːnz/ /ˈɪn/ /pˌɑːtˈɪkjəlɜː/"
-	},
-	{
-		"english": "became",
-		"chinese": "成为",
-		"soundmark": "/biːkˈeɪm/"
-	},
-	{
-		"english": "became the",
-		"chinese": "成为了",
-		"soundmark": "/biːkˈeɪm/ /ðiː/"
-	},
-	{
-		"english": "became the popular",
-		"chinese": "变得很受欢迎",
-		"soundmark": "/biːkˈeɪm/ /ðiː/ /pˈɑːpjəlɜː/"
-	},
-	{
-		"english": "became the popular nutritional",
-		"chinese": "成为受欢迎的营养品",
-		"soundmark": "/biːkˈeɪm/ /ðiː/ /pˈɑːpjəlɜː/ /nuːtrˈɪʃənəl/"
-	},
-	{
-		"english": "became the popular nutritional need",
-		"chinese": "成为流行的营养需求",
-		"soundmark": "/biːkˈeɪm/ /ðiː/ /pˈɑːpjəlɜː/ /nuːtrˈɪʃənəl/ /nˈiːd/"
-	},
-	{
-		"english": "became the popular nutritional need of",
-		"chinese": "成为人们普遍需要的营养需求",
-		"soundmark": "/biːkˈeɪm/ /ðiː/ /pˈɑːpjəlɜː/ /nuːtrˈɪʃənəl/ /nˈiːd/ /əv/"
-	},
-	{
-		"english": "became the popular nutritional need of olympic",
-		"chinese": "成为奥运会的常见营养需求",
-		"soundmark": "/biːkˈeɪm/ /ðiː/ /pˈɑːpjəlɜː/ /nuːtrˈɪʃənəl/ /nˈiːd/ /əv/ /oʊlˈɪmpɪk/"
-	},
-	{
-		"english": "became the popular nutritional need of olympic athletes",
-		"chinese": "成为奥运运动员的普遍营养需求",
-		"soundmark": "/biːkˈeɪm/ /ðiː/ /pˈɑːpjəlɜː/ /nuːtrˈɪʃənəl/ /nˈiːd/ /əv/ /oʊlˈɪmpɪk/ /ˈæθlˌiːts/"
-	}
+  {
+    "english": "Initially",
+    "chinese": "最初是",
+    "soundmark": "/ɪnˈɪʃəliː/"
+  },
+  {
+    "english": "Initially being",
+    "chinese": "最初是作为"
+  },
+  {
+    "english": "Initially being a",
+    "chinese": "最初是作为一座"
+  },
+  {
+    "english": "Initially being a two",
+    "chinese": "最初是作为一座两层建筑"
+  },
+  {
+    "english": "Initially being a two story",
+    "chinese": "最初是作为一座两层建筑"
+  },
+  {
+    "english": "Initially being a two story building",
+    "chinese": "最初是作为一座两层建筑"
+  },
+  {
+    "english": "Initially being a two story building with",
+    "chinese": "最初是作为一座带有……的两层建筑"
+  },
+  {
+    "english": "Initially being a two story building with a",
+    "chinese": "最初是作为一座带有……的两层建筑，且位于地面层"
+  },
+  {
+    "english": "Initially being a two story building with a ground",
+    "chinese": "最初是作为一座带有地面层的两层建筑"
+  },
+  {
+    "english": "Initially being a two story building with a ground floor",
+    "chinese": "最初是作为一座带有地面层店铺的两层建筑"
+  },
+  {
+    "english": "Initially being a two story building with a ground floor storefront",
+    "chinese": "最初是一座两层建筑，底层有商店店面"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and a",
+    "chinese": "和一个"
+  },
+  {
+    "english": "and a second",
+    "chinese": "和第二个"
+  },
+  {
+    "english": "and a second floor",
+    "chinese": "第二层楼"
+  },
+  {
+    "english": "and a second floor residence",
+    "chinese": "以及第二层的住宅"
+  },
+  {
+    "english": "it",
+    "chinese": "它",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "english": "it was",
+    "chinese": "那可能是"
+  },
+  {
+    "english": "it was probably",
+    "chinese": "那很可能是"
+  },
+  {
+    "english": "it was probably the",
+    "chinese": "那很可能是第一个"
+  },
+  {
+    "english": "it was probably the first",
+    "chinese": "那很可能是 Chinatown 里的第一个"
+  },
+  {
+    "english": "it was probably the first in",
+    "chinese": "那很可能是 Chinatown 里第一个出现的"
+  },
+  {
+    "english": "it was probably the first in Chinatown",
+    "chinese": "那很可能是 Chinatown 里第一个被建造的"
+  },
+  {
+    "english": "it was probably the first in Chinatown to",
+    "chinese": "那很可能是 Chinatown 里第一个用耐用材料建造的"
+  },
+  {
+    "english": "it was probably the first in Chinatown to be",
+    "chinese": "那很可能是 Chinatown 里第一个由耐用砖块建造的"
+  },
+  {
+    "english": "it was probably the first in Chinatown to be built",
+    "chinese": "这可能是唐人街里第一座建成的建筑"
+  },
+  {
+    "english": "it was probably the first in Chinatown to be built of",
+    "chinese": "这可能是唐人街第一座用...建造的建筑。"
+  },
+  {
+    "english": "it was probably the first in Chinatown to be built of durable",
+    "chinese": "这可能是 Chinatown 地区第一座用耐用材料建造的建筑。"
+  },
+  {
+    "english": "it was probably the first in Chinatown to be built of durable brick",
+    "chinese": "这可能是唐人街第一栋用耐用砖建造的建筑。"
+  },
+  {
+    "english": "Customers",
+    "chinese": "顾客",
+    "soundmark": "/kˈəstəmɜːz/"
+  },
+  {
+    "english": "Customers of",
+    "chinese": "该店的顾客"
+  },
+  {
+    "english": "Customers of the",
+    "chinese": "商店的顾客"
+  },
+  {
+    "english": "Customers of the store",
+    "chinese": "在商店的顾客走了"
+  },
+  {
+    "english": "Customers of the store walked",
+    "chinese": "在商店的顾客走在木制上"
+  },
+  {
+    "english": "Customers of the store walked on",
+    "chinese": "在商店的顾客走在覆盖着木头的平台上"
+  },
+  {
+    "english": "Customers of the store walked on wooden",
+    "chinese": "在商店的顾客走在覆盖着未铺砌的木制平台上"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms",
+    "chinese": "在商店的顾客走在覆盖着未铺砌的泥土的木制平台上"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering",
+    "chinese": "在商店的顾客走在覆盖着未铺砌的泥土街道的木制平台上"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the",
+    "chinese": "在商店的顾客走在覆盖着未铺砌的泥土街道的木制平台上，以……"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the unpaved",
+    "chinese": "在商店的顾客走在覆盖着未铺砌的泥土街道的木制平台上，以……避免"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the unpaved dirt",
+    "chinese": "在商店的顾客走在覆盖着未铺砌的泥土街道的木制平台上，以……避免留下痕迹"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the unpaved dirt streets",
+    "chinese": "在商店的顾客走在覆盖着未铺砌的泥土街道的木制平台上，以……避免留下灰尘痕迹"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the unpaved dirt streets to",
+    "chinese": "商店的顾客们走在覆盖着未铺砌土路的木制平台上"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the unpaved dirt streets to avoid",
+    "chinese": "商店的顾客们走在覆盖着未铺砌土路的木制平台上，以避免"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the unpaved dirt streets to avoid tracking",
+    "chinese": "商店的顾客们走在覆盖着未铺砌土路的木制平台上，以避免留下痕迹"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the unpaved dirt streets to avoid tracking the",
+    "chinese": "商店的顾客们走在覆盖着未铺砌土路的木制平台上，以避免留下痕迹"
+  },
+  {
+    "english": "Customers of the store walked on wooden platforms covering the unpaved dirt streets to avoid tracking the dust",
+    "chinese": "商店的顾客们走在覆盖着未铺砌土路的木制平台上，以避免吸入灰尘"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and mud",
+    "chinese": "和泥巴"
+  },
+  {
+    "english": "and mud into",
+    "chinese": "把泥巴倒进"
+  },
+  {
+    "english": "and mud into the",
+    "chinese": "把泥巴倒进那栋建筑里"
+  },
+  {
+    "english": "and mud into the building",
+    "chinese": "并将泥巴倒进建筑物里。"
+  },
+  {
+    "english": "With",
+    "chinese": "使用",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "english": "With the",
+    "chinese": "使用……的语气"
+  },
+  {
+    "english": "With the tone",
+    "chinese": "使用成功的语气"
+  },
+  {
+    "english": "With the tone of",
+    "chinese": "以这种语气"
+  },
+  {
+    "english": "With the tone of success",
+    "chinese": "以成功的语气"
+  },
+  {
+    "english": "Yip",
+    "chinese": "叶伊普",
+    "soundmark": "/jˈɪp/"
+  },
+  {
+    "english": "Yip Sang",
+    "chinese": "叶伊普·桑"
+  },
+  {
+    "english": "Yip Sang added",
+    "chinese": "叶伊普·桑补充了"
+  },
+  {
+    "english": "Yip Sang added to",
+    "chinese": "叶伊普·桑添加到……"
+  },
+  {
+    "english": "Yip Sang added to his",
+    "chinese": "叶伊普·桑添加到他的……"
+  },
+  {
+    "english": "Yip Sang added to his building",
+    "chinese": "叶桑在他的建筑上添加了内容。"
+  },
+  {
+    "english": "In",
+    "chinese": "在",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In 1901",
+    "chinese": "1901年"
+  },
+  {
+    "english": "he",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "he widened",
+    "chinese": "他拓宽了"
+  },
+  {
+    "english": "he widened the",
+    "chinese": "他拓宽了那条街道"
+  },
+  {
+    "english": "he widened the street",
+    "chinese": "他将那条街道拓宽到……"
+  },
+  {
+    "english": "he widened the street to",
+    "chinese": "他拓宽街道以容纳……"
+  },
+  {
+    "english": "he widened the street to accommodate",
+    "chinese": "他拓宽街道以容纳三间店铺"
+  },
+  {
+    "english": "he widened the street to accommodate three",
+    "chinese": "他进一步拓宽街道以容纳更多三间店铺"
+  },
+  {
+    "english": "he widened the street to accommodate three more",
+    "chinese": "他拓宽了街道，以容纳更多三个人"
+  },
+  {
+    "english": "he widened the street to accommodate three more shops",
+    "chinese": "他拓宽了街道，以便再容纳三家商店"
+  },
+  {
+    "english": "each",
+    "chinese": "每个",
+    "soundmark": "/ˈiːtʃ/"
+  },
+  {
+    "english": "each with",
+    "chinese": "每个带有"
+  },
+  {
+    "english": "each with a",
+    "chinese": "每个带有第二个"
+  },
+  {
+    "english": "each with a second",
+    "chinese": "每个带有第二个故事"
+  },
+  {
+    "english": "each with a second story",
+    "chinese": "每个带有上述第二个故事"
+  },
+  {
+    "english": "each with a second story above",
+    "chinese": "每栋都有第二层楼。"
+  },
+  {
+    "english": "He",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "He also",
+    "chinese": "他还"
+  },
+  {
+    "english": "He also added",
+    "chinese": "他还增加了"
+  },
+  {
+    "english": "He also added a",
+    "chinese": "他还增加了一个"
+  },
+  {
+    "english": "He also added a third",
+    "chinese": "他还增加了一个第三层"
+  },
+  {
+    "english": "He also added a third floor",
+    "chinese": "他还增加了一个第三层"
+  },
+  {
+    "english": "He also added a third floor to",
+    "chinese": "他还增加了一个第三层到"
+  },
+  {
+    "english": "He also added a third floor to the",
+    "chinese": "他还增加了一个第三层到那个"
+  },
+  {
+    "english": "He also added a third floor to the original",
+    "chinese": "他还增加了一个第三层到原建筑"
+  },
+  {
+    "english": "He also added a third floor to the original building",
+    "chinese": "他还增加了一个第三层到原建筑里"
+  },
+  {
+    "english": "He also added a third floor to the original building in",
+    "chinese": "他还增加了一个第三层到原建筑里"
+  },
+  {
+    "english": "He also added a third floor to the original building in the",
+    "chinese": "他还增加了一个第三层到同一处原建筑"
+  },
+  {
+    "english": "He also added a third floor to the original building in the same",
+    "chinese": "他还增加了一个第三层到同一年的原建筑里"
+  },
+  {
+    "english": "He also added a third floor to the original building in the same year",
+    "chinese": "同年，他还在原建筑上增加了第三层。"
+  },
+  {
+    "english": "In",
+    "chinese": "在 1912年，",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In 1912",
+    "chinese": "在 1912年，为了……"
+  },
+  {
+    "english": "In 1912 to",
+    "chinese": "在 1912年，用来容纳……"
+  },
+  {
+    "english": "In 1912 to house",
+    "chinese": "在 1912年，用来容纳两者……"
+  },
+  {
+    "english": "In 1912 to house both",
+    "chinese": "在 1912年，用来容纳他的……"
+  },
+  {
+    "english": "In 1912 to house both his",
+    "chinese": "在 1912年，用来容纳他不断成长的家庭……"
+  },
+  {
+    "english": "In 1912 to house both his growing",
+    "chinese": "1912年，为了容纳他不断增长的……"
+  },
+  {
+    "english": "In 1912 to house both his growing family",
+    "chinese": "1912年，为了容纳他不断增长的家庭"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and his",
+    "chinese": "和他的"
+  },
+  {
+    "english": "and his business",
+    "chinese": "以及他的生意"
+  },
+  {
+    "english": "he",
+    "chinese": "他",
+    "soundmark": "/hˈiː/"
+  },
+  {
+    "english": "he built",
+    "chinese": "他建造了"
+  },
+  {
+    "english": "he built a",
+    "chinese": "他建造了一座"
+  },
+  {
+    "english": "he built a new",
+    "chinese": "他建造了一座新的六层建筑"
+  },
+  {
+    "english": "he built a new six",
+    "chinese": "他建造了一座新的六层砖楼"
+  },
+  {
+    "english": "he built a new six story",
+    "chinese": "他建造了一座新的六层砖建筑在后面"
+  },
+  {
+    "english": "he built a new six story brick",
+    "chinese": "他建造了一座新的六层砖建筑在旧建筑后面"
+  },
+  {
+    "english": "he built a new six story brick building",
+    "chinese": "他建造了一座新的六层砖建筑在旧建筑之后"
+  },
+  {
+    "english": "he built a new six story brick building behind",
+    "chinese": "他在后面建造了一座六层砖砌建筑"
+  },
+  {
+    "english": "he built a new six story brick building behind the",
+    "chinese": "他在后面建造了一座六层高的砖砌建筑"
+  },
+  {
+    "english": "he built a new six story brick building behind the old",
+    "chinese": "他在旧建筑后面建造了一座新的六层砖楼"
+  },
+  {
+    "english": "he built a new six story brick building behind the old one",
+    "chinese": "他在旧建筑后面建造了一座新的六层砖楼"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and connected",
+    "chinese": "并且连接着"
+  },
+  {
+    "english": "and connected to",
+    "chinese": "并且连接到它"
+  },
+  {
+    "english": "and connected to it",
+    "chinese": "并且通过……连接到它"
+  },
+  {
+    "english": "and connected to it by",
+    "chinese": "并且通过一条狭窄的通道连接到它"
+  },
+  {
+    "english": "and connected to it by a",
+    "chinese": "并且通过一条狭窄的走廊连接到它"
+  },
+  {
+    "english": "and connected to it by a narrow",
+    "chinese": "并且通过位于地面的狭窄走廊连接到它"
+  },
+  {
+    "english": "and connected to it by a narrow corridor",
+    "chinese": "并且通过位于地面层的狭窄走廊连接到它"
+  },
+  {
+    "english": "and connected to it by a narrow corridor at",
+    "chinese": "并通过一条狭窄的通道与之相连"
+  },
+  {
+    "english": "and connected to it by a narrow corridor at ground",
+    "chinese": "并通过一条狭窄的通道与它相连，位于地面之上"
+  },
+  {
+    "english": "and connected to it by a narrow corridor at ground level",
+    "chinese": "并通过地面上的狭窄通道与之相连"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and by",
+    "chinese": "并且通过"
+  },
+  {
+    "english": "and by an",
+    "chinese": "通过一个封闭的"
+  },
+  {
+    "english": "and by an enclosed",
+    "chinese": "通过一个封闭的楼梯"
+  },
+  {
+    "english": "and by an enclosed stairway",
+    "chinese": "通过一个封闭的楼梯延伸部分"
+  },
+  {
+    "english": "and by an enclosed stairway extension",
+    "chinese": "通过一个封闭的楼梯延伸部分在……处"
+  },
+  {
+    "english": "and by an enclosed stairway extension on",
+    "chinese": "通过一个封闭的楼梯延伸部分在第三层"
+  },
+  {
+    "english": "and by an enclosed stairway extension on the",
+    "chinese": "并通过一个封闭的楼梯延伸部分在"
+  },
+  {
+    "english": "and by an enclosed stairway extension on the third",
+    "chinese": "并通过第三处的封闭楼梯延伸部分"
+  },
+  {
+    "english": "and by an enclosed stairway extension on the third floor",
+    "chinese": "并通过三楼的封闭楼梯延伸部分"
+  },
+  {
+    "english": "that",
+    "chinese": "那个",
+    "soundmark": "/ðət/"
+  },
+  {
+    "english": "that stretched",
+    "chinese": "那个延伸了"
+  },
+  {
+    "english": "that stretched above",
+    "chinese": "那个在上方延伸了"
+  },
+  {
+    "english": "that stretched above the",
+    "chinese": "那个在巷子上方延伸了"
+  },
+  {
+    "english": "that stretched above the alley",
+    "chinese": "那个在巷子之间上方延伸了"
+  },
+  {
+    "english": "that stretched above the alley between",
+    "chinese": "那个在两栋建筑之间的巷子之间上方延伸了"
+  },
+  {
+    "english": "that stretched above the alley between the",
+    "chinese": "那个在两栋建筑之间的巷子之间上方延伸了"
+  },
+  {
+    "english": "that stretched above the alley between the two",
+    "chinese": "延伸在两处之间的小巷上方"
+  },
+  {
+    "english": "that stretched above the alley between the two buildings",
+    "chinese": "延伸在两栋建筑之间的小巷上方。"
+  },
+  {
+    "english": "Most",
+    "chinese": "大部分",
+    "soundmark": "/mˈoʊs/"
+  },
+  {
+    "english": "Most of",
+    "chinese": "大多数"
+  },
+  {
+    "english": "Most of the",
+    "chinese": "大部分新建筑"
+  },
+  {
+    "english": "Most of the new",
+    "chinese": "大部分新建筑被使用"
+  },
+  {
+    "english": "Most of the new building",
+    "chinese": "大部分新建筑被用来作为仓库"
+  },
+  {
+    "english": "Most of the new building was",
+    "chinese": "大部分新建筑被用来储存货物"
+  },
+  {
+    "english": "Most of the new building was used",
+    "chinese": "大部分新建筑被用来储存用于进口的货物"
+  },
+  {
+    "english": "Most of the new building was used to",
+    "chinese": "大部分新建筑被用来储存用于进出口的货物"
+  },
+  {
+    "english": "Most of the new building was used to warehouse",
+    "chinese": "大部分新建筑被用来储存用于进出口业务的货物"
+  },
+  {
+    "english": "Most of the new building was used to warehouse goods",
+    "chinese": "大部分新建筑被用作仓库"
+  },
+  {
+    "english": "Most of the new building was used to warehouse goods for",
+    "chinese": "大部分新建筑被用作货物仓库"
+  },
+  {
+    "english": "Most of the new building was used to warehouse goods for the",
+    "chinese": "大部分新建筑被用作货物仓库。"
+  },
+  {
+    "english": "Most of the new building was used to warehouse goods for the import",
+    "chinese": "大部分新建筑被用作进口商品的仓库"
+  },
+  {
+    "english": "Most of the new building was used to warehouse goods for the import export",
+    "chinese": "大部分新建筑被用作进出口货物的仓库"
+  },
+  {
+    "english": "Most of the new building was used to warehouse goods for the import export business",
+    "chinese": "大部分新建筑被用作进出口业务的货物仓库。"
+  },
+  {
+    "english": "Yip",
+    "chinese": "叶平",
+    "soundmark": "/jˈɪp/"
+  },
+  {
+    "english": "Yip Sangs",
+    "chinese": "叶桑的"
+  },
+  {
+    "english": "Yip Sangs involvement",
+    "chinese": "叶桑的参与"
+  },
+  {
+    "english": "Yip Sangs involvement with",
+    "chinese": "叶桑在航运方面的参与"
+  },
+  {
+    "english": "Yip Sangs involvement with shipping",
+    "chinese": "叶桑与航运公司的合作"
+  },
+  {
+    "english": "Yip Sangs involvement with shipping companies",
+    "chinese": "叶桑与航运公司的合作"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and his",
+    "chinese": "并且他的"
+  },
+  {
+    "english": "and his own",
+    "chinese": "并且他自己的"
+  },
+  {
+    "english": "and his own business",
+    "chinese": "他自己的业务"
+  },
+  {
+    "english": "and his own business demonstrated",
+    "chinese": "他自己的业务证明了"
+  },
+  {
+    "english": "and his own business demonstrated his",
+    "chinese": "他自己的业务证明了他"
+  },
+  {
+    "english": "and his own business demonstrated his understanding",
+    "chinese": "他自己的业务证明了他的理解力"
+  },
+  {
+    "english": "and his own business demonstrated his understanding of",
+    "chinese": "他自己的业务证明了他对……的理解"
+  },
+  {
+    "english": "and his own business demonstrated his understanding of the",
+    "chinese": "他自己的业务证明了他对货运的理解"
+  },
+  {
+    "english": "and his own business demonstrated his understanding of the freight",
+    "chinese": "他自己的业务证明了他对货运行业的理解"
+  },
+  {
+    "english": "and his own business demonstrated his understanding of the freight industry",
+    "chinese": "他的业务证明了他对货运行业的了解"
+  },
+  {
+    "english": "and",
+    "chinese": "并且",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and his",
+    "chinese": "以及他的"
+  },
+  {
+    "english": "and his ability",
+    "chinese": "以及他的能力"
+  },
+  {
+    "english": "and his ability to",
+    "chinese": "以及他工作的能力"
+  },
+  {
+    "english": "and his ability to work",
+    "chinese": "以及他流畅工作的能力"
+  },
+  {
+    "english": "and his ability to work fluently",
+    "chinese": "以及他在……中流畅工作的能力"
+  },
+  {
+    "english": "and his ability to work fluently in",
+    "chinese": "以及他在两种语言中流畅工作的能力"
+  },
+  {
+    "english": "and his ability to work fluently in both",
+    "chinese": "以及他在中文和……中流畅工作的能力"
+  },
+  {
+    "english": "and his ability to work fluently in both Chinese",
+    "chinese": "以及他能够流畅使用中文的能力"
+  },
+  {
+    "english": "and",
+    "chinese": "和",
+    "soundmark": "/ˈænd/"
+  },
+  {
+    "english": "and English",
+    "chinese": "和英语"
+  },
+  {
+    "english": "and English languages",
+    "chinese": "以及英语语言。"
+  },
+  {
+    "english": "In",
+    "chinese": "1889年",
+    "soundmark": "/ˈɪn/"
+  },
+  {
+    "english": "In 1889",
+    "chinese": "1889年"
+  },
+  {
+    "english": "the",
+    "chinese": "该 CPR 机构重新雇佣了叶伊",
+    "soundmark": "/ðiː/"
+  },
+  {
+    "english": "the CPR",
+    "chinese": "该 CPR 机构重新雇佣了叶伊桑"
+  },
+  {
+    "english": "the CPR rehired",
+    "chinese": "该 CPR 机构重新雇佣叶伊桑来担任"
+  },
+  {
+    "english": "the CPR rehired Yip",
+    "chinese": "该 CPR 机构重新雇佣叶伊桑来担任他们的职务"
+  },
+  {
+    "english": "the CPR rehired Yip Sang",
+    "chinese": "该 CPR 机构重新雇佣叶伊桑来担任他们的中国籍乘客职务"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to",
+    "chinese": "该 CPR 机构重新雇佣叶伊桑来担任他们的中国乘客代理人职务"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act",
+    "chinese": "该 CPR 机构重新雇佣叶伊桑来担任他们的中国乘客代理人，为……服务"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as",
+    "chinese": "该 CPR 机构重新雇佣叶伊桑来担任他们的中国乘客代理人，为他们的服务"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their",
+    "chinese": "该 CPR 机构重新雇佣叶伊桑来担任他们的中国乘客代理人，为他们的加拿大籍乘客服务"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their Chinese",
+    "chinese": "该 CPR 机构重新雇佣叶伊桑来担任他们的中国乘客代理人，为他们的加拿大轮船服务"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their Chinese Passenger",
+    "chinese": "CPR重新雇用叶桑担任其中国乘客角色"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their Chinese Passenger Agent",
+    "chinese": "CPR重新雇用叶桑担任其中文乘客代理"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their Chinese Passenger Agent for",
+    "chinese": "CPR重新聘请了叶桑担任他们的中国乘客代理。"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their Chinese Passenger Agent for their",
+    "chinese": "CPR重新聘请了叶桑担任他们的中国乘客代理。"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their Chinese Passenger Agent for their Canadian",
+    "chinese": "CPR重新聘请了叶桑担任其加拿大地区的中国乘客代理。"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their Chinese Passenger Agent for their Canadian Steamship",
+    "chinese": "CPR重新雇用叶桑担任其加拿大轮船的中文乘客代理。"
+  },
+  {
+    "english": "the CPR rehired Yip Sang to act as their Chinese Passenger Agent for their Canadian Steamship Line",
+    "chinese": "CPR重新聘请叶桑担任其加拿大轮船公司的中国乘客代理。"
+  },
+  {
+    "english": "a",
+    "chinese": "一个职位",
+    "soundmark": "/ˈeɪ/"
+  },
+  {
+    "english": "a position",
+    "chinese": "一个职位，他担任的"
+  },
+  {
+    "english": "a position he",
+    "chinese": "他担任的职位，直到……为止"
+  },
+  {
+    "english": "a position he held",
+    "chinese": "他担任的职位，直到他去世为止"
+  },
+  {
+    "english": "a position he held until",
+    "chinese": "他担任的职位，直到他于1927年去世为止"
+  },
+  {
+    "english": "a position he held until his",
+    "chinese": "他担任的职位，直到他于1927年在……时去世为止"
+  },
+  {
+    "english": "a position he held until his death",
+    "chinese": "他担任的职位，直到他于1927年在……时去世为止，当时他才82岁"
+  },
+  {
+    "english": "a position he held until his death in",
+    "chinese": "他一直担任该职位直到去世"
+  },
+  {
+    "english": "a position he held until his death in 1927",
+    "chinese": "他一直担任该职位，直到1927年去世"
+  },
+  {
+    "english": "a position he held until his death in 1927 at",
+    "chinese": "他一直担任该职位，直到1927年去世。"
+  },
+  {
+    "english": "a position he held until his death in 1927 at the",
+    "chinese": "他一直担任该职位，直到1927年去世。"
+  },
+  {
+    "english": "a position he held until his death in 1927 at the age",
+    "chinese": "他一直担任这一职位，直到1927年去世，时年……岁"
+  },
+  {
+    "english": "a position he held until his death in 1927 at the age of",
+    "chinese": "他一直担任这一职位，直到1927年去世，时年……岁。"
+  },
+  {
+    "english": "a position he held until his death in 1927 at the age of 82",
+    "chinese": "他一直担任这一职位，直到1927年82岁时去世。"
+  }
 ]
